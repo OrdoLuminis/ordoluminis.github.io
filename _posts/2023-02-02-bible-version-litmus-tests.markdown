@@ -483,7 +483,7 @@ Wallace, D. B. (2019, March 5). *How can you trust the New Testament when the or
 
 <br>
 
-Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
+Together in action, united in spirit, aligned in purpose. Ordo Luminis.
 
 <script>
     var refTagger = {

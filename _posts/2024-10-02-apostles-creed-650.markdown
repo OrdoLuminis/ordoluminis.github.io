@@ -9,7 +9,7 @@ comments: false
 pin: false
 ---
 
-Ordo Dei Invictus recognizes Apostles’ Creed (A.D. 650).
+Ordo Luminis recognizes Apostles’ Creed (A.D. 650).
 
 ---
 

@@ -569,7 +569,7 @@ It's possible that conditional election is correct regarding salvation, but inco
 
 <br>
 
-Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
+Together in action, united in spirit, aligned in purpose. Ordo Luminis.
 
 <script>
     var refTagger = {

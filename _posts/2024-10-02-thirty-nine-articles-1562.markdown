@@ -10,7 +10,7 @@ pin: false
 toc: false
 ---
 
-Ordo Dei Invictus recognizes the Thirty Nine Articles of Religion (1562).
+Ordo Luminis recognizes the Thirty Nine Articles of Religion (1562).
 
 <a href="#" name="contents" style="font-size:2.1em;color:White;">Contents</a>
 

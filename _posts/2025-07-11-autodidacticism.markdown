@@ -201,4 +201,4 @@ learning environment where every individual has the opportunity to thrive.</p>
 
 <br>
 
-Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
+Together in action, united in spirit, aligned in purpose. Ordo Luminis.

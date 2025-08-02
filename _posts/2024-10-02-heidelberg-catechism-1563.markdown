@@ -10,7 +10,7 @@ pin: false
 toc: false
 ---
 
-Ordo Dei Invictus recognizes The Heidelberg Catechism (1563).
+Ordo Luminis recognizes The Heidelberg Catechism (1563).
 
 <a href="#" name="contents" style="font-size:2.1em;color:White;">Contents</a>
 

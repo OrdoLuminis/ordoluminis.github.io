@@ -320,7 +320,7 @@ The Bible is against the heresy of legalism, but supports Christ's fruit-bearing
 
 <br>
 
-Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
+Together in action, united in spirit, aligned in purpose. Ordo Luminis.
 
 <script>
     var refTagger = {

@@ -10,7 +10,7 @@ pin: false
 toc: false
 ---
 
-Ordo Dei Invictus recognizes The New Hampshire Confession (1833).
+Ordo Luminis recognizes The New Hampshire Confession (1833).
 
 <!-- This Confession was drawn up by the Rev. John Newton Brown, D. D., of New Hampshire about 1833, and was adopted by the New Hampshire Convention, and widely accepted by Baptists, especially in the Northern and Western States, as a clear and concise statement of their faith, in harmony with the doctrines of older confessions, but expressed in milder form. The text is taken from the Baptist Church Manual, published by the American Baptist Publication Society, Philadelphia.
 

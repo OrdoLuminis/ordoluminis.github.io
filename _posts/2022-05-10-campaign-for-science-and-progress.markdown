@@ -843,7 +843,7 @@ Daniel and his friends were educated in the language and literature of the Babyl
 
 <br>
 
-Together in action, united in spirit, aligned in purpose. Ordo Dei Invictus.
+Together in action, united in spirit, aligned in purpose. Ordo Luminis.
 
 
 <script>
