@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 01:05:00 -0500
+date: 2025-08-03 01:10:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -54,6 +54,8 @@ In contrast, a [legalist](https://ordoluminis.com/posts/identifying-the-cults-an
 | Legalist                                                                                              | Protestant                                                                                                       | Antinomian                                                                                   |
 | :---------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
 | 🚫Applies Justification to practice verses.<sup>3</sup><br>🚫Denies Justification by faith.<sup>1</sup> | ✅Applies Regeneration to practice verses.<sup>3</sup><br>✅Accepts Justification by **living faith**.<sup>1</sup> | 🚫Denies practice verses<sup>3</sup><br>🚫Accepts Justification by **dead faith**.<sup>1</sup> |
+
+<br>
 
 <small>
 1\. Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28.<br>
