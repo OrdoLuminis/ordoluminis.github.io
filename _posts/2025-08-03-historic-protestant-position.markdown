@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 01:25:00 -0500
+date: 2025-08-03 01:30:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -60,6 +60,8 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 6\. Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).<br>
 7\. John 3:3; 1Jn. 3:6-10 (cf. <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).
 </small>
+
+<br>
 
 <!-- Simply, not “works‑salvation,” but “works‑fruit.” -->
 
