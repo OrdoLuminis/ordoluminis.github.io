@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 01:35:00 -0500
+date: 2025-08-03 01:40:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -51,6 +51,12 @@ The Bible clearly states that we are saved by grace through faith apart from the
 
 In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to &ldquo;practice verses&rdquo;<sup>3</sup> but rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses&rdquo;<sup>3</sup>, adhering instead to a distorted, interpretation of sola fide (i.e. dead faith, disingenuine, fruitless faith)<sup>6</sup> that has no historical basis within <strong>Protestantism</strong>.<br>
 
+| Legalist                                                                                              | Protestant                                                                                                       | Antinomian                                                                                   |
+| :---------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| 🚫Applies Justification to practice verses.<sup>3</sup><br>🚫Denies Justification by faith.<sup>1</sup> | ✅Applies Regeneration to practice verses.<sup>3</sup><br>✅Accepts Justification by **living faith**.<sup>1</sup> | 🚫Denies practice verses<sup>3</sup><br>🚫Accepts Justification by **dead faith**.<sup>1</sup> |
+
+<br>
+
 <small>
 1\. Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28.<br>
 2\. Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q87">Q87</a>).<br>
@@ -60,8 +66,6 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 6\. Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).<br>
 7\. John 3:3; 1Jn. 3:6-10 (cf. <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).
 </small>
-
-<br>
 
 <!-- Simply, not “works‑salvation,” but “works‑fruit.” -->
 
