@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 01:30:00 -0500
+date: 2025-08-03 01:35:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -45,9 +45,9 @@ Ordo Luminis recognizes the historic Protestant position.
 ## On the Relation of Faith and Works
 
 <p style="text-indent:2em;">
-The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if you practice sin you will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>7</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>3</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit justification. The Holy Spirit produces the fruit, not human decision and efforts,<sup>4</sup> as a consequence of your new nature.<sup>5</sup><p>
+The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if you practice sin you will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>7</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>3</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit justification. The Holy Spirit produces the fruit, not human decision and efforts,<sup>4</sup> as a consequence of your new nature.<sup>5</sup></p>
 
-<blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>7</sup>], you cannot see the Kingdom of God.”</blockquote><br>
+<blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>7</sup>], you cannot see the Kingdom of God.”</blockquote>
 
 In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to &ldquo;practice verses&rdquo;<sup>3</sup> but rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses&rdquo;<sup>3</sup>, adhering instead to a distorted, interpretation of sola fide (i.e. dead faith, disingenuine, fruitless faith)<sup>6</sup> that has no historical basis within <strong>Protestantism</strong>.<br>
 
