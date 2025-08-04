@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:30:00 -0500
+date: 2022-05-10 04:35:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -77,25 +77,6 @@ In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist 
 
 # <a name="Contents" href="#">Contents</a>
 
-## Special Groups
-
-- Unifiers of Physics
-    - <a href="#newton">Sir Isaac Newton (1642&ndash;1726/27)</a>
-    - <a href="#maxwell">James Clerk Maxwell (1831&ndash;1879)</a>
-- Inventors of Calculus (Independently)
-  - <a href="#newton">Sir Isaac Newton (1642&ndash;1726/27)</a>
-  - <a href="#leibniz">Gottfried Wilhelm Leibniz (1646&ndash;1716)</a>
-- Highest Recorded IQs
-    - [YoungHoon Kim (276 IQ)](https://x.com/yhbryankimiq/status/1935171190827667641)
-    - Andrew Magdy Kamal (231.734 IQ)
-    - Christopher Hirata (225 IQ)
-    - Christopher Langan (190-210 IQ)
-    - Abdessellam Jelloul (198 IQ)
-    - Mislav Predavec (192 IQ)
-    - Garry Kasparov (190 IQ)
-
-<!-- &ldquo;As the world’s highest IQ record holder, I believe that Jesus Christ is God, the way and the truth and the life.&rdquo; &mdash; YoungHoon Kim (276 IQ) -->
-
 ## Branches of Christianity
 1. <a href="#protestants">Protestants</a>
     - 1.1 <a href="#bacon">Sir Francis Bacon (1561&ndash;1626)</a>
@@ -138,6 +119,25 @@ In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist 
 4. <a href="#miscellaneous">Miscellaneous Quotes</a>
     - 4.1 <a href="#schrodinger">Erwin Schrödinger (1887&ndash;1961)</a>
     - 4.2 <a href="#darwin">Charles Darwin (1809&ndash;1882)</a>
+
+## Special Groups
+
+- Unifiers of Physics
+    - <a href="#newton">Sir Isaac Newton (1642&ndash;1726/27)</a>
+    - <a href="#maxwell">James Clerk Maxwell (1831&ndash;1879)</a>
+- Inventors of Calculus (Independently)
+  - <a href="#newton">Sir Isaac Newton (1642&ndash;1726/27)</a>
+  - <a href="#leibniz">Gottfried Wilhelm Leibniz (1646&ndash;1716)</a>
+- Highest Recorded IQs
+    - [YoungHoon Kim (276 IQ)](https://x.com/yhbryankimiq/status/1935171190827667641)
+    - Andrew Magdy Kamal (231.734 IQ)
+    - Christopher Hirata (225 IQ)
+    - Christopher Langan (190-210 IQ)
+    - Abdessellam Jelloul (198 IQ)
+    - Mislav Predavec (192 IQ)
+    - Garry Kasparov (190 IQ)
+
+<!-- &ldquo;As the world’s highest IQ record holder, I believe that Jesus Christ is God, the way and the truth and the life.&rdquo; &mdash; YoungHoon Kim (276 IQ) -->
 
 <!-- - 1.25 <a href="#meyer">Stephen C. Meyer (1958&ndash;Present)</a> -->
 
