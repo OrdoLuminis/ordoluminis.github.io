@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 02:10:00 -0500
+date: 2025-08-03 02:20:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -49,7 +49,7 @@ The Bible clearly states that we are saved by grace through faith apart from the
 
 <blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>3</sup>], you cannot see the Kingdom of God.”</blockquote>
 
-In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to &ldquo;practice verses&rdquo;<sup>4</sup> but rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses,&rdquo;<sup>4</sup> adhering instead to a distorted interpretation of faith alone (i.e. a faith that is dead, disingenuine, and fruitless)<sup>7</sup> that has no historical basis within <strong>Protestantism</strong>.<br>
+In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to the &ldquo;practice verses,&rdquo;<sup>4</sup> and rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses,&rdquo;<sup>4</sup> adhering instead to a distorted interpretation of faith alone (i.e. a faith that is dead, disingenuine, and fruitless)<sup>7</sup> which has no historical basis within <strong>Protestantism</strong>.<br>
 
 | Legalist                                                                                                  |
 | :-------------------------------------------------------------------------------------------------------- |
