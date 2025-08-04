@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 02:00:00 -0500
+date: 2025-08-03 02:05:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -45,11 +45,11 @@ Ordo Luminis recognizes the historic Protestant position.
 ## On the Relation of Faith and Works
 
 <p style="text-indent:2em;">
-The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if you practice sin you will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit justification. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup></p>
+The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if you practice sin you will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup></p>
 
 <blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>3</sup>], you cannot see the Kingdom of God.”</blockquote>
 
-In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to &ldquo;practice verses&rdquo;<sup>4</sup> but rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses,&rdquo;<sup>4</sup> adhering instead to a distorted, interpretation of sola fide (i.e. dead faith, disingenuine, fruitless faith)<sup>7</sup> that has no historical basis within <strong>Protestantism</strong>.<br>
+In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to &ldquo;practice verses&rdquo;<sup>4</sup> but rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses,&rdquo;<sup>4</sup> adhering instead to a distorted, interpretation of faith alone (i.e. a faith that is dead, disingenuine, and fruitless)<sup>7</sup> that has no historical basis within <strong>Protestantism</strong>.<br>
 
 | Legalist                                                                                                  |
 | :-------------------------------------------------------------------------------------------------------- |
@@ -75,54 +75,53 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 <!-- Simply, not “works‑salvation,” but “works‑fruit.” -->
 
-## Creeds and Confessions of Historic Protestantism
+## Consensus Among Historic Creeds and Confessions of Protestantism
 
-### John Calvin (1509-1564)
+### Reformed Baptist & Presbyterian
 
-The first and most influential theologian in the Reformed tradition.
+#### John Calvin (1509-1564) was the first and most influential theologian in the Reformed tradition.
 
 > Therefore Christ justifies no one whom he does not at the same time
 **sanctify**. ... Thus it is clear how true it is that we are justified **not without works yet not through works**. &mdash; John Calvin, [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1]
 
 > **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** ... &mdash; John Calvin, [Tracts and Letters: Acts of the Council of Trent, Antidote to the Canons of the Council of Trent, Canon 11.]
 
-### Formula of Concord (1576)
-
-The great summary and consensus of Lutheran doctrine.
-
-> III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:116, 118]
-
-### [Thirty-Nine Articles of the Church of England (1571)](https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works)
-
-Doctrinal standard for Anglican and Episcopalian churches.
-
-> XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit**. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494]
-
-### Westminster Confession of Faith (1646)
-
-Doctrinal standard for Presbyterian and Reformed churches.
+#### Westminster Confession of Faith (1646) is the doctrinal standard for Presbyterian and Reformed churches.
 
 > 11.2: Faith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification: **yet is not alone in the person justified**, but is ever accompanied with all the other saving graces, and **is no dead faith**, but worketh by love. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:626]
 
-### [New Hampshire Baptist Confession (1833)](https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration)
+### Lutheranism
 
-Statement for Baptist churches.
+#### Formula of Concord (1576) the great summary and consensus of Lutheran doctrine.
+
+> III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:116, 118]
+
+### Anglican and Episcopalian
+
+#### Thirty-Nine Articles of the Church of England (1571) doctrinal standard for Anglican and Episcopalian churches.
+
+> XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit**. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494]
+
+### Baptist
+
+#### New Hampshire Baptist Confession (1833) Statement for Baptist churches.
 
 > VII. & VIII. Regeneration ... is effected ... by the power of the Holy Spirit ... **its proper evidence appears in the holy fruits of repentance, and faith, and newness of life**. ... We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ, we turn to God with unfeigned contrition, confession, and supplication for mercy ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:744-45]
 
-### John Wesley (1703-1791)
+### Methodist
 
-Founder of Methodism.
+#### John Wesley (1703-1791) the founder of Methodism.
 
 > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley]
 
-### Assemblies of God Statement of Fundamental Truths (1916)
+### Pentecostal
 
-One of the oldest and largest Pentecostal denominations.
+#### Assemblies of God Statement of Fundamental Truths (1916) one of the oldest and largest Pentecostal denominations.
 
 > Salvation is received through repentance toward God and faith toward the Lord Jesus Christ. ... **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12). &mdash; ["Assemblies of God Statement of Fundamental Truths," sec. 5]
 
-## Modern Historic Protestants
+
+<!-- ## Modern Historic Protestants -->
 
 <!-- Saving faith **does not include** obedience, saving faith **results in** obedience. If anyone attempts to teach that *"faith includes obedience,"* or that *"saving faith does not result in obedience"* they have just admitted that they have deviated from academically sound, historically time-tested Christianity.
 
@@ -132,8 +131,6 @@ Genuine saving faith will always be accompanied by good works that come **after 
 
 > **Justification by works (things we have done) is the heresy of legalism.**
 Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; <a href="#packer">Dr. J. I. Packer (Ph.D., Oxford)</a> <sup><a href="#packer">2</a></sup> -->
-
-
 
 <!-- <a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
