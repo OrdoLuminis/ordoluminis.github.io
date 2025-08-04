@@ -1,6 +1,6 @@
 ---
 title: "On Courage, Honor, and the Human Experience"
-date: 2025-08-04 01:16:00 -0500
+date: 2025-08-04 01:20:00 -0500
 categories: [Original Research, Honor]
 tags: [literature, beowulf, gawain, knights, honor]
 author: seven_shepherd
@@ -48,7 +48,7 @@ All stories, epics, and fables mysteriously contain recurring elements. Collecti
 <p class="titles">The Call to Adventure, Refusal, and Acceptance</p>
 
 <p style="text-indent:2em;">
-In both poems, the Call to Adventure leads each hero from the comfort and familiarity of their everyday lives into the darkness and uncertainty of the unknown. Gawain is reluctant but compelled by chivalric code, when Bernlak de Hautdesert, as the Green Knight, issues his beheading challenge, orchestrated by the might of Morgan le Fay. By contrast, Beowulf's call arrives when Hrothgar's hall, Heorot, is terrorized by Grendel. When news reaches Beowulf, he reacts without hesitation and with glorious purpose. While neither hero refuses, Beowulf feels no fear of dishonor. Gawain is compelled to react out of duty to his King, while Beowulf reacts out of duty for his own reputation greeting the adventure with eager confidence. Heroic code prizes strength and fame by the exercise of great and daring courage. Beowulf throws caution to the wind and leaps at the opportunity for glory and renown.</a>
+In both poems, the Call to Adventure leads each hero from the comfort and familiarity of their everyday lives into the darkness and uncertainty of the unknown. Gawain is reluctant but compelled by chivalric code, when Bernlak de Hautdesert, as the Green Knight, issues his beheading challenge, orchestrated by the might of Morgan le Fay. By contrast, Beowulf's call arrives when Hrothgar's hall, Heorot, is terrorized by Grendel. When news reaches Beowulf, he reacts without hesitation and with glorious purpose. While neither hero refuses, Beowulf feels no fear of dishonor. Gawain is compelled to react out of duty to his King, while Beowulf reacts out of duty for his own reputation greeting the adventure with eager confidence. Heroic code prizes strength and fame by the exercise of great and daring courage. Beowulf throws caution to the wind and leaps at the opportunity for glory and renown.</p>
 
 <p class="titles">The Unknown, Supernatural Aid, and Talismans</p>
 
