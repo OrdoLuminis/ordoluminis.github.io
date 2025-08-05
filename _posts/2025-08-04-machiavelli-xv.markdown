@@ -1,6 +1,6 @@
 ---
 title: "Concerning Things for Which Men, and Especially Princes are Praised or Blamed"
-date: 2025-08-04 01:05:00 -0500
+date: 2025-08-04 01:10:00 -0500
 categories: [Original Research, Politics]
 tags: [politics, machiavelli, leadership, rule]
 author: seven_shepherd
@@ -56,41 +56,29 @@ Unlike constitutional monarchies&mdash;such as those in post-19th-century Europe
 
 <div style="text-align:center;">Works Cited</div>
 
-under construction
-
-<!-- <span></span>
+<span></span>
 
 <ul class="references">
 
-“About.” NET Bible, Biblical Studies Press, L.L.C., 2019, netbible.com/about.
+<li>“About.” <em>NET Bible</em>, Biblical Studies Press, L.L.C., 2019, netbible.com/about.</li>
 
-Aurelius, Marcus. Meditations. Translated by Gregory Hays, Modern Library, 2002.
+<li>Aurelius, Marcus. <em>Meditations</em>. Translated by Gregory Hays, Modern Library, 2002.</li>
 
-Cicero, Marcus Tullius. De Officiis. Translated by Walter Miller, Project Gutenberg, 2018.
+<li>Cicero, Marcus Tullius. <em>De Officiis</em>. Translated by Walter Miller, Project Gutenberg, 2018. https://www.gutenberg.org/files/47001/47001-h/47001-h.htm</li>
 
-https://www.gutenberg.org/files/47001/47001-h/47001-h.htm
+<li>Crook, John Anthony. "Marcus Aurelius." <em>Encyclopedia Britannica</em>, 9 Jun. 2025, https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor. Accessed 20 July 2025.</li>
 
-Crook, John Anthony. "Marcus Aurelius." Encyclopedia Britannica, 9 Jun. 2025,
+<li>Machiavelli, Niccolo. <em>The Prince</em>.</li>
 
-https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor. Accessed 20 July 2025.
+<li>Issitt, Micah. "Monarchy." <em>EBSCOhost</em>, 2024. https://www.ebsco.com/research-starters/political-science/monarchy</li>
 
-Machiavelli, Niccolo. The Prince.
+<li><em>NET Bible: Full Notes Edition</em>. Biblical Studies Press, L.L.C., 2019.</li>
 
-Issitt, Micah. "Monarchy." EBSCOhost, 2024.
+<li>Slade, Birdy. "The Richest Romans." <em>Birdy Slade International Publishing</em>, 2024, https://www.birdyslade.com/thirty-richest-roman-emperors.</li>
 
-https://www.ebsco.com/research-starters/political-science/monarchy
+<li><em>The New Oxford Annotated Bible with the Apocrypha</em>. 5th ed. Edited by Michael D. Coogan, New Revised Standard Version, Oxford University Press, 2018.</li>
 
-NET Bible: Full Notes Edition. Biblical Studies Press, L.L.C., 2019.
-
-Slade, Birdy. "The Richest Romans." Birdy Slade International Publishing, 2024,
-
-https://www.birdyslade.com/thirty-richest-roman-emperors.
-
-The New Oxford Annotated Bible with the Apocrypha. 5th ed. Edited by Michael D. Coogan, New Revised
-
-Standard Version, Oxford University Press, 2018.
-
-</ul> -->
+</ul>
 
 <br>
 
