@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 02:20:00 -0500
+date: 2025-08-03 02:25:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -65,9 +65,9 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 <small>
 1\. Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28.<br>
-2\. Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q87">Q87</a>).<br>
+2\. <strong>Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6</strong> (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q87">Q87</a>).<br>
 3\. John 3:3; 1Jn. 3:6-10 (cf. <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).<br>
-4\. 1Jn. 2:3-5; 3:9-10; 5:18; Gal. 5:19-21; 1Cor. 6:9-11; Matt. 3:8,10; 7:21-23; Heb. 10:26-31; 6:4-6; Lk 9:62; Rom. 6:1-2,15; 3:31; Jd 4 NET; Mt 10:38; Lk 9:23; Lk 14:27.<br>
+4\. 1Jn. 2:3-5; <strong>3:9-10;</strong> 5:18; <strong>Gal. 5:19-21; 1Cor. 6:9-11;</strong> Matt. 3:8,10; 7:21-23; Heb. 10:26-31; 6:4-6; Lk 9:62; Rom. 6:1-2,15; 3:31; Jd 4 NET; Mt 10:38; Lk 9:23; Lk 14:27.<br>
 5\. Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7.<br>
 6\. 2Cor. 5:17; Gal. 6:15.<br>
 7\. Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).
