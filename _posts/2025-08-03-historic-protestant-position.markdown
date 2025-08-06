@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 02:25:00 -0500
+date: 2025-08-03 02:30:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -67,7 +67,7 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 1\. Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28.<br>
 2\. <strong>Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6</strong> (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q87">Q87</a>).<br>
 3\. John 3:3; 1Jn. 3:6-10 (cf. <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).<br>
-4\. 1Jn. 2:3-5; <strong>3:9-10;</strong> 5:18; <strong>Gal. 5:19-21; 1Cor. 6:9-11;</strong> Matt. 3:8,10; 7:21-23; Heb. 10:26-31; 6:4-6; Lk 9:62; Rom. 6:1-2,15; 3:31; Jd 4 NET; Mt 10:38; Lk 9:23; Lk 14:27.<br>
+4\. <strong>1Jn. 2:3-5; 3:9-10;</strong> 5:18; <strong>Gal. 5:19-21; 1Cor. 6:9-11;</strong> Matt. 3:8,10; 7:21-23; Heb. 10:26-31; 6:4-6; Lk 9:62; Rom. 6:1-2,15; 3:31; Jd 4 NET; Mt 10:38; Lk 9:23; Lk 14:27.<br>
 5\. Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7.<br>
 6\. 2Cor. 5:17; Gal. 6:15.<br>
 7\. Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).
@@ -81,44 +81,45 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 #### John Calvin (1509-1564) was the first and most influential theologian in the Reformed tradition.
 
-> Therefore Christ justifies no one whom he does not at the same time
-**sanctify**. ... Thus it is clear how true it is that we are justified **not without works yet not through works**. &mdash; John Calvin, [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1]
+> Therefore Christ justifies no one whom he does not at the same time **sanctify**. ... Thus it is clear how true it is that **we are justified not without works yet not through works** (Calvin, 1960, 3.16.1).
 
-> **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** ... &mdash; John Calvin, [Tracts and Letters: Acts of the Council of Trent, Antidote to the Canons of the Council of Trent, Canon 11.]
+> **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** (Calvin, 2014, Canon 11).
 
 #### Westminster Confession of Faith (1646) is the doctrinal standard for Presbyterian and Reformed churches.
 
-> 11.2: Faith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification: **yet is not alone in the person justified**, but is ever accompanied with all the other saving graces, and **is no dead faith**, but worketh by love. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:626]
+> 11.2: Faith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification: **yet is not alone in the person justified**, but is ever accompanied with all the other saving graces, and **is no dead faith**, but worketh by love (Schaff, 2022, 3.2.16 "Confessio Fidei Westmonasteriensis").
 
 ### Lutheranism
 
 #### Formula of Concord (1576) the great summary and consensus of Lutheran doctrine.
 
-> III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:116, 118]
+> III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** (Schaff, 2022, 3.1 "FORMULA CONCORDIÆ").
 
 ### Anglican and Episcopalian
 
 #### Thirty-Nine Articles of the Church of England (1571) doctrinal standard for Anglican and Episcopalian churches.
 
-> XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit**. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494]
+> XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit** (Schaff, 2022, 3.2.10 "ARTICULI XXXIX. ECCLESIÆ ANGLICANÆ").
 
 ### Baptist
 
 #### New Hampshire Baptist Confession (1833) Statement for Baptist churches.
 
-> VII. & VIII. Regeneration ... is effected ... by the power of the Holy Spirit ... **its proper evidence appears in the holy fruits of repentance, and faith, and newness of life**. ... We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ, we turn to God with unfeigned contrition, confession, and supplication for mercy ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:744-45]
+> VII. & VIII. Regeneration ... is effected ... by the power of the Holy Spirit ... **its proper evidence appears in the holy fruits of repentance, and faith, and newness of life**. ... We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ, we turn to God with unfeigned contrition, confession, and supplication for mercy (Schaff, 2022, 3.3.2.2 "THE NEW HAMPSHIRE BAPTIST CONFESSION").
 
 ### Methodist
 
 #### John Wesley (1703-1791) the founder of Methodism.
 
-> We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley]
+> We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins** (Wesley, 1872, see Discourses I–II; Sermons 35–36).
 
 ### Pentecostal
 
 #### Assemblies of God Statement of Fundamental Truths (1916) one of the oldest and largest Pentecostal denominations.
 
-> Salvation is received through repentance toward God and faith toward the Lord Jesus Christ. ... **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12). &mdash; ["Assemblies of God Statement of Fundamental Truths," sec. 5]
+> **Salvation is received through repentance toward God and faith toward the Lord Jesus Christ**. By the washing of regeneration and renewing of the Holy Spirit, being justified by grace through faith, man becomes an heir of God, according to the hope of eternal life (Assemblies of God USA, n.d., sec. 5 "Conditions to Salvation" section).
+
+> **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12) (Assemblies of God USA, n.d., sec. 5 "The Evidences of Salvation" section).
 
 
 <!-- ## Modern Historic Protestants -->
@@ -167,32 +168,18 @@ This Order holds to a monergistic theology, which rejects works based forms of s
 
 <div style="text-align:center;font-weight: bold;">References</div>
 
-under construction
-
 <span></span>
 
 <ul class="references">
-  <li>Assemblies of God USA. (n.d.). <em>Statement of Fundamental Truths: Section 5 — Salvation</em> [Doctrinal statement]. Assemblies of God USA. Retrieved August 3, 2025, from https://ag.org/Beliefs/Statement-of-Fundamental-Truths</li>
-  <li>Calvin, J. (1960/1559). <em>Institutes of the Christian Religion</em> (F. L. Battles, Trans.; J. T. McNeill, Ed.; Vols. XX–XXI, Library of Christian Classics). Westminster Press.</li>
-  <li>Schaff, P. (Ed.). (1931). <em>The Creeds of Christendom: With a history and critical notes</em> (6th ed.; Vol. 3: Evangelical Protestant Churches—includes Formula of Concord [1576], Thirty‑Nine Articles [1571], Westminster Confession [1646], New Hampshire Confession [1833]). Harper & Brothers.</li>
-  <li>Wesley, J. (1872). <em>The Law Established Through Faith</em> (Discourses I–II; Sermons 35–36) in <em>Sermons on Several Occasions</em>. Cassell & Co. (Reprinted in <em>The Sermons of John Wesley</em>.)</li>
+  <li>Assemblies of God USA. (n.d.). <em>Statement of Fundamental Truths</em>. https://ag.org/Beliefs/Statement-of-Fundamental-Truths.</li>
+  <li>Calvin, J. (1960). <em>Institutes of the Christian religion</em> (F. L. Battles, Trans.). The Westminster Press.</li>
+  <li>Calvin, J. (2014). <em>John Calvin tracts and letters: acts of the council of trent, with antidote to the canons of the council of trent, canon 11.</em>. https://godrules.net/library/calvin/142calvin_c4.htm.</li>
+  <li>Schaff, P. (2020). <em>The Creeds of Christendom</em> (6th ed.). DigiCat.</li>
+  <li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
+
 </ul>
 
-
-<!-- Assemblies of God USA. (n.d.). Statement of Fundamental Truths: Section 5 — Salvation [Doctrinal statement]. Assemblies of God USA. Retrieved August 3, 2025, from https://ag.org/Beliefs/Statement-of-Fundamental-Truths
-Wikipedia
-
-Calvin, J. (1960). Institutes of the Christian Religion (J. T. McNeill, Ed.; F. L. Battles, Trans.; 2 vols., Library of Christian Classics). Westminster John Knox Press. (Original work published 1559)
-Wikipedia
-
-Schaff, P. (Ed.). (1931). The Creeds of Christendom: With a history and critical notes (6th ed.; D. S. Schaff, Rev.; 3 vols.). Harper & Brothers. (Original publication 1877–1888)
-verbum.com
-Christian Classics Ethereal Library
-
-(Contains the Formula of Concord [1576], the Thirty‑Nine Articles [1571], the Westminster Confession [1646], and the New Hampshire Confession [1833], as included in Vol. 3 [Evangelical Protestant Churches] of the standard English edition.)
-
-Wesley, J. (1872). The Law Established Through Faith (Discourses I–II; Sermons 35–36) in Sermons on Several Occasions (T. Jackson, Ed.). Cassell & Co. (Reprinted in The Sermons of John Wesley, London, 1872) -->
-
+<!-- <li>Wesley, J. (1872). The Law Established Through Faith (Discourses I–II; Sermons 35–36) in Sermons on Several Occasions (T. Jackson, Ed.). Cassell & Co. (Reprinted in The Sermons of John Wesley, London, 1872)</li> -->
 
 <br>
 
