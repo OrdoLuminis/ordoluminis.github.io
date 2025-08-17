@@ -1,6 +1,6 @@
 ---
 title: "The Historic Protestant Position"
-date: 2025-08-03 02:35:00 -0500
+date: 2025-08-03 02:40:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -47,7 +47,7 @@ Ordo Luminis recognizes the historic Protestant position.
 <p style="text-indent:2em;">
 The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
 
-<blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>3</sup>], you cannot see the Kingdom of God.”</blockquote>
+<blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>3</sup>], you cannot see the Kingdom of God” (New Living Translation, 2015, John 3:3).</blockquote>
 
 In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to the &ldquo;practice verses,&rdquo;<sup>4</sup> and rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses,&rdquo;<sup>4</sup> adhering instead to a distorted interpretation of faith alone (i.e. a faith that is dead, disingenuine, and fruitless)<sup>7</sup> which has no historical basis within <strong>Protestantism</strong>.<br>
 
@@ -174,6 +174,7 @@ This Order holds to a monergistic theology, which rejects works based forms of s
   <li>Assemblies of God USA. (n.d.). <em>Statement of Fundamental Truths</em>. https://ag.org/Beliefs/Statement-of-Fundamental-Truths.</li>
   <li>Calvin, J. (1960). <em>Institutes of the Christian religion</em> (F. L. Battles, Trans.). The Westminster Press.</li>
   <li>Calvin, J. (2014). <em>John Calvin tracts and letters: acts of the council of trent, with antidote to the canons of the council of trent, canon 11</em>. https://godrules.net/library/calvin/142calvin_c4.htm.</li>
+  <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
   <li>Schaff, P. (2020). <em>The Creeds of Christendom</em> (6th ed.). DigiCat.</li>
   <li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
 
