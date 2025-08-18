@@ -1,6 +1,6 @@
 ---
-title: "The Historic Protestant Position"
-date: 2025-08-03 02:40:00 -0500
+title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
+date: 2025-08-03 02:45:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -42,7 +42,7 @@ a.alterlink {
 
 Ordo Luminis recognizes the historic Protestant position.
 
-## On the Relation of Faith and Works
+# I. On the Relation of Faith and Works
 
 <p style="text-indent:2em;">
 The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
@@ -73,56 +73,85 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 7\. Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).
 </small>
 
+## 1.1 Consensus Among Historic Creeds and Confessions of Protestantism
 
+### 1.1.1 Reformed Baptist & Presbyterian
 
-## Consensus Among Historic Creeds and Confessions of Protestantism
-
-### Reformed Baptist & Presbyterian
-
-#### John Calvin (1509-1564) was the first and most influential theologian in the Reformed tradition.
+#### 1.1.1.1 John Calvin (1509-1564) was the first and most influential theologian in the Reformed tradition.
 
 > Therefore Christ justifies no one whom he does not at the same time **sanctify**. ... Thus it is clear how true it is that **we are justified not without works yet not through works** (Calvin, 1960, 3.16.1).
 
 > **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** (Calvin, 2014, Canon 11).
 
-#### Westminster Confession of Faith (1646) is the doctrinal standard for Presbyterian and Reformed churches.
+#### 1.1.1.2 Westminster Confession of Faith (1646) is the doctrinal standard for Presbyterian and Reformed churches.
 
 > 11.2: Faith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification: **yet is not alone in the person justified**, but is ever accompanied with all the other saving graces, and **is no dead faith**, but worketh by love (Schaff, 2022, 3.2.16 "Confessio Fidei Westmonasteriensis").
 
-### Lutheranism
+### 1.1.2 Lutheranism
 
-#### Formula of Concord (1576) the great summary and consensus of Lutheran doctrine.
+#### 1.1.2.1 Formula of Concord (1576) the great summary and consensus of Lutheran doctrine.
 
 > III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** (Schaff, 2022, 3.1 "FORMULA CONCORDIÆ").
 
-### Anglican and Episcopalian
+### 1.1.3 Anglican and Episcopalian
 
-#### Thirty-Nine Articles of the Church of England (1571) doctrinal standard for Anglican and Episcopalian churches.
+#### 1.1.3.1 Thirty-Nine Articles of the Church of England (1571) doctrinal standard for Anglican and Episcopalian churches.
 
 > XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit** (Schaff, 2022, 3.2.10 "ARTICULI XXXIX. ECCLESIÆ ANGLICANÆ").
 
-### Baptist
+### 1.1.4 Baptist
 
-#### New Hampshire Baptist Confession (1833) Statement for Baptist churches.
+#### 1.1.4.1 New Hampshire Baptist Confession (1833) Statement for Baptist churches.
 
 > VII. & VIII. Regeneration ... is effected ... by the power of the Holy Spirit ... **its proper evidence appears in the holy fruits of repentance, and faith, and newness of life**. ... We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ, we turn to God with unfeigned contrition, confession, and supplication for mercy (Schaff, 2022, 3.3.2.2 "THE NEW HAMPSHIRE BAPTIST CONFESSION").
 
-### Methodist
+### 1.1.5 Methodist
 
-#### John Wesley (1703-1791) the founder of Methodism.
+#### 1.1.5.1 John Wesley (1703-1791) the founder of Methodism.
 
 > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins** (Wesley, 1872, see Discourses I–II; Sermons 35–36).
 
-### Pentecostal
+### 1.1.6 Pentecostal
 
-#### Assemblies of God Statement of Fundamental Truths (1916) one of the oldest and largest Pentecostal denominations.
+#### 1.1.6.1 Assemblies of God Statement of Fundamental Truths (1916) one of the oldest and largest Pentecostal denominations.
 
 > **Salvation is received through repentance toward God and faith toward the Lord Jesus Christ**. By the washing of regeneration and renewing of the Holy Spirit, being justified by grace through faith, man becomes an heir of God, according to the hope of eternal life (Assemblies of God USA, n.d., sec. 5 "Conditions to Salvation" section).
 
 > **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12) (Assemblies of God USA, n.d., sec. 5 "The Evidences of Salvation" section).
 
+<br>
+<hr>
+<br>
 
-<!-- ## Modern Historic Protestants -->
+## 1.2 Consensus Among Academics
+
+### 1.2.1 Study Bible Scholarship
+
+#### 1.2.1.1 ESV Study Bible Scholars
+
+Turn to the ESV Study Bible (2008), page 2433. The notes for 1 John 3:6-10 ESV read as follows:
+
+> **3:6–7** No one who abides … keeps on sinning. True followers of Christ do not recklessly and habitually violate what their anointing (2:20, 27) has planted within them (see note on 3:9–10). **Those who do habitually sin have neither seen him nor known him. They are not genuine Christians**. On “abides,” see also notes on John 8:31; 15:4.
+>
+> **3:8** The reason the Son of God appeared restates v. 5 but here specifies the connection of sin to the devil. Knowing Christ means becoming involved in an all-out war against the works of the devil, that is, the practice of sinning.
+>
+> **3:9-10** born of God. See John 3:3–8. God’s seed. Some take this to be the Word of God that brings about the new birth (cf. James 1:18, 22; 1 Pet. 1:23, 25). Others see it as a way of speaking of the Holy Spirit in his **regenerating and transforming presence within the believer**. Since the Holy Spirit works through the Word in regeneration, both of these ideas are likely intended here. In other words, because the Word is present in the believer’s heart through the work of the Spirit, **the believer cannot keep on sinning. Thus the hearts of genuine Christians** (those who are truly children of God) have been **so transformed that they cannot live in a pattern of continual sin**—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16). does not love his brother. John returns to the ethical dimension, the true barometer of what people really believe, whatever they may say (1Jn. 3:6-10 ESV).<sup>1</sup>
+
+<small>
+1\. The ESV Study Bible has over 200+ biblical scholars (<a class="alterlink" href="https://www.esv.org/translation/">100+</a> ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, Many distinguished scholars from Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28.
+</small>
+
+<!-- #### 1.2.1.2
+
+#### 1.2.1.3
+
+#### 1.2.1.4
+
+### 1.2.2 Scientist Theologians
+
+### 1.2.3 Reformed Baptist & Presbyterian Theologians -->
+
+
 
 <!-- Saving faith **does not include** obedience, saving faith **results in** obedience. If anyone attempts to teach that *"faith includes obedience,"* or that *"saving faith does not result in obedience"* they have just admitted that they have deviated from academically sound, historically time-tested Christianity.
 
@@ -172,6 +201,7 @@ This Order holds to a monergistic theology, which rejects works based forms of s
 
 <ul class="references">
   <li>Assemblies of God USA. (n.d.). <em>Statement of Fundamental Truths</em>. https://ag.org/Beliefs/Statement-of-Fundamental-Truths.</li>
+  <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
   <li>Calvin, J. (1960). <em>Institutes of the Christian religion</em> (F. L. Battles, Trans.). The Westminster Press.</li>
   <li>Calvin, J. (2014). <em>John Calvin tracts and letters: acts of the council of trent, with antidote to the canons of the council of trent, canon 11</em>. https://godrules.net/library/calvin/142calvin_c4.htm.</li>
   <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
