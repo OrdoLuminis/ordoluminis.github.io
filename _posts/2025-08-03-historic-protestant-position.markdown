@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 02:50:00 -0500
+date: 2025-08-03 02:55:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -128,7 +128,7 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 #### 1.2.1.1 ESV Study Bible Scholars
 
-Turn to the ESV Study Bible (2008), page 2433. The notes for 1 John 3:6-10 ESV read as follows:
+Turn to page 2433 in the ESV Study Bible (2008). The notes for 1 John 3:6-10 ESV read as follows:
 
 > **3:6–7** No one who abides … keeps on sinning. True followers of Christ do not recklessly and habitually violate what their anointing (2:20, 27) has planted within them (see note on 3:9–10). **Those who do habitually sin have neither seen him nor known him. They are not genuine Christians**. On “abides,” see also notes on John 8:31; 15:4.
 >
@@ -152,11 +152,57 @@ Turn to the ESV Study Bible (2008), page 2433. The notes for 1 John 3:6-10 ESV r
 ‡ NIV Biblical Theology Study Bible, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.
 </small>
 
-<!-- #### 1.2.1.2
+#### 1.2.1.3 NET Bible: Full Notes Edition
 
-#### 1.2.1.3
+See <a href="https://www.biblegateway.com/passage/?search=1Jn%203%3A6-10&version=NET">Net Notes</a>.<sup>§</sup>
 
-#### 1.2.1.4
+<small>
+§ NET Bible: Full Notes Edition is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4.
+</small>
+
+#### 1.2.1.4 NLT Filament Study Bible Scholars
+
+Under construction.<sup>‖</sup>
+
+<small>
+‖ NLT Filament Study Bible has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf).
+</small>
+
+#### 1.2.1.5 The New Oxford Annotated Bible Scholars
+
+> 3.1–10: God’s children are holy. 1–3: As God’s children, believers become like Christ (Jn 1.12–13; 13.15–16; 17.16–19). **4–6:** Jesus’s coming has taken away the sin of those who remain faithful (1.5–2.2). **7–8:** **Those who are deceived about sin (2.1) become children of the devil (cf. Jn 8.44).** **9–10:** God’s seed: the Holy Spirit (2.26–27) and mutual love (Jn 13.35) distinguish God’s children (The New Oxford Annotated Bible with the Apocrypha, 2018, 1Jn. 3:4-10).<sup>¶</sup>
+
+<small>
+¶ New Oxford Annotated Bible, Fifth (NOAB), the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.
+</small>
+
+#### 1.2.1.6 The Jewish Annotated New Testament Scholars
+
+> **6–10:** No one who abides in him sins, the author sets a very high standard of behavior (see vv. 8–10). The main forms of sin, however, seem to be the failure to love their brothers and sisters and denial of God and the Son (2.22). **8:** Child of the devil, perhaps a reference to those who withdrew (2.19); there is no indication here of the identification of Jews as children of the devil, as in Jn 8.44. **9:** Seed, perhaps the Holy Spirit; one’s “seed” is one’s offspring, here the deeds of love and faith in God (The Jewish Annotated New Testament, 2011, 1Jn. 3:6-9).<sup>Δ</sup>
+
+<small>
+Δ
+</small>
+
+#### 1.2.1.7 NKJV Thomas Nelson Study Bible Scholars
+
+Turn to page 2048 in the NKJV Thomas Nelson Study Bible (2014). The notes for 1 John 3:5-10 NKJV read as follows:
+
+> 3:5, 6 if christ is sinless and the purpose of his coming was to remove sin, then **whoever abides in Him does not sin.** habitually sinful conduct indicates an absence of fellowship with christ. thus if we claim to be a christian but sin is our way of life, **our status as children of God can legitimately be questioned**.
+>
+> 3:7 **let no one deceive you:** evidently the antichrists who were denying the doctrine of christ (2:22) were also claiming to know God, yet were living in unrighteousness (1:6). **true believers practice righteousness because the one in whom they dwell is righteous.** God’s righteousness is revealed in his children through their conduct. righteous conduct does not produce righteous character, but reveals its presence in us.
+>
+> 3:8 Satan’s sinful nature is shown through the lives of those who belong to him. Jesus’ purpose in coming was to destroy the devil’s works. a person who sins, even a believer, is of the devil in the sense that he is participating in the devil’s activity (2:19). thus John is indicating that it is possible for believers to do that which is of the devil (see mark 8:31–33; James 3:6).
+>
+> 3:9 the seed that remains is probably the divine nature in which believers can participate (see 2 pet. 1:4). But the seed has been variously interpreted as Jesus, the holy Spirit, Scripture, or the gospel message. in other words, this verse is saying that habitual sin is not con- sistent with the christian walk.
+>
+> 3:10 christians manifest their nature by practicing righteousness (2:7). Children of the devil display their basic nature by sinning. Believers who sin are not expressing their nature as children of God; instead, they are following the devil’s pattern (1Jn. 3:5-10 NKJV).<sup>◊</sup>
+
+<small>
+◊ NKJV Thomas Nelson Study Bible has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.
+</small>
+
+<!--
 
 ### 1.2.2 Scientist Theologians
 
@@ -215,11 +261,14 @@ This Order holds to a monergistic theology, which rejects works based forms of s
   <li>Calvin, J. (1960). <em>Institutes of the Christian religion</em> (F. L. Battles, Trans.). The Westminster Press.</li>
   <li>Calvin, J. (2014). <em>John Calvin tracts and letters: acts of the council of trent, with antidote to the canons of the council of trent, canon 11</em>. https://godrules.net/library/calvin/142calvin_c4.htm.</li>
   <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+  <li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
   <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
-  <li><em>NIV Biblical Theology Study Bible</em>. (2018). Zondervan. </li>
+  <li><em>NIV Biblical Theology Study Bible</em>. (2018). Zondervan.</li>
+  <li><em>NKJV Thomas Nelson Study Bible</em>. (2014). Thomas Nelson.</li>
   <li>Schaff, P. (2020). <em>The Creeds of Christendom</em> (6th ed.). DigiCat.</li>
+  <li><em>The Jewish Annotated New Testament</em>. (2011). Oxford University Press.</li>
+  <li><em>The New Oxford Annotated Bible with the Apocrypha</em> (5th ed.). (2018). Oxford University Press.</li>
   <li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
-
 </ul>
 
 <!-- <li>Wesley, J. (1872). The Law Established Through Faith (Discourses I–II; Sermons 35–36) in Sermons on Several Occasions (T. Jackson, Ed.). Cassell & Co. (Reprinted in The Sermons of John Wesley, London, 1872)</li> -->
