@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 02:45:00 -0500
+date: 2025-08-03 02:50:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -121,7 +121,6 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 <br>
 <hr>
-<br>
 
 ## 1.2 Consensus Among Academics
 
@@ -135,10 +134,22 @@ Turn to the ESV Study Bible (2008), page 2433. The notes for 1 John 3:6-10 ESV r
 >
 > **3:8** The reason the Son of God appeared restates v. 5 but here specifies the connection of sin to the devil. Knowing Christ means becoming involved in an all-out war against the works of the devil, that is, the practice of sinning.
 >
-> **3:9-10** born of God. See John 3:3–8. God’s seed. Some take this to be the Word of God that brings about the new birth (cf. James 1:18, 22; 1 Pet. 1:23, 25). Others see it as a way of speaking of the Holy Spirit in his **regenerating and transforming presence within the believer**. Since the Holy Spirit works through the Word in regeneration, both of these ideas are likely intended here. In other words, because the Word is present in the believer’s heart through the work of the Spirit, **the believer cannot keep on sinning. Thus the hearts of genuine Christians** (those who are truly children of God) have been **so transformed that they cannot live in a pattern of continual sin**—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16). does not love his brother. John returns to the ethical dimension, the true barometer of what people really believe, whatever they may say (1Jn. 3:6-10 ESV).<sup>1</sup>
+> **3:9-10** born of God. See John 3:3–8. God’s seed. Some take this to be the Word of God that brings about the new birth (cf. James 1:18, 22; 1 Pet. 1:23, 25). Others see it as a way of speaking of the Holy Spirit in his **regenerating and transforming presence within the believer**. Since the Holy Spirit works through the Word in regeneration, both of these ideas are likely intended here. In other words, because the Word is present in the believer’s heart through the work of the Spirit, **the believer cannot keep on sinning. Thus the hearts of genuine Christians** (those who are truly children of God) have been **so transformed that they cannot live in a pattern of continual sin**—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16). does not love his brother. John returns to the ethical dimension, the true barometer of what people really believe, whatever they may say (1Jn. 3:6-10 ESV).<sup>†</sup>
 
 <small>
-1\. The ESV Study Bible has over 200+ biblical scholars (<a class="alterlink" href="https://www.esv.org/translation/">100+</a> ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, Many distinguished scholars from Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28.
+† The ESV Study Bible has over 200+ biblical scholars (<a class="alterlink" href="https://www.esv.org/translation/">100+</a> ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, Many distinguished scholars from Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28.
+</small>
+
+#### 1.2.1.2 NIV Biblical Theology Study Bible Scholars
+
+> 3:6 **No one who lives in him keeps on sinning.** The claim that one can remain in Christ while continuing to indulge in sinful behavior is **ridiculous, if not blasphemous**, for “in him is no sin” (v. 5). See note on v. 9.
+>
+> 3:8 **the devil has been sinning from the beginning.** This is an allusion to Genesis 3, where the devil tempts the first couple to disobey God (cf. John 8:44). destroy the devil’s work. The devil seeks to turn people aside from doing God’s will, causing them to sin, so that he may accuse them before God and demand judgment upon them. By his death Jesus atoned for human sin, thus removing the basis of the devil’s accusation and so destroying his work.
+>
+> 3:9 **God’s seed.** A daring metaphor employing the word “seed” (Greek sperma) to depict the Spirit’s work in believers. Unlike the children of the devil (in this case the secessionists), the children of God do not go on sinning because the Spirit dwells within them. There is an apparent contradiction in 1 John concerning sin in the believer’s life: those who claim not to have sinned are liars (1:10); those born of God do not and cannot sin (3:6, 9). A possible resolution is that, in context, 3:4 defines the latter sin as “lawlessness” (Greek anomia). In the NT this word refers not to breaking the law but to rebelling against God (like the devil’s rebellion). If this is the case, John is saying that those who claim to know God and yet sin in this way certainly do not know God and are, in fact, in league with the devil. This is the sin that those born of God do not and cannot commit. It is possible for believers to sin in other ways, as 1:8—2:1 indicates (NIV Biblical Theology Study Bible, 2018, 1Jn. 3:6-10 NIV).<sup>‡</sup>
+
+<small>
+‡ NIV Biblical Theology Study Bible, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.
 </small>
 
 <!-- #### 1.2.1.2
@@ -201,10 +212,11 @@ This Order holds to a monergistic theology, which rejects works based forms of s
 
 <ul class="references">
   <li>Assemblies of God USA. (n.d.). <em>Statement of Fundamental Truths</em>. https://ag.org/Beliefs/Statement-of-Fundamental-Truths.</li>
-  <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
   <li>Calvin, J. (1960). <em>Institutes of the Christian religion</em> (F. L. Battles, Trans.). The Westminster Press.</li>
   <li>Calvin, J. (2014). <em>John Calvin tracts and letters: acts of the council of trent, with antidote to the canons of the council of trent, canon 11</em>. https://godrules.net/library/calvin/142calvin_c4.htm.</li>
+  <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
   <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
+  <li><em>NIV Biblical Theology Study Bible</em>. (2018). Zondervan. </li>
   <li>Schaff, P. (2020). <em>The Creeds of Christendom</em> (6th ed.). DigiCat.</li>
   <li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
 
