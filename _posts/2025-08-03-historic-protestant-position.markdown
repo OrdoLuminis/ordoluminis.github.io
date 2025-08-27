@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 03:00:00 -0500
+date: 2025-08-03 03:05:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -55,13 +55,13 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 | :-------------------------------------------------------------------------------------------------------- |
 | 🚫Applies Justification to practice verses.<sup>4</sup><br>🚫Denies Justification by any faith.<sup>1</sup> |
 
-| Protestant                                                                                                                              |
-| :-------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅Applies Regeneration to practice verses.<sup>4</sup><br>✅Accepts Justification by faith and assurance by **living faith**.<sup>1</sup> |
+| Protestant                                                                                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✅Applies Regeneration to practice verses.<sup>4</sup><br>✅Accepts Justification by faith (trust) and assurance by **living faith**.<sup>1</sup> |
 
-| Antinomian                                                                                    |
-| :-------------------------------------------------------------------------------------------- |
-| 🚫Denies practice verses.<sup>4</sup><br>🚫Accepts Justification by **dead faith**.<sup>1</sup> |
+| Antinomian                                                                                             |
+| :----------------------------------------------------------------------------------------------------- |
+| 🚫Denies practice verses.<sup>4</sup><br>🚫Accepts Justification by **dead faith** (assent).<sup>1</sup> |
 
 <small>
 1\. Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28.<br>
@@ -119,6 +119,16 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 > **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12) (Assemblies of God USA, n.d., sec. 5 "The Evidences of Salvation" section).
 
+### 1.1.7 Contemporary Pentecostal/Baptist Hybrids
+
+#### 1.1.7.1 Original Calvalry Chapel Distincives
+
+Chuck Smith (2000), from his C2000 commentary on 1 John 3:6–8, writes:
+
+> 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
+>
+> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8)
+
 <br>
 <hr>
 
@@ -162,7 +172,7 @@ Turn to pages 2333-34 in the NET Bible: Full Notes Edition (2019). The <a href="
 >
 > h in book, j in link. 1 John 3:9 **tn** The problem of the present tense of ποιεῖ (poiei) here is exactly that of the present tense of ἁμαρτάνει (hamartanei) in 3:6. Here in 3:9 the distinction is sharply drawn between “the one who practices sin” in 3:8, who is of the devil, and “the one who is fathered by God” in 3:9, who “does not practice sin.” See S. Kubo (“I John 3:9: Absolute or Habitual?” AUSS 7 [1969]: 47-56) for a fuller discussion of the author’s argument as based on a sharp antithesis between the recipients (true Christians) and the opponents (heretics). **sn** Does not practice sin. Again, as in 3:6, **the author is making a clear distinction between the opponents, who as moral indifferentists downplay the significance of sin in the life of the Christian, and the recipients, who as true Christians recognize the significance of sin because Jesus came to take it away (3:5) and to destroy it as a work of the devil (3:8)**. This explanation still has to deal with the apparent contradiction between the author’s statements in 2:1-2 and those here in 3:9, but this is best explained in terms of the author’s tendency to present issues in “either/or” terms to bring out the drastic contrast between his readers, whom he regards as true believers, and the opponents, whom he regards as false. In 2:1-2 the author can acknowledge the possibility that a true Christian might on occasion sin, because in this context he wishes to reassure his readers that the statements he has made about the opponents in the preceding context do not apply to them. But in 3:4-10, his concern is to bring out the absolute difference between the opponents and his readers, so he speaks in theoretical terms which do not discuss the possible occasional exception, because to do so would weaken his argument.
 >
-> i in book, k in link. 1 John 3:9 **tn** Both the first and second ὅτι (hoti) in 3:9 are causal. **The first gives the reason why the person who is begotten by God does not practice sin (“because his seed resides in him).” The second gives the reason why the person who is begotten by God is not able to sin (“because he has been begotten by God)” (1Jn. 3:6-10).**<sup>§</sup>
+> i in book, k in link. 1 John 3:9 **tn** Both the first and second ὅτι (hoti) in 3:9 are causal. **The first gives the reason why the person who is begotten by God does not practice sin (“because his seed resides in him).” The second gives the reason why the person who is begotten by God is not able to sin (“because he has been begotten by God)”** (1Jn. 3:6-10).<sup>§</sup>
 
 <small>
 § NET Bible: Full Notes Edition is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4.
