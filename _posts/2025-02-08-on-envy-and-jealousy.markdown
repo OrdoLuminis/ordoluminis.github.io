@@ -1,6 +1,6 @@
 ---
 title: "Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy"
-date: 2025-02-08 1:10:00 -0500
+date: 2025-02-08 1:15:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -58,7 +58,7 @@ The Bible reveals that this group contains the practitioners of evil:
 
 <br>
 
----
+<hr>
 
 <br>
 
