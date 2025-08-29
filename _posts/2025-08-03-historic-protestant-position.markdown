@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 03:05:00 -0500
+date: 2025-08-03 03:10:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -42,7 +42,7 @@ a.alterlink {
 
 Ordo Luminis recognizes the historic Protestant position.
 
-# I. On the Relation of Faith and Works
+# On the Relation of Faith and Works
 
 <p style="text-indent:2em;">
 The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
@@ -73,55 +73,55 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 7\. Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).
 </small>
 
-## 1.1 Consensus Among Historic Creeds and Confessions of Protestantism
+## I. Consensus Among Historic Creeds and Confessions of Protestantism
 
-### 1.1.1 Reformed Baptist & Presbyterian
+### 1.1 Reformed Baptist & Presbyterian
 
-#### 1.1.1.1 John Calvin (1509-1564) was the first and most influential theologian in the Reformed tradition.
+#### 1.1.1 John Calvin (1509-1564) was the first and most influential theologian in the Reformed tradition.
 
 > Therefore Christ justifies no one whom he does not at the same time **sanctify**. ... Thus it is clear how true it is that **we are justified not without works yet not through works** (Calvin, 1960, 3.16.1).
 
 > **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** (Calvin, 2014, Canon 11).
 
-#### 1.1.1.2 Westminster Confession of Faith (1646) is the doctrinal standard for Presbyterian and Reformed churches.
+#### 1.1.2 Westminster Confession of Faith (1646) is the doctrinal standard for Presbyterian and Reformed churches.
 
 > 11.2: Faith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification: **yet is not alone in the person justified**, but is ever accompanied with all the other saving graces, and **is no dead faith**, but worketh by love (Schaff, 2022, 3.2.16 "Confessio Fidei Westmonasteriensis").
 
-### 1.1.2 Lutheranism
+### 1.2 Lutheranism
 
-#### 1.1.2.1 Formula of Concord (1576) the great summary and consensus of Lutheran doctrine.
+#### 1.2.1 Formula of Concord (1576) the great summary and consensus of Lutheran doctrine.
 
 > III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** (Schaff, 2022, 3.1 "FORMULA CONCORDIÆ").
 
-### 1.1.3 Anglican and Episcopalian
+### 1.3 Anglican and Episcopalian
 
-#### 1.1.3.1 Thirty-Nine Articles of the Church of England (1571) doctrinal standard for Anglican and Episcopalian churches.
+#### 1.3.1 Thirty-Nine Articles of the Church of England (1571) doctrinal standard for Anglican and Episcopalian churches.
 
 > XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit** (Schaff, 2022, 3.2.10 "ARTICULI XXXIX. ECCLESIÆ ANGLICANÆ").
 
-### 1.1.4 Baptist
+### 1.4 Baptist
 
-#### 1.1.4.1 New Hampshire Baptist Confession (1833) Statement for Baptist churches.
+#### 1.4.1 New Hampshire Baptist Confession (1833) Statement for Baptist churches.
 
 > VII. & VIII. Regeneration ... is effected ... by the power of the Holy Spirit ... **its proper evidence appears in the holy fruits of repentance, and faith, and newness of life**. ... We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ, we turn to God with unfeigned contrition, confession, and supplication for mercy (Schaff, 2022, 3.3.2.2 "THE NEW HAMPSHIRE BAPTIST CONFESSION").
 
-### 1.1.5 Methodist
+### 1.5 Methodist
 
-#### 1.1.5.1 John Wesley (1703-1791) the founder of Methodism.
+#### 1.5.1 John Wesley (1703-1791) the founder of Methodism.
 
 > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins** (Wesley, 1872, see Discourses I–II; Sermons 35–36).
 
-### 1.1.6 Pentecostal
+### 1.6 Pentecostal
 
-#### 1.1.6.1 Assemblies of God Statement of Fundamental Truths (1916) one of the oldest and largest Pentecostal denominations.
+#### 1.6.1 Assemblies of God Statement of Fundamental Truths (1916) one of the oldest and largest Pentecostal denominations.
 
 > **Salvation is received through repentance toward God and faith toward the Lord Jesus Christ**. By the washing of regeneration and renewing of the Holy Spirit, being justified by grace through faith, man becomes an heir of God, according to the hope of eternal life (Assemblies of God USA, n.d., sec. 5 "Conditions to Salvation" section).
 
 > **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12) (Assemblies of God USA, n.d., sec. 5 "The Evidences of Salvation" section).
 
-### 1.1.7 Contemporary Pentecostal/Baptist Hybrids
+### 1.7 Contemporary Pentecostal/Baptist Hybrids
 
-#### 1.1.7.1 Original Calvalry Chapel Distincives
+#### 1.7.1 Original Calvalry Chapel Distincives
 
 Chuck Smith (2000), from his C2000 commentary on 1 John 3:6–8, writes:
 
@@ -132,11 +132,11 @@ Chuck Smith (2000), from his C2000 commentary on 1 John 3:6–8, writes:
 <br>
 <hr>
 
-## 1.2 Consensus Among Academics
+## II Consensus Among Academics
 
-### 1.2.1 Study Bible Scholarship
+### 2.1 Study Bible Scholarship
 
-#### 1.2.1.1 ESV Study Bible Scholars
+#### 2.1.1 ESV Study Bible Scholars
 
 Turn to page 2433 in the ESV Study Bible (2008). The notes for 1 John 3:6-10 ESV read as follows:
 
@@ -150,7 +150,7 @@ Turn to page 2433 in the ESV Study Bible (2008). The notes for 1 John 3:6-10 ESV
 † The ESV Study Bible has over 200+ biblical scholars (<a class="alterlink" href="https://www.esv.org/translation/">100+</a> ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, Many distinguished scholars from Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28.
 </small>
 
-#### 1.2.1.2 NIV Biblical Theology Study Bible Scholars
+#### 2.1.2 NIV Biblical Theology Study Bible Scholars
 
 > 3:6 **No one who lives in him keeps on sinning.** The claim that one can remain in Christ while continuing to indulge in sinful behavior is **ridiculous, if not blasphemous**, for “in him is no sin” (v. 5). See note on v. 9.
 >
@@ -162,7 +162,7 @@ Turn to page 2433 in the ESV Study Bible (2008). The notes for 1 John 3:6-10 ESV
 ‡ NIV Biblical Theology Study Bible, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.
 </small>
 
-#### 1.2.1.3 NET Bible: Full Notes Edition
+#### 2.1.3 NET Bible: Full Notes Edition
 
 Turn to pages 2333-34 in the NET Bible: Full Notes Edition (2019). The <a href="https://www.biblegateway.com/passage/?search=1Jn%203%3A6-10&version=NET">notes</a> for 1 John 3:6-10 NET read as follows:
 
@@ -178,7 +178,7 @@ Turn to pages 2333-34 in the NET Bible: Full Notes Edition (2019). The <a href="
 § NET Bible: Full Notes Edition is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4.
 </small>
 
-#### 1.2.1.4 NLT Filament Study Bible Scholars
+#### 2.1.4 NLT Filament Study Bible Scholars
 
 Under construction.<sup>‖</sup>
 
@@ -186,7 +186,7 @@ Under construction.<sup>‖</sup>
 ‖ NLT Filament Study Bible has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf).
 </small>
 
-#### 1.2.1.5 The New Oxford Annotated Bible Scholars
+#### 2.1.5 The New Oxford Annotated Bible Scholars
 
 > 3.1–10: God’s children are holy. 1–3: As God’s children, believers become like Christ (Jn 1.12–13; 13.15–16; 17.16–19). **4–6:** Jesus’s coming has taken away the sin of those who remain faithful (1.5–2.2). **7–8:** **Those who are deceived about sin (2.1) become children of the devil (cf. Jn 8.44).** **9–10:** God’s seed: the Holy Spirit (2.26–27) and mutual love (Jn 13.35) distinguish God’s children (The New Oxford Annotated Bible with the Apocrypha, 2018, 1Jn. 3:4-10).<sup>¶</sup>
 
@@ -194,7 +194,7 @@ Under construction.<sup>‖</sup>
 ¶ New Oxford Annotated Bible, Fifth (NOAB), the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.
 </small>
 
-#### 1.2.1.6 The Jewish Annotated New Testament Scholars
+#### 2.1.6 The Jewish Annotated New Testament Scholars
 
 > **6–10:** No one who abides in him sins, the author sets a very high standard of behavior (see vv. 8–10). The main forms of sin, however, seem to be the failure to love their brothers and sisters and denial of God and the Son (2.22). **8:** Child of the devil, perhaps a reference to those who withdrew (2.19); there is no indication here of the identification of Jews as children of the devil, as in Jn 8.44. **9:** Seed, perhaps the Holy Spirit; one’s “seed” is one’s offspring, here the deeds of love and faith in God (The Jewish Annotated New Testament, 2011, 1Jn. 3:6-9).<sup>Δ</sup>
 
@@ -202,7 +202,7 @@ Under construction.<sup>‖</sup>
 Δ
 </small>
 
-#### 1.2.1.7 NKJV Thomas Nelson Study Bible Scholars
+#### 2.1.7 NKJV Thomas Nelson Study Bible Scholars
 
 Turn to page 2048 in the NKJV Thomas Nelson Study Bible (2014). The notes for 1 John 3:5-10 NKJV read as follows:
 
