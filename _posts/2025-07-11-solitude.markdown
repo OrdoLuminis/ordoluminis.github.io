@@ -1,12 +1,12 @@
 ---
 title: "On the Necessity of Solitude"
-date: 2025-07-11 02:40:00 -0500
+date: 2025-07-11 02:45:00 -0500
 categories: [Original Research, Solitude]
 tags: [solitude, reflection, introspection]
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <style>
