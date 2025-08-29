@@ -1,12 +1,12 @@
 ---
 title: "On Courage, Honor, and the Human Experience"
-date: 2025-08-04 01:20:00 -0500
+date: 2025-08-04 01:25:00 -0500
 categories: [Original Research, Honor]
 tags: [literature, beowulf, gawain, knights, honor]
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <style>

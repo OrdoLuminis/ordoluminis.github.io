@@ -1,12 +1,12 @@
 ---
 title: "Concerning Things for Which Men, and Especially Princes are Praised or Blamed"
-date: 2025-08-04 01:10:00 -0500
+date: 2025-08-04 01:15:00 -0500
 categories: [Original Research, Politics]
 tags: [politics, machiavelli, leadership, rule]
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <style>
