@@ -1,6 +1,6 @@
 ---
 title: "Apostles’ Creed (A.D. 650)"
-date: 2024-10-02 02:10:00 -0500
+date: 2024-10-02 02:15:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [creeds] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
@@ -44,7 +44,7 @@ Amen.
 
 <sup style="font-weight:bold;">†</sup> <sup> Continued in the state of the dead, and under the power of death till the third day.</sup>
 
-<sup style="font-weight:bold;">‡</sup> <sup>Catholic in this sense means *&ldquo;Universal&rdquo;*, and is referring to all believers throughout all ages. This is not speaking about the Roman Catholic church as an institution. It's also worth noting that [Ancient Catholic Orthodoxy](https://www.crossway.org/articles/10-things-you-should-know-about-reformed-theology-2/) is not Roman Catholicism.</sup>
+<sup style="font-weight:bold;">‡</sup> <sup>Catholic in this sense means *&ldquo;Universal,&rdquo;* and is referring to all believers throughout all ages. This is not speaking about the Roman Catholic church as an institution. It's also worth noting that [Ancient Catholic Orthodoxy](https://www.crossway.org/articles/10-things-you-should-know-about-reformed-theology-2/) is not Roman Catholicism.</sup>
 
 1. Scots Confession (1560), Chapter 16.
 2. Belgic Confession (1561), Article 27.
