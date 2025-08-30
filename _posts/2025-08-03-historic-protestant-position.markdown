@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 03:25:00 -0500
+date: 2025-08-03 03:30:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -222,7 +222,15 @@ Turn to page 2048 in the NKJV Thomas Nelson Study Bible (2014). The notes for 1 
 
 ### 2.2 Scientist Theologians
 
-#### 2.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)
+#### 2.2.1 Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)
+
+Dr. Alister McGrath (2018) articulates the nuances between trust and assent:
+
+> Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: **“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer”** (p. 1).
+
+> **Faith is about trust in God, rather than just accepting that God exists** (p. 4).
+
+#### 2.2.2 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)
 
 Dr. Lennox (2017) articluates on John 8:31–47, he writes:
 
@@ -331,6 +339,7 @@ The Order of Light holds to a monergistic theology, which rejects works based fo
   <li>Calvin, J. (2014). <em>John Calvin tracts and letters: acts of the council of trent, with antidote to the canons of the council of trent, canon 11</em>. https://godrules.net/library/calvin/142calvin_c4.htm.</li>
   <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
   <li>Lennox, J. C. (2017). <em>Determined to Believe?</em>. Zondervan.</li>
+  <li>McGrath, A. E. (2018). <em>Theology: The basic readings</em> (3rd ed.). Wiley-Blackwell.</li>
   <li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
   <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
   <li><em>NIV Biblical Theology Study Bible</em>. (2018). Zondervan.</li>
