@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 03:10:00 -0500
+date: 2025-08-03 03:15:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -40,7 +40,7 @@ a.alterlink {
 }
 </style>
 
-Ordo Luminis recognizes the historic Protestant position.
+The Order of Light recognizes the Historic Protestant position.
 
 # On the Relation of Faith and Works
 
@@ -119,7 +119,7 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 > **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12) (Assemblies of God USA, n.d., sec. 5 "The Evidences of Salvation" section).
 
-### 1.7 Contemporary Pentecostal/Baptist Hybrids
+<!-- ### 1.7 Contemporary Pentecostal/Baptist Hybrids
 
 #### 1.7.1 Original Calvalry Chapel Distincives
 
@@ -127,12 +127,12 @@ Chuck Smith (2000), from his C2000 commentary on 1 John 3:6–8, writes:
 
 > 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
 >
-> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8)
+> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8) -->
 
 <br>
 <hr>
 
-## II Consensus Among Academics
+## II. Consensus Among Academics
 
 ### 2.1 Study Bible Scholarship
 
@@ -220,6 +220,16 @@ Turn to page 2048 in the NKJV Thomas Nelson Study Bible (2014). The notes for 1 
 ◊ NKJV Thomas Nelson Study Bible has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.
 </small>
 
+### 2.2 Pastors & Prominent Figures
+
+#### 2.1.1 Pastor Chuck Smith & The Original Calvalry Chapel Distincives
+
+Chuck Smith (2000), from his C2000 commentary on 1 John 3:6–8, writes:
+
+> 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
+>
+> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8)
+
 <!--
 
 ### 1.2.2 Scientist Theologians
@@ -250,7 +260,7 @@ This cite is specific to his [**Systematic Theology, 2nd ed.**]() pp. 979-984.
 
 ## Conclusion
 
-This Order holds to a monergistic theology, which rejects works based forms of salvation, and holds to the biblically sound concept of sola fide or justification by faith alone, which once justified or saved, always results in obedience to God. Therefore, Christ justifies no one whom he does not at the same time sanctify.
+The Order of Light holds to a monergistic theology, which rejects works based forms of salvation, and holds to the biblically sound concept of sola fide or justification by faith alone, which once justified or saved, always results in obedience to God. Therefore, Christ justifies no one whom he does not at the same time sanctify.
 
 <!-- This ministry holds to the most academically sound and historically time-tested theology known to Christendom. My position is known as the "historic Protestant" position which has been a sanctuary away from heresy for over 500 years. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. -->
 
