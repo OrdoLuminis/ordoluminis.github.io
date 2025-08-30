@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 03:20:00 -0500
+date: 2025-08-03 03:25:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -236,6 +236,20 @@ Dr. Lennox (2017) further illustrates genuine faith:
 >>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
 >
 >Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer** (p. 313).
+
+Dr. Lennox (2017) ruminates on apostasy:
+
+> Let us see what John has to say about them. So serious is their heresy that John calls them antichrists and says:
+>> They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us. (1 John 2:19 ESV.)
+>
+>These people departed in two senses: theologically, they abandoned the true doctrines about Christ; and physically, they left the church community. What did that mean in terms of their spiritual state? John says that their action showed that they were not of us, that is, they never had been genuine believers. If they had been, he adds, they would have stayed; but they left, and that demonstrates that they were not genuine, even though to all appearances they had been. Recall the final part of the parable of the sower:
+>> But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop. (Luke 8:15.)
+>
+>The heretical teachers didn’t endure. They had no root. In the end they proved themselves to be unbelievers. John backs this up later in his letter by saying:
+>> No-one who lives in him keeps on sinning. No-one who continues to sin has either seen him or known him. Dear children, do not let anyone lead you astray. He who does what is right is righteous, just as he is righteous. He who does what is sinful is of the devil, because the devil has been sinning from the beginning. Th e reason the Son of God appeared was to destroy the devil’s work. No-one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God. Th is is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not a child of God; nor is anyone who does not love his brother. (1 John 3:6–10.)
+>
+>Observe the strong emphasis on the present continuous tense: keeps on sinning. John is not saying that genuine believers cannot sometime act inconsistently, or even give in to temptation. Early on in his letter he makes clear that this is possible and that God has made gracious and merciful provision for it.
+>> My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins, and not for ours only but for the sins of the whole world. (1 John 2:1–2 ESV.) (pp. 322-323).
 
 Dr. Lennox (2017) on the true meaning of faith:
 
