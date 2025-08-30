@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 03:30:00 -0500
+date: 2025-08-03 03:35:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -279,6 +279,12 @@ Chuck Smith archives (2015), from his C2000 series commentary on 1 John 3:6–8,
 >
 > 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8).
 
+Chuck Smith short (2023) on assurance of salvation:
+
+> Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (00:00).
+
+It will help you to make the distinction between **(1)** justification, which is by faith alone (Eph 2:8-10; Rom 3:28), and **(2)** assurance of salvation, which is predicated upon an evidence-based faith (1Jn 2:3-6; Jn 14:15,21).
+
 <!--
 
 ### 1.2.2 Scientist Theologians
@@ -346,6 +352,7 @@ The Order of Light holds to a monergistic theology, which rejects works based fo
   <li><em>NKJV Thomas Nelson Study Bible</em>. (2014). Thomas Nelson.</li>
   <li>Schaff, P. (2020). <em>The Creeds of Christendom</em> (6th ed.). DigiCat.</li>
   <li>Smith, C. (2015, June 1). C2000 series (Chuck Smith archives). <em>Calvary Chapel</em>. https://calvarychapel.com/posts/c2000/</li>
+  <li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. Youtube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
   <li><em>The Jewish Annotated New Testament</em>. (2011). Oxford University Press.</li>
   <li><em>The New Oxford Annotated Bible with the Apocrypha</em> (5th ed.). (2018). Oxford University Press.</li>
   <li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
