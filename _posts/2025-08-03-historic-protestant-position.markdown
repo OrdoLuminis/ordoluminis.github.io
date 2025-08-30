@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 03:15:00 -0500
+date: 2025-08-03 03:20:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -220,15 +220,42 @@ Turn to page 2048 in the NKJV Thomas Nelson Study Bible (2014). The notes for 1 
 ◊ NKJV Thomas Nelson Study Bible has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.
 </small>
 
-### 2.2 Pastors & Prominent Figures
+### 2.2 Scientist Theologians
 
-#### 2.1.1 Pastor Chuck Smith & The Original Calvalry Chapel Distincives
+#### 2.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)
 
-Chuck Smith (2000), from his C2000 commentary on 1 John 3:6–8, writes:
+Dr. Lennox (2017) articluates on John 8:31–47, he writes:
 
-> 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
+> **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. One of its evidences is a deepening commitment to the word of Christ. A disciple is a learner. The hallmark of a true disciple is a readiness to learn more and more of the truth, thereby discovering that knowledge of truth leads to freedom. **Genuine faith perseveres** (p. 218).
+
+Dr. Lennox (2017) further illustrates genuine faith:
+
+> A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
+>> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
 >
-> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8)
+>>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
+>
+>Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer** (p. 313).
+
+Dr. Lennox (2017) on the true meaning of faith:
+
+> According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. The Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
+>
+>>1. belief, trust;
+>>2. that which produces belief, evidence, token, pledge, engagement;
+>>3. trust in its objective aspect, troth, observance of trust, fidelity.
+>
+>So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based** (p. 136).
+
+### 2.3 Pastors & Prominent Figures
+
+#### 2.3.1 Pastor Chuck Smith & The Original Calvalry Chapel Distincives
+
+Chuck Smith archives (2015), from his C2000 series commentary on 1 John 3:6–8, writes:
+
+> 1Jn 3:6 &ldquo;Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him.&rdquo; Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
+>
+> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8).
 
 <!--
 
@@ -289,11 +316,13 @@ The Order of Light holds to a monergistic theology, which rejects works based fo
   <li>Calvin, J. (1960). <em>Institutes of the Christian religion</em> (F. L. Battles, Trans.). The Westminster Press.</li>
   <li>Calvin, J. (2014). <em>John Calvin tracts and letters: acts of the council of trent, with antidote to the canons of the council of trent, canon 11</em>. https://godrules.net/library/calvin/142calvin_c4.htm.</li>
   <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+  <li>Lennox, J. C. (2017). <em>Determined to Believe?</em>. Zondervan.</li>
   <li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
   <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
   <li><em>NIV Biblical Theology Study Bible</em>. (2018). Zondervan.</li>
   <li><em>NKJV Thomas Nelson Study Bible</em>. (2014). Thomas Nelson.</li>
   <li>Schaff, P. (2020). <em>The Creeds of Christendom</em> (6th ed.). DigiCat.</li>
+  <li>Smith, C. (2015, June 1). C2000 series (Chuck Smith archives). <em>Calvary Chapel</em>. https://calvarychapel.com/posts/c2000/</li>
   <li><em>The Jewish Annotated New Testament</em>. (2011). Oxford University Press.</li>
   <li><em>The New Oxford Annotated Bible with the Apocrypha</em> (5th ed.). (2018). Oxford University Press.</li>
   <li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
@@ -302,12 +331,10 @@ The Order of Light holds to a monergistic theology, which rejects works based fo
 <!-- <li>Wesley, J. (1872). The Law Established Through Faith (Discourses I–II; Sermons 35–36) in Sermons on Several Occasions (T. Jackson, Ed.). Cassell & Co. (Reprinted in The Sermons of John Wesley, London, 1872)</li> -->
 
 <br>
-
 <hr>
-
 <br>
 
-Together in action, united in spirit, aligned in purpose. Ordo Luminis.
+<span style="font-style:italic;">Fraternitatis Aeternae, Ordo Luminis.</span>
 
 <script>
     var refTagger = {
