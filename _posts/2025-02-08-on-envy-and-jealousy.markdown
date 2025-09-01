@@ -1,9 +1,9 @@
 ---
 title: "Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy"
-date: 2025-02-08 1:20:00 -0500
+date: 2025-02-08 1:25:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
-author: seven_shepherd
+author: marshal
 published: true
 comments: false
 pin: true
