@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 2:05:00 -0500
+date: 2025-02-08 2:10:00 -0500
 categories: [Rebuke, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
