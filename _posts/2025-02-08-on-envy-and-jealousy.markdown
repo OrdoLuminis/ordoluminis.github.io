@@ -50,8 +50,6 @@ If you pay close attention, your adversaries will reveal their deepest fears clo
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-The previous quotation was used reminiscently of Matthew 11:20-21, where Jesus contrasts unrepentant Chorazin, Bethsaida, and Capernaum&mdash;cities where most of his miracles occurred&mdash;with the pagan cites of Tyre, Sidon, and even Sodom, saying those notorious pagans and worshipers of false Gods would sooner turn away from their sins in repentance than you had they seen such miracles.
-
 The previous quotation was used reminiscently of Matthew 11:20–21, where Jesus contrasts unrepentant Chorazin, Bethsaida, and Capernaum&mdash;cities where most of his miracles occurred&mdash;with the pagan cities Tyre and Sidon and even Sodom, saying those notorious pagans and idol‑worshipers would sooner <strong>turn away from their sins in repentance</strong> than you would, had they seen such miracles. Even the pagans understand and react to these things! The practitioners of evil&mdash;encompassing the irreligious, unrepentant, and self-deceived&mdash;give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26):
 
 <blockquote>
