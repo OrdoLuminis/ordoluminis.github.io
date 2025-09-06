@@ -1,9 +1,9 @@
 ---
 title: "Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy"
-date: 2025-02-08 1:25:00 -0500
+date: 2025-02-08 1:30:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
-author: marshal
+author: seven_shepherd
 published: true
 comments: false
 pin: true
@@ -51,10 +51,23 @@ If you pay close attention, your adversaries will reveal their deepest fears clo
 
 The Bible reveals that this group contains the practitioners of evil:
 
-<blockquote>For where there is jealousy and selfishness, there is disorder and every evil practice. (NET Bible: Full Notes Edition, 2015, James 3:16).</blockquote>
+<blockquote>
+For where there is jealousy and selfishness, there is disorder and every evil practice. (NET Bible: Full Notes Edition, 2015, James 3:16).
+</blockquote>
 
-<blockquote>He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).</blockquote>
+<blockquote>
+He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
+</blockquote>
 
+Instead, Christians should heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what christ does in the lives of others unless it is to support them?
+
+<blockquote>
+Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).
+</blockquote>
+
+<blockquote>
+Don’t be selfish; don’t try to impress others. Be humble, thinking of others as better than yourselves (New Living Translation, 2015, Philippians 2:3).
+</blockquote>
 
 <br>
 <hr>
