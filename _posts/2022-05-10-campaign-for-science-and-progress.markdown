@@ -1,6 +1,6 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:35:00 -0500
+date: 2022-05-10 04:45:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
@@ -120,7 +120,7 @@ In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist 
     - 4.1 <a href="#schrodinger">Erwin Schrödinger (1887&ndash;1961)</a>
     - 4.2 <a href="#darwin">Charles Darwin (1809&ndash;1882)</a>
 
-## Special Groups
+<!-- ## Special Groups
 
 - Unifiers of Physics
     - <a href="#newton">Sir Isaac Newton (1642&ndash;1726/27)</a>
@@ -135,7 +135,7 @@ In a profound analysis conducted by Dr. Baruch Shalev (2001/2002), a geneticist 
     - Christopher Langan (190-210 IQ)
     - Abdessellam Jelloul (198 IQ)
     - Mislav Predavec (192 IQ)
-    - Garry Kasparov (190 IQ)
+    - Garry Kasparov (190 IQ) -->
 
 <!-- &ldquo;As the world’s highest IQ record holder, I believe that Jesus Christ is God, the way and the truth and the life.&rdquo; &mdash; YoungHoon Kim (276 IQ) -->
 
@@ -838,12 +838,10 @@ Daniel and his friends were educated in the language and literature of the Babyl
 
 
 <br>
-
----
-
+<hr>
 <br>
 
-Together in action, united in spirit, aligned in purpose. Ordo Luminis.
+<span style="font-style:italic;">Fraternitatis Aeternae, Ordo Luminis.</span>
 
 
 <script>
