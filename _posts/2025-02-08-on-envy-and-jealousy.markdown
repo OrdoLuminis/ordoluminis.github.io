@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 1:45:00 -0500
+date: 2025-02-08 1:50:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -51,7 +51,7 @@ If you pay close attention, your adversaries will reveal their deepest fears clo
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-The Bible reveals that this group contains the practitioners of evil&mdash;encompassing the irreligious and the self-deceived who give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3):
+The Bible reveals that this group contains the practitioners of evil&mdash;encompassing the irreligious, unrepentant (Ac 3:26), and self-deceived who give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3):
 
 <blockquote>
 For where there is jealousy and selfishness, there is disorder and every evil <strong>practice</strong>. (NET Bible: Full Notes Edition, 2015, James 3:16).
