@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance Equals a Lack of Faith"
-date: 2025-09-07 01:25:00 -0500
+date: 2025-09-07 01:30:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -84,7 +84,7 @@ Justification is by faith alone, but the faith that saves is never alone in the 
 <hr>
 <br>
 
-<div style="text-align:center;">Works Cited</div>
+<div style="text-align:center;font-weight:bold;">References</div>
 
 <span></span>
 
