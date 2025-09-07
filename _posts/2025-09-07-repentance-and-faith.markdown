@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance Equals a Lack of Faith"
-date: 2025-09-07 01:15:00 -0500
+date: 2025-09-07 01:20:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -37,7 +37,7 @@ body {
 
 
 <p style="text-indent:2em;">
-Repentance is taught to be a fruit of genuine saving faith,¹ and we know fruits come from the Holy Spirit, not by our own doing.² Jesus was sent to turn people from their sins in repentance.³ It is described as a God given⁴ contrition that leads to salvation.⁵
+Repentance is taught to be a fruit of genuine saving faith,¹ and we know fruits come from the Holy Spirit, not by our own doing.² Jesus was sent to turn people from their sins in repentance.³ It is described as a God given⁴ contrition that leads to salvation.⁵</p>
 
 <small>
 1\. Mt 3:8-10.<br>
@@ -79,7 +79,6 @@ These are they that accumulate false teachers who entice them with new teachings
 </small>
 
 Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).
-</p>
 
 <br>
 <hr>
