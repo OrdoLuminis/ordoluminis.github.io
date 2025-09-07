@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith"
-date: 2025-09-07 01:50:00 -0500
+date: 2025-09-07 01:55:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -44,6 +44,10 @@ sup {
 <p style="text-indent:2em;">
 Repentance is taught to be a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own doing.<sup>2</sup> Jesus was sent to turn people from their sins in repentance.<sup>3</sup> It is described as a God given<sup>4</sup> contrition that leads to salvation<sup>5</sup> and the forgiveness of sins.<sup>6</sup></p>
 
+<!-- 2 Cor. 7:10 NLT tells us that true repentance is a contrition that leads to a turn from sin, while false repentance or attrition, leads to death.
+
+7:9-10 Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke. — Filament Study Bible -->
+
 <small>
 1\. Mt 3:8-10.<br>
 2\. Gal 5:22-23; Jn 15:4-5.<br>
@@ -62,32 +66,32 @@ The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> no
 10\. 2Cor. 5:17; Gal. 6:15.
 </small>
 
-Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup>
+Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).
 
 <small>
-11\. 1Jn 2:3-6; Jn 14:15,21; 15:10; Heb. 5:9; 1Jn 5:3-4.
+11\. Ac 17:30; 1Jn 2:3-6; Jn 14:15,21; 15:10; Heb. 5:9; 1Jn 5:3-4.<br>
+12\. Ro. 3:28; Eph. 2:8-10.
 </small>
 
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.<sup>12</sup> They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.<sup>13</sup> Their faith is dead.<sup>14</sup>
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.<sup>13</sup> They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup>
 
 <small>
-12\. Luk. 13:3.<br>
-13\. Matt. 15:8-9.<br>
-14\. Jas. 2:14-26.
+13\. Luk. 13:3.<br>
+14\. Matt. 15:8-9.<br>
+15\. Jas. 2:14-26.
 </small>
 
-These are they that accumulate false teachers who entice them with new teachings<sup>15</sup> that cause them to fall into debauchery<sup>16</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>17</sup> Everyone has sin (1Jn. 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn. 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that *&ldquo;practices&rdquo;* sin, because the Son of God holds them securely, and the evil one cannot touch them (1Jn. 5:18).
+These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin (1Jn. 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn. 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that *&ldquo;practices&rdquo;* sin, because the Son of God holds them securely, and the evil one cannot touch them (1Jn. 5:18).
 
 <small>
-15\. 2Tim. 4:3-4.<br>
-16\. 2Pet. 2:1-2.<br>
-17\. Jud. 4.
+16\. 2Tim. 4:3-4.<br>
+17\. 2Pet. 2:1-2.<br>
+18\. Jud. 4.
 </small>
 
-Justification is by faith alone,<sup>18</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>19</sup> and yet nothing is impossible for God.<sup>20</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>21</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup>
+A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>19</sup> and yet nothing is impossible for God.<sup>20</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>21</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup>
 
 <small>
-18\. Ro. 3:28; Eph. 2:8-10.<br>
 19\. Heb. 6:4-6; 10:26-31.<br>
 20\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
 21\. Matt. 18:12-14; Luk. 15:4-7.
