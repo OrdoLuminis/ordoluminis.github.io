@@ -1,6 +1,6 @@
 ---
-title: "A Lack of Repentance Equals a Lack of Faith"
-date: 2025-09-07 01:30:00 -0500
+title: "A Lack of Repentance is Evidence of Superficial Faith"
+date: 2025-09-07 01:35:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -62,7 +62,7 @@ Assurance of salvation comes from a living faith. The faith that justifies, Luth
 10\. 1Jn 2:3-6; Jn 14:15,21; 15:10; Heb. 5:9; 1Jn 5:3-4.
 </small>
 
-So we conclude, that <strong>a lack of repentance equals a lack of faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.¹¹ They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.¹² Their faith was superficial.¹³
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.¹¹ They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.¹² Their faith was superficial.¹³
 
 <small>
 11\. Luk. 13:3.<br>
