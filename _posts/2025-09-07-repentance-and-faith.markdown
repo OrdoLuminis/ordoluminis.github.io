@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith"
-date: 2025-09-07 01:55:00 -0500
+date: 2025-09-07 02:00:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -81,20 +81,23 @@ So we conclude, that <strong>a lack of repentance is evidence of a superficial f
 15\. Jas. 2:14-26.
 </small>
 
-These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin (1Jn. 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn. 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that *&ldquo;practices&rdquo;* sin, because the Son of God holds them securely, and the evil one cannot touch them (1Jn. 5:18).
+These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup>
 
 <small>
 16\. 2Tim. 4:3-4.<br>
 17\. 2Pet. 2:1-2.<br>
-18\. Jud. 4.
+18\. Jud. 4.<br>
+19\. 1Jn. 1:8–10.<br>
+20\. 1Jn. 3:6-10.<br>
+21\. 1Jn. 5:18.
 </small>
 
-A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>19</sup> and yet nothing is impossible for God.<sup>20</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>21</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup>
+A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>22</sup> and yet nothing is impossible for God.<sup>23</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>24</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup>
 
 <small>
-19\. Heb. 6:4-6; 10:26-31.<br>
-20\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
-21\. Matt. 18:12-14; Luk. 15:4-7.
+22\. Heb. 6:4-6; 10:26-31.<br>
+23\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
+24\. Matt. 18:12-14; Luk. 15:4-7.
 </small>
 
 <br>
