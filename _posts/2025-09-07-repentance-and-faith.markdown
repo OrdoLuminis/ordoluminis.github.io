@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance Equals a Lack of Faith"
-date: 2025-09-07 01:10:00 -0500
+date: 2025-09-07 01:15:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -44,7 +44,7 @@ Repentance is taught to be a fruit of genuine saving faith,¹ and we know fruits
 2\. Gal 5:22-23; Jn 15:4-5.<br>
 3\. Ac. 3:19-20,26; 26:20; Re. 2:5.<br>
 4\. Ac 11:18; 2Tim. 2:25.<br>
-5\. 2 Cor. 7:10.
+5\. 2Cor. 7:10.
 </small>
 
 The unrepentant⁶ will not enter the Kingdom of Heaven;⁷ not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.⁸ Only those with genuine faith receive this new nature.⁹
@@ -59,23 +59,23 @@ The unrepentant⁶ will not enter the Kingdom of Heaven;⁷ not because they fai
 Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.¹⁰
 
 <small>
-10\.  1Jn 2:3-6; Jn 14:15,21; 15:10; Heb. 5:9; 1Jn 5:3-4.
+10\. 1Jn 2:3-6; Jn 14:15,21; 15:10; Heb. 5:9; 1Jn 5:3-4.
 </small>
 
 So we conclude, that <strong>a lack of repentance equals a lack of faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.¹¹ They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.¹² Their faith was superficial.¹³
 
 <small>
-11\.  Luk. 13:3.<br>
-12\.  Matthew 15:8-9.<br>
-13\.  James 14-26.
+11\. Luk. 13:3.<br>
+12\. Matt. 15:8-9.<br>
+13\. Jas. 2:14-26.
 </small>
 
 These are they that accumulate false teachers who entice them with new teachings¹⁴ that cause them to fall into debauchery¹⁵ and abuse the precious grace of our God by twisting it into a license to sin.¹⁶
 
 <small>
-14\.  2Tim. 4:3-4.<br>
-15\.  2Pet. 2:1-2.<br>
-16\.  Jud. 4.
+14\. 2Tim. 4:3-4.<br>
+15\. 2Pet. 2:1-2.<br>
+16\. Jud. 4.
 </small>
 
 Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).
