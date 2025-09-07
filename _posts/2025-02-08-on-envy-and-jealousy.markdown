@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 2:10:00 -0500
+date: 2025-02-08 2:20:00 -0500
 categories: [Rebuke, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -50,7 +50,9 @@ If you pay close attention, your adversaries will reveal their deepest fears clo
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-The previous quotation was used reminiscently of Matthew 11:20–21, where Jesus contrasts unrepentant Chorazin, Bethsaida, and Capernaum&mdash;cities where most of his miracles occurred&mdash;with the pagan cities Tyre and Sidon and even Sodom, saying those notorious pagans and idol‑worshipers would sooner <strong>turn away from their sins in repentance</strong> than you would, had they seen such miracles. Even the pagans understand and react to these things! The practitioners of evil&mdash;encompassing the irreligious, unrepentant, and self-deceived&mdash;give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26):
+<!-- The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), where Jesus contrasts unrepentant Chorazin, Bethsaida, and Capernaum&mdash;cities where most of his miracles occurred&mdash;with the pagan cities Tyre and Sidon and even Sodom, saying those notorious pagans and idol‑worshipers would sooner show their remorse and turn from their sins in repentance than they would, had they seen such miracles. Even the pagans understand and react to these things! The practitioners of evil&mdash;encompassing the irreligious, unrepentant, and self-deceived&mdash;give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26): -->
+
+The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus' contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum&mdash;despite those cities witnessing most of his miracles. Even pagans respond; the practitioners of evil (the irreligious, unrepentant, and self‑deceived) thus show they are not truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26):
 
 <blockquote>
 For where there is jealousy and selfishness, there is disorder and every evil <strong>practice</strong>. (NET Bible: Full Notes Edition, 2015, James 3:16).
@@ -60,7 +62,7 @@ For where there is jealousy and selfishness, there is disorder and every evil <s
 He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
 </blockquote>
 
-Instead, true Christians heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them?
+Instead, true Christians heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
 
 <blockquote>
 Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).
@@ -68,6 +70,10 @@ Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him t
 
 <blockquote>
 Don’t be selfish; don’t try to impress others. Be humble, thinking of others as better than yourselves (New Living Translation, 2015, Philippians 2:3).
+</blockquote>
+
+<blockquote>
+Be thankful in all circumstances, for this is God’s will for you who belong to Christ Jesus (New Living Translation, 2015, 1Thes. 5:18).
 </blockquote>
 
 <br>
