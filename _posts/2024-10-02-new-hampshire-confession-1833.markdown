@@ -1,6 +1,6 @@
 ---
-title: "New Hampshire Confession (1833)"
-date: 2024-10-02 01:30:00 -0500
+title: "New Hampshire Baptist Confession (1833)"
+date: 2024-10-02 01:35:00 -0500
 categories: [Order, Creeds and Confessions]
 tags: [confessions] # TAG names should always be lowercase
 authors: [grand_master, chaplain]
