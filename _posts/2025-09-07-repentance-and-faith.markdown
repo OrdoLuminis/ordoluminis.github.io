@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith"
-date: 2025-09-07 02:00:00 -0500
+date: 2025-09-07 02:05:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -57,7 +57,8 @@ Repentance is taught to be a fruit of genuine saving faith,<sup>1</sup> and we k
 6\. Luke 24:47; Acts 2:38; 3:19; 5:31.
 </small>
 
-The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> Only those with genuine faith receive this new nature.<sup>10</sup>
+The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup>
+
 
 <small>
 7\. Luk. 13:3.<br>
