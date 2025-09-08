@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith"
-date: 2025-09-07 02:25:00 -0500
+date: 2025-09-07 02:30:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -71,12 +71,12 @@ The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> no
 Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).</p>
 
 <small>
-11\. Ac 17:30; 1Jn 2:3-6; Jn 14:15,21; 15:10; Heb. 5:9; 1Jn 5:3-4.<br>
+11\. Ac 17:30; 1Jn 2:3-6; Jn 14:15,21; 15:10;Heb. 5:9; 1Jn 5:3-4.<br>
 12\. Ro. 3:28; Eph. 2:8-10.
 </small>
 
 <p style="text-indent:2em;">
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.<sup>13</sup> They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup></p>
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup></p>
 
 <small>
 13\. Luk. 13:3.<br>
