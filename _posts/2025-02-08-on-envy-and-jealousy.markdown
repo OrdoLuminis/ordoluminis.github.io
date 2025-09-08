@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 2:20:00 -0500
+date: 2025-02-08 2:35:00 -0500
 categories: [Rebuke, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -44,15 +44,17 @@ a.alterlink {
 <p style="text-indent:2em;">
 If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;It's a façade of superiority borne from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see, and by comparing themselves to others, they reveal whom they envy. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, De Tranquillitate Animi</em> (On the Tranquility of the Mind):</p> -->
 
+Because it is our responsibility to rebuke those inside the church who are practicing sin, this is my rebuke to the envious and divisive (1Tim. 5:20; 1Cor. 5:11-13; Jud. 1:19).
+
 ## Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy
 
-<p style="text-indent:2em;">Because it is my responsibility to rebuke those inside the church who are practicing sin, this is my rebuke to the envious and divisive (1Tim. 5:20; 1Cor. 5:11-13; Jud. 1:19): If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;It's a façade of superiority borne from their own insecurities, and by comparing themselves to others, they reveal whom they envy. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, De Tranquillitate Animi</em> (On the Tranquility of the Mind):</p>
+<p style="text-indent:2em;">If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;It's a façade of superiority borne from their own insecurities, and by comparing themselves to others, they reveal whom they envy. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, De Tranquillitate Animi</em> (On the Tranquility of the Mind):</p>
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
 <!-- The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), where Jesus contrasts unrepentant Chorazin, Bethsaida, and Capernaum&mdash;cities where most of his miracles occurred&mdash;with the pagan cities Tyre and Sidon and even Sodom, saying those notorious pagans and idol‑worshipers would sooner show their remorse and turn from their sins in repentance than they would, had they seen such miracles. Even the pagans understand and react to these things! The practitioners of evil&mdash;encompassing the irreligious, unrepentant, and self-deceived&mdash;give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26): -->
 
-The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus' contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum&mdash;despite those cities witnessing most of his miracles. Even pagans respond; the practitioners of evil (the irreligious, unrepentant, and self‑deceived) thus show they are not truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26):
+The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus' contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum&mdash;despite those cities witnessing most of his miracles. Even pagans respond; the practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.
 
 <blockquote>
 For where there is jealousy and selfishness, there is disorder and every evil <strong>practice</strong>. (NET Bible: Full Notes Edition, 2015, James 3:16).
