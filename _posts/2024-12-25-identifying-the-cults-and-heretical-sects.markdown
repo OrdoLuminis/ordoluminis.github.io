@@ -1,6 +1,6 @@
 ---
 title: "Identifying the Cults & Heretical Sects"
-date: 2024-12-25 02:50:00 -0500
+date: 2024-12-25 02:55:00 -0500
 categories: [Theology, Heresy]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -33,6 +33,11 @@ p.titles {
 
 body {
   line-height: 2;
+}
+
+sup {
+  font-size: 0.6em;
+  font-weight: bold;
 }
 </style>
 
@@ -183,7 +188,7 @@ This is where the Jehovah's Witnesses and Mormonism reside.
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-<!-- > &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 65. Legalism: Working for God’s favour forfeits it. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a> -->
+<!-- > &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 65. Legalism: Working for God’s favour forfeits it. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). <a name="Packer-C-Centered" href="#Packer"><sup>◊</sup></a> -->
 
 ## <a name="conclusion" href="#contents">IV. Conclusion</a>
 
@@ -200,7 +205,7 @@ The Bible is against the heresy of antinomianism:
 
 #### 4.1.1 False Teachers Will Lead People Into Debauchery and Apostasy, Rejecting the Lordship of Christ Over Their Lives.
 
-> <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">[debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
+> <sup>1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup>2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">[debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
 >
 >> Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b). Vv. 18b-19 turns to professing converts who were deceived by the false teachers. The subjects of vv. 20-22 have been interpreted either as the false teachers (Alford, Mayor, Cranfield, Mounce, Green, Kistemaker) or as the new converts entrapped by the false teachers (Bengel, Bigg, Kelly, Moffatt). (Demarest, 2006, p. 457-8).
 
@@ -224,15 +229,15 @@ The Bible is against the heresy of antinomianism:
 
 John the Apostle shows that assurance comes, not only from trusting and relying on Christ, but from fruit-bearing (The Holy Spirit produces the fruit, not human decision: Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
 
-> <sup style="font-weight:bold;">3</sup> And we can be sure that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth. <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did (1 Jn 2:3-6 NLT).
+> <sup>3</sup> And we can be sure that we know him if we obey his commandments. <sup>4</sup> If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth. <sup>5</sup> But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. <sup>6</sup> Those who say they live in God should live their lives as Jesus did (1 Jn 2:3-6 NLT).
 
 The Apostle John completely destroys any notion of antinomianism when he reveals that true born-agains are so changed (2Cor 5:17) that they can no longer practice sin.
 
-> <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
+> <sup>6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup>7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup>8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup>9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup>10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
 
 The reason is given in 1 John 5:18. The Apostle John reveals that the protection of Christ prevents the practice of sin in the lives of true believers:
 
-> <sup style="font-weight:bold;">18</sup> We know that God’s children do not make a practice of sinning, for God’s Son holds them securely, and the evil one cannot touch them (1Jn 5:18 NLT).
+> <sup>18</sup> We know that God’s children do not make a practice of sinning, for God’s Son holds them securely, and the evil one cannot touch them (1Jn 5:18 NLT).
 
 #### 4.1.4 The Apostle Paul Corrects Misunderstandings About Grace, Faith, and Sin
 
@@ -246,11 +251,11 @@ The Apostle Paul also destroys any notion of antinomianism:
 
 The Apostle Paul thoroughly warned New Testament Christians (You & Me). **These warnings were written to people** who would be listening to the New Testament epistles as they were read aloud **in New Testament Churches** (cf. 1 Cor. 6:9-11; 2 Cor. 13:5; Heb. 3:12; 1 Jn 2:3-6; 3:6, 9-10; 14).
 
-> <sup style="font-weight:bold;">19</sup> Now the works of the flesh are obvious: sexual immorality, impurity, depravity, <sup style="font-weight:bold;">20</sup> idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, <sup style="font-weight:bold;">21</sup> envying, murder, drunkenness, carousing, and similar things. <span style="font-weight:bold;color:goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:orangered;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
+> <sup>19</sup> Now the works of the flesh are obvious: sexual immorality, impurity, depravity, <sup>20</sup> idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, <sup>21</sup> envying, murder, drunkenness, carousing, and similar things. <span style="font-weight:bold;color:goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:orangered;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
 
 Practice in this sense means a lifelong continual pattern. It speaks of the pursuit of a lifestyle of indulgent sin. This does not mean that you will not have sin or that you will be perfect, in fact you may struggle with sin, make mistakes, and even backslide. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31).
 
-> <sup style="font-weight:bold;">9</sup> Do you not know that <span style="font-weight:bold;color:orangered;">the unrighteous <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, <sup style="font-weight:bold;">10</sup> thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. <sup style="font-weight:bold;">11</sup> Some of you <span style="font-weight:bold;font-size:1.2em;color:#009933;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Cor. 6:9-11 NET
+> <sup>9</sup> Do you not know that <span style="font-weight:bold;color:orangered;">the unrighteous <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, <sup>10</sup> thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. <sup>11</sup> Some of you <span style="font-weight:bold;font-size:1.2em;color:#009933;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Cor. 6:9-11 NET
 
 The Apostle Paul calls on us to examine or test our faith, to see if it is genuine, to see if Jesus is really living in us. If he is, well, then you have a living faith, if not, then you have a dead faith and are disqualified, or fail the test of genuine faith.
 
