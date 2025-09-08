@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith"
-date: 2025-09-07 02:20:00 -0500
+date: 2025-09-07 02:25:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -57,7 +57,8 @@ Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits co
 6\. Luke 24:47; Acts 2:38; 3:19; 5:31.
 </small>
 
-The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup>
+<p style="text-indent:2em;">
+The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup></p>
 
 <small>
 7\. Luk. 13:3.<br>
@@ -66,14 +67,16 @@ The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> no
 10\. 2Cor. 5:17; Gal. 6:15.
 </small>
 
-Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).
+<p style="text-indent:2em;">
+Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).</p>
 
 <small>
 11\. Ac 17:30; 1Jn 2:3-6; Jn 14:15,21; 15:10; Heb. 5:9; 1Jn 5:3-4.<br>
 12\. Ro. 3:28; Eph. 2:8-10.
 </small>
 
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.<sup>13</sup> They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup>
+<p style="text-indent:2em;">
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish.<sup>13</sup> They were never alive in Christ. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup></p>
 
 <small>
 13\. Luk. 13:3.<br>
@@ -81,7 +84,8 @@ So we conclude, that <strong>a lack of repentance is evidence of a superficial f
 15\. Jas. 2:14-26.
 </small>
 
-These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Demarest (PhD, University of Manchester), articulates:
+<p style="text-indent:2em;">
+These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Demarest (PhD, University of Manchester), articulates:</p>
 
 <blockquote>
 Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b). Vv. 18b-19 turns to professing converts who were deceived by the false teachers. The subjects of vv. 20-22 have been interpreted either as the false teachers (Alford, Mayor, Cranfield, Mounce, Green, Kistemaker) or as the new converts entrapped by the false teachers (Bengel, Bigg, Kelly, Moffatt). (Demarest, 2006, p. 457-8).
@@ -96,7 +100,8 @@ Second Pet 2:1 describes “false prophets” who “secretly introduce destruct
 21\. 1Jn. 5:18.
 </small>
 
-A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>22</sup> and yet nothing is impossible for God.<sup>23</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>24</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup>
+<p style="text-indent:2em;">
+A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>22</sup> and yet nothing is impossible for God.<sup>23</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>24</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup></p>
 
 <small>
 22\. Heb. 6:4-6; 10:26-31.<br>
@@ -114,8 +119,8 @@ A person who claims Christianity but denies repentance has likely apostatized, f
 
 <ul class="references">
 <li>Demarest, B. (2006). <em>The cross and salvation</em>. Crossway Books.</li>
-<li><em>Filament Study: New Living Translation</em>. (2015). Tyndale House Publishers.</li>
-<li>The Order of Light. (2024, October 2). <em>New Hampshire Baptist Confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
+<li><em>Filament study: New living translation</em>. (2015). Tyndale House Publishers.</li>
+<li>The Order of Light. (2024, October 2). <em>New hampshire baptist confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
 </ul>
 
 <br>
