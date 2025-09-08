@@ -1,8 +1,8 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 02:40:00 -0500
+date: 2025-09-07 02:45:00 -0500
 categories: [Theology, Repentance]
-tags: [repent, repentance, penitent, penitence]
+tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
 published: true
 comments: false
@@ -45,7 +45,7 @@ sup {
 Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance.<sup>3</sup> It is described as a God given<sup>4</sup> contrition that leads to salvation<sup>5</sup> and the forgiveness of sins.<sup>6</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:</p>
 
 <blockquote>
-Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke (Filament Study, 2015, 2Cor. 7:10)
+Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke (Filament Study, 2015, 2Cor. 7:10).
 </blockquote>
 
 <small>
