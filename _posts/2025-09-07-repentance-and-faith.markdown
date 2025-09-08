@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith"
-date: 2025-09-07 02:05:00 -0500
+date: 2025-09-07 02:10:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence]
 author: seven_shepherd
@@ -42,11 +42,11 @@ sup {
 
 
 <p style="text-indent:2em;">
-Repentance is taught to be a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own doing.<sup>2</sup> Jesus was sent to turn people from their sins in repentance.<sup>3</sup> It is described as a God given<sup>4</sup> contrition that leads to salvation<sup>5</sup> and the forgiveness of sins.<sup>6</sup></p>
+Repentance is taught to be a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own doing.<sup>2</sup> Jesus was sent to turn people from their sins in repentance.<sup>3</sup> It is described as a God given<sup>4</sup> contrition that leads to salvation<sup>5</sup> and the forgiveness of sins.<sup>6</sup> False repentance or attrition, lacks the inward resolve to turn from sin and leads to death:</p>
 
-<!-- 2 Cor. 7:10 NLT tells us that true repentance is a contrition that leads to a turn from sin, while false repentance or attrition, leads to death.
-
-7:9-10 Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke. — Filament Study Bible -->
+<blockquote>
+2Cor. 7:9-10 Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke (Filament Study, 2015, 2Cor. 7:10)
+</blockquote>
 
 <small>
 1\. Mt 3:8-10.<br>
@@ -58,7 +58,6 @@ Repentance is taught to be a fruit of genuine saving faith,<sup>1</sup> and we k
 </small>
 
 The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup>
-
 
 <small>
 7\. Luk. 13:3.<br>
@@ -110,6 +109,7 @@ A person who claims Christianity but denies repentance has likely apostatized, f
 <span></span>
 
 <ul class="references">
+<li><em>Filament Study: New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 <li>The Order of Light. (2024, October 2). <em>New Hampshire Baptist Confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
 </ul>
 
