@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 02:45:00 -0500
+date: 2025-09-07 03:00:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -58,7 +58,7 @@ Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance lead
 </small>
 
 <p style="text-indent:2em;">
-The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup></p>
+The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup></p>
 
 <small>
 7\. Luk. 13:3.<br>
