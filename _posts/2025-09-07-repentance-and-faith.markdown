@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:15:00 -0500
+date: 2025-09-07 03:25:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -58,7 +58,7 @@ Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance lead
 </small>
 
 <p style="text-indent:2em;">
-The perpetually unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. Packer (2020; PhD, University of Oxford), articulates:</p>
+The perpetually unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. Packer (2020), PhD (University of Oxford), articulates:</p>
 
 <blockquote>
 The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion (p. 177).
@@ -75,7 +75,7 @@ The idea that there can be saving faith without repentance, and that one can be 
 </small>
 
 <p style="text-indent:2em;">
-Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Dr. John C. Lennox (2017; PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) elucidates John 8:31-47, he writes:</p>
+Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Dr. John C. Lennox (2017), PhD (University of Cambridge), DPhil (University of Oxford), and DSc (Cardiff University), Emeritus Professor of Mathematics at the University of Oxford, elucidates John 8:31–47:</p>
 
 <blockquote>
 Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by its fruit in the lives of those who profess it. It is not a superficial thing. ... Genuine faith perseveres (p. 218). Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. ... That is, the development of visible Christian moral virtues in a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer (p. 313).
