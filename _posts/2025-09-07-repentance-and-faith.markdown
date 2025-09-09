@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:05:00 -0500
+date: 2025-09-07 03:10:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -129,6 +129,7 @@ A person who claims Christianity but denies repentance has likely apostatized, f
 <ul class="references">
 <li>Demarest, B. (2006). <em>The cross and salvation</em>. Crossway Books.</li>
 <li><em>Filament study: New living translation</em>. (2015). Tyndale House Publishers.</li>
+<li>Packer, J. I. (2020). <em>Concise theology</em> (ESV ed.). Crossway.</li>
 <li>The Order of Light. (2024, October 2). <em>New hampshire baptist confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
 </ul>
 
