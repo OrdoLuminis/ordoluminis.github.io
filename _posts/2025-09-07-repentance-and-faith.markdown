@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:25:00 -0500
+date: 2025-09-07 03:30:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -75,10 +75,10 @@ The idea that there can be saving faith without repentance, and that one can be 
 </small>
 
 <p style="text-indent:2em;">
-Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Dr. John C. Lennox (2017), PhD (University of Cambridge), DPhil (University of Oxford), and DSc (Cardiff University), Emeritus Professor of Mathematics at the University of Oxford, elucidates John 8:31–47:</p>
+Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Chuck Smith (2023), delineates:</p>
 
 <blockquote>
-Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by its fruit in the lives of those who profess it. It is not a superficial thing. ... Genuine faith perseveres (p. 218). Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. ... That is, the development of visible Christian moral virtues in a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer (p. 313).
+Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (00:00).
 </blockquote>
 
 <small>
@@ -87,7 +87,11 @@ Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by 
 </small>
 
 <p style="text-indent:2em;">
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup></p>
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup> Dr. John C. Lennox (2017), PhD (University of Cambridge), DPhil (University of Oxford), and DSc (Cardiff University), Emeritus Professor of Mathematics at the University of Oxford, elucidates John 8:31–47:</p>
+
+<blockquote>
+Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by its fruit in the lives of those who profess it. It is not a superficial thing. ... Genuine faith perseveres (p. 218). Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. ... That is, the development of visible Christian moral virtues in a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer (p. 313).
+</blockquote>
 
 <small>
 13\. Luk. 13:3.<br>
@@ -133,8 +137,9 @@ A person who claims Christianity but denies repentance has likely apostatized, f
 <ul class="references">
 <li>Demarest, B. (2006). <em>The cross and salvation</em>. Crossway Books.</li>
 <li><em>Filament study: New living translation</em>. (2015). Tyndale House Publishers.</li>
-<li>Lennox, J. C. (2017). <em>Determined to Believe?</em>. Zondervan.</li>
+<li>Lennox, J. C. (2017). <em>Determined to believe?</em>. Zondervan.</li>
 <li>Packer, J. I. (2020). <em>Concise theology</em> (ESV ed.). Crossway.</li>
+<li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. Youtube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
 <li>The Order of Light. (2024, October 2). <em>New hampshire baptist confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
 </ul>
 
