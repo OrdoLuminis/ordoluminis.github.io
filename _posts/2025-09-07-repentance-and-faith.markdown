@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:00:00 -0500
+date: 2025-09-07 03:05:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -58,7 +58,14 @@ Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance lead
 </small>
 
 <p style="text-indent:2em;">
-The unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup></p>
+The perpetually unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. Packer (PhD, University of Oxford), articulates:</p>
+
+<blockquote>
+The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion (Packer, 2020, p. 177).
+</blockquote>
+
+<!-- >
+> &mdash; [Dr. J. I. Packer](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford). Concise Theology, 60. Repentance. Time Magazine top 25 evangelical. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). -->
 
 <small>
 7\. Luk. 13:3.<br>
@@ -88,7 +95,7 @@ So we conclude, that <strong>a lack of repentance is evidence of a superficial f
 These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Demarest (PhD, University of Manchester), articulates:</p>
 
 <blockquote>
-Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b). (Demarest, 2006, p. 457-8).
+Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b) (Demarest, 2006, p. 457-8).
 </blockquote>
 
 <!-- Vv. 18b-19 turns to professing converts who were deceived by the false teachers. The subjects of vv. 20-22 have been interpreted either as the false teachers (Alford, Mayor, Cranfield, Mounce, Green, Kistemaker) or as the new converts entrapped by the false teachers (Bengel, Bigg, Kelly, Moffatt). -->
