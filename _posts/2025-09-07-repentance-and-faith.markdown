@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:40:00 -0500
+date: 2025-09-07 03:45:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -78,7 +78,7 @@ The idea that there can be saving faith without repentance, and that one can be 
 Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Chuck Smith, delineates:</p>
 
 <blockquote>
-If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <span style="font-weight:bold;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan</span> (2015; 1Jn 3:6-8).
+If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <span style="font-weight:bold;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015; 1Jn 3:6-8).
 <blockquote>
 </blockquote>
 Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (2023, 00:00).
