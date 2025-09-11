@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:45:00 -0500
+date: 2025-09-07 03:50:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -58,7 +58,7 @@ Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance lead
 </small>
 
 <p style="text-indent:2em;">
-The perpetually unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. Packer (2020), PhD (University of Oxford), articulates:</p>
+The perpetually unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. J. I. Packer (2020), who earned his Ph.D. from the University of Oxford, articulates:</p>
 
 <blockquote>
 The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion (p. 177).
@@ -75,12 +75,12 @@ The idea that there can be saving faith without repentance, and that one can be 
 </small>
 
 <p style="text-indent:2em;">
-Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Chuck Smith, delineates:</p>
+Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Pastor Chuck Smith, corrects with strong warning:</p>
 
 <blockquote>
 If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <span style="font-weight:bold;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015; 1Jn 3:6-8).
-<blockquote>
 </blockquote>
+<blockquote>
 Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (2023, 00:00).
 </blockquote>
 
@@ -90,7 +90,7 @@ Do not be deceived, if you are walking after the flesh and involved in the thing
 </small>
 
 <p style="text-indent:2em;">
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup> Dr. John C. Lennox (2017), PhD (University of Cambridge), DPhil (University of Oxford), and DSc (Cardiff University), Emeritus Professor of Mathematics at the University of Oxford, elucidates John 8:31–47:</p>
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup> Dr. John C. Lennox (2017), Emeritus Professor of Mathematics at the University of Oxford, who earned his PhD in mathematics at the University of Cambridge, his DPhil at the University of Oxford by incorporation, and his DSc in mathematics at Cardiff University for his research, elucidates John 8:31–47:</p>
 
 <blockquote>
 Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by its fruit in the lives of those who profess it. It is not a superficial thing. ... Genuine faith perseveres (p. 218). Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. ... That is, the development of visible Christian moral virtues in a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer (p. 313).
@@ -103,10 +103,10 @@ Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by 
 </small>
 
 <p style="text-indent:2em;">
-These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Demarest (PhD, University of Manchester), articulates:</p>
+These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Bruce Demarest (2006), a PhD graduate of the University of Manchester, articulates:</p>
 
 <blockquote>
-Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b) (Demarest, 2006, p. 457-8).
+Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b) (p. 457-8).
 </blockquote>
 
 <!-- Vv. 18b-19 turns to professing converts who were deceived by the false teachers. The subjects of vv. 20-22 have been interpreted either as the false teachers (Alford, Mayor, Cranfield, Mounce, Green, Kistemaker) or as the new converts entrapped by the false teachers (Bengel, Bigg, Kelly, Moffatt). -->
