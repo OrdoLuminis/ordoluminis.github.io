@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:55:00 -0500
+date: 2025-09-07 04:00:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -49,12 +49,12 @@ Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance lead
 </blockquote>
 
 <small>
-1\. Mt 3:8-10.<br>
-2\. Gal 5:22-23; Jn 15:4-5.<br>
+1\. Mt. 3:8-10.<br>
+2\. Gal. 5:22-23; Jn 15:4-5; 1Cor. 3:6-7.<br>
 3\. Ac. 3:19-20,26; 26:20; Re. 2:5.<br>
-4\. Ac 11:18; 2Tim. 2:25.<br>
+4\. Ac. 11:18; 2Tim. 2:25.<br>
 5\. 2Cor. 7:10.<br>
-6\. Luke 24:47; Acts 2:38; 3:19; 5:31.
+6\. Luk. 24:47; Ac. 2:38; 3:19; 5:31.
 </small>
 
 <p style="text-indent:2em;">
@@ -93,7 +93,7 @@ Do not be deceived, if you are walking after the flesh and involved in the thing
 </small>
 
 <p style="text-indent:2em;">
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive. They honored God with their lips, but their hearts are far from Him.<sup>14</sup> Their faith is dead.<sup>15</sup> Dr. John C. Lennox (2017), Emeritus Professor of Mathematics at the University of Oxford, who earned his PhD in mathematics at the University of Cambridge, his DPhil at the University of Oxford by incorporation, and his DSc in mathematics at Cardiff University for his research, elucidates John 8:31–47:</p>
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive.<sup>14</sup> They honored God with their lips, but their hearts are far from Him.<sup>15</sup> Their faith is dead.<sup>16</sup> Dr. John C. Lennox (2017), Emeritus Professor of Mathematics at the University of Oxford, who earned his PhD in mathematics at the University of Cambridge, his DPhil at the University of Oxford by incorporation, and his DSc in mathematics at Cardiff University for his research, elucidates John 8:31–47:</p>
 
 <blockquote>
 Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by its fruit in the lives of those who profess it. It is not a superficial thing. ... Genuine faith perseveres (p. 218). Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. ... That is, the development of visible Christian moral virtues in a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer (p. 313).
@@ -101,12 +101,13 @@ Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by 
 
 <small>
 13\. Luk. 13:3.<br>
-14\. Matt. 15:8-9.<br>
-15\. Jas. 2:14-26.
+14\. Matt. 22:32.<br>
+15\. Matt. 15:8-9.<br>
+16\. Jas. 2:14-26.
 </small>
 
 <p style="text-indent:2em;">
-These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Bruce Demarest (2006), a PhD graduate of the University of Manchester, delineates:</p>
+These are they that accumulate false teachers who entice them with new teachings<sup>17</sup> that cause them to fall into debauchery<sup>18</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>19</sup> Everyone has sin,<sup>20</sup> but not everyone pursues lifestyles of indulgent sin.<sup>21</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>22</sup> Dr. Bruce Demarest (2006), a PhD graduate of the University of Manchester, delineates:</p>
 
 <blockquote>
 Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b) (p. 457-8).
@@ -115,24 +116,28 @@ Second Pet 2:1 describes “false prophets” who “secretly introduce destruct
 <!-- Vv. 18b-19 turns to professing converts who were deceived by the false teachers. The subjects of vv. 20-22 have been interpreted either as the false teachers (Alford, Mayor, Cranfield, Mounce, Green, Kistemaker) or as the new converts entrapped by the false teachers (Bengel, Bigg, Kelly, Moffatt). -->
 
 <small>
-16\. 2Tim. 4:3-4.<br>
-17\. 2Pet. 2:1-2.<br>
-18\. Jud. 4.<br>
-19\. 1Jn. 1:8–10.<br>
-20\. 1Jn. 3:6-10.<br>
-21\. 1Jn. 5:18.
+17\. 2Tim. 4:3-4.<br>
+18\. 2Pet. 2:1-2.<br>
+19\. Jud. 4.<br>
+20\. 1Jn. 1:8–10.<br>
+21\. 1Jn. 3:6-10.<br>
+22\. 1Jn. 5:18.
 </small>
 
 <!-- abide
-the will of god -->
+the will of god
+
+> My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children (ESV Study Bible, 2008, Hosea 4:6).
+
+-->
 
 <p style="text-indent:2em;">
-A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>22</sup> and yet nothing is impossible for God.<sup>23</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>24</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup></p>
+A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>23</sup> and yet nothing is impossible for God.<sup>24</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>25</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup></p>
 
 <small>
-22\. Heb. 6:4-6; 10:26-31.<br>
-23\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
-24\. Matt. 18:12-14; Luk. 15:4-7.
+23\. Heb. 6:4-6; 10:26-31.<br>
+24\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
+25\. Matt. 18:12-14; Luk. 15:4-7.
 </small>
 
 <br>
