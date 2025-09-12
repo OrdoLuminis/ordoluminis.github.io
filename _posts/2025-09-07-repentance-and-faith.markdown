@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 03:50:00 -0500
+date: 2025-09-07 03:55:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -78,7 +78,10 @@ The idea that there can be saving faith without repentance, and that one can be 
 Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Pastor Chuck Smith, corrects with strong warning:</p>
 
 <blockquote>
-If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <span style="font-weight:bold;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015; 1Jn 3:6-8).
+If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <span style="font-weight:bold;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015a; 1Jn 3:6-8).
+</blockquote>
+<blockquote>
+You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (2015b, 2:10-3:12).
 </blockquote>
 <blockquote>
 Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (2023, 00:00).
@@ -103,7 +106,7 @@ Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by 
 </small>
 
 <p style="text-indent:2em;">
-These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Bruce Demarest (2006), a PhD graduate of the University of Manchester, articulates:</p>
+These are they that accumulate false teachers who entice them with new teachings<sup>16</sup> that cause them to fall into debauchery<sup>17</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>18</sup> Everyone has sin,<sup>19</sup> but not everyone pursues lifestyles of indulgent sin.<sup>20</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>21</sup> Dr. Bruce Demarest (2006), a PhD graduate of the University of Manchester, delineates:</p>
 
 <blockquote>
 Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b) (p. 457-8).
@@ -119,6 +122,9 @@ Second Pet 2:1 describes “false prophets” who “secretly introduce destruct
 20\. 1Jn. 3:6-10.<br>
 21\. 1Jn. 5:18.
 </small>
+
+<!-- abide
+the will of god -->
 
 <p style="text-indent:2em;">
 A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>22</sup> and yet nothing is impossible for God.<sup>23</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>24</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup></p>
@@ -142,7 +148,8 @@ A person who claims Christianity but denies repentance has likely apostatized, f
 <li><em>Filament study: New living translation</em>. (2015). Tyndale House Publishers.</li>
 <li>Lennox, J. C. (2017). <em>Determined to believe?</em>. Zondervan.</li>
 <li>Packer, J. I. (2020). <em>Concise theology</em> (ESV ed.). Crossway.</li>
-<li>Smith, C. (2015, June 1). C2000 series (Chuck Smith archives). <em>Calvary Chapel</em>. https://calvarychapel.com/posts/c2000/</li>
+<li>Smith, C. (2015a, June 1). C2000 series (Chuck Smith archives). <em>Calvary Chapel</em>. https://calvarychapel.com/posts/c2000/</li>
+<li>Smith, C. (2015b, December 28). <em>Repentance, Matthew 3:8 - Pastor Chuck Smith - Topical Bible Study</em> [Video]. YouTube. https://youtu.be/kP8rIIps4Sk?t=130</li>
 <li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. Youtube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
 <li>The Order of Light. (2024, October 2). <em>New hampshire baptist confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
 </ul>
