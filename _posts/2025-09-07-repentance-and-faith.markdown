@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 04:00:00 -0500
+date: 2025-09-07 04:05:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -42,7 +42,7 @@ sup {
 
 
 <p style="text-indent:2em;">
-Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance.<sup>3</sup> It is described as a God given<sup>4</sup> contrition that leads to salvation<sup>5</sup> and the forgiveness of sins.<sup>6</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:</p>
+Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance.<sup>3</sup> For many are called to repentance and faith, but few are chosen. It is described as a God given<sup>4</sup> contrition that leads to salvation<sup>5</sup> and the forgiveness of sins.<sup>6</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:</p>
 
 <blockquote>
 Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke (Filament Study, 2015, 2Cor. 7:10).
@@ -57,8 +57,10 @@ Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance lead
 6\. Luk. 24:47; Ac. 2:38; 3:19; 5:31.
 </small>
 
+<!-- perpetually unrepentant -->
+
 <p style="text-indent:2em;">
-The perpetually unrepentant<sup>7</sup> will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. J. I. Packer (2020), who earned his Ph.D. from the University of Oxford, articulates:</p>
+Those who practice lifestyles of sin&mdash;the perpetually unrepentant<sup>7</sup>&mdash;will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. J. I. Packer (2020), who earned his Ph.D. from the University of Oxford, articulates:</p>
 
 <blockquote>
 The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion (p. 177).
@@ -129,6 +131,7 @@ the will of god
 
 > My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children (ESV Study Bible, 2008, Hosea 4:6).
 
+persecuted for wanting to live a holy life
 -->
 
 <p style="text-indent:2em;">
