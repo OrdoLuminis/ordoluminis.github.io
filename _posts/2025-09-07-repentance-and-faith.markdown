@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 04:05:00 -0500
+date: 2025-09-07 04:15:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -42,7 +42,7 @@ sup {
 
 
 <p style="text-indent:2em;">
-Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance.<sup>3</sup> For many are called to repentance and faith, but few are chosen. It is described as a God given<sup>4</sup> contrition that leads to salvation<sup>5</sup> and the forgiveness of sins.<sup>6</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:</p>
+Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance,<sup>3</sup> and while many are called to repentance and faith, few are chosen to recieve it.<sup>4</sup> Repentance is described as a God given<sup>5</sup> contrition that leads to salvation<sup>6</sup> and the forgiveness of sins.<sup>7</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:</p>
 
 <blockquote>
 Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke (Filament Study, 2015, 2Cor. 7:10).
@@ -52,15 +52,16 @@ Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance lead
 1\. Mt. 3:8-10.<br>
 2\. Gal. 5:22-23; Jn 15:4-5; 1Cor. 3:6-7.<br>
 3\. Ac. 3:19-20,26; 26:20; Re. 2:5.<br>
-4\. Ac. 11:18; 2Tim. 2:25.<br>
-5\. 2Cor. 7:10.<br>
-6\. Luk. 24:47; Ac. 2:38; 3:19; 5:31.
+4\. Matt. 22:14; John 6:44; 15:16; Eph. 1:4-5.<br>
+5\. Ac. 11:18; 2Tim. 2:25.<br>
+6\. 2Cor. 7:10.<br>
+7\. Luk. 24:47; Ac. 2:38; 3:19; 5:31.
 </small>
 
 <!-- perpetually unrepentant -->
 
 <p style="text-indent:2em;">
-Those who practice lifestyles of sin&mdash;the perpetually unrepentant<sup>7</sup>&mdash;will not enter the Kingdom of Heaven;<sup>8</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>9</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>10</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>9,3</sup> Dr. J. I. Packer (2020), who earned his Ph.D. from the University of Oxford, articulates:</p>
+Those who practice lifestyles of sin&mdash;the perpetually unrepentant<sup>8</sup>&mdash;will not enter the Kingdom of Heaven;<sup>9</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>10</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>11</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>10,3</sup> Dr. J. I. Packer (2020), who earned his Ph.D. from the University of Oxford, articulates:</p>
 
 <blockquote>
 The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion (p. 177).
@@ -70,14 +71,14 @@ The idea that there can be saving faith without repentance, and that one can be 
 > &mdash; [Dr. J. I. Packer](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford). Concise Theology, 60. Repentance. Time Magazine top 25 evangelical. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). -->
 
 <small>
-7\. Luk. 13:3.<br>
-8\. Matt. 18:3; Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Luk 9:62.<br>
-9\. John 3:3; 1John 3:9.<br>
-10\. 2Cor. 5:17; Gal. 6:15.
+8\. Luk. 13:3.<br>
+9\. Matt. 18:3; Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Luk 9:62.<br>
+10\. John 3:3; 1John 3:9.<br>
+11\. 2Cor. 5:17; Gal. 6:15.
 </small>
 
 <p style="text-indent:2em;">
-Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>11</sup> Justification is by faith alone,<sup>12</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Pastor Chuck Smith, corrects with strong warning:</p>
+Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience.<sup>12</sup> Justification is by faith alone,<sup>13</sup> but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Pastor Chuck Smith, corrects with strong warning:</p>
 
 <blockquote>
 If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <span style="font-weight:bold;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015a; 1Jn 3:6-8).
@@ -90,26 +91,26 @@ Do not be deceived, if you are walking after the flesh and involved in the thing
 </blockquote>
 
 <small>
-11\. Ac 17:30; 1Jn 2:3-6; Jn 14:15,21; 15:10;Heb. 5:9; 1Jn 5:3-4.<br>
-12\. Ro. 3:28; Eph. 2:8-10.
+12\. Ac 17:30; 1Jn 2:3-6; Jn 14:15,21; 15:10;Heb. 5:9; 1Jn 5:3-4.<br>
+13\. Ro. 3:28; Eph. 2:8-10.
 </small>
 
 <p style="text-indent:2em;">
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>13</sup> and those who perish were never in Christ, for those who are in Christ are alive.<sup>14</sup> They honored God with their lips, but their hearts are far from Him.<sup>15</sup> Their faith is dead.<sup>16</sup> Dr. John C. Lennox (2017), Emeritus Professor of Mathematics at the University of Oxford, who earned his PhD in mathematics at the University of Cambridge, his DPhil at the University of Oxford by incorporation, and his DSc in mathematics at Cardiff University for his research, elucidates John 8:31–47:</p>
+So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>14</sup> and those who perish were never in Christ, for those who are in Christ are alive.<sup>15</sup> They honored God with their lips, but their hearts are far from Him.<sup>16</sup> Their faith is dead.<sup>17</sup> Dr. John C. Lennox (2017), Emeritus Professor of Mathematics at the University of Oxford, who earned his PhD in mathematics at the University of Cambridge, his DPhil at the University of Oxford by incorporation, and his DSc in mathematics at Cardiff University for his research, elucidates John 8:31–47:</p>
 
 <blockquote>
 Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by its fruit in the lives of those who profess it. It is not a superficial thing. ... Genuine faith perseveres (p. 218). Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. ... That is, the development of visible Christian moral virtues in a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer (p. 313).
 </blockquote>
 
 <small>
-13\. Luk. 13:3.<br>
-14\. Matt. 22:32.<br>
-15\. Matt. 15:8-9.<br>
-16\. Jas. 2:14-26.
+14\. Luk. 13:3.<br>
+15\. Matt. 22:32.<br>
+16\. Matt. 15:8-9.<br>
+17\. Jas. 2:14-26.
 </small>
 
 <p style="text-indent:2em;">
-These are they that accumulate false teachers who entice them with new teachings<sup>17</sup> that cause them to fall into debauchery<sup>18</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>19</sup> Everyone has sin,<sup>20</sup> but not everyone pursues lifestyles of indulgent sin.<sup>21</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>22</sup> Dr. Bruce Demarest (2006), a PhD graduate of the University of Manchester, delineates:</p>
+These are they that accumulate false teachers who entice them with new teachings<sup>18</sup> that cause them to fall into debauchery<sup>19</sup> and abuse the precious grace of our God by twisting it into a license to sin.<sup>20</sup> Everyone has sin,<sup>21</sup> but not everyone pursues lifestyles of indulgent sin.<sup>22</sup> Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;practices&rdquo; sin, because the Son of God holds them securely, and the evil one cannot touch them.<sup>23</sup> Dr. Bruce Demarest (2006), a PhD graduate of the University of Manchester, delineates:</p>
 
 <blockquote>
 Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b) (p. 457-8).
@@ -118,12 +119,12 @@ Second Pet 2:1 describes “false prophets” who “secretly introduce destruct
 <!-- Vv. 18b-19 turns to professing converts who were deceived by the false teachers. The subjects of vv. 20-22 have been interpreted either as the false teachers (Alford, Mayor, Cranfield, Mounce, Green, Kistemaker) or as the new converts entrapped by the false teachers (Bengel, Bigg, Kelly, Moffatt). -->
 
 <small>
-17\. 2Tim. 4:3-4.<br>
-18\. 2Pet. 2:1-2.<br>
-19\. Jud. 4.<br>
-20\. 1Jn. 1:8–10.<br>
-21\. 1Jn. 3:6-10.<br>
-22\. 1Jn. 5:18.
+18\. 2Tim. 4:3-4.<br>
+19\. 2Pet. 2:1-2.<br>
+20\. Jud. 4.<br>
+21\. 1Jn. 1:8–10.<br>
+22\. 1Jn. 3:6-10.<br>
+23\. 1Jn. 5:18.
 </small>
 
 <!-- abide
@@ -135,12 +136,12 @@ persecuted for wanting to live a holy life
 -->
 
 <p style="text-indent:2em;">
-A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>23</sup> and yet nothing is impossible for God.<sup>24</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>25</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>5</sup></p>
+A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>24</sup> and yet nothing is impossible for God.<sup>25</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>26</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>6</sup></p>
 
 <small>
-23\. Heb. 6:4-6; 10:26-31.<br>
-24\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
-25\. Matt. 18:12-14; Luk. 15:4-7.
+24\. Heb. 6:4-6; 10:26-31.<br>
+25\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
+26\. Matt. 18:12-14; Luk. 15:4-7.
 </small>
 
 <br>
