@@ -1,10 +1,10 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 04:15:00 -0500
+date: 2025-09-07 04:20:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
