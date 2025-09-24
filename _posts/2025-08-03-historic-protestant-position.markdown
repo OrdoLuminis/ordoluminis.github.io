@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 04:25:00 -0500
+date: 2025-08-03 04:30:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -52,16 +52,17 @@ The Order of Light recognizes the Historic Protestant position.
 flowchart TD
     A(((The Relation of Faith and Works)))
     A -->B(Legalism):::red
-    A -->C(Antinomianism):::red
-    A ==>D(Protestantism):::green
-    B -->|Justification by Works| E(<strong>Pharisaic Legalism</strong><br>&lpar;Judaism&rpar;):::red
-    B -->|Faith &ldquo;Includes&rdquo; Works<br>Faith &ldquo;Plus&rdquo; Works| F(<strong>Judaizing Legalism</strong><br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
-    C -->|Dead Faith &lpar;Assent&rpar;<br>Unregenerate| G(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;):::red
-    D -->|Living Faith &lpar;Trust&rpar;<br>Faith &ldquo;Results&rdquo; in Fruit by Human Response| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::blue
-    D ==>|Living Faith &lpar;Trust&rpar;<br>Faith &ldquo;Results&rdquo; in Fruit by the Holy Spirit| I(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A ==>C(Protestantism):::green
+    A -->D(Antinomianism):::red
+    B -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace.| E(<strong>Pharisaic Legalism</strong><br>&lpar;Judaism&rpar;):::red
+    B -->|Faith &ldquo;Includes&rdquo; Works.<br>Faith &ldquo;Plus&rdquo; Works.<br>Severed from Christ,<br>fallen from grace.| F(<strong>Judaizing Legalism</strong><br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
+    C -->|Living Faith &lpar;trust&rpar;.<br>Prevenient grace enabled human response and perseverance as &ldquo;resulting&rdquo; fruit.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::orange
+    C ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| I(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
+    D -->|Dead faith &lpar;assent&rpar;<br>Unregenerate| G(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Liberal&rpar;):::red
     classDef red stroke:#f00
     classDef green stroke:#0f0
-    classDef blue stroke:#fa5
+    classDef lightgreen stroke:#Bf0
+    classDef orange stroke:#fa5
 ```
 
 
@@ -95,6 +96,15 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 </ol>
 
 ## I. Consensus Among Historic Creeds and Confessions of Protestantism
+
+```mermaid
+flowchart TD
+    A(((Protestantism))):::green
+    A -->|Living Faith &lpar;trust&rpar;.<br>Prevenient grace enabled human response and perseverance as &ldquo;resulting&rdquo; fruit.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::orange
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| I(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
+    classDef green stroke:#0f0
+    classDef orange stroke:#fa5
+```
 
 ### 1.1 Reformed Baptist & Presbyterian
 
