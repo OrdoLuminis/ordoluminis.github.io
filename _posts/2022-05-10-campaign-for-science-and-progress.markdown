@@ -1,12 +1,13 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:45:00 -0500
+date: 2022-05-10 04:50:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: True
+pin: true
+mermaid: true
 ---
 
 <!-- <style>
@@ -58,7 +59,19 @@ Christians have established a formidable presence in the realm of science, a tri
 
 <!-- > “Select only strong, healthy, and good-looking young men,” he said. **“Make sure they are well versed in every branch of learning, are gifted with knowledge and good judgment**, and are suited to serve in the royal palace. Train these young men in the language and literature of Babylon.[a]” 5 The king assigned them a daily ration of food and wine from his own kitchens. They were to be trained for three years, and then they would enter the royal service (New Living Translation, 2015, Dan. 1:4-5). -->
 
-![christians-dominate-the-sciences.png](/assets/images/science/christians-dominate-the-sciences.png)
+<!-- # ![christians-dominate-the-sciences.png](/assets/images/science/christians-dominate-the-sciences.png) -->
+
+```mermaid
+pie
+"Christians" : 65.4
+"Jewish" : 21.1
+"Atheist and Agnostic" : 7
+"Freethinker" : 3.4
+"Buddhist" : 1.1
+"Muslim" : 0.8
+"Hindu" : 0.7
+"Others" : 0.6
+```
 
 <!-- According to 100 Years of Nobel Prize (2005), a review of Nobel prizes awarded between 1901 and 2000, 65.4% of Nobel Prize Laureates have identified Christianity as their religious preference (427 prizes). Overall, Christians have won a total of 78.3% of all the Nobel Prizes in Peace, 72.5% in Chemistry, 65.3% in Physics, 62% in Medicine, 54% in Economics. -->
 
