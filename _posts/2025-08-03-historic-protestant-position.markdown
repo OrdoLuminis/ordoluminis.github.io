@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 04:20:00 -0500
+date: 2025-08-03 04:25:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -51,12 +51,14 @@ The Order of Light recognizes the Historic Protestant position.
 ```mermaid
 flowchart TD
     A(((The Relation of Faith and Works)))
-    A -->B(Heresy):::red
-    A ==>C(Protestantism):::green
-    B -->|Justification by Works| D(Legalism<br>&lpar;Judaism&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
-    B -->|Dead Faith &lpar;Assent&rpar;<br>Unregenerate| G(Antinomianism<br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;):::red
-    C -->|Faith &ldquo;Includes&rdquo; Works<br>Faith &ldquo;Plus&rdquo; Works| E(Synergism<br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::blue
-    C ==>|Living Faith &lpar;Trust&rpar;<br>Faith &ldquo;Results&rdquo; in Fruit| F(Monergism<br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A -->B(Legalism):::red
+    A -->C(Antinomianism):::red
+    A ==>D(Protestantism):::green
+    B -->|Justification by Works| E(<strong>Pharisaic Legalism</strong><br>&lpar;Judaism&rpar;):::red
+    B -->|Faith &ldquo;Includes&rdquo; Works<br>Faith &ldquo;Plus&rdquo; Works| F(<strong>Judaizing Legalism</strong><br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
+    C -->|Dead Faith &lpar;Assent&rpar;<br>Unregenerate| G(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;):::red
+    D -->|Living Faith &lpar;Trust&rpar;<br>Faith &ldquo;Results&rdquo; in Fruit by Human Response| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::blue
+    D ==>|Living Faith &lpar;Trust&rpar;<br>Faith &ldquo;Results&rdquo; in Fruit by the Holy Spirit| I(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef blue stroke:#fa5
