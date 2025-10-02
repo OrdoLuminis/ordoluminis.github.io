@@ -1,6 +1,6 @@
 ---
 title: "Identifying the Cults & Heretical Sects"
-date: 2024-12-25 02:55:00 -0500
+date: 2024-12-25 03:00:00 -0500
 categories: [Theology, Heresy]
 tags: [cult, heresy, sect] # TAG names should always be lowercase
 author: grand_master
@@ -178,7 +178,7 @@ One could say that progressive forms of christianity  -->
 
 1\. Dr. J. I. Packer (PhD, University of Oxford). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-### <a name="judaizing" href="#contents">3.2 Judaizing Legalism (i.e. Synergism)</a>
+### <a name="judaizing" href="#contents">3.2 Judaizing Legalism</a>
 
 <!-- ![plus](/assets/meme/mormon-meme.jpg) -->
 
