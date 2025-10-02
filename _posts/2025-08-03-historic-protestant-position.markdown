@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 04:50:00 -0500
+date: 2025-08-03 04:55:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -49,22 +49,22 @@ sup {
 The Order of Light recognizes the Historic Protestant position.
 
 ```mermaid
-flowchart TD
-    A(((The Relation of Faith and Works)))
-    A -->B(Legalism):::red
-    A ==>C(Protestantism):::green
-    A -->D(Antinomianism):::red
-    B -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace.| E(<strong>Pharisaic Legalism</strong><br>&lpar;Judaism&rpar;):::red
-    B -->|Faith &ldquo;Includes&rdquo; Works.<br>Faith &ldquo;Plus&rdquo; Works.<br>Reversion to legalism, insult to Christ.| F(<strong>Judaizing Legalism</strong><br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
-    C -->|Living Faith &lpar;trust&rpar;.<br>Prevenient grace enabled human response and perseverance as &ldquo;resulting&rdquo; fruit.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::lightgreen
-    C ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| I(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
-    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| G(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Liberal&rpar;):::red
+flowchart LR
+    A(Protestantism):::green
+    B(Catholicism):::orange
+    C(Legalism):::red
+    D(Antinomianism):::red
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace and perseverance by faithful human efforts.| F(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::lightgreen
+    B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.|G(<strong>Synergism</strong>):::orange
+    C -->|Faith &ldquo;Includes&rdquo; Works.<br>Faith &ldquo;Plus&rdquo; Works.<br>Reversion to legalism, insult to Christ.| I(<strong>Judaizing Legalism</strong><br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
+    C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace.| H(<strong>Pharisaic Legalism</strong><br>&lpar;Judaism&rpar;):::red
+    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| J(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Liberal&rpar;):::red
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
+    classDef orange stroke:#fa5
 ```
-
-<!-- classDef orange stroke:#fa5 -->
 
 # On the Relation of Faith and Works
 
@@ -100,8 +100,8 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 ```mermaid
 flowchart TD
     A(((Protestantism<br>Sola Fide)))
-    A -->|Living Faith &lpar;trust&rpar;.<br>Prevenient grace enabled human response and perseverance as &ldquo;resulting&rdquo; fruit.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::lightgreen
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| I(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace and perseverance by faithful human efforts.| F(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;):::lightgreen
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
 ```
