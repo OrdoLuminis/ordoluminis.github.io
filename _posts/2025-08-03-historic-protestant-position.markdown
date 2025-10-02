@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 05:05:00 -0500
+date: 2025-08-03 05:15:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -46,7 +46,7 @@ sup {
 }
 </style>
 
-The Order of Light recognizes the Historic Protestant position.
+The Order of Light recognizes the Historic Protestant position. Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (see <a href="https://ordoluminis.com/posts/historic-protestant-position/#141-new-hampshire-baptist-confession-1833-statement-for-baptist-churches">creeds and confessions</a>). The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Assurance of salvation comes from a living faith.
 
 ```mermaid
 flowchart LR
