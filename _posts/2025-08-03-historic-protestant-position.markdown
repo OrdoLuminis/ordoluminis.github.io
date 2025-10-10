@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 05:25:00 -0500
+date: 2025-08-03 05:30:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -52,18 +52,19 @@ The Order of Light recognizes the Historic Protestant position. Justification is
 flowchart LR
     A(Protestantism):::green
     B(Catholicism):::orange
-    C(Legalism<br>&lpar;Heresy&rpar;):::red
-    D(Antinomianism<br>&lpar;Heresy&rpar;):::red
+    C(Heresy<br>&lpar;Cults&rpar;):::red
+    D(Rank Heresy<br>&lpar;Children of the Devil&rpar;):::firebrick
     A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by prevenient grace enabled faithful human efforts.| F(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::lightgreen
     B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.|G(<strong>Synergism</strong>):::orange
-    C -->|Faith &ldquo;Includes&rdquo; Works.<br>Faith &ldquo;Plus&rdquo; Works.<br>Reversion to legalism, insult to Christ.| I(<strong>Judaizing Legalism</strong><br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
+    C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| I(<strong>Judaizing Legalism</strong><br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
     C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace.| H(<strong>Pharisaic Legalism</strong><br>&lpar;Judaism&rpar;):::red
-    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| J(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent Gospel&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::red
+    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| J(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
     classDef orange stroke:#fa5
+    classDef firebrick stroke:#b22
 ```
 
 # On the Relation of Faith and Works
