@@ -1,12 +1,12 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 2:35:00 -0500
+date: 2025-02-08 2:40:00 -0500
 categories: [Rebuke, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <style>
@@ -54,7 +54,7 @@ Because it is our responsibility to rebuke those inside the church who are pract
 
 <!-- The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), where Jesus contrasts unrepentant Chorazin, Bethsaida, and Capernaum&mdash;cities where most of his miracles occurred&mdash;with the pagan cities Tyre and Sidon and even Sodom, saying those notorious pagans and idol‑worshipers would sooner show their remorse and turn from their sins in repentance than they would, had they seen such miracles. Even the pagans understand and react to these things! The practitioners of evil&mdash;encompassing the irreligious, unrepentant, and self-deceived&mdash;give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26): -->
 
-The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus' contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum&mdash;despite those cities witnessing most of his miracles. Even pagans respond; the practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.
+The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus' contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum&mdash;despite those cities witnessing most of his miracles. Even pagans understand these things; the practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.
 
 <blockquote>
 For where there is jealousy and selfishness, there is disorder and every evil <strong>practice</strong>. (NET Bible: Full Notes Edition, 2015, James 3:16).
