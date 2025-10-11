@@ -1,6 +1,6 @@
 ---
-title: "God Has Honored the Poor, Chosen Them to Be Rich With Faith, and to Inherit the Kingdom of Heaven"
-date: 2025-07-05 01:25:00 -0500
+title: "Listen to the Story of the Poor Wise Man"
+date: 2025-07-05 01:30:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, wisdom]
 author: seven_shepherd
@@ -9,9 +9,36 @@ comments: false
 pin: true
 ---
 
+<style>
+/* in your main CSS (e.g. assets/css/style.css) */
+.references {
+  padding: 0;
+  margin: 0;
+}
 
+.references li {
+  list-style: none;
+  margin-bottom: 1em;           /* space between entries */
+  padding-left: 1.5em;          /* amount of hanging indent */
+  text-indent: -1.5em;          /* pulls first line back */
+  line-height: 1.5;             /* nicer readability */
+}
 
-## Listen to the Story of the Poor Wise Man
+p.titles {
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  line-height: 2;
+}
+
+sup {
+  font-size: 0.6em;
+  font-weight: bold;
+}
+</style>
 
 <p style="text-indent:2em;">
 Without the modal nuance the story would say that he saved the city but that no one remembered him, whereas with the modal nuance it says, that he could have saved the city but they were destroyed for not listening. It seems like there is more consequence for ignoring wisdom with this approach, but either way, the wisdom of the poor is despised by the world. What do you think will happen if you keep disregarding the wisdom of the poor? (Prov. 29:1 NET). Personally, I enjoy the story with the modal nuance.</p>
@@ -20,15 +47,18 @@ Without the modal nuance the story would say that he saved the city but that no 
 >>
 >> g. Ecclesiastes 9:15 **tn** Or “he delivered.” The verb וּמִלַּט (umillat, from מָלַט, malat, “to deliver”) is functioning either in an indicative sense (past definite action: “he delivered”) or in a modal sense (past potential: “he could have delivered”). The literal meaning of זָכַר (zakhar, “to remember”) in the following line harmonizes with the indicative: “but no one remembered that poor man [afterward].” However, the modal is supported by v. 16: “A poor man’s wisdom is despised; no one ever listens to his advice.” This approach must nuance זָכַר (“to remember”) as “[no one] listened to [that poor man].” Most translations favor the indicative approach: “he delivered” or “he saved” (KJV, RSV, NRSV, NAB, ASV, NASB, MLB, NIV); however, some adopt the modal nuance: “he might have saved” (NEB, NJPS, NASB margin) (NET Bible, 2019, NOTES).
 
+
 <br>
 <hr>
 <br>
 
-<div style="text-align:center;font-weight: bold;">References</div>
+<div style="text-align:center;font-weight:bold;">References</div>
 
 <span></span>
 
-*NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
+<ul class="references">
+<li><em>NET Bible: Full notes edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
+</ul>
 
 <br>
 <hr>
