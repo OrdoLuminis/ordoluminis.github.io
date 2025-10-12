@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 05:40:00 -0500
+date: 2025-08-03 05:45:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -347,9 +347,11 @@ This cite is specific to his [**Systematic Theology, 2nd ed.**]() pp. 979-984.
 
 ## Conclusion
 
+The Order of Light holds to the most academically sound and historically time-tested theology known to Christendom&mdash;a monergistic soteriology, which rejects works-based forms of salvation and adheres to the biblically sound concept of sola fide, or justification by faith alone, which once justified or saved, always results in obedience to God by the indwelling of the Holy Spirit and His transformative power. Good works are the fruits of regeneration, they are not meritorious; the evidence of regeneration appears "in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Therefore, Christ justifies no one whom he does not at the same time sanctify.
+
 <!-- The Order of Light holds to a monergistic soteriology, which rejects works based forms of salvation, and holds to the biblically sound concept of sola fide or justification by faith alone, which once justified or saved, always results in obedience to God. Therefore, Christ justifies no one whom he does not at the same time sanctify.  -->
 
-The Order of Light holds to a monergistic soteriology, which rejects works-based forms of salvation and adheres to the biblically sound concept of sola fide, or justification by faith alone. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Therefore, Christ justifies no one whom He does not at the same time sanctify.
+<!-- The Order of Light holds to a monergistic soteriology, which rejects works-based forms of salvation and adheres to the biblically sound concept of sola fide, or justification by faith alone. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Therefore, Christ justifies no one whom He does not at the same time sanctify. -->
 
 <!-- This ministry holds to the most academically sound and historically time-tested theology known to Christendom. My position is known as the "historic Protestant" position which has been a sanctuary away from heresy for over 500 years. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. -->
 
