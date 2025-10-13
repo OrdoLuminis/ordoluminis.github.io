@@ -1,10 +1,10 @@
 ---
 title: "The Bible Equates Worry About Everyday Needs to the Faithless, the Pagans, and the Unbelievers"
-date: 2025-07-05 01:30:00 -0500
+date: 2025-07-05 01:35:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
