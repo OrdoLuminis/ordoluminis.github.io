@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 05:50:00 -0500
+date: 2025-08-03 05:55:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -56,20 +56,25 @@ The Order of Light recognizes the Historic Protestant position.
 flowchart LR
     A(Protestantism):::green
     B(Catholicism):::orange
-    C(Heresy<br>&lpar;Theological Cults&rpar;):::red
-    D(Apostasy):::red
-    E(Rank Heresy<br>&lpar;Children of the Devil&rpar;<br>&lpar;Slaves of Depravity&rpar;):::firebrick
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by the indwelling of the Holy Spirit.| F(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
-    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by prevenient grace enabled faithful human efforts.| G(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::lightgreen
-    B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.|H(<strong>Synergism</strong>):::orange
-    C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| I(<strong>Judaizing Legalism</strong><br>&lpar;Judaizers&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
-    D -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>&lpar;Gal. 5:4&rpar;.| J(<strong>Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan—Smyrnaean Jews who Rejected their Messiah<br>Re.2:9; 1Thess. 2:14-16&rpar;<br>&lpar;Pharisees&rpar;<br>&lpar;Sadducees&rpar;<br>&lpar;Rabbinic Judaism<br>Acts 7:43; Amos 5:26-27&rpar;):::red
-    E -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| K(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
+    C(Heresy of Legalism<br>&lpar;Theological Cults&rpar;):::red
+    D(Heresy of Antinomianism<br>&lpar;Children of the Devil&rpar;<br>&lpar;Slaves of Depravity&rpar;):::firebrick
+    E(Apostasy<br>&lpar;Repent or Perish&rpar;):::darkred
+    F(Total & Final Apostasy<br>&lpar;The Unforgivable Sin&rpar;):::darkerred
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::lightgreen
+    B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.| I(<strong>Synergism</strong>):::orange
+    C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>&lpar;Judaizers&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
+    C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>&lpar;Gal. 5:4&rpar;.| K(<strong>Pharisaic Legalism</strong><br>&lpar;Pharisees&rpar;<br>&lpar;Sadducees&rpar;<br>&lpar;Rabbinic Judaism<br>Acts 7:43; Amos 5:26-27&rpar;):::red
+    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| L(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
+    E -->|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo;<br>&lpar;1Cor. 1:18&rpar;| M(<strong>Apostasy & Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan—Smyrnaean Jews who Rejected their Messiah<br>Re.2:9; 1Thess. 2:14-16&rpar;):::darkred
+    F -->|&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo;<br>&lpar;Matt. 7:23; Lk. 13:27&rpar;| N(<strong>True Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10;):::darkerred
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
     classDef orange stroke:#fa5
     classDef firebrick stroke:#b22
+    classDef darkred stroke:#8B0000
+    classDef darkerred stroke:#701705
 ```
 
 <p style="text-indent:2em;">
