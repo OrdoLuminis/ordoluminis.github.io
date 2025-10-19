@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 05:45:00 -0500
+date: 2025-08-03 05:50:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -46,28 +46,31 @@ sup {
 }
 </style>
 
-The Order of Light recognizes the Historic Protestant position. Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (see <a href="https://ordoluminis.com/posts/historic-protestant-position/#141-new-hampshire-baptist-confession-1833-statement-for-baptist-churches">creeds and confessions</a>). The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Assurance of salvation comes from a living faith.
+The Order of Light recognizes the Historic Protestant position.
+
+<!-- Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (see <a href="https://ordoluminis.com/posts/historic-protestant-position/#141-new-hampshire-baptist-confession-1833-statement-for-baptist-churches">creeds and confessions</a>). The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Assurance of salvation comes from a living faith. -->
+
+# On the Relation of Faith and Works
 
 ```mermaid
 flowchart LR
     A(Protestantism):::green
     B(Catholicism):::orange
     C(Heresy<br>&lpar;Theological Cults&rpar;):::red
-    D(Rank Heresy<br>&lpar;Children of the Devil&rpar;<br>&lpar;Slaves of Depravity&rpar;):::firebrick
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
-    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by prevenient grace enabled faithful human efforts.| F(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::lightgreen
-    B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.|G(<strong>Synergism</strong>):::orange
+    D(Apostasy):::red
+    E(Rank Heresy<br>&lpar;Children of the Devil&rpar;<br>&lpar;Slaves of Depravity&rpar;):::firebrick
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by the indwelling of the Holy Spirit.| F(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing and perseverance by prevenient grace enabled faithful human efforts.| G(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::lightgreen
+    B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.|H(<strong>Synergism</strong>):::orange
     C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| I(<strong>Judaizing Legalism</strong><br>&lpar;Judaizers&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
-    C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>&lpar;Gal. 5:4&rpar;.| H(<strong>Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan known as Judaism<br>Re.2:9; 1Thess. 2:14-16&rpar;):::red
-    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| J(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
+    D -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>&lpar;Gal. 5:4&rpar;.| J(<strong>Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan—Smyrnaean Jews who Rejected their Messiah<br>Re.2:9; 1Thess. 2:14-16&rpar;<br>&lpar;Pharisees&rpar;<br>&lpar;Sadducees&rpar;<br>&lpar;Rabbinic Judaism<br>Acts 7:43; Amos 5:26-27&rpar;):::red
+    E -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| K(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
     classDef orange stroke:#fa5
     classDef firebrick stroke:#b22
 ```
-
-# On the Relation of Faith and Works
 
 <p style="text-indent:2em;">
 The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
