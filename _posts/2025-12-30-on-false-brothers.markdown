@@ -1,6 +1,6 @@
 ---
 title: "On False Brothers and Why I Never Quit on Christ and Kept Going"
-date: 2025-12-30 01:25:00 -0500
+date: 2025-12-30 01:30:00 -0500
 categories: [Meditations, Perseverance]
 tags: [faith, perseverance]
 author: seven_shepherd
@@ -66,6 +66,14 @@ I have traveled on many long journeys. I have faced danger from rivers and from 
 1\. Matt. 6:25-32; 8:20; 10:29-31; 25:40; Jas. 1:9-11; 2:5; Ecc. 9:13-16; Pr. 11:4; Ps. 9:12<br>
 2\. Pr. 17:13; Ps. 41:9-10; 55:12-14
 </small>
+
+## The Chronicle of the Dying Father
+
+<p style="text-indent:2em;">As his father lay upon the deathbed, He bore witness to the abyss of total depravity: as those who falsely wore the mantle of light revealed themselves as liars, full of darkness, reveling in the man's suffering, perversely and fanatically proclaiming his father's illness a divine retribution for daring to question their twisted, blasphemous, and heretical doctrine&mdash;a dogma of devils that masqueraded as faith yet was in reality a grotesque perversion of truth.
+
+The weight of humiliation and degradation pressed upon him, and the embers of anger ignited within his soul; every cowardly sneer and whispered condemnation from those who cloaked themselves in false piety stung like a thousand needles, deepening the wounds of his father's suffering. Yet, in that crucible of despair, a fierce resolve begain to take shape. He would no longer remain a silent witness to their hypocrisy; he would rise from the ashes of his pain, fueled to action by their treachery, the very air around him crackling with a newfound intensity as if the universe itself conspired to help him. He envisioned a reckoning&mdash;a fiery purge of their heretical teachings that pretended to be light. With each heartbeat, his determination solidified, transforming grief into a weapon to dismantle the twisted beliefs that had wrought so much pain. He would not rest until their false light was extinguished and the truth&mdash;his father's truth&mdash;shone brightly in its place.
+
+As he knelt in fervent prayer, a divine miracle unfolded before his eyes: his father, once burdened by affliction, was restored to health by God himself. Now, lifting his voice to the heavens, he beseeched the Holy Father to vindicate his spirit to grant him unwavering strength to obliterate every heresy that distorts the truth. He was so consumed by righteous fury&mdash;so ignited that he confronted and crushed the falsehoods that threatened to lead God's people astray. He stood as a burning beacon of truth, championing the purity of God's word and striking down each deception that dared rise against the Almighty; his enemies learned the cost of defiance as plots unraveled and proud men were ground to dust. Victory had been ordained before the foundations of the earth. He rose, and consequence followed those who opposed the righteous.</p>
 
 ## The Cautionary Tale of Unrighteous Rebecca
 
