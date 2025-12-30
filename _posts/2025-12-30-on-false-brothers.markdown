@@ -1,6 +1,6 @@
 ---
 title: "On False Brothers and Why I Never Quit on Christ and Kept Going"
-date: 2025-12-30 01:20:00 -0500
+date: 2025-12-30 01:25:00 -0500
 categories: [Meditations, Perseverance]
 tags: [faith, perseverance]
 author: seven_shepherd
@@ -52,7 +52,7 @@ I have observed something else under the sun. The fastest runner doesn’t alway
 
 ## The Tale of the Unyielding Servant
 
-<p style="text-indent:2em;">In the annals of mortal striving there lived a man whose very name became synonymous with relentless toil. He was the hardest worker the world had ever known, and his deeds shone in every arena he entered: he forged his body through ceaseless exercise, each rep a testament to perseverance; for twenty long years he walked the ascetic path,<sup style="font-weight:bold;">1</sup> denying comfort to draw nearer to the Divine; as an autodidact he devoured knowledge as a ravenous fire and later mastered formal education, conquering both self‑directed study and institutional learning; and at last he rose to the lofty rank of a four‑point physicist, his mind probing the very fabric of creation. The Lord, seeing such devotion, blessed him abundantly, and the blessings continued to flow like a river unbroken.
+<p style="text-indent:2em;">In the annals of mortal striving there lived a man whose very name became synonymous with relentless toil. He was the hardest worker the world had ever known, and his deeds shone in every arena he entered: he forged his body through ceaseless exercise, each movement a quiet testament to his perseverance; for twenty long years he walked the ascetic path,<sup style="font-weight:bold;">1</sup> denying comfort to draw nearer to the Divine; as an autodidact he devoured knowledge as a ravenous fire and later mastered formal education, conquering both self‑directed study and institutional learning; and at last he rose to the lofty rank of scientist, his mind probing the very fabric of creation. The Lord, seeing such devotion, blessed him abundantly, and the blessings continued to flow like a river unbroken.
 
 Yet, the seed of his early ascetic choice sprouted a hidden thicket of financial strain. In his youth he had traded worldly wealth for spiritual riches, and the ledger of his life bore the weight of that sacrifice. As years turned to wisdom, his understanding outpaced that of his peers, and he sought to stabilize his finances&mdash;not merely for himself, but to lift a dear friend into retirement. The success of this venture sparked a tempest among those he called family and friends: jealousy, anger, and resentment swirled like a dark storm. When the treasure was stolen, the very same faces that once smiled now attacked him viciously, as if they had been waiting for his fall since the dawn of time. The betrayers&mdash;the faithless, the quitters, the greedy, the intolerant&mdash;were men he had once prayed would return to the fold of Christianity; their swords were sharp, their words sharper, and they struck him down with the cruelty of those who had never known mercy.
 
