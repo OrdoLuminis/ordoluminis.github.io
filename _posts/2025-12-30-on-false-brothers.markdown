@@ -1,8 +1,8 @@
 ---
 title: "On False Brothers and Why I Never Quit on Christ and Kept Going"
-date: 2025-12-30 01:15:00 -0500
+date: 2025-12-30 01:20:00 -0500
 categories: [Meditations, Perseverance]
-tags: [faith, perseverance, reformed, calvinism]
+tags: [faith, perseverance]
 author: seven_shepherd
 published: true
 comments: false
