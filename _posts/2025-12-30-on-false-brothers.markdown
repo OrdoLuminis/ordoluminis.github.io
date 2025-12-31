@@ -1,6 +1,6 @@
 ---
 title: "On False Brothers and Why I Never Quit on Christ and Kept Going"
-date: 2025-12-30 01:30:00 -0500
+date: 2025-12-30 01:35:00 -0500
 categories: [Meditations, Perseverance]
 tags: [faith, perseverance]
 author: seven_shepherd
@@ -75,9 +75,17 @@ The weight of humiliation and degradation pressed upon him, and the embers of an
 
 As he knelt in fervent prayer, a divine miracle unfolded before his eyes: his father, once burdened by affliction, was restored to health by God himself. Now, lifting his voice to the heavens, he beseeched the Holy Father to vindicate his spirit to grant him unwavering strength to obliterate every heresy that distorts the truth. He was so consumed by righteous fury&mdash;so ignited that he confronted and crushed the falsehoods that threatened to lead God's people astray. He stood as a burning beacon of truth, championing the purity of God's word and striking down each deception that dared rise against the Almighty; his enemies learned the cost of defiance as plots unraveled and proud men were ground to dust. Victory had been ordained before the foundations of the earth. He rose, and consequence followed those who opposed the righteous.</p>
 
+<blockquote>
+so that you may be like your Father in heaven, since he causes the sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous (NET Bible, 2019, Matt. 5:45).
+</blockquote>
+
 ## The Cautionary Tale of Unrighteous Rebecca
 
 <p style="text-indent:2em;">I would like to share with you another story, as many claim the name of Christ yet stray far from His teachings: there exists a cautionary tale shrouded in mystery, the tale of unrighteous Rebecca&mdash;a Rebecca in name only. She was a figure of self‑righteousness, so consumed by her own pride that she failed to recognize the grace extended to her by the very Savior she professed to follow. Among the most troubling of her transgressions was her refusal to forgive those whom Christ had already forgiven. In her heart, envy festered like a dark shadow, particularly towards a humble saint who had turned from his past sins. This saint, though impoverished, was gifted with remarkable talents that ignited a fire of jealousy within her. Unable to bear his light, she embarked on a relentless campaign to undermine him, sowing discord and destroying the bonds of friendship he had forged. Time passed, and the saint, ever hopeful, reached out to her in friendship, only to be met with her cold disdain, bitter scorn, and poisonous hatred. Years of verbal degradation and humiliation ensued, until one day, the saint mysteriously vanished, leaving behind only whispers of his existence. Yet, unbeknownst to unrighteous Rebecca, the heavens were watching. God, in His infinite wisdom, remembered her unforgiving heart. In a twist of fate, God granted the saint a ministry of his own, a testament to his redemption. God recalled how she had belittled his intellect, and in response, bestowed upon him great brilliance and renown. God remembered her mockery of his frailty when he was weak from sickness, and so He transformed him, restoring his health and strength in a manner that astonished everyone. Thus, the tale unfolds&mdash;Beware the fate that befell unrighteous Rebecca. Let her story echo through the ages as a haunting warning about the perils of envy and unforgiveness, lest one unwittingly treads a similar path to embarrassment and destruction.</p>
+
+<blockquote>
+By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother (ESV Study Bible, 2008, 1Jn. 3:10).
+</blockquote>
 
 <!-- ## Conclusion -->
 
@@ -127,6 +135,8 @@ Calvinists view perseverance through the lens of divine monergism, which is divi
 <span></span>
 
 <ul class="references">
+<li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+<li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 </ul>
 
