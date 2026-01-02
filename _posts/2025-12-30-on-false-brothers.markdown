@@ -1,6 +1,6 @@
 ---
 title: "On False Brothers and Why I Never Quit on Christ and Kept Going"
-date: 2025-12-30 01:50:00 -0500
+date: 2025-12-30 01:55:00 -0500
 categories: [Meditations, Perseverance]
 tags: [faith, perseverance]
 author: seven_shepherd
@@ -64,7 +64,21 @@ God blesses those who patiently endure testing and temptation. Afterward they wi
 Don’t be afraid of what you are about to suffer. The devil will throw some of you into prison to test you. You will suffer for ten days. But if you remain faithful even when facing death, I will give you the crown of life (New Living Translation, 2015, Rev. 2:10).
 </blockquote> -->
 
-<p style="text-indent:2em;"> The following stories are based on real events and are presented as cautionary tales. A true Christian will endure similar things during their walk with Christ. Keep in mind that the wheat and the tares will grow together until the time of the end when the reapers sift the tares&mdash;sons of the evil one who impersonate Christians, also known as children of the devil (1Jn 3:4-10)&mdash;and cast them into everlasting fire (Matt. 13:24-30; 13:36-43). Remember that you will be hated by everyone because you are a follower of Christ (Mk 13:13; Matt. 10:22; 24:13), who preached repentance as a turn (Acts 3:26) and accused the world of doing evil (Jn 7:7)&mdash;and rightfully so. Finally, remember that only he who endures till the end will be saved (Rev. 2:10; Jas. 1:12). This endurance is a fruit and evidence of genuine faith (2Cor. 13:5), and the Holy Spirit will lead us to the will of God (Matt. 7:21). We're justified by faith alone (Rom. 3:28; Eph. 2:8–10), but the faith that saves is never alone in the person justified (Jas. 2:14–26); it always results in the fruits of the faith (Jn. 15:4-5):</p>
+<p style="text-indent:2em;"> The following stories are based on real events and are presented as cautionary tales. A true Christian will endure similar things during their walk with Christ. Keep in mind that the wheat and the tares will grow together until the time of the end when the reapers sift the tares&mdash;sons of the evil one who impersonate Christians, also known as children of the devil<sup style="font-weight:bold;">1</sup>&mdash;and cast them into everlasting fire<sup style="font-weight:bold;">2</sup>. Remember that you will be hated by everyone because you are a follower of Christ<sup style="font-weight:bold;">3</sup>, who preached repentance as a turn<sup style="font-weight:bold;">4</sup> and accused the world of doing evil<sup style="font-weight:bold;">5</sup>&mdash;and rightfully so. Finally, remember that only he who endures till the end will be saved.<sup style="font-weight:bold;">6</sup> This endurance is a fruit and evidence of genuine faith,<sup style="font-weight:bold;">7</sup> and the Holy Spirit will lead us to the will of God.<sup style="font-weight:bold;">8</sup> We're justified by faith alone,<sup style="font-weight:bold;">9</sup> but the faith that saves is never alone in the person justified;<sup style="font-weight:bold;">10</sup> it always results in the fruits of the faith:<sup style="font-weight:bold;">11</sup></p>
+
+<small>
+1\. 1Jn 3:4-10<br>
+2\. Matt. 13:24-30; 13:36-43<br>
+3\. Mk 13:13; Matt. 10:22; 24:13<br>
+4\. Acts 3:26<br>
+5\. Jn. 7:7<br>
+6\. Rev. 2:10; Jas. 1:12<br>
+7\. 2Cor. 13:5<br>
+8\. Matt. 7:21<br>
+9\. Rom. 3:28; Eph. 2:8-10<br>
+10\. Jas. 2:14-26<br>
+11\. Jn. 15:4-5<br>
+</small>
 
 ## The Tale of the Unyielding Servant
 
