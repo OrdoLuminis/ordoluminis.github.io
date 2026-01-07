@@ -1,10 +1,10 @@
 ---
 title: "On False Brothers"
-date: 2025-12-30 02:35:00 -0500
+date: 2025-12-30 02:40:00 -0500
 categories: [Meditations, Perseverance]
 tags: [faith, perseverance]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
