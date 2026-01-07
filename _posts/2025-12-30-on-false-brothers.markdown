@@ -1,6 +1,6 @@
 ---
 title: "On False Brothers"
-date: 2025-12-30 02:30:00 -0500
+date: 2025-12-30 02:35:00 -0500
 categories: [Meditations, Perseverance]
 tags: [faith, perseverance]
 author: seven_shepherd
@@ -66,11 +66,15 @@ Don’t be afraid of what you are about to suffer. The devil will throw some of 
 
 <p style="text-indent:2em;">The following stories are based on real events and are presented as cautionary tales. A true Christian will endure similar things during their walk with Christ. Keep in mind that the wheat and the tares will grow together until the time of the end when the reapers sift the tares&mdash;sons of the evil one who impersonate Christians, also known as children of the devil<sup style="font-weight:bold;">1</sup>&mdash;and cast them into everlasting fire.<sup style="font-weight:bold;">2</sup> Remember that you will be hated by everyone because you are a follower of Christ,<sup style="font-weight:bold;">3</sup> who preached repentance as an inward resolve to turn from sin brought on by Godly contrition<sup style="font-weight:bold;">4</sup> while accusing the world of doing evil<sup style="font-weight:bold;">5</sup>&mdash;and rightfully so. Finally, remember that only he who endures till the end will be saved.<sup style="font-weight:bold;">3,6</sup> This endurance is not the basis of salvation but the fruit and evidence of genuine faith,<sup style="font-weight:bold;">7</sup> produced by the Holy Spirit as He leads believers in God’s will.<sup style="font-weight:bold;">8</sup> This is not disqualifying if you're truly contrite, desiring to turn, and truly trust in God. Justification is by faith alone,<sup style="font-weight:bold;">9</sup> but the faith that saves is never alone in the person justified;<sup style="font-weight:bold;">10</sup> it always results in the fruits of the faith:<sup style="font-weight:bold;">11</sup></p>
 
+<blockquote>
+For whoever does the will of my Father in heaven is my brother and sister and mother (ESV Study Bible, 2008, Matt. 12:50; cf. Mk. 3:35; Lk. 8:21).
+</blockquote>
+
 <!-- We are justified by faith alone, yet the faith that justifies is never alone; it inevitably bears the fruits of obedience and perseverance. -->
 
 <small>
 1\. 1Jn 3:4-10<br>
-2\. Matt. 13:24-30; 13:36-43<br>
+2\. Matt. 13:24-30; 36-43<br>
 3\. Mk 13:13; Matt. 10:22; 24:13<br>
 4\. Acts 3:19; 3:26; 2Cor. 7:10; Matt. 18:3; Lk. 13:3<br>
 5\. Jn. 7:7<br>
@@ -81,6 +85,8 @@ Don’t be afraid of what you are about to suffer. The devil will throw some of 
 10\. Jas. 2:14-26<br>
 11\. Jn. 15:4-5; Gal. 5:19-24<br>
 </small>
+
+<!-- ## The Corrupting of the Innocent Boy -->
 
 ## The Tale of the Unyielding Servant
 
@@ -96,7 +102,7 @@ I have traveled on many long journeys. I have faced danger from rivers and from 
 
 <small>
 1\. Matt. 6:25-32; 8:20; 10:29-31; 25:40; Jas. 1:9-11; 2:5; Ecc. 9:13-16; Pr. 11:4; Ps. 9:12<br>
-2\. Pr. 17:13; Ps. 41:9-10; 55:12-14
+2\. Pr. 17:13; Ps. 41:9-10; 55:12-14; 118:11
 </small>
 
 ## The Chronicle of the Dying Father
