@@ -1,10 +1,10 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 04:20:00 -0500
+date: 2025-09-07 04:25:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
-published: false
+published: True
 comments: false
 pin: true
 ---
@@ -127,6 +127,13 @@ Second Pet 2:1 describes “false prophets” who “secretly introduce destruct
 23\. 1Jn. 5:18.
 </small>
 
+<p style="text-indent:2em;">So, we conclude that one of the most <strong>unloving and evil</strong> things a person can do is to withhold the message of repentance. When we discipline our children, we do so with the hope that they will feel sorry for the things they have done and cease doing them. Whoever spares this discipline hates their children and causes them to stumble to their death.<sup>24</sup> Do not hate the correction of of the Lord who commands you to turn in repentance and warns you with death!<sup>25</sup></p>
+
+<small>
+24\. Prov. 13:24; 23:13–14.<br>
+25\. Heb. 12:5–6; Ac. 17:30; Lk. 13:3.
+</small>
+
 <!-- abide
 the will of god
 
@@ -135,14 +142,14 @@ the will of god
 persecuted for wanting to live a holy life
 -->
 
-<p style="text-indent:2em;">
+<!-- <p style="text-indent:2em;">
 A person who claims Christianity but denies repentance has likely apostatized, for it is impossible for them to return to repentance,<sup>24</sup> and yet nothing is impossible for God.<sup>25</sup> If they truly trust in Christ then we should assume that the Good Shepherd has returned them to the fold;<sup>26</sup> they will turn from unbelief or false-idols and repent in sincere contrition.<sup>6</sup></p>
 
 <small>
 24\. Heb. 6:4-6; 10:26-31.<br>
 25\. Matt. 19:26; Mk. 10:27; Luk. 1:37.<br>
 26\. Matt. 18:12-14; Luk. 15:4-7.
-</small>
+</small> -->
 
 <br>
 <hr>
