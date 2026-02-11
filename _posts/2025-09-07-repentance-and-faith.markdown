@@ -1,6 +1,6 @@
 ---
 title: "A Lack of Repentance is Evidence of Superficial Faith and False Assurance"
-date: 2025-09-07 04:25:00 -0500
+date: 2025-09-07 04:30:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
@@ -96,7 +96,7 @@ Do not be deceived, if you are walking after the flesh and involved in the thing
 </small>
 
 <p style="text-indent:2em;">
-So we conclude, that <strong>a lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>14</sup> and those who perish were never in Christ, for those who are in Christ are alive.<sup>15</sup> They honored God with their lips, but their hearts are far from Him.<sup>16</sup> Their faith is dead.<sup>17</sup> Dr. John C. Lennox (2017), Emeritus Professor of Mathematics at the University of Oxford, who earned his PhD in mathematics at the University of Cambridge, his DPhil at the University of Oxford by incorporation, and his DSc in mathematics at Cardiff University for his research, elucidates John 8:31–47:</p>
+<strong>A lack of repentance is evidence of a superficial faith</strong>; for repentance is the fruit of genuine saving faith. The unrepentant will perish,<sup>14</sup> and those who perish were never in Christ, for those who are in Christ are alive.<sup>15</sup> They honored God with their lips, but their hearts are far from Him.<sup>16</sup> Their faith is dead.<sup>17</sup> Dr. John C. Lennox (2017), Emeritus Professor of Mathematics at the University of Oxford, who earned his PhD in mathematics at the University of Cambridge, his DPhil at the University of Oxford by incorporation, and his DSc in mathematics at Cardiff University for his research, elucidates John 8:31–47:</p>
 
 <blockquote>
 Biblical faith is evidence-based (p. 136). Real faith in Christ shows itself by its fruit in the lives of those who profess it. It is not a superficial thing. ... Genuine faith perseveres (p. 218). Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. ... That is, the development of visible Christian moral virtues in a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer (p. 313).
