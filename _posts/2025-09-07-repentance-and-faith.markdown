@@ -4,7 +4,7 @@ date: 2025-09-07 04:30:00 -0500
 categories: [Theology, Repentance]
 tags: [repent, repentance, penitent, penitence, assurance]
 author: seven_shepherd
-published: True
+published: False
 comments: false
 pin: true
 ---
