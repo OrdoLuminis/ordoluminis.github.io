@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 2:45:00 -0500
+date: 2025-02-08 2:50:00 -0500
 categories: [Rebuke, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -52,7 +52,7 @@ Because it is our responsibility to rebuke those inside the church who are pract
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-For both the Christian and the stoic, materialism has never been success. True success is aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven. No one practicing these things will enter the Kingdom of Heaven, no matter how blind, dead, alone, or destitute their faith may be.
+For both the Christian and the stoic, materialism has never been success. True success is aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven, no matter how blind, dead, alone, or destitute their faith may be.
 
 <!-- Justification is by faith alone, <strong>but not by faith that is alone</strong>, it always results in the fruits of the faith. -->
 
@@ -69,7 +69,7 @@ Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him t
 </blockquote>
 
 <blockquote>
-Don’t be selfish; don’t try to impress others. Be humble, thinking of others as better than yourselves (New Living Translation, 2015, Philippians 2:3).
+Don’t be selfish; don’t try to impress others. Be humble, thinking of others as better than yourselves (New Living Translation, 2015, Phil. 2:3).
 </blockquote>
 
 <blockquote>
