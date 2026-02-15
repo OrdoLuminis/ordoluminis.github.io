@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 2:40:00 -0500
+date: 2025-02-08 2:45:00 -0500
 categories: [Rebuke, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -48,23 +48,21 @@ Because it is our responsibility to rebuke those inside the church who are pract
 
 ## Those Who Malign Others Are Projecting Their Own Insecurities and Limitations Upon Those They Envy
 
-<p style="text-indent:2em;">If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;It's a façade of superiority borne from their own insecurities, and by comparing themselves to others, they reveal whom they envy. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility. Those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, De Tranquillitate Animi</em> (On the Tranquility of the Mind):</p>
+<p style="text-indent:2em;">If you pay close attention, your adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;It's a façade of superiority borne from their own insecurities, and by comparing themselves to others, they reveal whom they envy. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility, and those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, De Tranquillitate Animi</em> (On the Tranquility of the Mind):</p>
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-<!-- The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), where Jesus contrasts unrepentant Chorazin, Bethsaida, and Capernaum&mdash;cities where most of his miracles occurred&mdash;with the pagan cities Tyre and Sidon and even Sodom, saying those notorious pagans and idol‑worshipers would sooner show their remorse and turn from their sins in repentance than they would, had they seen such miracles. Even the pagans understand and react to these things! The practitioners of evil&mdash;encompassing the irreligious, unrepentant, and self-deceived&mdash;give strong evidence that they are <strong>not</strong> truly born‑again (1Jn. 3:9–10; Jn 3:3; Ac 3:26): -->
+For both the Christian and the stoic, materialism has never been success. True success is aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven. No one practicing these things will enter the Kingdom of Heaven, no matter how blind, dead, alone, or destitute their faith may be.
 
-The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus' contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum&mdash;despite those cities witnessing most of his miracles. Even pagans understand these things; the practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.
-
-<blockquote>
-For where there is jealousy and selfishness, there is disorder and every evil <strong>practice</strong>. (NET Bible: Full Notes Edition, 2015, James 3:16).
-</blockquote>
+<!-- Justification is by faith alone, <strong>but not by faith that is alone</strong>, it always results in the fruits of the faith. -->
 
 <blockquote>
-He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
+Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, <strong>jealousy</strong>, outbursts of anger, selfish <strong>rivalries</strong>, dissensions, factions, <strong>envying</strong>, murder, <strong>drunkenness</strong>, carousing, and similar things. <span style="font-weight:bold;color:Goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:OrangeRed;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:Red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
 </blockquote>
 
-Instead, true Christians heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
+<!-- The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus’ contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum—despite those cities witnessing most of his miracles. Even pagans understand these things; the practitioners of evil—the irreligious, unrepentant, and self‑deceived—thus show great evidence that they are not truly born‑again. -->
+
+Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
 
 <blockquote>
 Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).
@@ -77,6 +75,15 @@ Don’t be selfish; don’t try to impress others. Be humble, thinking of others
 <blockquote>
 Be thankful in all circumstances, for this is God’s will for you who belong to Christ Jesus (New Living Translation, 2015, 1Thes. 5:18).
 </blockquote>
+
+<blockquote>
+For where there is jealousy and selfishness, there is disorder and every evil practice. (NET Bible: Full Notes Edition, 2015, James 3:16).
+</blockquote>
+
+<blockquote>
+He knew very well that the religious leaders had arrested Jesus out of envy (New Living Translation, 2015, Matt. 27:18).
+</blockquote>
+
 
 <br>
 <hr>
