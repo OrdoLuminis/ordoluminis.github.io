@@ -21,8 +21,6 @@ The Order of Light is a prestigious order of scientists and scholars allegiant t
 
 - <i class="fa-solid fa-envelope"></i> <a href="mailto:OrderofLight@proton.me">Email</a>
 - <i class="fa-brands fa-twitter"></i> [X (Twitter)](https://x.com/OrdoLuminis)
-- <i class="fa-brands fa-facebook"></i> [Facebook](https://www.facebook.com/OrdoLuminis)
-- <i class="fa-brands fa-patreon"></i> [Patreon](https://www.patreon.com/OrdoLuminis)
 - <i class="fa-solid fa-rss"></i> [RSS](https://ordoluminis.github.io/feed.xml)
 
 <br>
@@ -30,3 +28,7 @@ The Order of Light is a prestigious order of scientists and scholars allegiant t
 <br>
 
 <span style="font-style:italic;">Fraternitatis Aeternae, Ordo Luminis.</span>
+
+
+<!-- - <i class="fa-brands fa-facebook"></i> [Facebook](https://www.facebook.com/OrdoLuminis)
+- <i class="fa-brands fa-patreon"></i> [Patreon](https://www.patreon.com/OrdoLuminis) -->
