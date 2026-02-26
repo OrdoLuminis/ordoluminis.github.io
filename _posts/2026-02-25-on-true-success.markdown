@@ -1,6 +1,6 @@
 ---
 title: "On True Success"
-date: 2026-02-25 01:15:00 -0500
+date: 2026-02-25 01:20:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -88,7 +88,7 @@ Establish your work outside and get your fields ready; afterward build<sup>[b]</
   </blockquote>
 </blockquote>
 
-The wisdom that a man should become financially stable through education comes from God. A man with this motive demonstrates that he is not only hardworking and disciplined, but has mastered delayed gratification and is therefore the opposite of greedy. A man who takes a job solely for the sake of making money will neither have adequate resources for raising children nor the respect of the wife, who is by nature hypergamous. Inflation will exacerbate this dynamic to such an extreme that the struggle will become painfully obvious to those who mock the educated: achieving financial stability will require even greater education, discipline, and sacrifice, and without these, forming and sustaining a secure family will be nearly impossible. Send your male children to school if you want your legacy to continue.
+The wisdom that a man should become financially stable through education comes from God. A man with this motive demonstrates that he is not only hardworking and disciplined, but has mastered delayed gratification and is therefore the opposite of greedy. A man who takes a job solely for the sake of making money will neither have adequate resources for raising children nor the respect of the wife, who is by nature hypergamous. Inflation will exacerbate this dynamic to such an extreme that the struggle will become painfully obvious to those who mock the educated.
 
 <blockquote>
 <strong>Unless the Lord builds the house,
