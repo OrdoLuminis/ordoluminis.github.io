@@ -1,6 +1,6 @@
 ---
 title: "On True Success"
-date: 2026-02-25 01:25:00 -0500
+date: 2026-02-25 01:30:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -39,6 +39,8 @@ sup {
   font-weight: bold;
 }
 </style>
+
+This is a rough draft which, when I have time, I will work into a research article.
 
 ## The Highest Tier of Success: Spiritually Rich, Holy, and Perseverant
 
@@ -108,7 +110,7 @@ My people are destroyed for lack of knowledge;
     <strong>because you have rejected knowledge</strong>,
     I reject you from being a priest to me.
 <strong>And</strong> since you have <strong>forgotten the law of your God</strong>,
-    <strong>I also will forget your children</strong> (ESV Study Bible, 2008, Hosea 4:6).
+    <strong>I also will forget your children</strong> (ESV Study Bible, 2008, Hosea 4:6; cf. Rom. 3:31).
 </blockquote>
 
 ## The Third Highest Tier of Success: Scientific or Philanthropic Contribution to Humanity
@@ -122,7 +124,7 @@ Behold, these are the wicked; always at ease, they increase in riches (ESV Study
 </blockquote>
 
 <blockquote>
-For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to <strong>the measure of faith that God has assigned (ESV Study Bible, 2008, Rom. 12:3).</strong>”
+For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to <strong>the measure of faith that God has assigned</strong> (ESV Study Bible, 2008, Rom. 12:3).”
 </blockquote>
 
 <blockquote>
