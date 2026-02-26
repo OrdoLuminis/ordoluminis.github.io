@@ -1,6 +1,6 @@
 ---
 title: "On True Success"
-date: 2026-02-25 01:30:00 -0500
+date: 2026-02-25 01:35:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -117,7 +117,7 @@ My people are destroyed for lack of knowledge;
 
 ## A Truly Impovershed Man is a Materialist
 
-The saddest and most impovershed of all men are those who believe that materialism is success. These are the people who confuse their net‑worth with their self‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being.
+The saddest and most impovershed of all men are those who believe that materialism is success. These are the people who confuse their net‑worth with their self‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40).
 
 <blockquote>
 Behold, these are the wicked; always at ease, they increase in riches (ESV Study Bible, 2008, Psa. 73:12).
