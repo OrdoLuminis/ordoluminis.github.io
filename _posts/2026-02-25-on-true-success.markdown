@@ -1,6 +1,6 @@
 ---
 title: "On True Success"
-date: 2026-02-25 01:20:00 -0500
+date: 2026-02-25 01:25:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -135,7 +135,7 @@ Whoever exalts himself will be humbled, and whoever humbles himself will be exal
 </blockquote>
 
 <blockquote>
-Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves (ESV Study Bible, 2008, Pr. 27:2).
+Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves (ESV Study Bible, 2008, Phil. 2:3).
 </blockquote>
 
 <blockquote>
