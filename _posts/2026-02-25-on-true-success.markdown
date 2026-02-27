@@ -1,10 +1,10 @@
 ---
 title: "On True Success"
-date: 2026-02-25 01:35:00 -0500
+date: 2026-02-25 01:40:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
