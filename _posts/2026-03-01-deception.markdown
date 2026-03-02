@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 01:07:00 -0500
+date: 2026-03-01 01:12:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -52,13 +52,13 @@ The deceiver will manipulate you with half-truths about righteousness. He will s
 Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong>Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. Whoever makes a practice of sinning is of The Devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. No one born of God makes a practice of sinning, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10).
 </blockquote>
 
-The deceiver will teach you that we are no longer under the law, but fail to mention that it is our obligation to uphold the moral law as Christians. It is true that we are no longer under the law as a system of salvation, but it is also true that faith does not make void the law and that we are to uphold it.
+The deceiver will teach you that we are no longer under the law, but fail to mention that it is our obligation to uphold the moral law as Christians. It is true that we are no longer under the law as a system of salvation, but it is also true that faith does not make void the law and that we are to uphold it:
 
 <blockquote>
-Do we then nullify the law through faith? <strong>Absolutely not!</strong> Instead we uphold the law.
+Do we then nullify the law through faith? <strong>Absolutely not!</strong> Instead we uphold the law (NET Bible, 2019, Rom. 3:31).
 </blockquote>
 
-So, little children, do not be deceived. They devil will send his servants to you to stumble you and take you captive, but the truth will set you free.
+So, little children, do not be deceived. They devil will send his servants to stumble you and take you captive, but the truth will set you free. Maintain the balance and the full council of God; it is your destiny.
 
 <br>
 <hr>
@@ -71,6 +71,7 @@ So, little children, do not be deceived. They devil will send his servants to yo
 <ul class="references">
 
 <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+<li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 
 </ul>
