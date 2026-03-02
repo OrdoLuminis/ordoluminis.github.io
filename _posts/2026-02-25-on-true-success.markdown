@@ -1,10 +1,10 @@
 ---
-title: "On True Success"
-date: 2026-02-28 01:00:00 -0500
+title: "On True Success and Why We Cannot Serve God and Mammon"
+date: 2026-02-28 01:05:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
@@ -90,7 +90,7 @@ Establish your work outside and get your fields ready; afterward build<sup>[b]</
   </blockquote>
 </blockquote>
 
-The wisdom that a man should become financially stable through education comes from God. A man with this motive demonstrates that he is not only hardworking and disciplined, but has mastered delayed gratification and is therefore the opposite of greedy. A man who takes a job solely for the sake of making money will neither have adequate resources for raising children nor the respect of the wife, who is by nature hypergamous. Inflation will exacerbate this dynamic to such an extreme that the struggle will become painfully obvious to those who mock the educated.
+The wisdom that a man should become financially stable through education comes from God. A man with this motive demonstrates that he is not only hardworking and disciplined, but has mastered delayed gratification and is therefore the opposite of greedy. A man who takes a job solely for the sake of making money will neither have adequate resources for raising children nor the respect of the wife, who is by nature hypergamous. Inflation will exacerbate this dynamic to such an extreme that the struggle will become painfully obvious to those who mock the educated. Instead, a man should prepare for an actual career with education instead of a job.
 
 <blockquote>
 <strong>Unless the Lord builds the house,
@@ -115,7 +115,7 @@ My people are destroyed for lack of knowledge;
 
 ## The Third Highest Tier of Success: Scientific or Philanthropic Contribution to Humanity
 
-## A Truly Impovershed Man is a Materialist
+## A Truly Impovershed Man is a Materialist: You cannot serve God and mammon
 
 The saddest and most impovershed of all men are those who believe that materialism is success. These are the people who confuse their net‑worth with their self‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40).
 
