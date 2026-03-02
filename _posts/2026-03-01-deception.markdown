@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 01:25:00 -0500
+date: 2026-03-01 01:30:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -56,6 +56,18 @@ The deceiver will teach you that we are no longer under the law, but fail to men
 
 <blockquote>
 Do we then nullify the law through faith? <strong>Absolutely not!</strong> Instead we uphold the law (NET Bible, 2019, Rom. 3:31 NET).
+</blockquote>
+
+The deceiver will tell you repentance is only mental assent or a mind change, but fail to tell you that that definition is never applied in any authoritative Greek lexicon. The true applied meaning of repent ([metanoéō](/assets/images/greek/BDAG/metanoeo.png)) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense*&rdquo; and repentance ([metánoia](/assets/images/greek/BDAG/metanoia.png)) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles:
+
+<blockquote>
+When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways (New Living Translation, 2015, Acts 3:26 NLT; cf. Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+</blockquote>
+
+Remember that the Apostle James was against mental assent equating it to the dead and fruitless faith of demons. The kind of belief that says, "I believe in God" is no different from that of the demons. True faith is trust and genuine faith always bears change. There's a difference between believing that God exists and believing in God:
+
+<blockquote>
+You say you have faith, for you believe that there is one God. Good for you! Even the demons believe this, and they tremble in terror (New Living Translation, 2015, James 2:19 NLT; cf. Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
 </blockquote>
 
 So, little children, do not be deceived. The devil will send his servants to stumble you and take you captive, but the truth will set you free. Repent and trust in Christ. Maintain the balance and the full council of God; it is your destiny.
