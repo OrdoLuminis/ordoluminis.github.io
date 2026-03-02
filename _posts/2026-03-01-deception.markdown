@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 01:22:00 -0500
+date: 2026-03-01 01:23:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
