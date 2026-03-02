@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 01:35:00 -0500
+date: 2026-03-01 01:40:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -40,7 +40,7 @@ sup {
 }
 </style>
 
-Right now, there is someone sent by Satan, whispering in your ear, telling you everything you want to hear. They will tell you exactly what the serpent did in the garden: that it's okay to sin and abuse the precious grace of our God by using it as a license to sin, that you don't have to repent. Do not be deceived; that person is a deceiver and an antichrist. If you are hearing these things beware, for Satan has come upon you. This person would apostatize his own children, and you are next on their list. Remember that the full doctrine of <i>sola fide</i> ends with "but not by faith that is alone." Remember that it is God's work that you are brought to repentance and that you bear fruit. Christ warned that it would be better for a person to not only die but to suffer a dreadful fate if they cause these little children to stumble into sin:
+At this moment, there could be someone sent by Satan, whispering in your ear, telling you everything you want to hear. They will tell you exactly what the serpent did in the garden: that it's okay to sin and abuse the precious grace of our God by using it as a license to sin, that you don't have to repent. Do not be deceived; that person is a deceiver and an antichrist. If you are hearing these things beware, for Satan has come upon you. This person would apostatize his own children, and you are next on their list. Remember that the full doctrine of <i>sola fide</i> ends with "but not by faith that is alone." Remember that it is God's work that you are brought to repentance and that you bear fruit. Christ warned that it would be better for a person to not only die but to suffer a dreadful fate if they cause these little children to stumble into sin:
 
 <blockquote>
 Then he said, “I tell you the truth, <strong>unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong>But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
