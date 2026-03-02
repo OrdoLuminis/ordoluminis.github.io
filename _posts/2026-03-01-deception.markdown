@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 01:15:00 -0500
+date: 2026-03-01 01:22:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -49,7 +49,7 @@ Then he said, “I tell you the truth, <strong>unless you turn from your sins an
 The deceiver will manipulate you with half-truths about righteousness. He will say to you that no one is righteous, no not one, but will fail to mention that Job was a righteous man even before the cross. He will fail to mention that whoever does not practice righteousness is not of God, and whoever does is righteous as Christ is righteous. He will fail to teach you that the verse he quotes is only speaking about earning or meriting salvation and neglects the teachings on regeneration&mdash;the Holy Spirit's work in you&mdash;not over time, but at the moment of faith. Remember that everyone has sin, but not everyone pursues lifestyles of indulgent habitual sin:
 
 <blockquote>
-Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong>Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. Whoever makes a practice of sinning is of The Devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. No one born of God makes a practice of sinning, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10).
+Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong>Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. Whoever makes a practice of sinning is of The Devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong>No one born of God makes a practice of sinning, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God.</strong> By this it is evident who are the children of God, and who are the children of the devil: <strong>whoever does not practice righteousness is not of God, nor is the one who does not love his brother</strong> (ESV Study Bible, 2008, 1 John 3:4-10).
 </blockquote>
 
 The deceiver will teach you that we are no longer under the law, but fail to mention that it is our obligation to uphold the moral law as Christians. It is true that we are no longer under the law as a system of salvation, but it is also true that faith does not make void the law and that we are to uphold it:
