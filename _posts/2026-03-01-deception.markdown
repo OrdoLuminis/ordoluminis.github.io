@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 01:12:00 -0500
+date: 2026-03-01 01:15:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -58,7 +58,7 @@ The deceiver will teach you that we are no longer under the law, but fail to men
 Do we then nullify the law through faith? <strong>Absolutely not!</strong> Instead we uphold the law (NET Bible, 2019, Rom. 3:31).
 </blockquote>
 
-So, little children, do not be deceived. They devil will send his servants to stumble you and take you captive, but the truth will set you free. Maintain the balance and the full council of God; it is your destiny.
+So, little children, do not be deceived. The devil will send his servants to stumble you and take you captive, but the truth will set you free. Maintain the balance and the full council of God; it is your destiny.
 
 <br>
 <hr>
