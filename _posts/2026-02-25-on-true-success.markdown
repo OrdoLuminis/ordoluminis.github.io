@@ -1,10 +1,10 @@
 ---
-title: "On True Success and Why We Cannot Serve God and Mammon"
-date: 2026-02-28 01:05:00 -0500
+title: "A Truly Impovershed Man is a Materialist"
+date: 2026-02-28 01:10:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
-published: false
+published: true
 comments: false
 pin: true
 ---
@@ -40,9 +40,15 @@ sup {
 }
 </style>
 
-This is a rough draft which, when I have time, I will work into a research article.
+The most impovershed of all men are those who believe that materialism is success. These are the people who confuse their self‑worth with their net‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40). If a man's greatest achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to mammon:
 
-## The Highest Tier of Success: Spiritually Rich, Holy, and Perseverant
+<blockquote>
+No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (Matt. 6:24; cf. Lk. 16:13).
+</blockquote>
+
+<!-- add entry on DDD for mammon -->
+
+<!-- ## The Highest Tier of Success: Chosen, Spiritually Rich, Holy, Morally Excellent, and Perseverant
 
 <p style="text-indent:2em;">
 Believers who are poor or in lowly circumstances should glory that God has made them spiritually rich exalting them to a high position. God has honored them. The most successful man alive is spiritually rich, set apart, and perseverant.</p>
@@ -115,9 +121,7 @@ My people are destroyed for lack of knowledge;
 
 ## The Third Highest Tier of Success: Scientific or Philanthropic Contribution to Humanity
 
-## A Truly Impovershed Man is a Materialist: You cannot serve God and mammon
 
-The saddest and most impovershed of all men are those who believe that materialism is success. These are the people who confuse their net‑worth with their self‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40).
 
 <blockquote>
 Behold, these are the wicked; always at ease, they increase in riches (ESV Study Bible, 2008, Psa. 73:12).
@@ -142,7 +146,7 @@ Do nothing from selfish ambition or conceit, but in humility count others more s
 
 <blockquote>
 Let someone else praise you, not your own mouth — a stranger, not your own lips (ESV Study Bible, 2008, Pr. 27:2).
-</blockquote>
+</blockquote> -->
 
 <br>
 <hr>
