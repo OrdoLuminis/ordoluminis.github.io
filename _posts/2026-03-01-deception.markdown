@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 01:30:00 -0500
+date: 2026-03-01 01:35:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -67,10 +67,25 @@ When God raised up his servant, Jesus, he sent him first to you people of Israel
 Remember that the Apostle James was against mental assent equating it to the dead and fruitless faith of demons. The kind of belief that says, "I believe in God" is no different from that of the demons. True faith is trust and genuine faith always bears change. There's a difference between believing that God exists and believing in God:
 
 <blockquote>
-You say you have faith, for you believe that there is one God. Good for you! Even the demons believe this, and they tremble in terror (New Living Translation, 2015, James 2:19 NLT; cf. Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+You say you have faith, for you believe that there is one God. Good for you! <strong>Even the demons believe this</strong>, and they tremble in terror (New Living Translation, 2015, Jas. 2:19 NLT).
 </blockquote>
 
-So, little children, do not be deceived. The devil will send his servants to stumble you and take you captive, but the truth will set you free. Repent and trust in Christ. Maintain the balance and the full council of God; it is your destiny.
+<blockquote>
+And we can be sure that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1 John 2:3-6 NLT).
+</blockquote>
+
+These false teachers promise us freedom, but they themselves are slaves of sin and corruption. So, little children, do not be deceived. The devil will send his servants to stumble you and take you captive, but the truth will set you free. Repent and trust in Christ. Maintain the balance and the full council of God; it is your destiny:
+
+<blockquote>
+For there will be a time when people will not tolerate sound teaching. <strong>Instead, following their own desires</strong>, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear <strong>new things</strong>. And they will turn away from hearing the truth, but on the other hand they will turn aside to myths (NET Bible, 2019, 2Tim. 4:3-4 NET).
+</blockquote>
+
+<blockquote>
+Although these <strong>false teachers promise such people freedom, they themselves are enslaved to immorality.</strong> For whatever a person succumbs to, to that he is enslaved (NET Bible, 2019, 2Pet. 2:19 NET).
+  <blockquote>
+  Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were <strong>unregenerate professors of the faith</strong>. The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b) (Demarest, 2006, p. 457-8).
+  </blockquote>
+</blockquote>
 
 <br>
 <hr>
@@ -82,6 +97,7 @@ So, little children, do not be deceived. The devil will send his servants to stu
 
 <ul class="references">
 
+<li>Demarest, B. (2006). <em>The cross and salvation</em>. Crossway Books.</li>
 <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
 <li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
