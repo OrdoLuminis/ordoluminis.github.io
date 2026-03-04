@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 01:35:00 -0500
+date: 2026-03-03 01:40:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -48,14 +48,14 @@ Someone who asserts that only their group can guarantee assurance of salvation d
 
 What is the basis of your assurance?
 - <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. The fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives and husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ, the head of the household. Scripture calls us to examine our faith for authenticity, so let us intentionally cultivate a genuine, thriving walk with Him.
-  - <blockquote><strong>Examine yourselves to see if your faith is genuine.</strong> Test yourselves. Surely you know that Jesus Christ is in you; if not, you have failed the test of genuine faith (New Living Translation, 2015, 2 Cor. 13:5 NLT).</blockquote>
+  - <blockquote><strong>Examine yourselves to see if your faith is genuine.</strong> Test yourselves. Surely you know that Jesus Christ is in you; if not, you have failed the test of genuine faith (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
 - <strong>If you said, "faith alone,"</strong> you're nonsensically saying, "I'm trusting in my trust," as trust is the underlying meaning of "faith" and "belief" in the Scriptures. I'd like to bring three things to your attention:
   1. It would appear you have put your trust in a false version of a 16th‑century man‑made doctrine, not the Scriptures. The word &ldquo;alone&rdquo; in the sense of being barren is never found in scripture.
   2. This man‑made doctrine always ends with "but not by faith that is alone," correctly teaching fruit-bearing as evidence of genuine faith. If you do not hold to this, you do not hold to <i>sola fide</i>, the reformation doctrine of faith alone. You've essentially fallen from sound doctrine.
   3. This doctrine is only about justification, not about assurance of salvation. Trust is the basis of justification not assurance.
 - <strong>If you said, "Christ alone,"</strong> you should know that Christ has already responded to you in the Gospels. Heed also the Apostle James&mdash;half-brother of Jesus:
-  - <blockquote>“So why do you keep calling me ‘Lord, Lord!’ when you don’t do what I say? (New Living Translation, 2015, Luke 6:46 NLT). <blockquote>“Yes, I am the vine; you are the branches. Those who remain in me, and I in them, will produce much fruit. For apart from me you can do nothing (New Living Translation, 2015, John 15:5 NLT).</blockquote></blockquote>
-  - <blockquote>But don’t just listen to God’s word. You must do what it says. Otherwise, you are only fooling yourselves (New Living Translation, 2015, Jas. 1:22 NLT).</blockquote>
+  - <blockquote>“So why do you keep calling me ‘Lord, Lord!’ when you don’t do what I say? (New Living Translation, 2015, Luke 6:46). <blockquote>“Yes, I am the vine; you are the branches. Those who remain in me, and I in them, will produce much fruit. For apart from me you can do nothing (New Living Translation, 2015, John 15:5).</blockquote></blockquote>
+  - <blockquote>But don’t just listen to God’s word. You must do what it says. Otherwise, you are only fooling yourselves (New Living Translation, 2015, Jas. 1:22).</blockquote>
 
 <strong>Remember: "Faith without works is dead" (Jas. 2:26).</strong> Analogously, you say, "Yes, I'm married; I'm not going to worry about my relationship with them," and then you proceed to lie to, cheat on, and harm them. Is your relationship with this person genuine? No. In the same way, your relationship with Christ is superficial without the accompanying works.
 
@@ -64,7 +64,7 @@ What is the basis of your assurance?
 <p style="text-indent:2em;">Is the basis of your salvation a living faith or a dead faith? The biblical criteron for full assurance of salvation comes from the first epistle of John. I have full assurance without having false assurance because my faith is living. <strong>Anyone who holds to the following scripture can have full and complete assurance</strong> that they are living in the truth:</p>
 
 <blockquote>
-And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6 NLT).
+And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6).
 </blockquote>
 
 Remember: Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a <i>fides viva</i>, a living faith, a faith that is alive, and <strong>you know</strong> it is alive when it manifests itself in the fruit of obedience. Justification is by faith alone, but not by faith that is alone: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Pastor Chuck Smith, corrects with strong warning:
@@ -135,7 +135,7 @@ I have full assurance without having false assurance because my faith is living 
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'KJV',
+            bibleVersion: 'NLT',
             tooltipStyle: 'dark'
         }
     };
