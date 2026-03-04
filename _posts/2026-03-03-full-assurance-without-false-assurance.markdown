@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 01:30:00 -0500
+date: 2026-03-03 01:35:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -53,8 +53,8 @@ What is the basis of your assurance?
   1. It would appear you have put your trust in a false version of a 16th‑century man‑made doctrine, not the Scriptures. The word &ldquo;alone&rdquo; in the sense of being barren is never found in scripture.
   2. This man‑made doctrine always ends with "but not by faith that is alone," correctly teaching fruit-bearing as evidence of genuine faith. If you do not hold to this, you do not hold to <i>sola fide</i>, the reformation doctrine of faith alone. You've essentially fallen from sound doctrine.
   3. This doctrine is only about justification, not about assurance of salvation. Trust is the basis of justification not assurance.
-- <strong>If you said, "Christ alone,"</strong> you should know that Christ has already responded to you in the Gospel of Luke. Heed also the Apostle James&mdash;half-brother of Jesus:
-  - <blockquote>“So why do you keep calling me ‘Lord, Lord!’ when you don’t do what I say? (New Living Translation, 2015, Luke 6:46 NLT).</blockquote>
+- <strong>If you said, "Christ alone,"</strong> you should know that Christ has already responded to you in the Gospels. Heed also the Apostle James&mdash;half-brother of Jesus:
+  - <blockquote>“So why do you keep calling me ‘Lord, Lord!’ when you don’t do what I say? (New Living Translation, 2015, Luke 6:46 NLT). <blockquote>“Yes, I am the vine; you are the branches. Those who remain in me, and I in them, will produce much fruit. For apart from me you can do nothing (New Living Translation, 2015, John 15:5 NLT).</blockquote></blockquote>
   - <blockquote>But don’t just listen to God’s word. You must do what it says. Otherwise, you are only fooling yourselves (New Living Translation, 2015, Jas. 1:22 NLT).</blockquote>
 
 <strong>Remember: "Faith without works is dead" (Jas. 2:26).</strong> Analogously, you say, "Yes, I'm married; I'm not going to worry about my relationship with them," and then you proceed to lie to, cheat on, and harm them. Is your relationship with this person genuine? No. In the same way, your relationship with Christ is superficial without the accompanying works.
