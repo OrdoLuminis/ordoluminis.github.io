@@ -1,6 +1,6 @@
 ---
 title: "A Truly Impovershed Man is a Materialist"
-date: 2026-02-28 01:10:00 -0500
+date: 2026-02-28 01:15:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -40,7 +40,7 @@ sup {
 }
 </style>
 
-The most impovershed of all men are those who believe that materialism is success. These are the people who confuse their self‑worth with their net‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40). If a man's greatest achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to mammon:
+The most impovershed of all men are those who believe that materialism is success. These are the people who confuse their self‑worth with their net‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40). If a man's only achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to Mammon:
 
 <blockquote>
 No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (Matt. 6:24; cf. Lk. 16:13).
