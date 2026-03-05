@@ -1,6 +1,6 @@
 ---
 title: "A Truly Impovershed Man is a Materialist"
-date: 2026-02-28 01:30:00 -0500
+date: 2026-02-28 01:35:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -80,7 +80,7 @@ My people are destroyed for lack of knowledge;
     <strong>because you have rejected knowledge</strong>,
     I reject you from being a priest to me.
 <strong>And</strong> since you have <strong>forgotten the law of your God</strong>,
-    <strong>I also will forget your children</strong> (ESV Study Bible, 2008, Hosea 4:6; cf. Rom. 3:31).
+    <strong>I also will forget your children</strong> (ESV Study Bible, 2008, Hosea 4:6; cf. Rom. 3:31; Gal. 5:4).
 </blockquote>
 
 <!-- If you want to feel blessed consider the following things: -->
