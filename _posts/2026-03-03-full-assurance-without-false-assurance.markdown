@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 02:30:00 -0500
+date: 2026-03-03 02:35:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -52,7 +52,7 @@ Someone who asserts that only their group can guarantee assurance of salvation d
 What is the basis of your assurance?
 - <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. The fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives and husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity:
   - <blockquote><strong>Examine yourselves to see if your faith is genuine.</strong> Test yourselves. Surely you know that Jesus Christ is in you; if not, you have failed the test of genuine faith (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
-- <strong>If you said, "faith alone,"</strong> you're nonsensically saying, "I'm trusting in my trust," as trust is the underlying meaning of "faith" and "belief" in the Scriptures. I'd like to bring three things to your attention:
+- <strong>If you said, "faith alone,"</strong> provides assurance, you've conflated assurance with justification. You're effectively saying, "I'm trusting in my trust"&mdash;a circular claim&mdash;because in Scripture "faith" and "belief" mean trust and that trust is what grounds justification; the original issue, however, is assurance.
   1. It would appear you have put your trust in a false version of a 16th‑century man‑made doctrine, not the Scriptures. The word &ldquo;alone&rdquo; in the sense of being barren is never found in scripture.
   2. This man‑made doctrine always ends with "but not by faith that is alone," correctly teaching fruit-bearing as evidence of genuine faith. If you do not hold to this, you do not hold to <i>sola fide</i>, the reformation doctrine of faith alone. You've essentially fallen from sound doctrine.
   3. This doctrine is only about justification, not about assurance of salvation. Trust is the basis of justification not assurance.
