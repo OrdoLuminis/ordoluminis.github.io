@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 01:50:00 -0500
+date: 2026-03-03 01:55:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -84,7 +84,7 @@ My child, don’t reject the Lord’s discipline, and don’t be upset when he c
   </blockquote>
 </blockquote>
 
-Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance,<sup>3</sup> and while many are called to repentance and faith, few are chosen to recieve it.<sup>4</sup> Repentance is described as a God given<sup>5</sup> contrition that leads to salvation<sup>6</sup> and the forgiveness of sins.<sup>7</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:
+Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance,<sup>3</sup> and while many are called to repentance and faith, few are chosen to recieve it.<sup>4</sup> The child who listens and responds is the one who is chosen. Repentance is described as a God given<sup>5</sup> contrition that leads to salvation<sup>6</sup> and the forgiveness of sins.<sup>7</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:
 
 <blockquote>
 Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke (Filament Study, 2015, 2Cor. 7:10).
