@@ -1,10 +1,10 @@
 ---
 title: "A Truly Impovershed Man is a Materialist"
-date: 2026-02-28 01:35:00 -0500
+date: 2026-02-28 01:40:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
