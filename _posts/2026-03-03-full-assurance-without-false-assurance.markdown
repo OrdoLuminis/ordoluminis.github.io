@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 02:05:00 -0500
+date: 2026-03-03 02:10:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -47,7 +47,7 @@ Someone who asserts that only their group can guarantee assurance of salvation d
 ## I. What is the Basis of Your Assurance?
 
 What is the basis of your assurance?
-- <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. The fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives and husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ, the head of the household. Scripture calls us to examine our faith for authenticity, so let us intentionally cultivate a genuine, thriving walk with Him.
+- <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. The fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives and husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity:
   - <blockquote><strong>Examine yourselves to see if your faith is genuine.</strong> Test yourselves. Surely you know that Jesus Christ is in you; if not, you have failed the test of genuine faith (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
 - <strong>If you said, "faith alone,"</strong> you're nonsensically saying, "I'm trusting in my trust," as trust is the underlying meaning of "faith" and "belief" in the Scriptures. I'd like to bring three things to your attention:
   1. It would appear you have put your trust in a false version of a 16th‑century man‑made doctrine, not the Scriptures. The word &ldquo;alone&rdquo; in the sense of being barren is never found in scripture.
@@ -110,7 +110,7 @@ If I am living a life of practicing sin, I really don’t know Him. I really hav
 7\. Luk. 24:47; Ac. 2:38; 3:19; 5:31.
 </small>
 
-## Have You Fallen Away From The Faith?
+## IV. Have You Fallen Away From The Faith?
 
 While there is a difference between backsliding in sin for a season and actual apostasy&mdash;losing your faith by disbelief or by worshiping other gods&mdash;the remedy remains the same for both: repentance. Because the Bible asserts that it is impossible for one who has totally and finally apostatized to return to repentance, <strong>the greatest evidence that you have returned would therefore logically be that you are repentant</strong>, since a truly apostate person will not be able to repent:
 
