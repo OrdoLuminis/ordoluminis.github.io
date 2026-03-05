@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 01:45:00 -0500
+date: 2026-03-03 01:50:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -61,7 +61,7 @@ What is the basis of your assurance?
 
 ## II. Is the Basis of your Assurance a Living Faith or a Dead Faith?
 
-<p style="text-indent:2em;">Is the basis of your salvation a living faith or a dead faith? The biblical criteron for full assurance of salvation comes from the first epistle of John. I have full assurance without having false assurance because my faith is living. <strong>Anyone who holds to the following scripture can have full and complete assurance</strong> that they are living in the truth:</p>
+Is the basis of your salvation a living faith or a dead faith? The biblical criteron for full assurance of salvation comes from the first epistle of John. I have full assurance without having false assurance because my faith is living. <strong>Anyone who holds to the following scripture can have full and complete assurance</strong> that they are living in the truth:
 
 <blockquote>
 And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6).
@@ -75,7 +75,7 @@ Do not be deceived, if you are walking after the flesh and involved in the thing
 
 ## III. Has God's Kindness Led You to the Blessing of Repentance?
 
-It's his kindness that leads us to repentance. When a father corrects his teenage son and warns, "do not cross that road," and that teenager cops a rebellious attitude, crosses the road, and is maimed by a semi-truck, was the Father the cruel one for the warning? So, now I will warn you as Christ has warned you, when he said, "No, I tell you; but unless you repent, you will all likewise perish" (Luke 13:3 ESV). Yes&mdash;you will die if you do not turn back. Just as the rich man perished in Hell for lack of repentance.
+It's his kindness that leads us to repentance. When a father corrects his teenage son and warns, "do not cross that road," and that teenager cops a rebellious attitude, crosses the road, and is maimed by a semi-truck, was the Father the cruel one for the warning? No. So, now I will warn you as Christ has warned you, when he said, "No, I tell you; but unless you repent, you will all likewise perish" (Luke 13:3 ESV). Yes&mdash;you will die if you do not turn back. Just as the rich man perished in Hell for lack of repentance.
 
 <blockquote>
 My child, don’t reject the Lord’s discipline, and don’t be upset when he corrects you. For the Lord corrects those he loves, just as a father corrects a child in whom he delights (New Living Translation, 2015, Pro. 3:11-12).
@@ -84,7 +84,7 @@ My child, don’t reject the Lord’s discipline, and don’t be upset when he c
   </blockquote>
 </blockquote>
 
-<p style="text-indent:2em;">Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance,<sup>3</sup> and while many are called to repentance and faith, few are chosen to recieve it.<sup>4</sup> Repentance is described as a God given<sup>5</sup> contrition that leads to salvation<sup>6</sup> and the forgiveness of sins.<sup>7</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:</p>
+Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance,<sup>3</sup> and while many are called to repentance and faith, few are chosen to recieve it.<sup>4</sup> Repentance is described as a God given<sup>5</sup> contrition that leads to salvation<sup>6</sup> and the forgiveness of sins.<sup>7</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:
 
 <blockquote>
 Two kinds of sorrow are mentioned: (1) Worldly sorrow that lacks repentance leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that leads us away from sin leads to salvation, as it did when the church in Corinth responded positively to Paul’s rebuke (Filament Study, 2015, 2Cor. 7:10).
