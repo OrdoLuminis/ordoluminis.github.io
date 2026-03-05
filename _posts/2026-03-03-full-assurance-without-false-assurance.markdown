@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 02:00:00 -0500
+date: 2026-03-03 02:05:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -118,7 +118,7 @@ While there is a difference between backsliding in sin for a season and actual a
 For <strong>it is impossible to bring back to repentance</strong> those who were once enlightened—those who have experienced the good things of heaven and shared in the Holy Spirit, who have tasted the goodness of the word of God and the power of the age to come&mdash;and <strong>who then turn away from God.</strong> <strong>It is impossible to bring such people back to repentance;</strong> by rejecting the Son of God, they themselves are nailing him to the cross once again and holding him up to public shame (New Living Translation, 2015, Heb. 6:4-6; cf. 10:26-31).
 </blockquote>
 
-For someone who has apostatized, I will speak directly to you. Your greatest assurance lies in repentance because that is precisely what is impossible for a true apostate. The reason a true apostate cannot come back to the contrition and turn of repentance is because they have totally and finally fallen away. <strong>The children of the devil will continue to boast in a blind faith while continuing in sinful practice.</strong> If you want full assurance that your apostasy was only temporary and not total and final, my advice to you is to inspect your faith for genuineness, especially concerning repentance. <strong>Look for the contrite heart that God gives you and the desire to turn from evil. A true apostate cannot feel these things.</strong> What was impossible for you was not impossible for God (Matt. 19:26; Mk. 10:27; Luk. 1:37; cf. Matt. 18:12-14; Luk. 15:4-7).
+For someone who has apostatized, I will speak directly to you. Your greatest assurance lies in repentance because that is precisely what is impossible for a true apostate. The reason a true apostate cannot come back to the contrition and turn of repentance is because they have totally and finally fallen away. <strong>The children of the devil will continue to boast in a blind faith while continuing in sin practice.</strong> If you want full assurance that your apostasy was only temporary and not total and final, my advice to you is to inspect your faith for genuineness, especially concerning repentance. <strong>Look for the contrite heart that God gives you and the desire to turn from evil. A true apostate cannot feel these things.</strong> What was impossible for you was not impossible for God (Matt. 19:26; Mk. 10:27; Luk. 1:37; cf. Matt. 18:12-14; Luk. 15:4-7).
 
 <br>
 <hr>
