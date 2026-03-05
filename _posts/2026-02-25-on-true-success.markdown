@@ -1,6 +1,6 @@
 ---
 title: "A Truly Impovershed Man is a Materialist"
-date: 2026-02-28 01:25:00 -0500
+date: 2026-02-28 01:30:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -54,6 +54,33 @@ God only allows us to boast about two things: believers who are poor or in lowly
 
 <blockquote>
 <sup style="font-weight:bold;">9</sup> ·<span style="color:Goldenrod;">Believers <span style="color:#bfbfbf;">[Brothers or sisters]</span> who are ·poor <span style="color:#bfbfbf;">[in lowly/humble circumstances]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has made them spiritually rich <span style="color:#bfbfbf;">[in being raised up; in their exaltation; in their high position]</span>.</span> <sup style="font-weight:bold;">10</sup> <span style="color:Crimson;"><span style="color:#bfbfbf;">[<sup>L</sup> But]</span> Those who are ·rich <span style="color:#bfbfbf;">[wealthy]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has shown them that they are spiritually poor <span style="color:#bfbfbf;">[in their humiliation; in their lowly state; Jer. 9:23–24]</span>.</span> <span style="color:#bfbfbf;">[<sup>L</sup> Because]</span> The rich will ·die <span style="color:#bfbfbf;">[pass away; wither]</span> like a ·wild flower in the grass <span style="color:#bfbfbf;">[or flower in the field]</span>. <sup style="font-weight:bold;">11</sup> <span style="color:#bfbfbf;">[<sup>L</sup> For]</span> The sun rises with ·burning <span style="color:#bfbfbf;">[scorching]</span> heat and ·dries up <span style="color:#bfbfbf;">[withers]</span> the ·plants <span style="color:#bfbfbf;">[or grass]</span>. The flower falls off, and its beauty is ·gone <span style="color:#bfbfbf;">[destroyed]</span>. In the same way the rich will ·die <span style="color:#bfbfbf;">[<sup>L</sup> wither away]</span> ·while they are still taking care of business <span style="color:#bfbfbf;">[in the midst of their pursuits; <sup>L</sup> in his journeys; Ps. 49:16–17; 103:15–16; Is. 40:6–8]</span> <a href="https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB">(The Expanded Bible, 2011, Jas. 1:9-11 EXB)</a>.
+</blockquote>
+
+If we are to consider ourselves blessed for any other reason let it be for biblical reasons:
+
+<blockquote>
+The one who has found a good wife has found what goodness is, and obtained a delightful gift from the LORD (NET Bible, 2019, Pro. 18:22 NET)
+</blockquote>
+
+<blockquote>
+<strong>Unless the Lord builds the house,
+    those who build it labor in vain.</strong>
+Unless the Lord watches over the city,
+    the watchman stays awake in vain.
+It is in vain that you rise up early
+    and go late to rest,
+eating the bread of anxious toil;
+    for he gives to his beloved sleep.
+<strong>Behold, children are a heritage from the Lord,
+    the fruit of the womb a reward.</strong> (ESV Study Bible, 2008, Psa. 127:1-3).
+</blockquote>
+
+<blockquote>
+My people are destroyed for lack of knowledge;
+    <strong>because you have rejected knowledge</strong>,
+    I reject you from being a priest to me.
+<strong>And</strong> since you have <strong>forgotten the law of your God</strong>,
+    <strong>I also will forget your children</strong> (ESV Study Bible, 2008, Hosea 4:6; cf. Rom. 3:31).
 </blockquote>
 
 <!-- If you want to feel blessed consider the following things: -->
