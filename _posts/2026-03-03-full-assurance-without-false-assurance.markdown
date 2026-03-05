@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 02:40:00 -0500
+date: 2026-03-03 02:45:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -41,7 +41,7 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-Someone who asserts that only their group can guarantee assurance of salvation demonstrates deeply ingrained indoctrination, a lack of critical education, and thinking that closely resembles cult-like dogma. Many Historic Protestant and Eastern Orthodox groups absolutely can, and in fact do, give full assurance of salvation. The key is not to give false assurance of salvation, as most&mdash;if not all&mdash;secular, progressive, and modern Christian groups are guilty of doing. As a word of caution: when I refer to “works” I mean the regenerative fruits of faith — evidential of genuine faith, not works that justify. Keep this in mind while I provide you with real assurance without giving you false assurance:</p>
+Someone who asserts that only their group can guarantee assurance of salvation demonstrates deeply ingrained indoctrination, a lack of critical education, and thinking that closely resembles cult-like dogma. Historic Protestants absolutely can, and in fact do, give full assurance of salvation. The key is not to give false assurance of salvation, as most&mdash;if not all&mdash;secular, progressive, and modern Christian groups are guilty of doing. As a word of caution: when I refer to “works” I mean the regenerative fruits of the faith — evidential of genuine faith, not works that justify. Keep this in mind while I provide you with real assurance without giving you false assurance:</p>
 
 <blockquote>
 "For if you are trying to make yourselves right with God by keeping the law, you have been cut off from Christ! You have fallen away from God’s grace" (New Living Translation, 2015, Gal. 5:4).
