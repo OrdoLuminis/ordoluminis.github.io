@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 02:55:00 -0500
+date: 2026-03-03 03:00:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -80,13 +80,34 @@ Do not be deceived, if you are walking after the flesh and involved in the thing
 
 ## III. Has God's Kindness Led You to the Blessing of Repentance?
 
-It's his kindness that leads us to repentance. When a father corrects his teenage son and warns, "do not cross that road," and that teenager cops a rebellious attitude, crosses the road, and is maimed by a semi-truck, was the Father the cruel one for the warning? No. So, now I will warn you as Christ has warned you, when he said, "No, I tell you; but unless you repent, you will all likewise perish" (Luke 13:3 ESV). Yes&mdash;you will die if you do not turn back. Just as the rich man perished in Hell for lack of repentance.
+It's his kindness that leads us to repentance. When a father corrects his teenage son and warns, "do not cross that road," and that teenager cops a rebellious attitude, crosses the road, and is maimed by a semi-truck, was the Father the cruel one for the warning? No. So, now I will warn you as Christ has warned you, when he said, "No, I tell you; but unless you repent, you will all likewise perish" (Luke 13:3 ESV). Yes&mdash;unless you repent, you will die in some way. Like the rich man who perished in hell for his failure to repent, you will experience death. Whether you understand that as the “second death,” as I do, or as a form of dying in this life&mdash;loss, brokenness, or an end to your family line or legacy&mdash;you will face death in one form or another. If Christ said that you would die than you will die, I promise you.
 
 <blockquote>
 My child, don’t reject the Lord’s discipline, and don’t be upset when he corrects you. For the Lord corrects those he loves, just as a father corrects a child in whom he delights (New Living Translation, 2015, Pro. 3:11-12).
   <blockquote>
   Greek version reads <i>loves, / and he punishes those he accepts as his children.</i> Compare Heb 12:6.
   </blockquote>
+</blockquote>
+
+<blockquote>
+<strong>Unless the Lord builds the house,
+    those who build it labor in vain.</strong>
+Unless the Lord watches over the city,
+    the watchman stays awake in vain.
+It is in vain that you rise up early
+    and go late to rest,
+eating the bread of anxious toil;
+    for he gives to his beloved sleep.
+<strong>Behold, children are a heritage from the Lord,
+    the fruit of the womb a reward.</strong> (ESV Study Bible, 2008, Psa. 127:1-3).
+</blockquote>
+
+<blockquote>
+My people are destroyed for lack of knowledge;
+    <strong>because you have rejected knowledge</strong>,
+    I reject you from being a priest to me.
+<strong>And</strong> since you have <strong>forgotten the law of your God</strong>,
+    <strong>I also will forget your children</strong> (ESV Study Bible, 2008, Hosea 4:6; cf. Rom. 3:31; Gal. 5:4).
 </blockquote>
 
 Repentance is a fruit of genuine saving faith,<sup>1</sup> and we know fruits come from the Holy Spirit, not by our own power.<sup>2</sup> Jesus was sent to turn people from their sins in repentance,<sup>3</sup> and while many are called to repentance and faith, few are chosen to recieve it.<sup>4</sup> The child who listens and responds is the one who is chosen. Repentance is described as a God given<sup>5</sup> contrition that leads to salvation<sup>6</sup> and the forgiveness of sins.<sup>7</sup> False repentance, or attrition, lacks the inward resolve to turn from sin and leads to death:
