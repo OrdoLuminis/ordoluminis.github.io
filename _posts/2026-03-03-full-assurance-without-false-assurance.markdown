@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 03:00:00 -0500
+date: 2026-03-03 03:05:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -80,7 +80,7 @@ Do not be deceived, if you are walking after the flesh and involved in the thing
 
 ## III. Has God's Kindness Led You to the Blessing of Repentance?
 
-It's his kindness that leads us to repentance. When a father corrects his teenage son and warns, "do not cross that road," and that teenager cops a rebellious attitude, crosses the road, and is maimed by a semi-truck, was the Father the cruel one for the warning? No. So, now I will warn you as Christ has warned you, when he said, "No, I tell you; but unless you repent, you will all likewise perish" (Luke 13:3 ESV). Yes&mdash;unless you repent, you will die in some way. Like the rich man who perished in hell for his failure to repent, you will experience death. Whether you understand that as the “second death,” as I do, or as a form of dying in this life&mdash;loss, brokenness, or an end to your family line or legacy&mdash;you will face death in one form or another. If Christ said that you would die than you will die, I promise you.
+It's his kindness that leads us to repentance. When a father corrects his teenage son and warns, "do not cross that road," and that teenager cops a rebellious attitude, crosses the road, and is maimed by a semi-truck, was the Father the cruel one for the warning? No. So, now I will warn you as Christ has warned you, when he said, "No, I tell you; but unless you repent, you will all likewise perish" (Luke 13:3 ESV). Yes&mdash;unless you repent, you will die in some way. Like the rich man who perished in hell for his failure to repent, you will experience death. Whether you understand that as the “second death,” as I do, or as a form of dying in this life&mdash;loss, brokenness, or an end to your family line or legacy&mdash;you will face death in one form or another. If Christ said that you would die then you will die, I promise you.
 
 <blockquote>
 My child, don’t reject the Lord’s discipline, and don’t be upset when he corrects you. For the Lord corrects those he loves, just as a father corrects a child in whom he delights (New Living Translation, 2015, Pro. 3:11-12).
