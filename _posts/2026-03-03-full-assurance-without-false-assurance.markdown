@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 02:50:00 -0500
+date: 2026-03-03 02:55:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -52,11 +52,11 @@ Someone who asserts that only their group can guarantee assurance of salvation d
 <!-- The fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy. -->
 
 What is the basis of your assurance?
-- <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives and husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity:
+- <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives or husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity:
   - <blockquote><strong>Examine yourselves to see if your faith is genuine.</strong> Test yourselves. Surely you know that Jesus Christ is in you; if not, you have failed the test of genuine faith (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
 - <strong>If you said, "faith alone,"</strong> provides assurance, you've conflated assurance with justification. You're effectively saying, "I'm assured by my trust." In Scripture, "faith" and "belief" mean trust, and that trust is what grounds justification; the original issue, however, is assurance. We know that the heart is deceitfully wicked and that you can't actually know with assent alone (Jer. 17:9). That is why God provides us evidence that manifests as fruit-bearing, so our faith will not be blind. In addition to this:
   1. It would appear you have put your trust in a false version of a 16th‑century man‑made doctrine, not the Scriptures. The word &ldquo;alone&rdquo; in the sense of being barren is never found in scripture.
-  2. This man‑made doctrine always ends with "but not by faith that is alone," correctly teaching fruit-bearing as evidence of genuine faith. If you do not hold to this, you do not hold to <i>sola fide</i>, the reformation doctrine of faith alone. You've essentially fallen from sound doctrine.
+  2. This man‑made doctrine always ends with "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the reformation doctrine of faith alone. You've essentially fallen from sound doctrine.
   3. This doctrine is only about justification, not about assurance of salvation. Trust is the basis of justification not assurance.
 - <strong>If you said, "Christ alone,"</strong> I want you to know that Christ has already responded to you in the Gospels. Heed also the Apostle James&mdash;half-brother of Jesus:
   - <blockquote>“So why do you keep calling me ‘Lord, Lord!’ when you don’t do what I say? (New Living Translation, 2015, Luke 6:46). <blockquote>“Yes, I am the vine; you are the branches. Those who remain in me, and I in them, will produce much fruit. For apart from me you can do nothing (New Living Translation, 2015, John 15:5).</blockquote></blockquote>
@@ -101,10 +101,6 @@ Repentance is not merely mental assent or a change of mind, as the antinomians t
 You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (2015b, 2:10-3:12).
 </blockquote>
 
-<blockquote>
-If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015a; 1Jn 3:6-8).
-</blockquote>
-
 <small>
 1\. Mt. 3:8-10.<br>
 2\. Gal. 5:22-23; Jn 15:4-5; 1Cor. 3:6-7.<br>
@@ -124,6 +120,10 @@ For <strong>it is impossible to bring back to repentance</strong> those who were
 </blockquote>
 
 For someone who has apostatized, I will speak directly to you. Your greatest assurance lies in repentance because that is precisely what is impossible for a true apostate. The reason a true apostate cannot come back to the contrition and turn of repentance is because they have totally and finally fallen away. <strong>The children of the devil will continue to boast in a blind faith while continuing in sin practice.</strong> If you want full assurance that your apostasy was only temporary and not total and final, my advice to you is to inspect your faith for genuineness, especially concerning repentance. <strong>Look for the contrite heart that God gives you and the desire to turn from evil. A true apostate cannot feel these things.</strong> What was impossible for you was not impossible for God (Matt. 19:26; Mk. 10:27; Luk. 1:37; cf. Matt. 18:12-14; Luk. 15:4-7).
+
+<blockquote>
+If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015a; 1Jn 3:6-8).
+</blockquote>
 
 <br>
 <hr>
