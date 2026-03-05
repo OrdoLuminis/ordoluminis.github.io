@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 02:25:00 -0500
+date: 2026-03-01 02:30:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -46,7 +46,7 @@ At this moment, there could be someone sent by Satan whispering in your ear, tel
 Then he said, “I tell you the truth, <strong>unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong>But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
 </blockquote>
 
-The deceiver will manipulate you with half-truths about righteousness. He will say to you that no one is righteous, no not one, but will fail to mention that Job was a righteous man even before the cross. He will fail to mention that whoever does not practice righteousness is not of God, and whoever does is righteous as Christ is righteous. He will fail to teach you that the verse he quotes is only speaking about earning or meriting salvation as he neglects the teachings on regeneration&mdash;the Holy Spirit's work in you&mdash;not over time, but at the moment of faith. Remember that everyone has sin, but not everyone pursues lifestyles of indulgent habitual sin:
+The deceiver will manipulate you with half-truths about righteousness. He will say to you that no one is righteous, no not one, but will fail to mention that Job was a righteous man even before the cross. He will fail to mention that whoever does not practice righteousness is not of God, and whoever does is righteous as Christ is righteous. He will fail to teach you that the verse he quotes is only speaking about earning or meriting salvation as he neglects the teachings on regeneration&mdash;the Holy Spirit's work in you&mdash;not over time like progressive sanctification, but a change of nature at the moment of faith. Remember that everyone has sin, but not everyone pursues lifestyles of indulgent habitual sin:
 
 <blockquote>
 Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong>No one born of God makes a practice of sinning, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God.</strong> By this it is evident who are the children of God, and who are the children of the devil: <strong>whoever does not practice righteousness is not of God, nor is the one who does not love his brother</strong> (ESV Study Bible, 2008, 1 John 3:4-10 ESV).
