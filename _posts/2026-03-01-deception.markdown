@@ -1,6 +1,6 @@
 ---
 title: "Little Children Let No One Deceive you"
-date: 2026-03-01 02:20:00 -0500
+date: 2026-03-01 02:25:00 -0500
 categories: [Meditations, Deception]
 tags: [deception, children]
 author: seven_shepherd
@@ -58,7 +58,7 @@ The deceiver will teach you that we are no longer under the law, but fail to men
 Do we then nullify the law through faith? <strong>Absolutely not!</strong> Instead we uphold the law (NET Bible, 2019, Rom. 3:31 NET).
 </blockquote>
 
-The deceiver will insist that repentance is merely mental assent or a change of mind, as the pagans teach&mdash;but neglect to mention that Christ never applied that pagan sense in Koine Greek, nor do any authoritative lexicons of Biblical Koine Greek apply that definition. The true applied meaning of repent ([metanoéō](/assets/images/greek/BDAG/metanoeo.png)) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense*&rdquo; and repentance ([metánoia](/assets/images/greek/BDAG/metanoia.png)) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles:
+The deceiver will insist that repentance is merely mental assent or a change of mind, as the antinomians teach&mdash;but neglect to mention that Christ never applied that pagan sense in Koine Greek, nor do any authoritative lexicons of Biblical Koine Greek apply that definition. The true applied meaning of repent ([metanoéō](/assets/images/greek/BDAG/metanoeo.png)) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense*&rdquo; and repentance ([metánoia](/assets/images/greek/BDAG/metanoia.png)) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ and the Apostles:
 
 <blockquote>
 When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways (New Living Translation, 2015, Acts 3:26 NLT; cf. Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
