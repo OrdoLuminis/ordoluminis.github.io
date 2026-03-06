@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 03:10:00 -0500
+date: 2026-03-03 03:20:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -54,6 +54,9 @@ Someone who asserts that only their group can guarantee assurance of salvation d
 What is the basis of your assurance?
 - <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives or husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity:
   - <blockquote><strong>Examine yourselves to see if your faith is genuine.</strong> Test yourselves. Surely you know that Jesus Christ is in you; if not, you have failed the test of genuine faith (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
+  - <strong>If you replied, "But you don't have to,"</strong> I would say, "Right — it's not your doing; it's the Holy Spirit that works these fruits in our lives."
+    - <blockquote><strong>But the Holy Spirit produces this kind of fruit in our lives</strong> ... (New Living Translation, 2015, Gal. 5:22-23).</blockquote>
+    - As John Wesley (1703-1791) once stated: <blockquote>We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins** (Wesley, 1872, see Discourses I–II; Sermons 35–36).</blockquote>
 - <strong>If you said, "faith alone,"</strong> provides assurance, you've conflated assurance with justification. You're effectively saying, "I'm assured by my trust." In Scripture, "faith" and "belief" mean trust, and that trust is what grounds justification; the original issue, however, is assurance. We know that the heart is deceitfully wicked and that you can't actually know with assent alone (Jer. 17:9). That is why God provides us evidence that manifests as fruit-bearing, so our faith will not be blind. In addition to this:
   1. It would appear you have put your trust in a false version of a 16th‑century man‑made doctrine, not the Scriptures. The word &ldquo;alone&rdquo; in the sense of being barren is never found in scripture.
   2. This man‑made doctrine always ends with "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the reformation doctrine of faith alone. You've essentially fallen from sound doctrine.
@@ -163,6 +166,7 @@ If I am living a life of practicing sin, I really don’t know Him. I really hav
 <li>Smith, C. (2015b, December 28). <em>Repentance, Matthew 3:8 - Pastor Chuck Smith - Topical Bible Study</em> [Video]. YouTube. https://youtu.be/kP8rIIps4Sk?t=130</li>
 <li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. Youtube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
 <li>The Order of Light. (2024, October 2). <em>New hampshire baptist confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
+<li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
 </ul>
 
 <br>
