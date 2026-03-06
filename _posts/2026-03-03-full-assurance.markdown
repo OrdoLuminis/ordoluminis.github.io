@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 03:05:00 -0500
+date: 2026-03-03 03:10:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -69,7 +69,7 @@ What is the basis of your assurance?
 Is the basis of your salvation a living faith or a dead faith? The biblical criteron for full assurance of salvation comes from the first epistle of John. I have full assurance without having false assurance because my faith is living. <strong>Anyone who holds to the following scripture can have full and complete assurance</strong> that they are living in the truth:
 
 <blockquote>
-And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6).
+And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6; cf. Rom. 3:31).
 </blockquote>
 
 Remember: Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a <i>fides viva</i>, a living faith, a faith that is alive, and <strong>you know</strong> it is alive when it manifests itself in the fruit of obedience. Justification is by faith alone, but not by faith that is alone: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Pastor Chuck Smith, provides strong warning:
@@ -143,7 +143,7 @@ For <strong>it is impossible to bring back to repentance</strong> those who were
 For someone who has apostatized, I will speak directly to you. Your greatest assurance lies in repentance because that is precisely what is impossible for a true apostate. The reason a true apostate cannot come back to the contrition and turn of repentance is because they have totally and finally fallen away. <strong>The children of the devil will continue to boast in a blind faith while continuing in sin practice.</strong> If you want full assurance that your apostasy was only temporary and not total and final, my advice to you is to inspect your faith for genuineness, especially concerning repentance. <strong>Look for the contrite heart that God gives you and the desire to turn from evil. A true apostate cannot feel these things.</strong> What was impossible for you was not impossible for God (Matt. 19:26; Mk. 10:27; Luk. 1:37; cf. Matt. 18:12-14; Luk. 15:4-7).
 
 <blockquote>
-If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (2015a; 1Jn 3:6-8).
+If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (Smith, 2015a, 1Jn 3:6-8).
 </blockquote>
 
 <br>
