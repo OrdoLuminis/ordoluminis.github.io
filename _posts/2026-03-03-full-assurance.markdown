@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 03:25:00 -0500
+date: 2026-03-03 03:40:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -57,7 +57,7 @@ What is the basis of your assurance?
   - <strong>If you replied, "But you don't have to,"</strong> I would say, "Right — it's not your doing; it's the Holy Spirit that works these fruits in our lives."
     - <blockquote><strong>But the Holy Spirit produces this kind of fruit in our lives</strong> ... (New Living Translation, 2015, Gal. 5:22-23).</blockquote>
     - As John Wesley (1703-1791) once stated:
-    - <blockquote>We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins** (Wesley, 1872, see Discourses I–II; Sermons 35–36).</blockquote>
+    - <blockquote>We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... <strong>So that if good works do not follow our faith</strong>, even all inward and outward holiness, <strong>it is plain our faith is nothing worth; we are yet in our sins</strong> (Wesley, 1872, see Discourses I–II; Sermons 35–36).</blockquote>
 - <strong>If you said, "faith alone,"</strong> provides assurance, you've conflated assurance with justification. You're effectively saying, "I'm assured by my trust." In Scripture, "faith" and "belief" mean trust, and that trust is what grounds justification; the original issue, however, is assurance. We know that the heart is deceitfully wicked and that you can't actually know with assent alone (Jer. 17:9). That is why God provides us evidence that manifests as fruit-bearing, so our faith will not be blind. In addition to this:
   1. It would appear you have put your trust in a false version of a 16th‑century man‑made doctrine, not the Scriptures. The word &ldquo;alone&rdquo; in the sense of being barren is never found in scripture.
   2. This man‑made doctrine always ends with "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the reformation doctrine of faith alone. You've essentially fallen from sound doctrine.
