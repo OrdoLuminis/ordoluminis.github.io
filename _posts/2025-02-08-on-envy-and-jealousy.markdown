@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 3:05:00 -0500
+date: 2025-02-08 3:10:00 -0500
 categories: [Rebuke, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -100,6 +100,7 @@ He knew very well that the religious leaders had arrested Jesus out of envy (New
 <span></span>
 
 <ul class="references">
+<li>Dittmar, H., Bond, R., Hurst, M., & Kasser, T. (2014). The relationship between materialism and personal well-being: A meta-analysis. Journal of personality and social psychology, 107(5), 879–924. https://doi.org/10.1037/a0037409</li>
 <li><em>NET Bible: Full Notes Edition</em>. Biblical Studies Press, L.L.C., 2019.</li>
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 <li>Seneca, L. A. (1889). <em>Minor dialogues together with the dialogue on Clemency</em> (A. Stewart, Trans.). George Bell and Sons. (Original work published AD 62)</li>
