@@ -1,6 +1,6 @@
 ---
 title: "The Bible Says the Righteous Often Die Before Their Time: Here’s Why"
-date: 2026-03-07 01:15:00 -0500
+date: 2026-03-07 01:20:00 -0500
 categories: [Meditations, Death]
 tags: [death]
 author: seven_shepherd
@@ -71,10 +71,10 @@ So do not be excessively righteous or excessively[a] wise;[b] otherwise[c] you m
   <blockquote>
   f. Ecclesiastes 7:17 tn Heb “Why?” The question is rhetorical.
   </blockquote>
-</blockquote> -->
-
-
 </blockquote>
+
+
+</blockquote>-->
 
 <br>
 <hr>
