@@ -1,6 +1,6 @@
 ---
 title: "The Bible Says the Righteous Often Die Before Their Time: Here’s Why"
-date: 2026-03-07 01:10:00 -0500
+date: 2026-03-07 01:15:00 -0500
 categories: [Meditations, Death]
 tags: [death]
 author: seven_shepherd
@@ -40,12 +40,7 @@ sup {
 }
 </style>
 
-<blockquote>
-The righteous man perishes, and no one lays it to heart; devout men are taken away, while no one understands. For the righteous man is taken away from calamity; (ESV Study Bible, 2008, Isa. 57:1-2).
-<blockquote>
-Good people pass away; the godly often die before their time. But no one seems to care or wonder why. No one seems to understand that God is protecting them from the evil to come. For those who follow godly paths will rest in peace when they die (New Living Translation, 2015, Isa. 57:1-2).
-</blockquote>
-</blockquote>
+<blockquote>The righteous man perishes, and no one lays it to heart; devout men are taken away, while no one understands. For the righteous man is taken away from calamity; (ESV Study Bible, 2008, Isa. 57:1-2).<blockquote>Good people pass away; the godly often die before their time. But no one seems to care or wonder why. No one seems to understand that God is protecting them from the evil to come. For those who follow godly paths will rest in peace when they die (New Living Translation, 2015, Isa. 57:1-2).</blockquote></blockquote>
 
 <!-- <br>
 <blockquote>
