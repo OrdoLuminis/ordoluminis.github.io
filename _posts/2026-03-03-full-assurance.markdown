@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 03:50:00 -0500
+date: 2026-03-03 04:00:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -52,8 +52,8 @@ Someone who asserts that only their group can guarantee assurance of salvation d
 <!-- The fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy. -->
 
 What is the basis of your assurance?
-- <strong>If you said, "I'm not going to worry about my faith,"</strong> I would encourage you to care about your relationship with Christ. Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives or husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity:
-  - <blockquote><strong>Examine yourselves to see if your faith is genuine.</strong> Test yourselves. Surely you know that Jesus Christ is in you; if not, you have failed the test of genuine faith (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
+- <strong>If you said, "I'm not going to worry about my faith,"</strong>  I would encourage you to care about your relationship with Christ and to read the Bible because the Scriptures instruct us to examine our faith to see if it is genuine. By my giving you assurance through fruit-bearing, you are twisting Christ's message of assurance into worry. As an aside, the fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy:
+  - <blockquote><strong>Examine yourselves to see if your faith is genuine. Test yourselves.</strong> ... (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
   - <strong>If you replied, "But you don't have to,"</strong> I would say, "Right — it's not your doing; it's the Holy Spirit that works these fruits in our lives."
     - <blockquote><strong>But the Holy Spirit produces this kind of fruit in our lives</strong> ... (New Living Translation, 2015, Gal. 5:22-23).</blockquote>
     - As John Wesley (1872) once stated:
@@ -67,6 +67,8 @@ What is the basis of your assurance?
   - <blockquote>But don’t just listen to God’s word. You must do what it says. Otherwise, you are only fooling yourselves (New Living Translation, 2015, Jas. 1:22).</blockquote>
 
 <strong>Remember: "Faith without works is dead" (Jas. 2:26).</strong> Analogously, you say, "Yes, I'm married, but I'm not going to worry about my relationship with them," and then you proceed to lie to, cheat on, and harm them. Is your relationship with this person genuine? No. In the same way, your relationship with Christ is superficial without the accompanying works. This is called spiritual infidelity.
+
+<!-- Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives or husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity: -->
 
 ## II. Is the Basis of your Assurance a Living Faith or a Dead Faith?
 
