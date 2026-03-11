@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 06:15:00 -0500
+date: 2025-08-03 06:20:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -60,7 +60,7 @@ flowchart LR
     D(Heresy of Antinomianism<br>&lpar;Children of the Devil&rpar;<br>&lpar;Slaves of Depravity&rpar;):::firebrick
     E(Apostasy<br>&lpar;Repent or Perish&rpar;):::darkred
     F(Total & Final Apostasy<br>&lpar;The Unforgivable Sin&rpar;):::darkerred
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Anglicanism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::orange
     B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.| I(<strong>Synergism</strong>):::orange
     C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>&lpar;Judaizers&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
@@ -110,7 +110,7 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 flowchart TD
     A(((Protestantism<br>Sola Fide)))
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| F(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::orange
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Anglicanism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
 ```
