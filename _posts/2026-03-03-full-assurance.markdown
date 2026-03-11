@@ -1,10 +1,10 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 04:10:00 -0500
+date: 2026-03-03 04:15:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
