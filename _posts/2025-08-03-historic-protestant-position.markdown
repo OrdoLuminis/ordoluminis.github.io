@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 06:20:00 -0500
+date: 2025-08-03 06:25:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -54,7 +54,7 @@ The Order of Light recognizes the Historic Protestant position.
 
 ```mermaid
 flowchart LR
-    A(Protestantism):::green
+    A(Historic<br>Protestantism):::green
     B(Catholicism):::orange
     C(Heresy of Legalism<br>&lpar;Theological Cults&rpar;):::red
     D(Heresy of Antinomianism<br>&lpar;Children of the Devil&rpar;<br>&lpar;Slaves of Depravity&rpar;):::firebrick
@@ -108,7 +108,7 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 
 ```mermaid
 flowchart TD
-    A(((Protestantism<br>Sola Fide)))
+    A(((Historic<br>Protestant<br>Sola Fide)))
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| F(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::orange
     A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Anglicanism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
     classDef green stroke:#0f0
