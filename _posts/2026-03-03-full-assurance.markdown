@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 04:00:00 -0500
+date: 2026-03-03 04:05:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -40,19 +40,27 @@ sup {
 }
 </style>
 
+<!-- According to scholars a fruitless faith is a superficial faith. Someone who asserts that only their group can guarantee assurance of salvation demonstrates deeply ingrained indoctrination, a lack of critical education, and thinking that closely resembles cult-like dogma. Historic Protestants absolutely can, and in fact do, give full assurance of salvation.  -->
+
 <p style="text-indent:2em;">
-Someone who asserts that only their group can guarantee assurance of salvation demonstrates deeply ingrained indoctrination, a lack of critical education, and thinking that closely resembles cult-like dogma. Historic Protestants absolutely can, and in fact do, give full assurance of salvation. The key is not to give false assurance of salvation, as most&mdash;if not all&mdash;secular, antinomian, and progressive Christian groups are guilty of doing. As a word of caution: when I refer to “works” I mean the regenerative fruits of the faith — evidential of genuine faith, not works that justify. Keep this in mind while I provide you with real assurance without giving you false assurance:</p>
+As a historic and academic Protestant, the key in teaching full assurance of salvation is not to give false assurance of salvation, as most&mdash;if not all&mdash;secular, antinomian, and progressive Christian groups are guilty of doing. Christ's message of fruit-bearing <strong>IS</strong> the message of assurance and the second part of the <i>sola fide</i> doctrine: Justification is by faith alone, "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the Reformation doctrine of faith alone. You've essentially fallen from sound doctrine. Christ warned that it would be better for a person not only die but to suffer a dreadful fate if they cause these little children to stumble into sin. Therefore, today I will provide you full assurance, free of false assurance:
+
+<blockquote>
+Then he said, “I tell you the truth, <strong>unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong>But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
+</blockquote>
+
+<!-- As a word of caution: when I refer to “works” I mean the regenerative fruits of the faith — evidential of genuine faith, not works that justify. Keep this in mind while I provide you with real assurance without giving you false assurance:</p>
 
 <blockquote>
 "For if you are trying to make yourselves right with God by keeping the law, you have been cut off from Christ! You have fallen away from God’s grace" (New Living Translation, 2015, Gal. 5:4).
-</blockquote>
+</blockquote> -->
 
 ## I. What is the Basis of Your Assurance?
 
-<!-- The fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy. -->
+<!-- As an aside, the fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy -->
 
 What is the basis of your assurance?
-- <strong>If you said, "I'm not going to worry about my faith,"</strong>  I would encourage you to care about your relationship with Christ and to read the Bible because the Scriptures instruct us to examine our faith to see if it is genuine. By my giving you assurance through fruit-bearing, you are twisting Christ's message of assurance into worry. As an aside, the fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy:
+- <strong>If you said, "I'm not going to worry about my faith,"</strong>  I would encourage you to care about your relationship with Christ and to read the Bible because the Scriptures instruct us to examine our faith to see if it is genuine. By my giving you assurance through fruit-bearing, you are twisting Christ's message of assurance into worry:
   - <blockquote><strong>Examine yourselves to see if your faith is genuine. Test yourselves.</strong> ... (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
   - <strong>If you replied, "But you don't have to,"</strong> I would say, "Right — it's not your doing; it's the Holy Spirit that works these fruits in our lives."
     - <blockquote><strong>But the Holy Spirit produces this kind of fruit in our lives</strong> ... (New Living Translation, 2015, Gal. 5:22-23).</blockquote>
