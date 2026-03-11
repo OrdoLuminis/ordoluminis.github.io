@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 06:10:00 -0500
+date: 2025-08-03 06:15:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -112,7 +112,7 @@ flowchart TD
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| F(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::orange
     A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| E(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
     classDef green stroke:#0f0
-    classDef lightgreen stroke:#Bf0
+    classDef orange stroke:#fa5
 ```
 
 ### 1.1 Reformed Baptist & Presbyterian
