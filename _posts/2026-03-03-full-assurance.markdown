@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 04:05:00 -0500
+date: 2026-03-03 04:10:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -43,7 +43,7 @@ sup {
 <!-- According to scholars a fruitless faith is a superficial faith. Someone who asserts that only their group can guarantee assurance of salvation demonstrates deeply ingrained indoctrination, a lack of critical education, and thinking that closely resembles cult-like dogma. Historic Protestants absolutely can, and in fact do, give full assurance of salvation.  -->
 
 <p style="text-indent:2em;">
-As a historic and academic Protestant, the key in teaching full assurance of salvation is not to give false assurance of salvation, as most&mdash;if not all&mdash;secular, antinomian, and progressive Christian groups are guilty of doing. Christ's message of fruit-bearing <strong>IS</strong> the message of assurance and the second part of the <i>sola fide</i> doctrine: Justification is by faith alone, "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the Reformation doctrine of faith alone. You've essentially fallen from sound doctrine. Christ warned that it would be better for a person not only die but to suffer a dreadful fate if they cause these little children to stumble into sin. Therefore, today I will provide you full assurance, free of false assurance:
+As a historic and academic Protestant, the key in teaching full assurance of salvation is not to give false assurance of salvation, as most&mdash;if not all&mdash;secular, antinomian, and progressive Christian groups are guilty of doing. Christ's message of fruit-bearing <strong>IS</strong> the message of assurance and the second part of the <i>sola fide</i> doctrine: Justification is by faith alone, "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the Reformation doctrine of faith alone. You've essentially fallen from sound doctrine. Christ warned that it would be better for a person not only die but to suffer a dreadful fate if they cause these little children to stumble into sin. Therefore, today I will provide you full assurance, free of false assurance:</p>
 
 <blockquote>
 Then he said, “I tell you the truth, <strong>unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong>But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
