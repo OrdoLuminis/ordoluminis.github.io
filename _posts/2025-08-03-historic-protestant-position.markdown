@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 07:50:00 -0500
+date: 2025-08-03 08:00:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -54,17 +54,17 @@ The Order of Light recognizes the Historic Protestant position.
 
 ```mermaid
 flowchart LR
-    A(Historic<br>Protestantism):::green
-    B(Catholicism):::orange
-    C(Heresy of Legalism<br>&lpar;Theological Cults&rpar;):::red
-    D(Heresy of Antinomianism<br>&lpar;Children of the Devil&mdash;1Jn.3:4-10&rpar;<br>&lpar;Sons of the evil one&mdash;Matt. 13:36-43 ESV&rpar;<br>&lpar;Slaves of Depravity&mdash;2Pe.2:17-19 LEB&rpar;):::firebrick
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Anglicanism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
-    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Appropriated Molinism&rpar;):::orange
-    B -->|Efficacious grace infallibly produces the will's cooperation&mdash;lived out in sacraments and works.| N(<strong>Quasi-Monergistic</strong><br>&lpar;Augustinian Thomism&rpar;):::yellowgreen
-    B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| I(<strong>Synergism</strong><br>&lpar;Molinism&rpar;):::orange
-    C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>&lpar;Judaizers&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
-    C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>&lpar;Gal. 5:4&rpar;.| K(<strong>Pharisaic Legalism</strong><br>&lpar;Pharisees&rpar;<br>&lpar;Sadducees&rpar;<br>&lpar;John 8:44; Rev. 2:9;3:9; 1Thess. 2:14-16; Acts 7:43; Amos 5:26-27; Titus 1:14&rpar;):::red
-    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin &lpar;Jd 4 NET&rpar;.| L(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
+    A(<strong>Historic<br>Protestantism</strong>):::green
+    B(<strong>Catholicism</strong>):::orange
+    C(<strong>Heresy of Legalism</strong><br>Theological Cults):::red
+    D(<strong>Heresy of Antinomianism</strong><br>Children of the Devil&mdash;1Jn.3:4-10<br>Sons of the evil one&mdash;Matt. 13:36-43 ESV<br>Slaves of Depravity&mdash;2Pe.2:17-19 LEB):::firebrick
+    A ==>|Living Faith trust.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Early Anglicanism<br>Calvinism<br>Amyraldism<br>Moderates):::green
+    A -->|Living Faith trust.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Arminianism<br>Wesleyanism<br>Appropriated Molinism):::orange
+    B -->|Efficacious grace infallibly produces the will's cooperation&mdash;lived out in sacraments and works.| N(<strong>Quasi-Monergistic</strong><br>Augustinian Thomism):::yellowgreen
+    B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| I(<strong>Synergism</strong><br>Molinism):::orange
+    C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>Judaizers<br>Witnesses<br>Mormonism):::red
+    C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>Gal. 5:4.| K(<strong>Pharisaic Legalism</strong><br>Pharisees<br>Sadducees<br>John 8:44; Rev. 2:9;3:9; 1Thess. 2:14-16; Acts 7:43; Amos 5:26-27; Titus 1:14):::red
+    D -->|Dead faith assent.<br>The unregenerate who abuse and twist God's grace into a license to sin Jd 4 NET.| L(<strong>Antinomianism</strong><br>Gnosticism<br>Hypergrace<br>Mental Assent<br>Theologically Liberal<br>Carnal Christianity):::firebrick
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
