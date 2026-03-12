@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 07:35:00 -0500
+date: 2025-08-03 07:40:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -64,7 +64,7 @@ flowchart LR
     B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| I(<strong>Synergism</strong><br>&lpar;Molinism&rpar;):::orange
     C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>&lpar;Judaizers&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
     C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>&lpar;Gal. 5:4&rpar;.| K(<strong>Pharisaic Legalism</strong><br>&lpar;Pharisees&rpar;<br>&lpar;Sadducees&rpar;<br>&lpar;John 8:44; Rev. 2:9;3:9; 1Thess. 2:14-16; Acts 7:43; Amos 5:26-27; Titus 1:14&rpar;):::red
-    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin &lpar;Jd 4 Net&rpar;.| L(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
+    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin &lpar;Jd 4 NET&rpar;.| L(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
