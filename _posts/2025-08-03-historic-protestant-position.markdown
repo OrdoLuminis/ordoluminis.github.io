@@ -1,6 +1,6 @@
 ---
 title: "The Historic & Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 06:25:00 -0500
+date: 2025-08-03 06:30:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -58,16 +58,12 @@ flowchart LR
     B(Catholicism):::orange
     C(Heresy of Legalism<br>&lpar;Theological Cults&rpar;):::red
     D(Heresy of Antinomianism<br>&lpar;Children of the Devil&rpar;<br>&lpar;Slaves of Depravity&rpar;):::firebrick
-    E(Apostasy<br>&lpar;Repent or Perish&rpar;):::darkred
-    F(Total & Final Apostasy<br>&lpar;The Unforgivable Sin&rpar;):::darkerred
     A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>&lpar;Lutheranism&rpar;<br>&lpar;Anglicanism&rpar;<br>&lpar;Calvinism&rpar;<br>&lpar;Amyraldism&rpar;<br>&lpar;Moderates&rpar;):::green
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>&lpar;Arminianism&rpar;<br>&lpar;Wesleyanism&rpar;<br>&lpar;Molinism&rpar;):::orange
     B -->|Cooperative grace&mdash;faith enabled by grace, lived out in sacraments and works.| I(<strong>Synergism</strong>):::orange
     C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>&lpar;Judaizers&rpar;<br>&lpar;Witnesses&rpar;<br>&lpar;Mormonism&rpar;):::red
     C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>&lpar;Gal. 5:4&rpar;.| K(<strong>Pharisaic Legalism</strong><br>&lpar;Pharisees&rpar;<br>&lpar;Sadducees&rpar;<br>&lpar;Rabbinic Judaism<br>Acts 7:43; Amos 5:26-27&rpar;):::red
     D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate who abuse and twist God's grace into a license to sin.| L(<strong>Antinomianism</strong><br>&lpar;Gnosticism&rpar;<br>&lpar;Hypergrace&rpar;<br>&lpar;Mental Assent&rpar;<br>&lpar;Theologically Liberal&rpar;<br>&lpar;Carnal Christianity&rpar;):::firebrick
-    E -->|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo;<br>&lpar;1Cor. 1:18&rpar;| M(<strong>Apostasy & Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan—Smyrnaean Jews who persecuted early Christians<br>Re.2:9;3:9; 1Thess. 2:14-16&rpar;):::darkred
-    F -->|&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo;<br>&lpar;Matt. 7:23; Lk. 13:27&rpar;| N(<strong>True Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10;):::darkerred
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef lightgreen stroke:#Bf0
@@ -76,6 +72,13 @@ flowchart LR
     classDef darkred stroke:#8B0000
     classDef darkerred stroke:#701705
 ```
+
+<!--
+E(Apostasy<br>&lpar;Repent or Perish&rpar;):::darkred
+F(Total & Final Apostasy<br>&lpar;The Unforgivable Sin&rpar;):::darkerred
+E >|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo;<br>&lpar;1Cor. 1:18&rpar;| M(<strong>Apostasy & Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan—Smyrnaean Jews who persecuted early Christians<br>Re.2:9;3:9; 1Thess. 2:14-16&rpar;):::darkred
+F >|&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo;<br>&lpar;Matt. 7:23; Lk. 13:27&rpar;| N(<strong>True Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10;):::darkerred
+-->
 
 <p style="text-indent:2em;">
 The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
@@ -313,17 +316,25 @@ Dr. Lennox (2017) on the true meaning of faith:
 
 #### 2.3.1 Pastor Chuck Smith & The Original Calvalry Chapel Distincives
 
-Chuck Smith archives (2015), from his C2000 series commentary on 1 John 3:6–8, writes:
+Christ's message of fruit-bearing <strong>IS</strong> the message of assurance and the second part of the <i>sola fide</i> doctrine: Justification is by faith alone, "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the Reformation doctrine of faith alone.
 
-> 1Jn 3:6 &ldquo;Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him.&rdquo; Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
+<!-- > 1Jn 3:6 &ldquo;Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him.&rdquo; Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
 >
-> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (1Jn 3:6-8).
+> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:firebrick;">If you are <span style="font-size:1.2em;color:crimson;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span> (Smith, 2015a, 1Jn 3:6-8). -->
 
-Chuck Smith short (2023) on assurance of salvation:
+<blockquote>
+If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (Smith, 2015a, 1Jn 3:6-8).
+</blockquote>
 
-> Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (00:00).
+<blockquote>
+You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (Smith, 2015b, 2:10-3:12).
+</blockquote>
 
-It will help you to make the distinction between **(1)** justification, which is by faith alone (Eph 2:8-10; Rom 3:28), and **(2)** assurance of salvation, which is predicated upon an evidence-based faith (1Jn 2:3-6; Jn 14:15,21).
+<blockquote>
+Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <strong>you have no assurance of being in the Kingdom of Heaven</strong> (Smith, 2023, 00:00).
+</blockquote>
+
+
 
 <!--
 
@@ -395,7 +406,8 @@ The Order of Light holds to the most academically sound and historically time-te
   <li><em>NIV Biblical Theology Study Bible</em>. (2018). Zondervan.</li>
   <li><em>NKJV Thomas Nelson Study Bible</em>. (2014). Thomas Nelson.</li>
   <li>Schaff, P. (2020). <em>The Creeds of Christendom</em> (6th ed.). DigiCat.</li>
-  <li>Smith, C. (2015, June 1). C2000 series (Chuck Smith archives). <em>Calvary Chapel</em>. https://calvarychapel.com/posts/c2000/</li>
+  <li>Smith, C. (2015a, June 1). C2000 series (Chuck Smith archives). <em>Calvary Chapel</em>. https://calvarychapel.com/posts/c2000/</li>
+  <li>Smith, C. (2015b, December 28). <em>Repentance, Matthew 3:8 - Pastor Chuck Smith - Topical Bible Study</em> [Video]. YouTube. https://youtu.be/kP8rIIps4Sk?t=130</li>
   <li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. Youtube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
   <li><em>The Jewish Annotated New Testament</em>. (2011). Oxford University Press.</li>
   <li><em>The New Oxford Annotated Bible with the Apocrypha</em> (5th ed.). (2018). Oxford University Press.</li>
