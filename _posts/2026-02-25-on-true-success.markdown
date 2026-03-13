@@ -1,6 +1,6 @@
 ---
 title: "On True Success"
-date: 2026-02-28 01:50:00 -0500
+date: 2026-02-28 01:55:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -46,7 +46,7 @@ sup {
 No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (ESV Study Bible, 2008, Matt. 6:24; cf. Lk. 16:13).
 </blockquote>
 
-<p style="text-indent:2em;">For both the Christian and the stoic, materialism has never been success. True success is not advertised; it speaks for itself in the form of aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven:</p>
+<p style="text-indent:2em;">For both the Christian and the stoic, materialism has never been success. True success is not advertised; it speaks for itself in the form of aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven no matter how dead or blind their faith may be:</p>
 
 <blockquote>
 Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, <strong>jealousy</strong>, outbursts of anger, selfish <strong>rivalries</strong>, dissensions, factions, <strong>envying</strong>, murder, <strong>drunkenness</strong>, carousing, and similar things. <span style="color:Goldenrod;">I am <strong>warning</strong> you</span>, as I had warned you before: <strong>Those who practice</strong> such things <span style="color:Goldenrod;"><strong>will not</strong> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
