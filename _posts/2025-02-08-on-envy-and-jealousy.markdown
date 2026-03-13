@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 3:25:00 -0500
+date: 2025-02-08 3:30:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -52,7 +52,7 @@ Because it is our responsibility to rebuke those inside the church who are pract
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-See our article &ldquo;On True Success&rdquo; and why it's not materialism for neither the Christian nor the stoic. Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
+See our article <a href="https://ordoluminis.com/posts/on-true-success/">&ldquo;On True Success&rdquo;</a> and why it's not materialism for neither the Christian nor the stoic. Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
 
 <blockquote>
 Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).
