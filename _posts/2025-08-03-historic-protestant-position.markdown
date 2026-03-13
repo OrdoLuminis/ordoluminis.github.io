@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 08:30:00 -0500
+date: 2025-08-03 08:35:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -51,6 +51,8 @@ The Order of Light recognizes the Historic Protestant position.
 <!-- Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (see <a href="https://ordoluminis.com/posts/historic-protestant-position/#141-new-hampshire-baptist-confession-1833-statement-for-baptist-churches">creeds and confessions</a>). The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Assurance of salvation comes from a living faith. -->
 
 # On the Relation of Faith and Works
+
+The Order of Light upholds the most academically rigorous and historically proven theology in Christendom&mdash;a monergistic soteriology that rejects works-based salvation and affirms the biblically grounded doctrine of <i>sola fide</i>. Justification is by faith alone, <strong>"but not by faith that is alone."</strong> Genuine faith always results in obedience to God by the indwelling of the Holy Spirit and His transformative power (1Jn. 2:3-6). When the Apostle James taught <strong>"faith without works is dead,"</strong> he taught fruit-bearing as evidence of genuine faith (Jas. 2:26). The faith that justifies, Luther said, is a <i>fides viva</i>, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Good works are the fruits of regeneration; they are not meritorious; regeneration is effected solely by the power of the Holy Spirit, and "its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). While everyone has sin (1Jn. 1:8-10), not everyone pursues lifestyles of indulgent sin. Though we may stumble, make mistakes, and, God forbid, backslide, no truly regenerate Christian <i>practices</i> lifestyles of habitual sin (1Jn. 3:6-10). Therefore, Christ justifies no one whom He does not at the same time sanctify. To deny this is to abandon the doctrine of faith alone.
 
 ```mermaid
 flowchart LR
@@ -370,25 +372,14 @@ This cite is specific to his [**Systematic Theology, 2nd ed.**]() pp. 979-984.
 <sup><a name="packer" href="#contents">2</a></sup> [**Dr. J. I. Packer**]() (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. <a href="https://amzn.to/40RYx1A" style="font-weight:bold;">Concise Theology. 59. Works. p. 174.</a> -->
 
 
-## Conclusion
 
-The Order of Light holds to the most academically sound and historically time-tested theology known to Christendom&mdash;a monergistic soteriology, which rejects works-based forms of salvation and adheres to the biblically sound concept of sola fide, or justification by faith alone, which once justified or saved, always results in obedience to God by the indwelling of the Holy Spirit and His transformative power. Good works are the fruits of regeneration, they are not meritorious; the evidence of regeneration appears "in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Therefore, Christ justifies no one whom he does not at the same time sanctify.
-
-<!-- The Order of Light holds to a monergistic soteriology, which rejects works based forms of salvation, and holds to the biblically sound concept of sola fide or justification by faith alone, which once justified or saved, always results in obedience to God. Therefore, Christ justifies no one whom he does not at the same time sanctify.  -->
-
-<!-- The Order of Light holds to a monergistic soteriology, which rejects works-based forms of salvation and adheres to the biblically sound concept of sola fide, or justification by faith alone. The faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive, and you know it is alive when it manifests itself in the fruit of obedience. Justification is by faith alone, but the faith that saves is never alone in the person justified: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Therefore, Christ justifies no one whom He does not at the same time sanctify. -->
-
-<!-- This ministry holds to the most academically sound and historically time-tested theology known to Christendom. My position is known as the "historic Protestant" position which has been a sanctuary away from heresy for over 500 years. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. -->
-
-<!-- The 16th century Protestant Reformation saw the development of the five latin phrases, known as the Five solas, as a response to heresies found in the Roman Catholic Church. -->
-
-|                     Five Solas                     |                                   |
+|                        <!--                        |            Five Solas             |     |
 | :------------------------------------------------: | :-------------------------------: |
 |      Saved by Grace alone<br>(*Sola Gratia*)       | Eph 2:8-10; Ti 3:5; Gal. 2:21;5:4 |
 |        Through Faith alone<br>(*Sola Fide*)        |     Ro 5:1 ESV; Gal. 3:24 ESV     |
 |       In Christ alone<br>(*Solus Christus*)        |     Jn 14:6; Ac 4:12; 1Ti 2:5     |
 | According to Scripture alone<br>(*Sola Scriptura*) |              1Co 4:6              |
-| For the Glory of God alone<br>(*Soli Deo Gloria*)  |         1Pe 2:24; Is 43:7         |
+| For the Glory of God alone<br>(*Soli Deo Gloria*)  |         1Pe 2:24; Is 43:7         | --> |
 
 <br>
 
