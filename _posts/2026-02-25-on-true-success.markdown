@@ -1,6 +1,6 @@
 ---
 title: "On True Success"
-date: 2026-02-28 01:45:00 -0500
+date: 2026-02-28 01:50:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
@@ -43,7 +43,7 @@ sup {
 <p style="text-indent:2em;">The most impovershed of all men are those who believe that materialism is success. These are the people who confuse their self‑worth with their net‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40). If a man's only achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to Mammon:</p>
 
 <blockquote>
-No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (Matt. 6:24; cf. Lk. 16:13).
+No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (ESV Study Bible, 2008, Matt. 6:24; cf. Lk. 16:13).
 </blockquote>
 
 <p style="text-indent:2em;">For both the Christian and the stoic, materialism has never been success. True success is not advertised; it speaks for itself in the form of aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven:</p>
@@ -198,8 +198,8 @@ Let someone else praise you, not your own mouth — a stranger, not your own lip
 <li>Dittmar, H., Bond, R., Hurst, M., & Kasser, T. (2014). The relationship between materialism and personal well-being: A meta-analysis. Journal of personality and social psychology, 107(5), 879–924. https://doi.org/10.1037/a0037409</li>
 <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
 <li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
-<li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
-<li><em>The Expanded Bible</em>. (2011). Thomas Nelson.</li>
+<!-- <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li> -->
+<!-- <li><em>The Expanded Bible</em>. (2011). Thomas Nelson.</li> -->
 </ul>
 
 <br>
