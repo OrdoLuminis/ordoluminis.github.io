@@ -1,10 +1,10 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 3:15:00 -0500
-categories: [Rebuke, Envy]
+date: 2025-02-08 3:25:00 -0500
+categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
-published: false
+published: true
 comments: false
 pin: false
 ---
@@ -52,23 +52,7 @@ Because it is our responsibility to rebuke those inside the church who are pract
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-The most impovershed of all men are those who believe that materialism is success. These are the people who confuse their self‑worth with their net‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40). If a man's only achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to Mammon:
-
-<blockquote>
-No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (Matt. 6:24; cf. Lk. 16:13).
-</blockquote>
-
-For both the Christian and the stoic, materialism has never been success. True success is not advertised; it speaks for itself in the form of aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven.
-
-<!-- Justification is by faith alone, <strong>but not by faith that is alone</strong>, it always results in the fruits of the faith. -->
-
-<blockquote>
-Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, <strong>jealousy</strong>, outbursts of anger, selfish <strong>rivalries</strong>, dissensions, factions, <strong>envying</strong>, murder, <strong>drunkenness</strong>, carousing, and similar things. <span style="font-weight:bold;color:Goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:OrangeRed;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:Red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
-</blockquote>
-
-<!-- The previous quotation was used reminiscently of Matthew 11:20-22 (cf. Job 42:6), echoing Jesus’ contrast: even pagan Tyre, Sidon, and Sodom would show remorse and turn in repentance sooner than unrepentant Chorazin, Bethsaida, and Capernaum—despite those cities witnessing most of his miracles. Even pagans understand these things; the practitioners of evil—the irreligious, unrepentant, and self‑deceived—thus show great evidence that they are not truly born‑again. -->
-
-Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
+See our article &ldquo;On True Success&rdquo; and why it's not materialism for neither the Christian nor the stoic. Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
 
 <blockquote>
 Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).

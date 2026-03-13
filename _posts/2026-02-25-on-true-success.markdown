@@ -1,10 +1,10 @@
 ---
-title: "A Truly Impovershed Man is a Materialist"
-date: 2026-02-28 01:40:00 -0500
+title: "On True Success"
+date: 2026-02-28 01:45:00 -0500
 categories: [Meditations, Success]
 tags: [faith, success]
 author: seven_shepherd
-published: false
+published: true
 comments: false
 pin: true
 ---
@@ -40,29 +40,29 @@ sup {
 }
 </style>
 
-The most impovershed of all men are those who believe that materialism is success. These are the people who confuse their self‑worth with their net‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40). If a man's only achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to Mammon:
+<p style="text-indent:2em;">The most impovershed of all men are those who believe that materialism is success. These are the people who confuse their self‑worth with their net‑worth. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Matt. 27:18; 25:40). If a man's only achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to Mammon:</p>
 
 <blockquote>
 No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (Matt. 6:24; cf. Lk. 16:13).
 </blockquote>
 
-<!-- add entry on DDD for mammon -->
-
-God only allows us to boast about two things: believers who are poor or in lowly circumstances should glory that God has made them spiritually rich and exalted them to a high position&mdash;God has honored them. For those who possess great material wealth, God has shown that you are spiritually poor. In a spiritual sense the wealthy are poor&mdash;He has humbled you in the spirit realm:
-
-<!-- . The most successful person is chosen, spiritually rich, holy, morally excellent, and perseverant&mdash;all of which are brought about by God and not by one's own doing: -->
+<p style="text-indent:2em;">For both the Christian and the stoic, materialism has never been success. True success is not advertised; it speaks for itself in the form of aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven:</p>
 
 <blockquote>
+Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, <strong>jealousy</strong>, outbursts of anger, selfish <strong>rivalries</strong>, dissensions, factions, <strong>envying</strong>, murder, <strong>drunkenness</strong>, carousing, and similar things. <span style="color:Goldenrod;">I am <strong>warning</strong> you</span>, as I had warned you before: <strong>Those who practice</strong> such things <span style="color:Goldenrod;"><strong>will not</strong> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
+</blockquote>
+
+<!-- <blockquote>
 <sup style="font-weight:bold;">9</sup> ·<span style="color:Goldenrod;">Believers <span style="color:#bfbfbf;">[Brothers or sisters]</span> who are ·poor <span style="color:#bfbfbf;">[in lowly/humble circumstances]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has made them spiritually rich <span style="color:#bfbfbf;">[in being raised up; in their exaltation; in their high position]</span>.</span> <sup style="font-weight:bold;">10</sup> <span style="color:Crimson;"><span style="color:#bfbfbf;">[<sup>L</sup> But]</span> Those who are ·rich <span style="color:#bfbfbf;">[wealthy]</span> should ·take pride <span style="color:#bfbfbf;">[boast]</span> ·that God has shown them that they are spiritually poor <span style="color:#bfbfbf;">[in their humiliation; in their lowly state; Jer. 9:23–24]</span>.</span> <span style="color:#bfbfbf;">[<sup>L</sup> Because]</span> The rich will ·die <span style="color:#bfbfbf;">[pass away; wither]</span> like a ·wild flower in the grass <span style="color:#bfbfbf;">[or flower in the field]</span>. <sup style="font-weight:bold;">11</sup> <span style="color:#bfbfbf;">[<sup>L</sup> For]</span> The sun rises with ·burning <span style="color:#bfbfbf;">[scorching]</span> heat and ·dries up <span style="color:#bfbfbf;">[withers]</span> the ·plants <span style="color:#bfbfbf;">[or grass]</span>. The flower falls off, and its beauty is ·gone <span style="color:#bfbfbf;">[destroyed]</span>. In the same way the rich will ·die <span style="color:#bfbfbf;">[<sup>L</sup> wither away]</span> ·while they are still taking care of business <span style="color:#bfbfbf;">[in the midst of their pursuits; <sup>L</sup> in his journeys; Ps. 49:16–17; 103:15–16; Is. 40:6–8]</span> <a href="https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB">(The Expanded Bible, 2011, Jas. 1:9-11 EXB)</a>.
-</blockquote>
+</blockquote> -->
 
-If we are to consider ourselves blessed for any other reason let it be for biblical reasons:
+<!-- If we are to consider ourselves blessed for any other reason let it be for biblical reasons: -->
 
-<blockquote>
+<!-- <blockquote>
 The one who has found a good wife has found what goodness is, and obtained a delightful gift from the LORD (NET Bible, 2019, Pro. 18:22 NET)
-</blockquote>
+</blockquote> -->
 
-<blockquote>
+<!-- <blockquote>
 <strong>Unless the Lord builds the house,
     those who build it labor in vain.</strong>
 Unless the Lord watches over the city,
@@ -81,7 +81,7 @@ My people are destroyed for lack of knowledge;
     I reject you from being a priest to me.
 <strong>And</strong> since you have <strong>forgotten the law of your God</strong>,
     <strong>I also will forget your children</strong> (ESV Study Bible, 2008, Hosea 4:6; cf. Rom. 3:31; Gal. 5:4).
-</blockquote>
+</blockquote> -->
 
 <!-- If you want to feel blessed consider the following things: -->
 
