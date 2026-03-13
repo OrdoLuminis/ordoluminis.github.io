@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 3:30:00 -0500
+date: 2025-02-08 3:35:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -52,7 +52,13 @@ Because it is our responsibility to rebuke those inside the church who are pract
 
 <blockquote>hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).</blockquote>
 
-See our article <a href="https://ordoluminis.com/posts/on-true-success/">&ldquo;On True Success&rdquo;</a> and why it's not materialism for neither the Christian nor the stoic. Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
+<p style="text-indent:2em;">For both the Christian and the stoic, materialism has never been success. True success is not advertised; it speaks for itself in the form of aretē or moral excellence (see Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5). For the Christian it is a fruit of the Holy Spirit (John 15:4-5; Gal. 5:22-23). Success is the visable change in the life of the believer&mdash;the fruits of the faith&mdash;by the power and indwelling of the Holy Spirit. In 2014, Dittmar et al. Found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Jas. 1:9-11; Matt. 27:18; 25:40). If a man's only achievement is living in a place where others were raised, he has no accomplishments. If a man's greatest achievement is enriching the company he works for he is enslaved to Mammon. True success is not envious, not drunk, and not divisive. No one practicing these things will enter the Kingdom of Heaven no matter how dead or blind their faith may be:</p>
+
+<blockquote>
+Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, <strong>jealousy</strong>, outbursts of anger, selfish <strong>rivalries</strong>, dissensions, factions, <strong>envying</strong>, murder, <strong>drunkenness</strong>, carousing, and similar things. <span style="color:Goldenrod;">I am <strong>warning</strong> you</span>, as I had warned you before: <strong>Those who practice</strong> such things <span style="color:Goldenrod;"><strong>will not</strong> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
+</blockquote>
+
+Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
 
 <blockquote>
 Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).
