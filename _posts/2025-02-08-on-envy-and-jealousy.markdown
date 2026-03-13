@@ -1,6 +1,6 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 3:35:00 -0500
+date: 2025-02-08 3:40:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
@@ -58,7 +58,7 @@ Because it is our responsibility to rebuke those inside the church who are pract
 Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, <strong>jealousy</strong>, outbursts of anger, selfish <strong>rivalries</strong>, dissensions, factions, <strong>envying</strong>, murder, <strong>drunkenness</strong>, carousing, and similar things. <span style="color:Goldenrod;">I am <strong>warning</strong> you</span>, as I had warned you before: <strong>Those who practice</strong> such things <span style="color:Goldenrod;"><strong>will not</strong> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
 </blockquote>
 
-Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:
+<p style="text-indent:2em;">Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:</p>
 
 <blockquote>
 Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).
