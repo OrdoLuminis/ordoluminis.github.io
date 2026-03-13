@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 08:40:00 -0500
+date: 2025-08-03 08:45:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -371,15 +371,17 @@ This cite is specific to his [**Systematic Theology, 2nd ed.**]() pp. 979-984.
 
 <sup><a name="packer" href="#contents">2</a></sup> [**Dr. J. I. Packer**]() (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. <a href="https://amzn.to/40RYx1A" style="font-weight:bold;">Concise Theology. 59. Works. p. 174.</a> -->
 
+<!--
 
-
-|                        <!--                        |            Five Solas             |     |
+|                                                    |            Five Solas             |
 | :------------------------------------------------: | :-------------------------------: |
 |      Saved by Grace alone<br>(*Sola Gratia*)       | Eph 2:8-10; Ti 3:5; Gal. 2:21;5:4 |
 |        Through Faith alone<br>(*Sola Fide*)        |     Ro 5:1 ESV; Gal. 3:24 ESV     |
 |       In Christ alone<br>(*Solus Christus*)        |     Jn 14:6; Ac 4:12; 1Ti 2:5     |
 | According to Scripture alone<br>(*Sola Scriptura*) |              1Co 4:6              |
-| For the Glory of God alone<br>(*Soli Deo Gloria*)  |         1Pe 2:24; Is 43:7         | --> |
+| For the Glory of God alone<br>(*Soli Deo Gloria*)  |         1Pe 2:24; Is 43:7         |
+
+-->
 
 <br>
 
