@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 09:40:00 -0500
+date: 2025-08-03 09:45:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -356,7 +356,7 @@ I wanted to present the historical and scholarly context before outlining my con
 
 ```mermaid
 flowchart TD
-    A(((Historic<br>Protestant<br>Regeneration))):::green
+    A(((Order of Light))):::green
     A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| B(<strong>Sovereign Regeneration</strong><br><em>Universal Provision<br>&lpar;Grace alone&rpar;</em>):::green
     A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| C(<strong>Monergism</strong>):::green
     A ==>|Christ's atoning work was made for all people sufficiently, but is sovereignly applied only to those whom God regenerates.| D(<strong>Universal&sol;Indefinite Atonement</strong>):::green
