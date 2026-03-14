@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 08:50:00 -0500
+date: 2025-08-03 08:55:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -58,8 +58,8 @@ flowchart LR
     B(<strong>Catholicism</strong>):::orange
     C(<strong>Heresy of Legalism</strong><br>Theological Cults):::red
     D(<strong>Heresy of Antinomianism</strong><br>Children of the Devil&mdash;1Jn.3:4-10<br>Sons of the evil one&mdash;Matt. 13:36-43 ESV<br>Slaves of Depravity&mdash;2Pe.2:17-19 LEB):::firebrick
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian. &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
-    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian. &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
+    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
     B -->|Efficacious grace infallibly produces the will's cooperation&mdash;lived out in sacraments and works.| N(<strong>Quasi-Monergistic</strong><br>Augustinian Thomism):::yellowgreen
     B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| I(<strong>Synergism</strong><br>Molinism):::orange
     C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>Judaizers<br>Witnesses<br>Mormonism):::red
@@ -93,8 +93,8 @@ F >|&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo
 ```mermaid
 flowchart TD
     A(((Historic<br>Protestant<br>Sola Fide)))
-    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in the holy fruits of repentance, faith, and newness of life by the indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian. &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
+    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian. &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
 ```
@@ -332,7 +332,20 @@ You can say that you are sorry for what you have done but if you continue to do 
 Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <strong>you have no assurance of being in the Kingdom of Heaven</strong> (Smith, 2023, 00:00).
 </blockquote>
 
+## III. Conclusions of the Order
 
+I wanted to present the historical and scholarly context before outlining my conclusion and the direction I will take this order, so you can see that it is well-founded.
+
+```mermaid
+flowchart TD
+    A(((Historic<br>Protestant<br>Regeneration)))
+    A -->|Regeneration is enabled by prevenient grace cooperating with the human will, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
+    A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, and faith, and newness of life.| G(<strong>Monergism</strong><br><em>Universal/Indefinite Atonement</em><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
+    A -->|Regeneration is effected solely <strong>for the elect</strong> by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, and faith, and newness of life.| P(<strong>Monergism</strong><br><em>Particular/Definite Atonement</em><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
+    classDef green stroke:#0f0
+    classDef orange stroke:#fa5
+    classDef blue stroke:#48f
+```
 
 <!--
 
