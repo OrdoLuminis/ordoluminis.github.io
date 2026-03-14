@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 09:00:00 -0500
+date: 2025-08-03 09:05:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -89,7 +89,17 @@ F >|&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo
 -->
 
 ## I. Consensus Among Historic Creeds and Confessions of Protestantism
+```mermaid
+flowchart TD
+    A(((Historic<br>Protestant<br>Regeneration)))
+    A -->|Regeneration is enabled by prevenient grace cooperating with the human will, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| H(<strong>Cooperative Regeneration</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
+    A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| G(<strong>Sovereign Regeneration</strong><br><em>Universal Provision</em><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
+    A -->|Regeneration is effected solely by the power of the Holy Spirit, exclusively in the elect, evidenced in the holy fruits of repentance, faith, and newness of life.| P(<strong>Sovereign Regeneration</strong><br><em>Particular Provision</em><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
+    classDef green stroke:#0f0
+    classDef orange stroke:#fa5
+    classDef blue stroke:#48f
 
+```
 ```mermaid
 flowchart TD
     A(((Historic<br>Protestant<br>Sola Fide)))
@@ -100,14 +110,15 @@ flowchart TD
 ```
 ```mermaid
 flowchart TD
-    A(((Historic<br>Protestant<br>Regeneration)))
-    A -->|Regeneration is enabled by prevenient grace cooperating with the human will, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| H(<strong>General/Universal Atonement </strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
-    A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, and faith, and newness of life.| G(<strong>Universal/Indefinite Atonement</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
-    A -->|Regeneration is effected solely <strong>for the elect</strong> by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, and faith, and newness of life.| P(<strong>Particular/Definite Atonement</strong><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
+    A(((Historic<br>Protestant<br>Atonement)))
+    A -->|Christ's atoning work was made for all people without exception, and becomes effectual through faith enabled by prevenient grace.| H(<strong>General&sol;Universal Atonement</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
+    A ==>|Christ's atoning work was made for all people sufficiently, but is sovereignly applied only to those whom God regenerates.| G(<strong>Universal&sol;Indefinite Atonement</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
+    A ==>|Christ's atoning work was made exclusively and intentionally for the elect alone, infallibly securing their redemption.| P(<strong>Particular&sol;Definite Atonement</strong><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
 ```
+
 
 <p style="text-indent:2em;">
 The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
@@ -350,8 +361,8 @@ I wanted to present the historical and scholarly context before outlining my con
 flowchart TD
     A(((Historic<br>Protestant<br>Regeneration)))
     A -->|Regeneration is enabled by prevenient grace cooperating with the human will, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| H(<strong>General/Universal Atonement </strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
-    A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, and faith, and newness of life.| G(<strong>Universal/Indefinite Atonement</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
-    A -->|Regeneration is effected solely <strong>for the elect</strong> by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, and faith, and newness of life.| P(<strong>Particular/Definite Atonement</strong><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
+    A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| G(<strong>Universal/Indefinite Atonement</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
+    A -->|Regeneration is effected solely by the power of the Holy Spirit, grounded in an atonement made exclusively for the elect, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| P(<strong>Particular/Definite Atonement</strong><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
