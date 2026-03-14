@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 09:15:00 -0500
+date: 2025-08-03 09:20:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -112,7 +112,7 @@ flowchart TD
     A(((Historic<br>Protestant<br>Atonement)))
     A -->|Christ's atoning work was made for all people without exception, and becomes effectual through faith enabled by prevenient grace.| H(<strong>General&sol;Universal Atonement</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
     A ==>|Christ's atoning work was made for all people sufficiently, but is sovereignly applied only to those whom God regenerates.| G(<strong>Universal&sol;Indefinite Atonement</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
-    A ==>|Christ's atoning work was made exclusively and intentionally for the elect alone, infallibly securing their redemption.| P(<strong>Particular&sol;Definite Atonement</strong><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
+    A -->|Christ's atoning work was made exclusively and intentionally for the elect alone, infallibly securing their redemption.| P(<strong>Particular&sol;Definite Atonement</strong><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
@@ -358,13 +358,11 @@ I wanted to present the historical and scholarly context before outlining my con
 
 ```mermaid
 flowchart TD
-    A(((Historic<br>Protestant<br>Regeneration)))
-    A -->|Regeneration is enabled by prevenient grace cooperating with the human will, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| H(<strong>General/Universal Atonement </strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
-    A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| G(<strong>Universal/Indefinite Atonement</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Amyraldism &lpar;4-Point&rpar;):::green
-    A -->|Regeneration is effected solely by the power of the Holy Spirit, grounded in an atonement made exclusively for the elect, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| P(<strong>Particular/Definite Atonement</strong><br>Presbyterian &lpar;Particularist&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::blue
+    A(((Historic<br>Protestant<br>Regeneration))):::green
+    A ==>|Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| B(<strong>Sovereign Regeneration</strong><br><em>Universal Provision</em>):::green
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| C(<strong>Monergism</strong>):::green
+    A ==>|Christ's atoning work was made for all people sufficiently, but is sovereignly applied only to those whom God regenerates.| D(<strong>Universal&sol;Indefinite Atonement</strong>):::green
     classDef green stroke:#0f0
-    classDef orange stroke:#fa5
-    classDef blue stroke:#48f
 ```
 
 <!--
