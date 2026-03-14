@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 09:35:00 -0500
+date: 2025-08-03 09:40:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -58,7 +58,7 @@ flowchart LR
     B(<strong>Catholicism</strong>):::orange
     C(<strong>Heresy of Legalism</strong><br>Theological Cults):::red
     D(<strong>Heresy of Antinomianism</strong><br>Children of the Devil&mdash;1Jn.3:4-10<br>Sons of the evil one&mdash;Matt. 13:36-43 ESV<br>Slaves of Depravity&mdash;2Pe.2:17-19 LEB):::firebrick
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian. &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
     B -->|Efficacious grace infallibly produces the will's cooperation&mdash;lived out in sacraments and works.| N(<strong>Quasi-Monergistic</strong><br>Augustinian Thomism):::yellowgreen
     B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| I(<strong>Synergism</strong><br>Molinism):::orange
@@ -67,9 +67,7 @@ flowchart LR
     D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate professors of the faith who abuse and twist God's grace into a license to sin Jd 4 NET.| L(<strong>Antinomianism</strong><br>Gnosticism<br>Hypergrace<br>Mental Assent<br>Theologically Liberal<br>Carnal Christianity):::firebrick
     classDef red stroke:#f00
     classDef green stroke:#0f0
-    classDef lightgreen stroke:#Bf0
     classDef yellowgreen stroke:#8db600
-    classDef darkgreen stroke:#006400
     classDef orange stroke:#fa5
     classDef firebrick stroke:#b22
     classDef darkred stroke:#8B0000
@@ -103,7 +101,7 @@ flowchart TD
 flowchart TD
     A(((Historic<br>Protestant<br>Sola Fide)))
     A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| H(<strong>Synergism</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian. &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
+    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| G(<strong>Monergism</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
 ```
