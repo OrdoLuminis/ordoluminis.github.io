@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 10:15:00 -0500
+date: 2025-08-03 10:20:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -86,6 +86,23 @@ E >|&ldquo;the message of the cross is foolishness to those who are perishing&rd
 F >|&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo;<br>&lpar;Matt. 7:23; Lk. 13:27&rpar;| N(<strong>True Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10;):::darkerred
 -->
 
+<p style="text-indent:2em;">
+The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
+
+<blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>3</sup>], you cannot see the Kingdom of God” (New Living Translation, 2015, John 3:3).</blockquote>
+
+In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to the &ldquo;practice verses,&rdquo;<sup>4</sup> and rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses,&rdquo;<sup>4</sup> adhering instead to a distorted interpretation of faith alone (i.e. a faith that is dead, disingenuine, and fruitless)<sup>7</sup> which has no historical basis within <strong>Protestantism</strong>.<br>
+
+<ol start="1">
+  <li>Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28.</li>
+  <li><strong>Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Matt. 18:3; Luk. 9:62</strong> (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q87">Q87</a>).</li>
+  <li>John 3:3; 1Jn. 3:6-10 (cf. <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).</li>
+  <li><strong>1Jn. 2:3-5; 3:9-10; 5:18; Gal. 5:19-21; 1Cor. 6:9-11;</strong> Matt. 3:8,10; 7:21-23; Heb. 10:26-31; 6:4-6; Lk 9:62; Rom. 6:1-2,15; 3:31; Jd 4 NET; Mt 10:38; Lk 9:23; Lk 14:27.</li>
+  <li>Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7.</li>
+  <li>2Cor. 5:17; Gal. 6:15.</li>
+  <li>Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).</li>
+</ol>
+
 ## I. Consensus Among Historic Creeds and Confessions of Protestantism
 
 ```mermaid
@@ -107,23 +124,6 @@ flowchart TD
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
 ```
-
-<p style="text-indent:2em;">
-The Bible clearly states that we are saved by grace through faith apart from the works of the law.<sup>1</sup> The Bible also clearly warns that if we practice lifestyles of sin we will not inherit the Kingdom of God.<sup>2</sup> <strong>Protestants</strong> affirm both statements as true, applying regeneration<sup>3</sup>&mdash;and, at times, sanctification&mdash;instead of justification in their interpretation of the &ldquo;practice verses.&rdquo;<sup>4</sup> In other words, the transformative process is seen as God's work in you, rather than an effort on your part to earn or merit salvation. The Holy Spirit produces the fruit, not human decision and efforts,<sup>5</sup> as a consequence of your new nature.<sup>6</sup> In essence, “works‑fruit” not “works‑salvation.”</p>
-
-<blockquote>Jesus replied, “I tell you the truth, unless you are born again [regenerated<sup>3</sup>], you cannot see the Kingdom of God” (New Living Translation, 2015, John 3:3).</blockquote>
-
-In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">legalist</a> applies the concept of justification to the &ldquo;practice verses,&rdquo;<sup>4</sup> and rejects justification by grace through faith apart from works.<sup>1</sup> Meanwhile, an <a href="https://ordoluminis.com/posts/identifying-the-cults-and-heretical-sects/">antinomian</a> denies the teachings of Jesus and the Apostles altogether on the &ldquo;practice verses,&rdquo;<sup>4</sup> adhering instead to a distorted interpretation of faith alone (i.e. a faith that is dead, disingenuine, and fruitless)<sup>7</sup> which has no historical basis within <strong>Protestantism</strong>.<br>
-
-<ol start="1">
-  <li>Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28.</li>
-  <li><strong>Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Matt. 18:3; Luk. 9:62</strong> (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q87">Q87</a>).</li>
-  <li>John 3:3; 1Jn. 3:6-10 (cf. <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).</li>
-  <li><strong>1Jn. 2:3-5; 3:9-10; 5:18; Gal. 5:19-21; 1Cor. 6:9-11;</strong> Matt. 3:8,10; 7:21-23; Heb. 10:26-31; 6:4-6; Lk 9:62; Rom. 6:1-2,15; 3:31; Jd 4 NET; Mt 10:38; Lk 9:23; Lk 14:27.</li>
-  <li>Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7.</li>
-  <li>2Cor. 5:17; Gal. 6:15.</li>
-  <li>Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).</li>
-</ol>
 
 ### 1.1 Reformed Baptist & Presbyterian
 
