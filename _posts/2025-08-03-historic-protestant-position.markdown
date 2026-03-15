@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 09:55:00 -0500
+date: 2025-08-03 10:00:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -54,7 +54,7 @@ The Order of Light recognizes the Historic Protestant position.
 
 ```mermaid
 flowchart LR
-    A(<strong>Historic<br>Protestantism</strong>):::green
+    A(<strong>Historic<br>Protestant<br>Sola Fide</strong>):::green
     B(<strong>Catholicism</strong>):::orange
     C(<strong>Heresy of Legalism</strong><br>Theological Cults):::red
     D(<strong>Heresy of Antinomianism</strong><br>Children of the Devil&mdash;1Jn.3:4-10<br>Sons of the evil one&mdash;Matt. 13:36-43 ESV<br>Slaves of Depravity&mdash;2Pe.2:17-19 LEB):::firebrick
