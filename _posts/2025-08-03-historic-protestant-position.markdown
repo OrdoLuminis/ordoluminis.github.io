@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 10:00:00 -0500
+date: 2025-08-03 10:05:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -94,14 +94,7 @@ flowchart TD
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
 ```
-```mermaid
-flowchart TD
-    A(((Historic<br>Protestant<br>Sola Fide)))
-    A -->|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by prevenient grace enabled faithful human efforts.| H(<strong>Preveniently Enabled<br>&lpar;Synergistic&rpar;</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
-    A ==>|Living Faith &lpar;trust&rpar;.<br>Faith &ldquo;results&rdquo; in fruit bearing by the power and indwelling of the Holy Spirit.| G(<strong>Sovereignly Given<br>&lpar;Monergistic&rpar;</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
-    classDef green stroke:#0f0
-    classDef orange stroke:#fa5
-```
+
 ```mermaid
 flowchart TD
     A(((Historic<br>Protestant<br>Atonement)))
