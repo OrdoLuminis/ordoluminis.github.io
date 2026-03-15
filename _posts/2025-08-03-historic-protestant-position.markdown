@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 10:10:00 -0500
+date: 2025-08-03 10:15:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -58,13 +58,15 @@ flowchart LR
     B(<strong>Catholicism</strong>):::orange
     C(<strong>Heresy of Legalism</strong><br>Theological Cults):::red
     D(<strong>Heresy of Antinomianism</strong><br>Children of the Devil&mdash;1Jn.3:4-10<br>Sons of the evil one&mdash;Matt. 13:36-43 ESV<br>Slaves of Depravity&mdash;2Pe.2:17-19 LEB):::firebrick
+    F(<strong>Unrepentant Apostasy</strong><br>An Antichrist&mdash;<br>1Jn. 2:19-22 ESV<br>Heb. 10:26-31; 6:4-6;):::darkred
     A ==>|Living Faith &lpar;trust&rpar;. Justification is by faith apart from works &ldquo;resulting&rdquo; in fruit-bearing by the power and indwelling of the Holy Spirit.| G(<strong>Sovereignly Given<br>&lpar;Monergistic&rpar;</strong><br>Lutheranism &lpar;Confessional&rpar;<br>Anglicanism &lpar;Confessional&rpar;<br>Presbyterian &lpar;Hyp. Universalist&rpar;<br>Presbyterian &lpar;Particularist&rpar;<br>Amyraldism &lpar;4-Point&rpar;<br>Reformed Baptist &lpar;5-Point&rpar;):::green
     A -->|Living Faith &lpar;trust&rpar;. Justification is by faith apart from works &ldquo;resulting&rdquo; in fruit-bearing by prevenient grace enabled faithful human efforts.| H(<strong>Preveniently Enabled<br>&lpar;Synergistic&rpar;</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
-    B -->|Efficacious grace infallibly produces the will's cooperation&mdash;lived out in sacraments and works.| N(<strong>Quasi-Monergistic</strong><br>Augustinian Thomism):::yellowgreen
-    B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| I(<strong>Synergism</strong><br>Molinism):::orange
-    C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ.| J(<strong>Judaizing Legalism</strong><br>Judaizers<br>Witnesses<br>Mormonism):::red
-    C -->|Justification by Works.<br>Severed from Christ,<br>fallen from grace<br>Gal. 5:4.| K(<strong>Pharisaic Legalism</strong><br>Pharisees<br>Sadducees<br>John 8:44; Rev. 2:9;3:9; 1Thess. 2:14-16; Acts 7:43; Amos 5:26-27; Titus 1:14):::red
-    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate professors of the faith who abuse and twist God's grace into a license to sin Jd 4 NET.| L(<strong>Antinomianism</strong><br>Gnosticism<br>Hypergrace<br>Mental Assent<br>Theologically Liberal<br>Carnal Christianity):::firebrick
+    B -->|Efficacious grace infallibly produces the will's cooperation&mdash;lived out in sacraments and works.| I(<strong>Quasi-Monergistic</strong><br>Augustinian Thomism):::yellowgreen
+    B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| J(<strong>Synergism</strong><br>Molinism):::orange
+    C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ. Severed from Christ, fallen from grace &lpar;Gal. 5:4&rpar;.| K(<strong>Judaizing Legalism</strong><br>Judaizers<br>Witnesses<br>Mormonism):::red
+    C -->|Justification by Works.| L(<strong>Pharisaic Legalism</strong><br>Pharisees<br>):::red
+    D -->|Dead faith &lpar;assent&rpar;.<br>The unregenerate professors of the faith who abuse and twist God's grace into a license to sin.| M(<strong>Antinomianism</strong><br>Gnosticism &lpar;Jd 4 NET&rpar;<br>Nicolaitanism &lpar;Rev. 2:6,15&rpar; &ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo; &lpar;Matt. 7:23; Lk. 13:27&rpar;):::firebrick
+    F -->|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo; &lpar;1Cor. 1:18&rpar;.| N(<strong>Total and Final Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10;):::darkred
     classDef red stroke:#f00
     classDef green stroke:#0f0
     classDef yellowgreen stroke:#8db600
@@ -80,7 +82,7 @@ C >|The Apostle John knew the difference between a Jewish synagogue and a Christ
 
 E(Apostasy<br>&lpar;Repent or Perish&rpar;):::darkred
 F(Total & Final Apostasy<br>&lpar;The Unforgivable Sin&rpar;):::darkerred
-E >|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo;<br>&lpar;1Cor. 1:18&rpar;| M(<strong>Apostasy & Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan—Smyrnaean Jews who persecuted early Christians<br>Re.2:9;3:9; 1Thess. 2:14-16&rpar;):::darkred
+E >|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo;<br>&lpar;1Cor. 1:18&rpar;| M(<strong>Apostasy & Pharisaic Legalism</strong><br>&lpar;The Synagogue of Satan—Smyrnaean Jews who persecuted early Christians<br>John 8:44; Rev. 2:9;3:9; 1Thess. 2:14-16; Acts 7:43; Amos 5:26-27; Titus 1:14&rpar;):::darkred
 F >|&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo;<br>&lpar;Matt. 7:23; Lk. 13:27&rpar;| N(<strong>True Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10;):::darkerred
 -->
 
