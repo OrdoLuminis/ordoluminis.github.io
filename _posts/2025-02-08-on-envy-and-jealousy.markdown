@@ -1,10 +1,10 @@
 ---
 title: "On Envy and Jealousy"
-date: 2025-02-08 3:40:00 -0500
+date: 2025-02-08 3:45:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, jealousy] # TAG names should always be lowercase
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: false
 ---
