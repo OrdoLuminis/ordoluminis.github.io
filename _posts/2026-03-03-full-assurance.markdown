@@ -1,10 +1,10 @@
 ---
-title: "How to Have Full Assurance Without False Assurance"
-date: 2026-03-03 04:15:00 -0500
+title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
+date: 2026-03-03 04:25:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
-published: false
+published: true
 comments: false
 pin: true
 ---
@@ -40,26 +40,71 @@ sup {
 }
 </style>
 
-<!-- According to scholars a fruitless faith is a superficial faith. Someone who asserts that only their group can guarantee assurance of salvation demonstrates deeply ingrained indoctrination, a lack of critical education, and thinking that closely resembles cult-like dogma. Historic Protestants absolutely can, and in fact do, give full assurance of salvation.  -->
+## What Real Faith Looks Like
 
 <p style="text-indent:2em;">
-As a historic and academic Protestant, the key in teaching full assurance of salvation is not to give false assurance of salvation, as most&mdash;if not all&mdash;secular, antinomian, and progressive Christian groups are guilty of doing. Christ's message of fruit-bearing <strong>IS</strong> the message of assurance and the second part of the <i>sola fide</i> doctrine: Justification is by faith alone, "but not by faith that is alone," <strong>correctly teaching fruit-bearing as evidence of genuine faith</strong>. If you do not hold to this, you do not hold to <i>sola fide</i>, the Reformation doctrine of faith alone. You've essentially fallen from sound doctrine. Christ warned that it would be better for a person not only die but to suffer a dreadful fate if they cause these little children to stumble into sin. Therefore, today I will provide you full assurance, free of false assurance:</p>
+According to scholars a fruitless faith is a superficial faith and the key in teaching full assurance of salvation is not to give false assurance of salvation. Christ's message of fruit-bearing <strong>IS</strong> the message of assurance and the second part of the <i>sola fide</i> doctrine: &ldquo;Justification is by faith alone, <strong>but not by faith that is alone</strong>.&rdquo; This doctrine correctly teaches fruit‑bearing as evidence of genuine faith. If you do not hold to this, you do not hold to <i>sola fide</i>, the Reformation doctrine of faith alone. Worse, if you do not hold to Christ's teachings on fruit‑bearing, <strong>you do not have God</strong> (Jn. 15:4-5; Gal. 5:22-24; 1Cor 3:6-7; Jas. 2:14-26):</p>
 
 <blockquote>
-Then he said, “I tell you the truth, <strong>unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong>But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
+Everyone who goes on ahead and does not abide in the teaching of Christ, <strong style="color:goldenrod;">does not have God</strong>. Whoever abides in the teaching has both the Father and the Son (ESV Study Bible, 2008, 2Jn. 1:9).
 </blockquote>
 
-<!-- As a word of caution: when I refer to “works” I mean the regenerative fruits of the faith — evidential of genuine faith, not works that justify. Keep this in mind while I provide you with real assurance without giving you false assurance:</p>
+<!-- Are you abiding in the teachings of Scripture?:
+- Fruit-bearing evidence is not your doing (Jn. 15:4-5; Gal. 5:22-24; 1Cor 3:6-7).
+- Faith without works is dead (Jas. 2:14-26).
+- While everyone has sin (1Jn. 1:8-10) whoever practices sin is a child of satan (1Jn 3:4-10).
+- While no one is righteous enough to earn or merit their salvation (Rom. 3:10) whoever does not practice righteousness is not a born again Christian (1Jn 3:10; Gen. 6:9).
+- Those who practice lifestyle of sin will not enter the kingdom of heaven (Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6) not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate (Jn. 3:3; 1Jn. 3:9).
+- Repentance is an inward resolve to turn from sin. The unrepentant will perish, and those who perish were never in Christ, for those who are in Christ are alive (Matt. 18:3; Lk. 13:3; Ac. 3:19-20,26; 26:20; Re. 2:5).
+- We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31 NET).
+- Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30). -->
+
+## Assurance of salvation comes from a living faith
+
+<p style="text-indent:2em;">
+The faith that justifies, Luther said, is a <i>fides viva</i>, a living faith, a faith that is alive, and <strong>you know</strong> it is alive when it manifests itself in the fruit of obedience. Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life. The biblical criteron for full assurance of salvation comes from the first epistle of John. I have full assurance without having false assurance because my faith is living. <strong>Anyone who holds to the following scripture can have full and complete assurance</strong> that they are living in the truth:</p>
 
 <blockquote>
-"For if you are trying to make yourselves right with God by keeping the law, you have been cut off from Christ! You have fallen away from God’s grace" (New Living Translation, 2015, Gal. 5:4).
-</blockquote> -->
+And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6; cf. Rom. 3:31).
+</blockquote>
 
-## I. What is the Basis of Your Assurance?
+# Little Children Let No One Deceive you
+
+<p style="text-indent:2em;">
+Beware unrepentant antichrists (1Jn. 2:22) and unrighteous deceivers. While no one is righteous enough to earn or merit their salvation (Rom. 3:10), whoever does not practice righteousness is not a born-again Christian (1Jn 3:10; Gen. 6:9). While everyone has sin (1Jn. 1:8-10), whoever practices sin is a child of Satan (1Jn 3:4-10) and will not enter the kingdom of heaven (Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6)&mdash;not because they fail to do works (that would be legalism) but because they are unregenerate (Jn. 3:3; 1Jn. 3:9):</p>
+
+<blockquote>
+Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. By this it is evident who are the children of God, and who are the children of the devil: <strong style="color:goldenrod;">whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).
+</blockquote>
+
+## A Warning From Christ and His Faithful
+
+<p style="text-indent:2em;">
+Christ warned that it would be better for a person to not only die but to suffer a dreadful fate if they cause these little children to stumble into sin.</p>
+
+<blockquote>
+Then he said, “I tell you the truth, <strong style="color:goldenrod;">unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong>But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
+</blockquote>
+
+A final message and warning from Pastor Chuck Smith:
+
+<blockquote>
+Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (2023, 00:00).
+</blockquote>
+
+<blockquote>
+You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (2015b, 2:10-3:12).
+</blockquote>
+
+<blockquote>
+If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (Smith, 2015a, 1Jn 3:6-8).
+</blockquote>
+
+## Reasoning With The Lost
 
 <!-- As an aside, the fact that people like this don't care about their relationship with Christ enough to maintain it speaks volumes about why they often&mdash;albeit inadvertently&mdash;lead their children and loved ones into corruption and apostasy -->
 
-What is the basis of your assurance?
+Is the basis of your assurance a living faith or a dead faith?
 - <strong>If you said, "I'm not going to worry about my faith,"</strong>  I would encourage you to care about your relationship with Christ and to read the Bible because the Scriptures instruct us to examine our faith to see if it is genuine. By my giving you assurance through fruit-bearing, you are twisting Christ's message of assurance into worry:
   - <blockquote><strong>Examine yourselves to see if your faith is genuine. Test yourselves.</strong> ... (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
   - <strong>If you replied, "But you don't have to,"</strong> I would say, "Right — it's not your doing; it's the Holy Spirit that works these fruits in our lives."
@@ -76,23 +121,8 @@ What is the basis of your assurance?
 
 <strong>Remember: "Faith without works is dead" (Jas. 2:26).</strong> Analogously, you say, "Yes, I'm married, but I'm not going to worry about my relationship with them," and then you proceed to lie to, cheat on, and harm them. Is your relationship with this person genuine? No. In the same way, your relationship with Christ is superficial without the accompanying works. This is called spiritual infidelity.
 
-<!-- Just as we invest time and effort into nurturing our marriages&mdash;caring for our wives or husbands and working to strengthen that bond&mdash;we should be even more devoted to maintaining our relationship with Christ. Scripture calls us to examine our faith for authenticity: -->
 
-## II. Is the Basis of your Assurance a Living Faith or a Dead Faith?
-
-Is the basis of your salvation a living faith or a dead faith? The biblical criteron for full assurance of salvation comes from the first epistle of John. I have full assurance without having false assurance because my faith is living. <strong>Anyone who holds to the following scripture can have full and complete assurance</strong> that they are living in the truth:
-
-<blockquote>
-And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6; cf. Rom. 3:31).
-</blockquote>
-
-Remember: Assurance of salvation comes from a living faith. The faith that justifies, Luther said, is a <i>fides viva</i>, a living faith, a faith that is alive, and <strong>you know</strong> it is alive when it manifests itself in the fruit of obedience. Justification is by faith alone, but not by faith that is alone: "Its proper evidence appears in the holy fruits of repentance, and faith, and newness of life" (Order of Light, 2024, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>). Pastor Chuck Smith, provides strong warning:
-
-<blockquote>
-Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;">you have no assurance of being in the Kingdom of Heaven</span> (2023, 00:00).
-</blockquote>
-
-## III. Has God's Kindness Led You to the Blessing of Repentance?
+<!-- ## III. Has God's Kindness Led You to the Blessing of Repentance?
 
 It's his kindness that leads us to repentance. When a father corrects his teenage son and warns, "do not cross that road," and that teenager cops a rebellious attitude, crosses the road, and is maimed by a semi-truck, was the Father the cruel one for the warning? No. So, now I will warn you as Christ has warned you, when he said, "No, I tell you; but unless you repent, you will all likewise perish" (Luke 13:3 ESV). Yes&mdash;unless you repent, you will die in some way. Like the rich man who perished in hell for his failure to repent, you will experience death. Whether you understand that as the “second death,” as I do, or as a form of dying in this life&mdash;loss, brokenness, or an end to your family line or legacy&mdash;you will face death in one form or another. If Christ said that you would die then you will die, I promise you.
 
@@ -158,7 +188,7 @@ For someone who has apostatized, I will speak directly to you. Your greatest ass
 
 <blockquote>
 If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (Smith, 2015a, 1Jn 3:6-8).
-</blockquote>
+</blockquote> -->
 
 <br>
 <hr>
@@ -171,12 +201,12 @@ If I am living a life of practicing sin, I really don’t know Him. I really hav
 <ul class="references">
 
 <!-- <li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li> -->
-<li><em>Filament study: New living translation</em>. (2015). Tyndale House Publishers.</li>
+<!-- <li><em>Filament study: New living translation</em>. (2015). Tyndale House Publishers.</li> -->
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 <li>Smith, C. (2015a, June 1). C2000 series (Chuck Smith archives). <em>Calvary Chapel</em>. https://calvarychapel.com/posts/c2000/</li>
 <li>Smith, C. (2015b, December 28). <em>Repentance, Matthew 3:8 - Pastor Chuck Smith - Topical Bible Study</em> [Video]. YouTube. https://youtu.be/kP8rIIps4Sk?t=130</li>
 <li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. Youtube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
-<li>The Order of Light. (2024, October 2). <em>New hampshire baptist confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li>
+<!-- <li>The Order of Light. (2024, October 2). <em>New hampshire baptist confession (1833)</em>. https://ordoluminis.com/posts/new-hampshire-confession-1833/</li> -->
 <li>Wesley, J. (1872). <em>The Law Established Through Faith</em>. Cassell & Co.</li>
 </ul>
 
