@@ -1,12 +1,12 @@
 ---
 title: "Listen to the Story of the Poor Wise Man"
-date: 2025-07-05 01:35:00 -0500
+date: 2025-07-05 01:40:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, wisdom]
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <style>
