@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-03 04:25:00 -0500
+date: 2026-03-03 04:30:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -68,7 +68,7 @@ The faith that justifies, Luther said, is a <i>fides viva</i>, a living faith, a
 And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6; cf. Rom. 3:31).
 </blockquote>
 
-# Little Children Let No One Deceive you
+## Little Children Let No One Deceive you
 
 <p style="text-indent:2em;">
 Beware unrepentant antichrists (1Jn. 2:22) and unrighteous deceivers. While no one is righteous enough to earn or merit their salvation (Rom. 3:10), whoever does not practice righteousness is not a born-again Christian (1Jn 3:10; Gen. 6:9). While everyone has sin (1Jn. 1:8-10), whoever practices sin is a child of Satan (1Jn 3:4-10) and will not enter the kingdom of heaven (Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6)&mdash;not because they fail to do works (that would be legalism) but because they are unregenerate (Jn. 3:3; 1Jn. 3:9):</p>
