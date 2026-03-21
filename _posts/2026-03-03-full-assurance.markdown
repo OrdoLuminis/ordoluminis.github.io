@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-03 04:45:00 -0500
+date: 2026-03-03 04:50:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
@@ -71,10 +71,10 @@ And <strong style="color:goldenrod;">we can be sure</strong> that we know him if
 ## Little Children Let No One Deceive you
 
 <p style="text-indent:2em;">
-While no one is righteous enough to earn or merit their salvation (Rom. 3:10), whoever does not practice righteousness is not a born-again Christian (1Jn 3:10; Gen. 6:9). While everyone has sin (1Jn. 1:8-10), whoever practices sin gives great evidence that they are a child of Satan (1Jn 3:4-10) and will not enter the kingdom of heaven (Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6)&mdash;not because they fail to do works (that would be legalism) but because they are unregenerate (Jn. 3:3; 1Jn. 3:9):</p>
+While no one is righteous enough to earn or merit their salvation (Rom. 3:10), whoever does not practice righteousness is not of God (1Jn 3:10; Gen. 6:9). While everyone has sin (1Jn. 1:8-10), whoever makes a practice of sinning are children of the devil (1Jn 3:4-10) and will not enter the kingdom of heaven (Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6)&mdash;not because they fail to do works (that would be legalism) but because they are unregenerate (Jn. 3:3; 1Jn. 3:9):</p>
 
 <blockquote>
-Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. By this it is evident who are the children of God, and who are the children of the devil: <strong style="color:goldenrod;">whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).
+Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).
 </blockquote>
 
 ## A Warning From Christ and His Faithful
@@ -83,7 +83,7 @@ Everyone who makes a practice of sinning also practices lawlessness; sin is lawl
 Christ warned that it would be better for a person to not only die but to suffer a dreadful fate if they cause these little children to stumble into sin.</p>
 
 <blockquote>
-Then he said, “I tell you the truth, <strong style="color:goldenrod;">unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong>But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
+Then he said, “I tell you the truth, <strong>unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong style="color:goldenrod;">But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
 </blockquote>
 
 A final message and warning from Pastor Chuck Smith:
