@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 10:40:00 -0500
+date: 2025-08-03 10:45:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -65,7 +65,7 @@ flowchart LR
     B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| J(<strong>Synergism</strong><br>Molinism):::orange
     C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ. Severed from Christ, fallen from grace &lpar;Gal. 5:4&rpar;.| K(<strong>Judaizing Legalism</strong><br>Judaizers<br>Witnesses<br>Mormonism):::red
     C -->|Justification by Works.| L(<strong>Pharisaic Legalism</strong><br>Pharisees<br>):::red
-    D -->|<strong>Dead faith &lpar;assent&rpar;</strong><br>The unregenerate professors of the faith who abuse and twist God's grace into a license to sin &lpar;Jd. 4 NET&rpar;, and who profane the Spirit of grace &lpar;Heb. 10:26-31 ESV&rpar;.| M(<strong>Antinomianism</strong><br>Gnosticism &lpar;Jd. 4 NET&rpar;<br>Nicolaitanism &lpar;Rev. 2:6,15&rpar; &ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo; &lpar;Matt. 7:23; Lk. 13:27&rpar;.):::firebrick
+    D -->|<strong>Dead faith &lpar;assent&rpar;</strong><br>The unregenerate professors of the faith who abuse and twist God's grace into a license to sin &lpar;Jd. 4 NET&rpar;, and who profane the Spirit of grace &lpar;Heb. 10:26-31 ESV&rpar;.| M(<strong>Antinomianism</strong><br>Gnosticism &lpar;Jd. 4 NET&rpar;<br>Nicolaism &lpar;Rev. 2:6,15&rpar;<br>Hypergrace Heresy<br>&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo; &lpar;Matt. 7:23; Lk. 13:27&rpar;.):::firebrick
     F -->|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo; &lpar;1Cor. 1:18&rpar;.| N(<strong>Total and Final Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>&lpar;Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10&rpar;.):::darkred
     classDef red stroke:#f00
     classDef green stroke:#0f0
@@ -98,7 +98,7 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
   <li><strong>Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Matt. 18:3; Luk. 9:62</strong> (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q87">Q87</a>).</li>
   <li>John 3:3; 1Jn. 3:6-10 (cf. <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>).</li>
   <li><strong>1Jn. 2:3-5; 3:9-10; 5:18; Gal. 5:19-21; 1Cor. 6:9-11;</strong> Matt. 3:8,10; 7:21-23; Heb. 10:26-31; 6:4-6; Lk 9:62; Rom. 6:1-2,15; 3:31; Jd 4 NET; Mt 10:38; Lk 9:23; Lk 14:27.</li>
-  <li>Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7.</li>
+  <li>Ga 5:22-24 NLT; Jn 15:4-5; 1Cor 3:6-7.</li>
   <li>2Cor. 5:17; Gal. 6:15.</li>
   <li>Jas. 2:14-26; 2Cor. 13:5 (cf. 2 Peter 1:5–10), John 15:4-5 (cf. <a href="https://ordoluminis.com/posts/heidelberg-catechism-1563/#Q86">Q86.3</a>, <a href="https://ordoluminis.com/posts/new-hampshire-confession-1833/#grace-in-regeneration">A7.41</a>, <a href="https://ordoluminis.com/posts/thirty-nine-articles-1562/#Of-Good-Works">A12</a>).</li>
 </ol>
