@@ -1,10 +1,10 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-03 04:50:00 -0500
+date: 2026-03-03 04:55:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: true
 ---
