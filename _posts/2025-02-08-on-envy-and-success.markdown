@@ -1,6 +1,6 @@
 ---
 title: "On Envy and True Success"
-date: 2025-02-08 5:00:00 -0500
+date: 2025-02-08 5:05:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, success] # TAG names should always be lowercase
 author: seven_shepherd
@@ -51,7 +51,7 @@ Jesus said, "And blessed is the one who is not offended by me" (ESV Study Bible,
 Often, it is precisely these individuals who spread evil within the church, becoming so spiritually corrupt that they devour one another, believing material wealth means anything at all. If you pay close attention, these adversaries will reveal their deepest fears cloaked in their arrogance. When they puff out their chest and boast, it's not confidence&mdash;It's a façade of superiority borne from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I've yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility, and those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, On the Tranquility of the Mind</em> (De Tranquillitate Animi):</p> -->
 
 <p style="text-indent:2em;">
-Jesus said, “And blessed is the one who is not offended by me” (ESV Study Bible, 2008, Matt. 11:6; cf. Lk. 7:23), and, “The world cannot hate you, but it does hate me because I accuse it of doing evil” (New Living Translation, 2015, Jn. 7:7). Because it is our responsibility to rebuke those inside the church who are practicing sin, consider this a rebuke to the envious and divisive (1Tim. 5:20; 1Cor. 5:11-13; Jud. 1:19).</p>
+Jesus said, “And blessed is the one who is not offended by me” (ESV Study Bible, 2008, Matt. 11:6; cf. Lk. 7:23), and, “The world can’t hate you, but it does hate me because I accuse it of doing evil” (New Living Translation, 2015, Jn. 7:7). Because it is our responsibility to rebuke those inside the church who are practicing sin, consider this a rebuke to the envious and divisive (1Tim. 5:20; 1Cor. 5:11-13; Jud. 1:19).</p>
 
 <p style="text-indent:2em;">
 Often, it is precisely these individuals who spread evil within the church, becoming so spiritually corrupt that they devour one another, believing material wealth means anything at all. If you pay close attention, these adversaries will reveal their deepest fears cloaked in arrogance. When they puff out their chest and boast, it is not confidence&mdash;it is a façade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I have yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility, and those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, On the Tranquility of the Mind (De Tranquillitate Animi)</em>:</p>
