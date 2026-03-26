@@ -1,6 +1,6 @@
 ---
 title: "On Envy and True Success"
-date: 2025-02-08 5:10:00 -0500
+date: 2025-02-08 5:15:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, success] # TAG names should always be lowercase
 author: seven_shepherd
@@ -63,23 +63,33 @@ Often, it is precisely these individuals who spread evil within the church, beco
 <p style="text-indent:2em;">
 For both the Christian and the stoic true success has always spoken for itself in the form of aretē or moral excellence (2Pet. 1:5). For the Christian it is the visable change in the life of the believer&mdash;the fruits of genuine faith by the power and indwelling of the Holy Spirit (Jn. 15:4-5; Gal. 5:22-23). In 2014, Dittmar et al. found that people who treat material wealth as the primary measure of success often pay a real psychological price: research finds that strong materialistic values are reliably associated with lower life satisfaction, greater social comparison and envy, and poorer mental well-being. In the same way that the upper class Pharisees envied the materially poor Christ, materialists also persecute the spiritually rich among us (Jas. 1:9-11; Matt. 27:18; 25:40). These represent the most impoverished of all men&mdash;who confuse net‑worth for self‑worth, achieving nothing beyond living where others grew up or enriching their employer, thus only boasting of their enslavement to Mammon:</p>
 
+<!-- <blockquote>
+In view of all this, make every effort to respond to God’s promises. Supplement your faith with a generous provision of moral excellence [ἀρετή (aretē)], and <strong>moral excellence with knowledge</strong> (New Living Translation, 2015, 2Pet. 1:5; cf. Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5).
+</blockquote> -->
+
 <blockquote>
 No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. <strong>You cannot serve God and mammon</strong> (ESV Study Bible, 2008, Matt. 6:24; cf. Lk. 16:13).
 </blockquote>
 
 <p style="text-indent:2em;">
-Christians should first focus on their relationship with Christ; this is the purest form of success. A good father teaches his son to care about that relationship enough to abide by Christ’s teachings, not to say &ldquo;I don’t worry about it,&rdquo; which is the motto of one who does not have God. Instead, heed the advice of your heavenly Father and draw close to his teachings on repentance and fruit-bearing:</p>
+Christians should first focus on their relationship with Christ; this is the purest form of success. Therefore, a good father teaches his son to care about that relationship enough to abide by Christ’s teachings, not to say &ldquo;I don’t worry about it,&rdquo; which is the thinking of apostates and deceivers (1Jn. 3:7). Instead, heed the advice of your heavenly Father and draw close to his teachings on repentance and fruit-bearing.</p>
 
 <blockquote>
 Everyone who goes on ahead and does not abide in the teaching of Christ, <strong style="color:goldenrod;">does not have God</strong>. Whoever abides in the teaching has both the Father and the Son (ESV Study Bible, 2008, 2Jn. 1:9).
 </blockquote>
 
 <p style="text-indent:2em;">
-Secondly, if we consider ourselves blessed for any other reason, let it be for biblical reasons (Ps. 127:1-3 ESV; Pro. 18:22 NET; Hosea 4:6 ESV; cf. Rom. 3:31). Moral excellence separates a wise leader from a clever tyrant, and education amplifies moral excellence, turning raw potential into refined impact. Education, a good wife, and Christ‑filled offspring within the confines of marriage become the fruits of moral excellence. Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:</p>
+Secondly, if we consider ourselves blessed for any other reason, let it be for biblical reasons. Moral excellence separates a wise leader from a clever tyrant, and education amplifies moral excellence, turning raw potential into refined power. Consequently, the ruby of proverbs (Pr. 31:10; 18:22), and Christ‑filled offspring (Ps. 127:1-3 ESV; cf. Hos. 4:6 ESV; Rom. 3:31) within the confines of marriage become the conditional fruits of education and opportunity (Ecc. 9:11).</p>
 
 <blockquote>
-In view of all this, make every effort to respond to God’s promises. Supplement your faith with a generous provision of moral excellence [ἀρετή (aretē)], and <strong>moral excellence with knowledge</strong> (New Living Translation, 2015, 2Pet. 1:5; cf. Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5).
+Establish your work outside and get your fields ready; afterward build<sup>[b]</sup> your house (NET Bible, 2019, Pr. 24:27).
+  <blockquote>
+  b. Proverbs 24:27 <strong>sn</strong> If the term “house” is understood literally, the proverb would mean that one should be financially secure before building a house (cf. NLT). If “house” is figurative for household (metonymy of subject: children or family), the proverb would mean that <strong>one should have financial security and provision before starting a family</strong>. Some English versions suggest the latter meaning by using the word “home” for “house” (e.g., TEV, CEV) (Full Notes Edition, 2019, Pr. 24:27).
+  </blockquote>
 </blockquote>
+
+<p style="text-indent:2em;">
+Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:</p>
 
 <blockquote>
 Peter asked Jesus, “What about him, Lord?” Jesus replied, “If I want him to remain alive until I return, what is that to you? As for you, follow me” (New Living Translation, 2015, John 21:21–22).
