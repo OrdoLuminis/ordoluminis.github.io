@@ -1,6 +1,6 @@
 ---
 title: "On Envy and True Success"
-date: 2025-02-08 5:30:00 -0500
+date: 2025-02-08 5:35:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, success] # TAG names should always be lowercase
 author: seven_shepherd
@@ -61,7 +61,7 @@ As for those who persist in sin, rebuke them in the presence of all, so that the
 </blockquote>
 
 <p style="text-indent:2em;">
-Often, it is precisely these individuals who spread evil within the church, becoming so spiritually corrupt that they devour one another in rivalries (Gal. 5:19–21), falsely believing material wealth means anything at all (Pr. 11:4; Ps. 73:12). If you pay close attention, these adversaries will reveal their deepest fears cloaked in arrogance. When they puff out their chest and boast, it is not confidence&mdash;it is a façade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I have yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility, and those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, On the Tranquility of the Mind (De Tranquillitate Animi)</em>:</p>
+Often, it is precisely these individuals who spread evil within the church, becoming so spiritually corrupt that they devour one another in rivalries (Gal. 5:19–21), falsely believing material wealth means anything at all (Pr. 11:4 ESV; Ps. 73:12 ESV). If you pay close attention, these adversaries will reveal their deepest fears cloaked in arrogance. When they puff out their chest and boast, it is not confidence&mdash;it is a façade of superiority born from their own insecurities. This bravado is a defense mechanism, a desperate attempt to conceal their vulnerabilities. In truth, they are laying bare their weaknesses for all to see. I have yet to encounter a truly secure individual who feels the need to act in such a manner; as intelligence grows, so too does humility, and those who speak ill of others are merely projecting their own insecurities and limitations onto those they envy. As Seneca (1889) vividly illustrates in his <em>Minor Dialogues, On the Tranquility of the Mind (De Tranquillitate Animi)</em>:</p>
 
 <blockquote>
 ... hence comes the State of Mind of those who loathe their idleness, complain that they have nothing to do, and view the progress of others with the bitterest jealousy: for an unhappy sloth favours the growth of envy, and those who cannot succeed themselves wish everyone else to be ruined (p. 257).
