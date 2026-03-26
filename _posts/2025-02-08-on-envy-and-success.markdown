@@ -1,6 +1,6 @@
 ---
 title: "On Envy and True Success"
-date: 2025-02-08 5:05:00 -0500
+date: 2025-02-08 5:10:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, success] # TAG names should always be lowercase
 author: seven_shepherd
@@ -68,11 +68,14 @@ No one can serve two masters; for either he will hate the one and love the other
 </blockquote>
 
 <p style="text-indent:2em;">
-Christians should first focus on their relationship with Christ; this is the purest form of success. A good father teaches his son to care about that relationship enough to abide by Christ’s teachings, not to say &ldquo;I don’t worry about it,&rdquo; which is the motto of a heretic. Instead, heed the advice of your heavenly Father and draw close to his teachings on repentance and fruit-bearing. Secondly, if we consider ourselves blessed for any other reason, let it be for biblical reasons (Ps. 127:1-3 ESV; Pro. 18:22 NET; Hosea 4:6 ESV; cf. Rom. 3:31). Moral excellence separates a wise leader from a clever tyrant, and education amplifies moral excellence, turning raw potential into refined impact. Education, a good wife, and Christ‑filled offspring within the confines of marriage become the fruits of moral excellence. Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:</p>
+Christians should first focus on their relationship with Christ; this is the purest form of success. A good father teaches his son to care about that relationship enough to abide by Christ’s teachings, not to say &ldquo;I don’t worry about it,&rdquo; which is the motto of one who does not have God. Instead, heed the advice of your heavenly Father and draw close to his teachings on repentance and fruit-bearing:</p>
 
 <blockquote>
 Everyone who goes on ahead and does not abide in the teaching of Christ, <strong style="color:goldenrod;">does not have God</strong>. Whoever abides in the teaching has both the Father and the Son (ESV Study Bible, 2008, 2Jn. 1:9).
 </blockquote>
+
+<p style="text-indent:2em;">
+Secondly, if we consider ourselves blessed for any other reason, let it be for biblical reasons (Ps. 127:1-3 ESV; Pro. 18:22 NET; Hosea 4:6 ESV; cf. Rom. 3:31). Moral excellence separates a wise leader from a clever tyrant, and education amplifies moral excellence, turning raw potential into refined impact. Education, a good wife, and Christ‑filled offspring within the confines of marriage become the fruits of moral excellence. Further, heed Paul's counsel in Philippians and learn from Peter’s exchange with Jesus in John; for what business is it of yours what Christ does in the lives of others unless it is to support them? As the Apostles articulate:</p>
 
 <blockquote>
 In view of all this, make every effort to respond to God’s promises. Supplement your faith with a generous provision of moral excellence [ἀρετή (aretē)], and <strong>moral excellence with knowledge</strong> (New Living Translation, 2015, 2Pet. 1:5; cf. Phil. 4:8; 1Pe. 2:9; 2Pe. 1:3,5).
