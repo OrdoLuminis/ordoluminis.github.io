@@ -33,9 +33,9 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
 
 ### Liturgical
-- **REC Book of Common Prayer (Traditional Language)** — Confessional use
-- **REC Book of Common Prayer (Modern Language)** — Practical use
-- **A Tenebrae Service** — Holy Week observance befitting the order's theological emphases
+- [**REC Book of Common Prayer (Traditional Language)**](/assets/docs/BCPComplete.pdf) — Confessional use
+- [**REC Book of Common Prayer (Modern Language)**](/assets/docs/ModernLanguageBCP.pdf) — Practical use
+- [**A Tenebrae Service**](/assets/docs/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
 
 <!-- ### Recommended Reading
 - **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
