@@ -30,7 +30,7 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism
 
 ### Reformed Confessions
-- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; compatible with hypothetical universalist soteriology
+- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; of such genuine Protestant breadth that even Jacobus Arminius subscribed to it, demonstrating its character as common ground for all seriously Reformed and evangelical Christians
 - [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
 
 ### Liturgical
