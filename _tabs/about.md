@@ -24,7 +24,7 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - **Apostles' Creed (A.D. 650)**
 
 ### Foundational Documents
-- **Thirty-Nine Articles of Religion** — Primary confessional anchor
+- **Thirty-Nine Articles of Religion (1562)** — Primary confessional anchor
 - **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism
 
 ### Reformed Confessions
@@ -40,7 +40,7 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
 - **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles
 
-### Contemporary Reformed Scholarship
+### Contemporary Scholarship
 - **D.A. Carson** (PhD, University of Cambridge)
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
