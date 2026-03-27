@@ -1,45 +1,50 @@
 grand_master:
-  name: Grand Master of the Order of Light
+  name: Magister Ordinis (Grand Master)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 seneschal:
-  name: Seneschal of the Order of Light
+  name: Senescallus (Seneschal)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 marshal:
-  name: Lord Marshal of the Order of Light
+  name: Mariscallus (Marshal)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 preceptor:
-  name: Preceptor of the Order of Light
+  name: Praeceptor (Preceptor)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 knight_commander:
-  name: Knight Commander of the Order of Light
+  name: Commendator (Knight Commander)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 knight:
-  name: Knight
+  name: Frater Eques (Knight-Brother)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 chaplain:
-  name: Chaplain
+  name: Capellanus (Chaplain)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 sergeant:
-  name: Sergeant
+  name: Serviens (Sergeant-Brother)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
 squire:
-  name: Squire
+  name: Armiger (Shield-Bearer)
+  twitter: OrdoLuminis
+  url: https://ordoluminis.com
+
+novice:
+  name: Novitius (Novice)
   twitter: OrdoLuminis
   url: https://ordoluminis.com
 
