@@ -1,12 +1,12 @@
 ---
 title: "The Father’s Counsel: Success in the Face of Envy"
-date: 2025-02-08 5:45:00 -0500
+date: 2025-02-08 5:55:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, success] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: false
+pin: true
 ---
 
 <style>
