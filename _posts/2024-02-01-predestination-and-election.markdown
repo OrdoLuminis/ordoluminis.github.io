@@ -1,6 +1,6 @@
 ---
 title: "God Clearly Does Choose"
-date: 2024-02-01 7:00:00 -0500
+date: 2024-02-01 7:05:00 -0500
 categories: [Theology, Predestination]
 tags: [free will, predestination, election, reprobation] # TAG names should always be lowercase
 author: seven_shepherd
@@ -80,11 +80,11 @@ body {
 <!--  -->
 
 <p style="text-indent:2em;">
-Many of you might start to ponder the thought-provoking question of how free our wills actually are. None of us had any free will or agency over where we’d be born, our ethnicity, our socioeconomic status, who our relatives would be, what genetic predispositions and genetic disorders we may be vulnerable to, or genetic physical traits such as height, eye color, intelligence, and natural aptitudes. We certainly don’t have any control over purely random actions, chance, or catastrophic events. Can you save yourself by reciting a works-based sinner's prayer or declare yourself justified before God through your own free will choices? **Do you believe that you have the free will to renounce your faith and forfeit salvation?** (See <a href="#free-will-test">Free Will Test</a>). If you answered "no" to these questions, the good news is you're still sane. Nevertheless, we do exercise a limited form of free will in our decision-making processes. Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will:</p>
+Many of you might start to ponder the thought-provoking question of how free our wills actually are. None of us had any free will or agency over where we’d be born, our ethnicity, our socioeconomic status, who our relatives would be, what genetic predispositions and genetic disorders we may be vulnerable to, or genetic physical traits such as height, eye color, intelligence, and natural aptitudes. We certainly don’t have any control over purely random actions, chance, or catastrophic events. Can you save yourself by reciting a works-based sinner's prayer or declare yourself justified before God through your own free will choices? <strong>Do you believe that you have the free will to renounce your faith and forfeit salvation?</strong> (See <a href="#free-will-test">Free Will Test</a>). If you answered "no" to these questions, the good news is you're not a legalist. Nevertheless, we do exercise a limited form of free will in our decision-making processes. Dr. Walter Martin (2017), a theologian with 5 degrees, articulates the limitations of free will:</p>
 
 > ... and that no flesh should be able to glory in its own sight, but whoever makes an appearance before the throne of the Lord, his glory will be in the Lord of hosts. Now some may say, "That's the sovereignty of God, hallelujah, **but what about my free will?" Well, it's not as free as you think it is. You are free to make choices, but you are not free to enforce all of them**. ... There is freedom, but it's quite limited. In lots of respects, "you have not chosen me; I've chosen you" means that God has the last word" (20:25).
 
-I would submit to you that any intelligent examination of scripture leads to a belief in the doctrine of election. When I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: Belief in election to life does not necessarily entail an acceptance of foreordained damnation. In fact, it does not even require one to subscribe to the concept of foreordination in any form. Rather, election to life can be understood in a singular, prescient context, emphasizing a divine awareness of foreknown relationship rather than foreordination.
+I would submit to you that any thorough examination of scripture leads to a belief in the doctrine of election. When I contend that a rigorous and scholarly examination of biblical texts leads to a substantiated belief in the doctrine of election, I am delineating a critical distinction: Belief in election to life does not necessarily entail an acceptance of foreordained damnation. In fact, it does not even require one to subscribe to the concept of foreordination in any form. Rather, election to life can be understood in a singular, prescient context, emphasizing a divine awareness of foreknown relationship rather than foreordination.
 
 > "Free will carried many a soul to hell, but never a soul to heaven" (Spurgeon).
 
