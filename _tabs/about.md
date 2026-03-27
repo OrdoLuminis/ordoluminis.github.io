@@ -20,17 +20,17 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 ## Confessional Standards
 
 ### Ecumenical Creeds
-- **Nicene Creed (A.D. 381)**
-- **Apostles' Creed (A.D. 650)**
+- [**Nicene Creed (A.D. 381)**](https://ordoluminis.com/posts/nicene-creed-381/)
+- [**Apostles' Creed (A.D. 650)**](https://ordoluminis.com/posts/apostles-creed-650/)
 - **The Athanasian Creed (A.D. 800)**
 
 ### Foundational Documents
-- **Thirty-Nine Articles of Religion (1562)** — Primary confessional anchor
+- [**Thirty-Nine Articles of Religion (1562)**](https://ordoluminis.com/posts/thirty-nine-articles-1562/) — Primary confessional anchor
 - **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism
 
 ### Reformed Confessions
-- **Heidelberg Catechism (1563)** — Union with Christ centered devotional and doctrinal standard; compatible with hypothetical universalist soteriology
-- **New Hampshire Confession (1833)** — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
+- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; compatible with hypothetical universalist soteriology
+- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
 
 ### Liturgical
 - **REC Book of Common Prayer (Traditional Language)** — Confessional use
