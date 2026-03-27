@@ -60,10 +60,10 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
   - *Reinventing Jesus*
 
-### Secondary Anglican Declarations
+<!-- ### Secondary Anglican Declarations
 - **Chicago-Lambeth Quadrilateral (1888)** — Defines the four essentials of Anglican identity
 - **Anglican Belief and Practice (2002)** — Pastoral and catechetical Anglican standard
-- **Jerusalem Declaration (2008)** — Defines theologically conservative Anglicanism in the modern context
+- **Jerusalem Declaration (2008)** — Defines theologically conservative Anglicanism in the modern context -->
 
 ### Approved Bible Translations and Tertiary Sources
 - **ESV Study Bible / NIV Biblical Theology Study Bible** — Primary recommendations for comprehensive Bible study and theological synthesis
