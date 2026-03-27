@@ -42,12 +42,19 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles -->
 
 ### Contemporary Scholarship
+- **C.S. Lewis** (Oxbridge)
+  - *Mere Christianity*
 - **D.A. Carson** (PhD, University of Cambridge)
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
   - *The Cross and Salvation*
+- **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge; 1930–2021)
+  -  *Quarks, Chaos & Christianity*
+- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford; 1953–Present)
+  - *Mere Apologetics*
+  - *The Dawkins Delusion*
 - **Hugh Ross** (PhD, Astrophysicist at University of Toronto)
   - *Beyond The Cosmos*
 - **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
