@@ -1,12 +1,12 @@
 ---
 title: "On Envy and True Success"
-date: 2025-02-08 5:35:00 -0500
+date: 2025-02-08 5:40:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, success] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 ---
 
 <style>
