@@ -22,6 +22,7 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 ### Ecumenical Creeds
 - **Nicene Creed (A.D. 381)**
 - **Apostles' Creed (A.D. 650)**
+- **The Athanasian Creed (A.D. 800)**
 
 ### Foundational Documents
 - **Thirty-Nine Articles of Religion (1562)** — Primary confessional anchor
@@ -36,9 +37,9 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - **REC Book of Common Prayer (Modern Language)** — Practical use
 - **A Tenebrae Service** — Holy Week observance befitting the order's theological emphases
 
-### Recommended Reading
+<!-- ### Recommended Reading
 - **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
-- **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles
+- **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles -->
 
 ### Contemporary Scholarship
 - **D.A. Carson** (PhD, University of Cambridge)
