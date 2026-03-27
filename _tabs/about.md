@@ -45,9 +45,11 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
-- **Dr. Hugh Ross** (PhD, Astrophysicist at University of Toronto)
+- **Bruce Demarest** (PhD, University of Manchester)
+  - *The Cross and Salvation*
+- **Hugh Ross** (PhD, Astrophysicist at University of Toronto)
   - *Beyond The Cosmos*
-- **Dr. Daniel B. Wallace** (PhD, Dallas Theological Seminary)
+- **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
   - *Reinventing Jesus*
 
 ### Secondary Anglican Declarations
