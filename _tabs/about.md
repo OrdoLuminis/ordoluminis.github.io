@@ -19,6 +19,10 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 
 ## Confessional Standards
 
+### Ecumenical Creeds
+- **Nicene Creed (A.D. 381)**
+- **Apostles' Creed (A.D. 650)**
+
 ### Foundational Documents
 - **Thirty-Nine Articles of Religion** — Primary confessional anchor
 - **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism
@@ -36,10 +40,27 @@ The Order of Light is a reformed Anglican fraternal order whose soteriological h
 - **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
 - **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles
 
+### Contemporary Reformed Scholarship
+- **D.A. Carson** (PhD, University of Cambridge)
+  - *Divine Sovereignty and Human Responsibility*
+  - *The Gospel According to John*
+  - *The Difficult Doctrine of the Love of God*
+- **Dr. Hugh Ross** (PhD, Astrophysicist at University of Toronto)
+  - *Beyond The Cosmos*
+- **Dr. Daniel B. Wallace** (PhD, Dallas Theological Seminary)
+  - *Reinventing Jesus*
+
 ### Secondary Anglican Declarations
 - **Chicago-Lambeth Quadrilateral (1888)** — Defines the four essentials of Anglican identity
 - **Anglican Belief and Practice (2002)** — Pastoral and catechetical Anglican standard
 - **Jerusalem Declaration (2008)** — Defines theologically conservative Anglicanism in the modern context
+
+### Approved Bible Translations and Tertiary Sources
+- **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons for academic word study
+- **ESV Reverse Interlinear** — Essential tool for mapping English translations back to original languages for word study
+- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
+- **ESV Study Bible / NIV Biblical Theology Study Bible** — Primary recommendations for comprehensive Bible study and theological synthesis
+- **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource dedicated to comparative textual criticism
 
 <!-- The Order of Light is a Reformed Anglican fraternal order of scientists and scholars allegiant to Christ, dedicated to the advancement of scientific knowledge and preservation of biblical truth. Its soteriological heart is union with Christ, embracing a transformationist soteriology&mdash;rather than a merely imputationist one&mdash;and following Davenant's hypothetical universalist position on the extent of the atonement. The Order is creedal and confessional, upholding the orthodoxy of the ancient church while embracing the Reformation's doctrinal reforms. -->
 
