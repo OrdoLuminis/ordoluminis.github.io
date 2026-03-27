@@ -59,7 +59,7 @@ The Order of Light is a prestigious order of scientists and scholars allegiant t
 <hr>
 <br>
 
-<span style="font-style:italic;">Fraternitatis Aeternae, Ordo Luminis.</span>
+<span style="font-style:italic;">Ordo Luminis Fraternitatis Aeternae</span>
 
 
 <!-- - <i class="fa-brands fa-facebook"></i> [Facebook](https://www.facebook.com/OrdoLuminis)
