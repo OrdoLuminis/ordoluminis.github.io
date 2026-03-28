@@ -40,6 +40,17 @@ sup {
 }
 </style>
 
+```mermaid
+flowchart TD
+    A(((Anglicanism)))
+    A -->|Scripture alongside apostolic tradition and magisterium; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Newman<br>Pusey<br>Keble<br>Laud<br>Andrewes):::orange
+    A ==>|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced; union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Davenant<br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson):::green
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>J.C. Ryle<br>John Stott<br>J.I. Packer):::blue
+    classDef green stroke:#0f0
+    classDef orange stroke:#fa5
+    classDef blue stroke:#48f
+```
+
 <p style="text-indent:2em;">
 Anglicanism is not a monolith. Within its broad historical tradition exist streams so theologically distinct that they represent fundamentally different answers to the most basic questions of Christian doctrine — authority, salvation, the sacraments, and the meaning of the Reformation itself. Understanding where the Order of Light stands requires distinguishing not just two positions but three: Anglo-Catholicism, standard Confessional Anglicanism, and the Union-Centered Transformationist Anglican tradition — a historically established via media that is neither five-point Calvinist nor Arminian, but occupies a third position with its own impeccable theological pedigree.</p>
 
