@@ -16,7 +16,7 @@ order: 4
 # Of the Eternal Brotherhood
 
 <p style="text-indent:2em;">
-The Order of Light is a reformed Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology&mdash;rather than a merely imputationist one&mdash;and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation’s doctrinal reforms.</p>
+The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology&mdash;rather than a merely imputationist one&mdash;and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation’s doctrinal reforms.</p>
 
 ## Confessional Standards
 
