@@ -1,6 +1,6 @@
 ---
 title: "Three Kinds of Anglican: Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Tradition"
-date: 2026-03-27 02:20:00 -0500
+date: 2026-03-27 02:25:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -47,7 +47,7 @@ Anglicanism is not a monolith. Within its broad historical tradition exist strea
 
 This third position stands on centuries of established theological precedent — predating the rigid Calvinist-Arminian binary that has dominated Protestant debate since the seventeenth century and in important respects transcending it. It is not a modern compromise or a softened Calvinism. It affirms sovereign grace and forensic justification while insisting that the atonement was genuinely provisioned for all humanity, that union with Christ is the soteriological center from which all benefits flow, and that salvation necessarily produces real observable transformation in the believer.
 
-This tradition running from the English Reformers and Caroline divines through the broader Reformed evangelical stream — including the Puritans, John Davenant, and Jonathan Edwards — represents the dominant soteriological inheritance of historic Protestant orthodoxy, of which Anglican confessionalism was the English institutional expression. The Order of Light does not invent this position — it retrieves and inhabits it. What follows is a comparison of all three streams across every major theological category.
+This tradition running from the English Reformers through the broader Reformed evangelical stream — including John Davenant, the Puritans, and Jonathan Edwards — represents the dominant soteriological inheritance of historic Protestant orthodoxy, of which Anglican confessionalism was the English institutional expression. The Order of Light does not invent this position — it retrieves and inhabits it. What follows is a comparison of all three streams across every major theological category.
 
 ## On Authority
 
@@ -55,7 +55,7 @@ This tradition running from the English Reformers and Caroline divines through t
 
 **Confessional Anglican:** Scripture is the primary authority, with confessions serving as faithful summaries of scriptural teaching. The Reformation's doctrinal reforms are explicitly embraced, not bracketed.
 
-**Union-Centered Transformationist Anglican:** Fully shares the Confessional Anglican position on Scripture's primacy, standing in direct continuity with Cranmer, Jewel, and the English Reformers who grounded Anglican identity in Scripture alone against Roman appeals to tradition. The confessional standards chosen — particularly the Thirty-Nine Articles, the Declaration of Principles, and the Heidelberg Catechism — are those which most faithfully express the scriptural soteriology of union with Christ that the English Reformers, the Caroline divines, Davenant, and Edwards all centered their theology upon. Notably the Heidelberg Catechism is of such genuine Protestant breadth that even Jacobus Arminius subscribed to it without reservation — demonstrating its character as common ground for all seriously evangelical Christians rather than a narrowly partisan document.
+**Union-Centered Transformationist Anglican:** Fully shares the Confessional Anglican position on Scripture's primacy, standing in direct continuity with Cranmer, Jewel, and the English Reformers who grounded Anglican identity in Scripture alone against Roman appeals to tradition. The confessional standards chosen — particularly the Thirty-Nine Articles, the Declaration of Principles, and the Heidelberg Catechism — are those which most faithfully express the scriptural soteriology of union with Christ that the English Reformers, Davenant, and Edwards all centered their theology upon. Notably the Heidelberg Catechism is of such genuine Protestant breadth that even Jacobus Arminius subscribed to it without reservation — demonstrating its character as common ground for all seriously evangelical Christians rather than a narrowly partisan document.
 
 ## On Justification
 
@@ -67,11 +67,11 @@ This tradition running from the English Reformers and Caroline divines through t
 
 ## On the Sacraments
 
-**Anglo-Catholic:** Sacraments are instruments that actually convey grace — baptismal regeneration, eucharistic presence, sacerdotal priesthood. The priest mediates grace through sacramental acts.
+**Anglo-Catholic:** Sacraments are instruments that actually convey grace — baptismal regeneration, eucharistic presence, sacerdotal priesthood. The priest mediates grace  through sacramental acts.
 
 **Confessional Anglican:** Sacraments are signs and seals rather than regenerating instruments. The Declaration of Principles explicitly rejects the error that regeneration is inseparably connected with baptism.
 
-**Union-Centered Transformationist Anglican:** Fully affirms the Confessional Anglican sacramental position, standing in the tradition of Cranmer's Reformed eucharistic theology and the English Reformers' deliberate rejection of Roman sacramentalism. The positive theological ground for this rejection is the doctrine of union with Christ — regeneration is the sovereign Spirit-worked consequence of genuine union with Christ, not a mechanical effect of a liturgical act. Sacraments are signs and seals of a grace that the Spirit alone works through the living Word and genuine faith — a position the Caroline divines maintained against Anglo-Catholic drift in their own era and one that grounds baptism and the Lord's Supper in the deeper reality of union with Christ rather than in the sacramental act itself.
+**Union-Centered Transformationist Anglican:** Fully affirms the Confessional Anglican sacramental position, standing in the tradition of Cranmer's Reformed eucharistic theology and the English Reformers' deliberate rejection of Roman sacramentalism. The positive theological ground for this rejection is the doctrine of union with Christ — regeneration is the sovereign Spirit-worked consequence of genuine union with Christ, not a mechanical effect of a liturgical act. Sacraments are signs and seals of a grace that the Spirit alone works through the living Word and genuine faith — a position the English Reformers enshrined in the formularies and that Davenant and the confessional Reformed Anglican stream consistently maintained against sacramentalist readings of those same formularies — one  that grounds baptism and the Lord's Supper in the deeper reality of union with Christ rather than in the sacramental act itself.
 
 ## On Union with Christ
 
@@ -87,7 +87,7 @@ This tradition running from the English Reformers and Caroline divines through t
 
 **Confessional Anglican:** The Reformation's doctrinal reforms are explicitly and positively embraced as recoveries of biblical truth obscured by medieval accretion. The tradition stands in direct continuity with Cranmer, Jewel, and the English Reformers.
 
-**Union-Centered Transformationist Anglican:** Fully shares the Confessional Anglican embrace of the Reformation but locates its own position within the specific stream of Reformation theology that treated union with Christ as the Reformation's deepest soteriological recovery rather than its forensic categories alone. The English Reformers, the Caroline divines, Davenant at the Synod of Dort, and Edwards in New England all represent successive developments of this same theological tradition — not departures from Reformation orthodoxy but its fullest and most coherent expression. The Reformation recovered not merely imputed righteousness but the participatory reality that imputed righteousness exists to serve.
+**Union-Centered Transformationist Anglican:** Fully shares the Confessional Anglican embrace of the Reformation but locates its own position within the specific stream of Reformation theology that treated union with Christ as the Reformation's deepest soteriological recovery rather than its forensic categories alone. The English Reformers, Davenant at the Synod of Dort, and Edwards in New England all represent successive developments of this same  theological tradition — not departures from Reformation orthodoxy but its fullest and most coherent expression. The Reformation recovered not merely imputed righteousness but the participatory reality that imputed righteousness exists to serve.
 
 ## On Atonement Extent
 
