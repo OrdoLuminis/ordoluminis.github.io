@@ -1,6 +1,6 @@
 ---
 title: "Three Kinds of Anglican: Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Tradition"
-date: 2026-03-27 02:10:00 -0500
+date: 2026-03-27 02:15:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -43,7 +43,9 @@ sup {
 <p style="text-indent:2em;">
 Anglicanism is not a monolith. Within its broad historical tradition exist streams so theologically distinct that they represent fundamentally different answers to the most basic questions of Christian doctrine — authority, salvation, the sacraments, and the meaning of the Reformation itself. Understanding where the Order of Light stands requires distinguishing not just two positions but three: Anglo-Catholicism, standard Confessional Anglicanism, and the Union-Centered Transformationist Anglican tradition — a historically established via media that is neither five-point Calvinist nor Arminian, but occupies a third position with its own impeccable theological pedigree.</p>
 
-This third position is frequently misunderstood. It is not a modern compromise or a softened Calvinism. It affirms sovereign grace and forensic justification while insisting that the atonement was genuinely provisioned for all humanity, that union with Christ is the soteriological center from which all benefits flow, and that salvation necessarily produces real observable transformation in the believer. It predates the rigid Calvinist-Arminian binary that has dominated Protestant debate since the seventeenth century and in important respects transcends it.
+<strong>The Order of Light stands explicitly within this third tradition.</strong> Its soteriological heart is union with Christ — the organizing center from which all benefits of salvation flow. It embraces a transformationist soteriology rather than a merely imputationist one, insisting that forensic justification is not the endpoint of salvation but the ground from which genuine Spirit-worked transformation necessarily and freely grows. And it follows John Davenant's hypothetical universalism on the extent of the atonement — affirming that Christ's death was genuinely provisioned for all humanity while remaining efficacious only for the elect through sovereign grace.
+
+This third position stands on centuries of established theological precedent — predating the rigid Calvinist-Arminian binary that has dominated Protestant debate since the seventeenth century and in important respects transcending it. It is not a modern compromise or a softened Calvinism. It affirms sovereign grace and forensic justification while insisting that the atonement was genuinely provisioned for all humanity, that union with Christ is the soteriological center from which all benefits flow, and that salvation necessarily produces real observable transformation in the believer.
 
 This tradition running from the English Reformers through the Caroline divines, the Puritans, John Davenant, and Jonathan Edwards represents arguably the dominant soteriological stream of historic Anglicanism before the Oxford Movement's Anglo-Catholic turn in the 1830s displaced it from prominence. The Order of Light does not invent this position — it retrieves and inhabits it. What follows is a comparison of all three streams across every major theological category.
 
