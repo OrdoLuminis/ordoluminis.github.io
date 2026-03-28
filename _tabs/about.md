@@ -45,10 +45,10 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 ### Contemporary Scholarship
 - **C.S. Lewis** (Oxbridge)
   - *Mere Christianity*
-- **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool; 1816–1900)
+- **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
   - *Holiness*
   - *Knowing the Bible*
-- **J.I. Packer** (PhD, University of Oxford; 1926–2020)
+- **J.I. Packer** (PhD, University of Oxford)
   - *Knowing God*
   - *A Quest for Godliness*
 - **D.A. Carson** (PhD, University of Cambridge)
@@ -57,9 +57,9 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
   - *The Cross and Salvation*
-- **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge; 1930–2021)
+- **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge)
   - *Quarks, Chaos & Christianity*
-- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford; 1953–Present)
+- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
   - *Mere Apologetics*
   - *The Dawkins Delusion*
 - **Hugh Ross** (PhD, Astrophysics, University of Toronto)
