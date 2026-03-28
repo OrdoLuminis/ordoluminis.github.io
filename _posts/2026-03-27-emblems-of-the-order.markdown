@@ -1,8 +1,8 @@
 ---
 title: "The Emblems of the Order of Light"
-date: 2026-03-27 01:00:00 -0500
+date: 2026-03-27 01:05:00 -0500
 categories: [Order, Emblems]
-tags: [emblem]
+tags: [emblem, seal, phoenix, heraldry, veritas vincit, symbolism]
 author: seven_shepherd
 published: true
 comments: false
@@ -56,7 +56,7 @@ Secondary to the cross but expansive in its presence, the two-headed Phoenix spr
 Centered beneath the cross is a shield adorned with ornate filigree. It represents the fraternal protection brothers extend to one another and the defensive character of the order's mission — guarding biblical truth and orthodox confession against erosion and compromise.
 
 **The Sword**
-A sword descends through the shield, pointing downward. It represents truth as a weapon — the Word of God as the sword of the Spirit, and the Hussite martial conviction that truth is worth defending at cost.
+A sword descends through the shield, pointing downward. It represents the Word of God as the sword of the Spirit — drawn from Ephesians 6 — signifying that the order's mission is pursued not with physical force but with truth, reason, and faithful proclamation, in the conviction that truth is always worth defending at cost. The downward orientation signals humility and submission to God's Word rather than aggression.
 
 **Alpha and Omega**
 Flanking the shield are the Greek letters Alpha and Omega — drawn from Revelation's declaration that Christ is the beginning and the end. They echo the two-headed Phoenix above them, reinforcing the order's conviction that Christ encompasses all of history and all of salvation within himself — from first to last, from death to resurrection, from darkness to light.
