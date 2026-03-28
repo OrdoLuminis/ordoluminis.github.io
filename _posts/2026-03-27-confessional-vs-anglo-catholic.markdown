@@ -1,12 +1,13 @@
 ---
 title: "Three Kinds of Anglican: Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Tradition"
-date: 2026-03-27 02:30:00 -0500
+date: 2026-03-27 02:35:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
 published: true
 comments: false
 pin: false
+mermaid: true
 ---
 
 <style>
