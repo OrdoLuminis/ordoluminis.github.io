@@ -47,7 +47,7 @@ Anglicanism is not a monolith. Within its broad historical tradition exist strea
 
 This third position stands on centuries of established theological precedent — predating the rigid Calvinist-Arminian binary that has dominated Protestant debate since the seventeenth century and in important respects transcending it. It is not a modern compromise or a softened Calvinism. It affirms sovereign grace and forensic justification while insisting that the atonement was genuinely provisioned for all humanity, that union with Christ is the soteriological center from which all benefits flow, and that salvation necessarily produces real observable transformation in the believer.
 
-This tradition running from the English Reformers through the Caroline divines, the Puritans, John Davenant, and Jonathan Edwards represents arguably the dominant soteriological stream of historic Anglicanism before the Oxford Movement's Anglo-Catholic turn in the 1830s displaced it from prominence. The Order of Light does not invent this position — it retrieves and inhabits it. What follows is a comparison of all three streams across every major theological category.
+This tradition running from the English Reformers and Caroline divines through the broader Reformed evangelical stream — including the Puritans, John Davenant, and Jonathan Edwards — represents the dominant soteriological inheritance of historic Protestant orthodoxy, of which Anglican confessionalism was the English institutional expression. The Order of Light does not invent this position — it retrieves and inhabits it. What follows is a comparison of all three streams across every major theological category.
 
 ## On Authority
 
