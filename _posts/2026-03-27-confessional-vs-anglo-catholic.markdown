@@ -57,7 +57,7 @@ flowchart TD
     A(((Union-Centered<br>Transformationist<br>Soteriology)))
     A -->|Participatory ontology; theosis; love as ontologically constitutive; essence-energies distinction.| B(<strong>Eastern Orthodox Allies</strong><br>Kallistos Ware<br>John Meyendorff<br>Gregory Palamas):::orange
     A ==>|Union with Christ as soteriological center; transformationist soteriology; hypothetical universalism; forensic justification in service of real participation.| D(<strong>Reformed Evangelical Allies</strong><br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson<br>Bruce Demarest):::green
-    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>John Calvin<br>Herman Bavinck<br>R.C. Sproul<br>J.I. Packer<br>Thomas Watson):::blue
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>John Calvin<br>Herman Bavinck<br>R.C. Sproul):::blue
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
