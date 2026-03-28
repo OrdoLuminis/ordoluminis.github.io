@@ -1,6 +1,6 @@
 ---
 title: "Three Kinds of Anglican: Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Tradition"
-date: 2026-03-27 02:35:00 -0500
+date: 2026-03-27 02:40:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -45,8 +45,19 @@ sup {
 flowchart TD
     A(((Anglicanism)))
     A -->|Scripture alongside apostolic tradition and magisterium; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Newman<br>Pusey<br>Keble<br>Laud<br>Andrewes):::orange
-    A ==>|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced; union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Davenant<br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson):::green
+    A ==>|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced; union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Davenant):::green
     A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>J.C. Ryle<br>John Stott<br>J.I. Packer):::blue
+    classDef green stroke:#0f0
+    classDef orange stroke:#fa5
+    classDef blue stroke:#48f
+```
+
+```mermaid
+flowchart TD
+    A(((Union-Centered<br>Transformationist<br>Soteriology)))
+    A -->|Participatory ontology; theosis; love as ontologically constitutive; essence-energies distinction.| B(<strong>Eastern Orthodox Allies</strong><br>Kallistos Ware<br>John Meyendorff<br>Gregory Palamas):::orange
+    A ==>|Union with Christ as soteriological center; transformationist soteriology; hypothetical universalism; forensic justification in service of real participation.| D(<strong>Reformed Evangelical Allies</strong><br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson<br>Bruce Demarest):::green
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>John Calvin<br>Herman Bavinck<br>R.C. Sproul<br>J.I. Packer<br>Thomas Watson):::blue
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
