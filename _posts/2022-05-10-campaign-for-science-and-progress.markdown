@@ -1,12 +1,12 @@
 ---
 title: "Campaign for Science and Progress"
-date: 2022-05-10 04:50:00 -0500
+date: 2022-05-10 04:55:00 -0500
 categories: [Order, Campaigns]
 tags: [science, progress, education, protestant, newton, leibniz, faraday, maxwell, tesla, einstein, gödel, planck, schrödinger] # TAG names should always be lowercase
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 mermaid: true
 ---
 
