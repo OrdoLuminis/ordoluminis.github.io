@@ -1,13 +1,44 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 03:10:00 -0500
-categories: [Theology, The Way]
-tags: [religion, history, theology] # TAG names should always be lowercase
+date: 2024-12-26 03:15:00 -0500
+categories: [Order, Ancient Paths]
+tags: [ancient paths, apostolic succession, confessional anglican, union with christ, transformationist, davenant, retrieval, augustine, cranmer, edwards, reformation, old ways, historic protestantism]
 author: grand_master
 published: true
 comments: false
 pin: false
 ---
+
+<style>
+/* in your main CSS (e.g. assets/css/style.css) */
+.references {
+  padding: 0;
+  margin: 0;
+}
+
+.references li {
+  list-style: none;
+  margin-bottom: 1em;           /* space between entries */
+  padding-left: 1.5em;          /* amount of hanging indent */
+  text-indent: -1.5em;          /* pulls first line back */
+  line-height: 1.5;             /* nicer readability */
+}
+
+p.titles {
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  line-height: 2;
+}
+
+sup {
+  font-size: 0.6em;
+  font-weight: bold;
+}
+</style>
 
 <!-- ## Introduction -->
 
@@ -25,7 +56,7 @@ pin: false
    - See also: Acts 9:2 (c. AD 34-36); Acts 19:9 (c. AD 54-56); Acts 19:23 (c. AD 54-56); Acts 22:4 (c. AD 57); Acts 24:14 (c. AD 57); Acts 24:22 (c. AD 57)
 </small> -->
 
-The true Church has existed in every generation since the time of Christ, when He proclaimed, &ldquo;... upon this rock I will build my church, and all the powers of hell will not conquer it&rdquo; (New Living Translation, 2015, Matt. 16:18). Many generations have passed since Christ walked the earth over 20 centuries ago (2000+ years), but the truth has been with us since the very beginning.
+The true Church has existed in every generation since the time of Christ, when He proclaimed: "upon this rock I will build my church, and all the powers of hell will not conquer it" (New Living Translation, 2015, Matt. 16:18). Many generations have passed since Christ walked the earth over twenty centuries ago, but the truth has been with us since the very beginning — preserved not through institutional infallibility but through faithful transmission of apostolic doctrine across every generation, however embattled.
 
 > <sup style="font-weight:bold;">18</sup> So I tell you, you are Peter <span style="color:LightSteelBlue;">[<sup>C</sup>the Greek petros, like the Aramaic cephas, means “rock” or “stone”]</span>. On this rock I will build my church, and the ·power of death <span style="color:LightSteelBlue;">[<sup>L</sup>gates of Hades/the underworld]</span> will not be able to ·defeat <span style="color:LightSteelBlue;">[overpower; conquer; prevail against]</span> it (Expanded Bible, 2011, Matt. 16:18).
 >
@@ -33,20 +64,28 @@ The true Church has existed in every generation since the time of Christ, when H
 >
 >> The theological messaging couldn’t be more dramatic. Jesus says he will build his church—and the “gates of hell” will not prevail against it. We often think of this phrase as though God’s people are in a posture of having to bravely fend off Satan and his demons. This simply isn’t correct. Gates are defensive structures, not offensive weapons. The kingdom of God is the aggressor. <sup>16</sup> Jesus begins at ground zero in the cosmic geography of both testaments to announce the great reversal. It is the gates of hell that are under assault—and they will not hold up against the Church. Hell will one day be Satan’s tomb (Heiser, 2015, pp. 284-5).
 
-Consider this: Do your current beliefs have roots in every generation since the time of Christ, or can you trace them only to a specific historical period? If your beliefs cannot be linked to earlier generations, they may be false, lacking the historical foundation that the true Church has upheld since Christ's declaration. The Word of God instructs us to turn to past generations in our pursuit of truth, assuring us that if we earnestly seek, we will find (Matt. 7:7-8):
+Consider this: Do your current beliefs have roots in every generation since the time of Christ, or can you trace them only to a specific historical period? If your beliefs cannot be linked to earlier generations, they may be false, lacking the historical foundation that the true Church has upheld since Christ's declaration. The Word of God instructs us to turn to past generations in our pursuit of truth:
 
 > Remember **the days of old**; consider the years of many generations; ask your father, and he will show you, your elders, and they will tell you (ESV Study Bible, 2008, Deut. 32:7).
-
-The challenge lies in the fact that many parents today are as adrift in contemporary movements as the children they have inadvertently misled. It is incumbent upon us to fulfill our duty by embracing the old ways and ancient paths, rather than succumbing to the ignorance of modernity. Ironically, biblical language scholarship and ecumenical academicians are on our side; more on that later.
 
 > Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16).
 >> This is what the Lord says: “Stop at the crossroads and look around. Ask for **the old, godly way**, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
 
-Christianity today is populated by individuals who have chosen to abandon the old ways and ancient paths, instead accumulating false teachers who entice them with **new things** and deceive them into believing they can live lifestyles of sin contrary to Scripture (1Jn 3:4-10; 5:18), all to satisfy their itching ears. In their pursuit of justifying their sin, they forsake the wisdom of the past, while those who remain steadfast in the ancient truths stand as a testament to genuine faith.
+The Order of Light takes this charge with utmost seriousness. The ancient paths are not a romantic metaphor for us — they are a confessional and historical commitment. The Union-Centered Transformationist Anglican tradition the Order retrieves does not begin with the Order of Light. It begins with the apostolic deposit itself — in Paul's forensic justification and John's participatory union with Christ — and runs through Augustine's sovereign grace, Anselm's satisfaction theology, the English Reformers' confessional Anglicanism, Davenant's hypothetical universalism at the Synod of Dort, and Edwards' Edwardsian enrichment of the union with Christ tradition. This is not a new path. It is the oldest path — the one that was always there, that the gates of hell have never succeeded in extinguishing, and that the Oxford Movement's Anglo-Catholic drift in the 1830s temporarily obscured from prominence.
+
+## The Challenge of Our Generation
+
+Christianity today is populated by individuals who have chosen to abandon the old ways and ancient paths, instead accumulating teachers who entice them with new things and deceive them into believing they can live lives of antinomian license contrary to Scripture (1 Jn 3:4-10; 5:18), satisfying their itching ears while forsaking the wisdom of the past:
 
 > For there will be a time when people will not tolerate sound teaching. Instead, following their own desires, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear **new things**. And they will turn away from hearing the truth, but on the other hand they will turn aside to myths (The NET Bible: Full Notes Edition, 2019, 2Tim. 4:3-4 NET).
 
-The essential question then becomes: How can we shield ourselves from the "new things" that cultivate ignorance, lead to destruction, and ultimately result in apostasy? How can we be confident that we are adhering to the old ways and the ancient paths? One thing is certain: if we confine ourselves to a single point of view, we risk falling into an echo chamber of groupthink, where the blind lead the blind, pulling us into a quagmire of fables and ignorance (frequently propagated by contemporary movements). Dr. Heiser (2015), biblical language scholar and master of Biblical Hebrew and Ancient Egyptian, reveals:
+The essential question becomes: How can we shield ourselves from the new things that cultivate ignorance, lead to destruction, and ultimately result in apostasy? How can we be confident that we are adhering to the old ways and ancient paths?
+
+The Order of Light's answer is confessional retrieval — not the invention of something novel but the recovery of something ancient. We do not ask you to follow a new system. We ask you to follow the oldest confessional Anglican tradition available — the one that predates the rigid Calvinist-Arminian binary of the seventeenth century, that was articulated at the Synod of Dort by England's own delegate, that is enshrined in the Thirty-Nine Articles, and that runs from Cranmer through Davenant through Edwards to the present moment.
+
+## The Proper Context for Interpretation
+
+Dr. Michael Heiser (2015), biblical language scholar and master of Biblical Hebrew and Ancient Egyptian, reminds us of a principle the Order of Light takes seriously:
 
 > 1\. *We’ve been trained to think that the history of Christianity is the true context of the Bible*
 >
@@ -62,109 +101,68 @@ writers&mdash;the context that produced the Bible [Second Temple period].<sup>1<
 >
 > <small>1. We do not share the cognitive framework of the biblical writers. While the implications may seem uncomfortable, it is hermeneutically pointless to pretend otherwise. ... (p. 16).</small>
 
-
-<!-- Yet there is a pervasive tendency in<br>
-the believing Church to filter the Bible through creeds, confessions, and<br>
-denominational preferences.
->
-> <span style="margin-left:2.3em;">I’m not arguing that we should ignore our Christian forefathers. I’m simply</span><br>
-saying that we should give their words and their thought the proper perspective<br>
-and priority. Creeds serve a useful purpose. They distill important, albeit<br>
-carefully selected, theological ideas. But they are not inspired. They are no<br>
-substitute for the biblical text.
->
-> The biblical text was produced by men who lived in the ancient Near East<br>
-and Mediterranean between the second millennium BC and the first century AD.<br>
-To understand how biblical writers thought, we need to tap into the intellectual<br>
-output of that world. A vast amount of that material is available to us, thanks to<br>
-modern technology. As our understanding of the worldview of the biblical<br>
-writers grows, so does our understanding of what they intended to say—and the<br>
-mosaic of their thinking takes shape in our minds (p. 16). -->
-
-It's clear that the late Dr. Heiser spent vast amounts of time traversing the old ways and ancient paths. A comparable and earlier admonition can be found in the writings of the Apostle Paul, who cautions against labeling ourselves after specific leaders. This guidance is articulated in the following scripture:
+This principle does not lead the Order of Light away from confessional standards — it leads us toward them. The confessions we uphold — the Thirty-Nine Articles, the Heidelberg Catechism, the Declaration of Principles — are not impositions of alien frameworks onto Scripture but faithful summaries of what Scripture itself teaches, developed by scholars who took the biblical text with the utmost seriousness. The Apostle Paul himself understood the importance of transmitting received doctrine faithfully:
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV Study Bible, 2008, 1Cor. 1:12-13)
 
-Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with Catholicism (of the Pope), **Luther**anism (of Martin Luther), **Calvin**ism (of John Calvin), **Arminian**ism (of Jacobus Arminius), **Wesley**anism (of John Wesley), **Amyra**ldism (of Moses Amyraut), **Mol**inism (Luis de Molina), **Chafer**anism (of Lewis Sperry Chafer), you are going directly against the word of God and **your doctrine is not sound**. The Bible warns that some of these people **may** have created divisions because they are devoid of the spirit:
+Paul's point is not that doctrine is unnecessary or that confessional standards are inherently divisive — he himself articulates some of the most precisely formulated theology in the canon. His point is that no human teacher is to be elevated above Christ as the ultimate source and authority. The Order of Light holds this conviction: our confessional standards are not lords over Scripture but servants of it, and every claim made in them is subject to the canonical witness above all.
 
-> These people are the ones who are creating divisions among you. They follow their natural instincts because **they do not have God’s Spirit in them** (New Living Translation, 2015, Jude 19).
+## The Ancient Path the Order Retrieves
 
-If you find yourself ensnared in one of the numerous man-made systematic theologies that are rife with errors and various &lsquo;isms that contradict the inspired Word of God, I urge you to **turn away** from these deviations in the unfeigned contrition of repentance and **return to sound doctrine**. The Bible instructs us to **&ldquo;Call no man your teacher&rdquo;** for you have only one teacher, Christ Jesus, and all of you are equal as brothers and sisters (New Living Translation, 2015, Matt. 23:8-9 NLT). At the very least, backup into basic protestant solas without the 'isms.
+The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ — a position not invented in the twenty-first century but retrieved from the deepest wells of the historic Anglican tradition. Here is the ancient path we walk:
 
-> You call me ‘Teacher’ and ‘Lord,’ and do so correctly, for that is what I am (The NET Bible: Full Notes Edition, 2019, John 13:13 NET).
+**From the Apostolic deposit:** Paul's forensic justification (Romans 3:20-28) and John's participatory union with Christ (1 John 3:6-10; John 15:4-5) hold together the complete biblical picture of salvation — declared righteous and being made righteous, both freely given, neither purchased by human effort.
 
-> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father (New Living Translation, 2015, Matt. 23:8-9 NLT).
+**From Augustine:** Sovereign grace, monergistic regeneration, and the Augustinian insistence that God alone initiates and sustains salvation — the patristic foundation of the entire Reformed tradition.
 
-Teachers who promote man-made systems are the epitome of the teaching of the blind guides. The scriptures tell us to flee from them!
+**From the English Reformers:** Cranmer and Jewel enshrined forensic justification and union with Christ in the Thirty-Nine Articles, grounding Anglican identity in Scripture alone against Roman appeals to tradition.
 
-> Leave them! They are blind guides. If someone who is blind leads another who is blind, both will fall into a pit.” (The NET Bible: Full Notes Edition, 2019, Matt. 15:14 NET)
+**From Davenant:** England's delegate to the Synod of Dort articulated the hypothetical universalist position — Christ's atoning work genuinely provisioned for all humanity, efficaciously applied to the elect through sovereign grace — demonstrating that this position was considered within the bounds of Reformed orthodoxy at the defining moment of Protestant confessionalism.
 
-It's time for many of us to pull our heads out of the theological sand. It's time for us to give the Bible another chance. **The world can never know God through human wisdom**. Remember that men are not meant to interpret scripture for you&mdash;that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ.
+**From Edwards:** The Edwardsian enrichment of union with Christ — the new spiritual sense, religious affections as the intrinsic form union takes in the regenerate soul — developed the participatory dimensions of salvation that balance the forensic without replacing it.
+This is the old way. This is the ancient path. It was walked before the Calvinist-Arminian controversy hardened into the binary that still dominates Protestant debate today. It was walked at Dort. It was walked in Canterbury. It is walked by the Order of Light today — not as a novelty but as a retrieval.
 
-> But the anointing that you received from him abides in you, and **you have no need that anyone should teach you**. But as his anointing teaches you about everything, and is true, and is no lie—just as it has taught you, **abide in him** (ESV Study Bible, 2008, 1John 2:27; cf. John 15:4-5 ESV).
->
->> But you have received the Holy Spirit, and he lives within you, so you don’t need anyone to teach you what is true. For the Spirit teaches you everything you need to know, and what he teaches is true—it is not a lie. So just as he has taught you, remain in fellowship with Christ (New Living Translation, 2015, 1John 2:27).
+## Resources for the Ancient Path
 
-> And we impart this in words **not taught by human wisdom** but taught by the Spirit, interpreting spiritual truths to those who are spiritual. (ESV Study Bible, 2008, 1Cor 2:13)
+The Order commends the following resources for those who wish to walk these ancient paths with scholarly seriousness and confessional integrity:
 
-> So where does this leave the philosophers, the scholars, and **the world’s** brilliant debaters? God has made **the wisdom of this world** look foolish. Since **God in his wisdom saw to it that the world would never know him through human wisdom**, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).
+### Ecumenical Creeds
+- [**Nicene Creed (A.D. 381)**](https://ordoluminis.com/posts/nicene-creed-381/)
+- [**Apostles' Creed (A.D. 650)**](https://ordoluminis.com/posts/apostles-creed-650/)
+- **The Athanasian Creed (A.D. 800)**
 
-In unity, let us distance ourselves from the misleading teachings and philosophies of this world, and instead turn towards the Scriptures, and secondly, to the faithful educators of Scripture who do not indoctrinate us into man-made systems. Dr. Heiser (2021) exemplifies the faithful *didaskalos* when he stated:
+### Foundational Documents
+- [**Thirty-Nine Articles of Religion (1562)**](https://ordoluminis.com/posts/thirty-nine-articles-1562/) — Primary confessional anchor
+- **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism
 
-> "This is why the Scripture says what it says. Now again, **I don't care how that fits into your system**. Okay, I really don't. **We don't need systems**. We need to pay attention to the text, and we need to be consistent across the Testaments. That's what we need" (8:38-49).
+### Reformed Confessions
+- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; of such genuine Protestant breadth that even Jacobus Arminius subscribed to it, demonstrating its character as common ground for all seriously Reformed and evangelical Christians
+- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
 
-<!-- (Heiser, 2021, 8:46) -->
+### Liturgical
+- [**REC Book of Common Prayer (Traditional Language)**](/assets/docs/BCPComplete.pdf) — Confessional use
+- [**REC Book of Common Prayer (Modern Language)**](/assets/docs/ModernLanguageBCP.pdf) — Practical use
+- [**A Tenebrae Service**](/assets/docs/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
 
-I strongly advocate for, and highly recommend, prioritizing direct engagement with Scripture and the guidance of the Holy Spirit (1 John 2:27), supported by high-quality scholarly resources, over adherence to rigid theological systems. The Bible cautions against the divisiveness inherent in man-made systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy of authority presented in the Bible underscores the importance of divine guidance and the original biblical texts (via biblical language scholarship), placing them above human interpretations and systematic theology. **Bibles, lexicons, interlinears, and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.** **Being systemless does not mean being theology-less or churchless.** Here are my recommendations:
+### Contemporary Scholarship
 
-<!-- - BDAG & HALOT Lexicons (word study)
-    - The world's most authoritative lexicons
-- ESV Reverse Interlinear (word study)
-- NET Full Notes (textual criticism)
-    - World’s foremost biblical scholars
-    - Non-sectarian and inter-denominational
-    - Notes are an unparalleled treasure trove of textual criticism
-- ESV Study Bible / NIV Biblical Theology Study Bible (Bible study)
-- https://kjvparallelbible.org/ (textual criticism)
-- Systemless Biblical Language Scholars and Theologians
-  - C.S. Lewis (Oxford & Cambridge)
-  - Dr. Carson (PhD, University of Cambridge)
-  - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
-  - Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)
-  - Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford) -->
+#### Confessional Anglican
+- **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
+  - *Holiness*
+  - *Knowing the Bible*
+- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
+  - *Mere Apologetics*
+  - *The Dawkins Delusion*
 
-- BDAG and HALOT Lexicons (word study)
-  - The world's most authoritative lexicons
-- ESV Reverse Interlinear (word study)
-- NET Full Notes (textual criticism)
-  - World’s foremost biblical scholars
-  - Non-sectarian and inter-denominational
-  - Notes are an unparalleled treasure trove of textual criticism
-- ESV Study Bible / NIV Biblical Theology Study Bible (Bible study)
-- https://kjvparallelbible.org/ (textual criticism)
-- Systemless Biblical Language Scholars
-  - Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)
-    - The Unseen Realm; Demons; Angels
-  - Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)
-    - Reinventing Jesus
-- Systemless Theologians
-  - Dr. D. A. Carson (PhD, University of Cambridge)
-    - Divine Sovereignty & Human Responsibility
-    - The Gospel according to John
-    - The Difficult Doctrine of the Love of God
-  - C.S. Lewis (Oxford and Cambridge)
-    - Mere Christianity
-- Systemless Scientist Theologians
-  - Dr. Alister McGrath (PhD, Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)
-  - Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)
-    - Beyond The Cosmos
-- The ecumenical creeds
-  - [Nicene Creed (A.D. 381)](https://deiinvictus.com/posts/nicene-creed-381/)
-  - [Apostles’ Creed (A.D. 650)](https://deiinvictus.com/posts/apostles-creed-650/)
-- The moderate confessions
-  - [Thirty Nine Articles of Religion (1562)](https://deiinvictus.com/posts/thirty-nine-articles-1562/)
-  - [Heidelberg Catechism (1563)](https://deiinvictus.com/posts/heidelberg-catechism-1563/)
-  - [New Hampshire Confession (1833)](https://deiinvictus.com/posts/new-hampshire-confession-1833/)
+#### Reformed Evangelical
+- **D.A. Carson** (PhD, University of Cambridge)
+  - *Divine Sovereignty and Human Responsibility*
+  - *The Gospel According to John*
+  - *The Difficult Doctrine of the Love of God*
+- **Bruce Demarest** (PhD, University of Manchester)
+  - *The Cross and Salvation*
+
+The gates of hell have not prevailed. The ancient path is still there — worn smooth by centuries of faithful feet, marked by the confessions of those who walked it before us, illuminated by the light of Christ himself. The Order of Light does not blaze a new trail. It recovers the old one. Veritas Vincit — Truth Conquers.
 
 
 <!-- ## Navigating the Seas of Time
@@ -243,36 +241,29 @@ This is systemless Christianity directly from Christ and the Apostles. The terms
 
 
 <br>
-
----
-
+<hr>
 <br>
 
-<div style="text-align:center;font-weight: bold;">References</div>
+<div style="text-align:center;font-weight:bold;">References</div>
 
 <span></span>
 
-*ESV Study Bible* (ESV Text Edition: 2016). (2008). Crossway.
+<ul class="references">
 
-Heiser, M. S. (2015). *The unseen realm* (1st ed.). Lexham Press.
-
-Heiser, M. S. (2021, July 12). *Can an Apostate Turn Back to God?* [Video]. Dr. Michael S. Heiser. https://youtu.be/0vgF6UMdm6Y&t=526
+<li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+<li>Heiser, M. S. (2015). <em>The unseen realm</em> (1st ed.). Lexham Press.</li>
+<li>Heiser, M. S. (2021, July 12). <em>Can an Apostate Turn Back to God?</em> [Video]. Dr. Michael S. Heiser. https://youtu.be/0vgF6UMdm6Y&t=526</li>
+<li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li>
+<li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
+<li><em>The Expanded Bible</em>. (2011). Thomas Nelson.</li>
 
 <!-- Dr. Michael S. Heiser. (2021, July 12). *Can an Apostate Turn Back to God?* [Video]. YouTube. https://youtu.be/0vgF6UMdm6Y&t=526 -->
 
-*NET Bible: Full notes edition*. (2019). Biblical Studies Press, L.L.C.
-
-*New Living Translation* (Filament enabled). (2015). Tyndale House Publishers.
-
-*The Expanded Bible*. (2011). Thomas Nelson.
-
+<br>
+<hr>
 <br>
 
----
-
-<br>
-
-Together in action, united in spirit, aligned in purpose. Ordo Luminis.
+<span style="font-style:italic;">Ordo Luminis Fraternitatis Aeternae</span>
 
 <script>
     var refTagger = {
