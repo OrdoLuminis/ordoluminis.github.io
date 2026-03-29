@@ -1,6 +1,6 @@
 ---
 title: "The Emblems of the Order of Light"
-date: 2026-03-27 01:10:00 -0500
+date: 2026-03-27 01:15:00 -0500
 categories: [Order, Emblems]
 tags: [emblem, seal, phoenix, heraldry, veritas vincit, symbolism]
 author: seven_shepherd
