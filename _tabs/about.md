@@ -16,7 +16,9 @@ order: 4
 # Of the Eternal Brotherhood
 
 <p style="text-indent:2em;">
-The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology&mdash;rather than a merely imputationist one&mdash;and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation’s doctrinal reforms.</p>
+The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology — rather than a merely imputationist one — and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation's doctrinal reforms.</p>
+
+<p style="text-indent:2em;">This is not a novel position. <strong>King James I</strong> — who commissioned the most widely read English Bible in history — was a confessional Calvinist Anglican who personally appointed John Davenant as Bishop of Salisbury and sent him as England's delegate to the Synod of Dort, where Davenant articulated and defended the very hypothetical universalist position the Order of Light inhabits. The King's own devotional writing describes faith as the golden chain linking the soul to Christ — union with Christ language at the heart of the tradition the Order retrieves. The Order of Light does not depart from this historic Anglican inheritance. It recovers it.</p>
 
 ## Confessional Standards
 
@@ -42,30 +44,47 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 - **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
 - **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles -->
 
-### Contemporary Scholarship
-- **C.S. Lewis** (Oxbridge)
-  - *Mere Christianity*
+<!-- Union with Christ and Hypothetical Universalist -->
+
+### Contemporary Scholarship 
+
+#### Confessional Anglican
 - **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
   - *Holiness*
   - *Knowing the Bible*
-- **J.I. Packer** (PhD, University of Oxford)
-  - *Knowing God*
-  - *A Quest for Godliness*
+- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
+  - *Mere Apologetics*
+  - *The Dawkins Delusion*
+
+#### Reformed Evangelical
 - **D.A. Carson** (PhD, University of Cambridge)
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
   - *The Cross and Salvation*
+
+<!-- - **Ron Rhodes** (ThD, Dallas Theological Seminary)
+  - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note:  Dispensationalist; included for 4-point apologetics value only)* -->
+
+<!-- 
+- **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
+  - *Reinventing Jesus* *(Note: Definite atonement; included for )* -->
+
+<!-- #### Broadly Evangelical Anglican
+- **J.I. Packer** (PhD, University of Oxford)
+  - *Knowing God*
+  - *A Quest for Godliness*
+  *(Note: Definite atonement; included for transformationist and union with Christ emphasis)*
+- **C.S. Lewis** (Oxbridge)
+  - *Mere Christianity*
+  *(Note: Arminian in soteriology; included for apologetics value only)*
 - **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge)
   - *Quarks, Chaos & Christianity*
-- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
-  - *Mere Apologetics*
-  - *The Dawkins Delusion*
+  *(Note: Liberal Anglican; included for science-faith integration only)*
 - **Hugh Ross** (PhD, Astrophysics, University of Toronto)
   - *Beyond The Cosmos*
-- **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
-  - *Reinventing Jesus*
+  *(Note: Congregationalist; included for science-faith integration only)* -->
 
 <!-- ### Secondary Anglican Declarations
 - **Chicago-Lambeth Quadrilateral (1888)** — Defines the four essentials of Anglican identity
