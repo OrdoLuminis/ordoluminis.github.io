@@ -1,6 +1,6 @@
 ---
 title: "The Emblems of the Order of Light"
-date: 2026-03-27 01:05:00 -0500
+date: 2026-03-27 01:10:00 -0500
 categories: [Order, Emblems]
 tags: [emblem, seal, phoenix, heraldry, veritas vincit, symbolism]
 author: seven_shepherd
@@ -42,7 +42,7 @@ sup {
 
 ## The Emblem of the Order of Light
 
-![emblem](/assets/avatars/ORDER.png)
+![emblem](/assets/avatars/order_of_light.png)
 
 The seal of the Order of Light is a layered composition of symbols, each bearing theological and fraternal significance that together express the order's identity and mission.
 
