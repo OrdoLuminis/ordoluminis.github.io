@@ -1,6 +1,6 @@
 ---
 title: "The Father’s Counsel: Success in the Face of Envy"
-date: 2025-02-08 6:00:00 -0500
+date: 2025-02-08 6:05:00 -0500
 categories: [Meditations, Envy]
 tags: [envy, success] # TAG names should always be lowercase
 author: seven_shepherd
@@ -79,7 +79,7 @@ No one can serve two masters; for either he will hate the one and love the other
 </blockquote>
 
 <p style="text-indent:2em;">
-Christians should first focus on their relationship with Christ; this is the purest form of success. Therefore, a good father teaches his son to care about that relationship enough to abide by Christ’s teachings, not to say &ldquo;I don’t worry about it,&rdquo; which is the thinking of apostates and deceivers (1Jn. 3:7). Instead, heed the advice of your heavenly Father and draw close to his teachings on repentance and fruit-bearing.</p>
+Christians should first focus on their relationship with Christ; this is the purest form of success. Therefore, a good father teaches his son to care about that relationship enough to abide by Christ’s teachings, not to say &ldquo;I don’t worry about it,&rdquo; which is the thinking of one who deceives and is deceived (1Jn. 3:7). Instead, heed the advice of your heavenly Father and draw close to his teachings on repentance and fruit-bearing.</p>
 
 <blockquote>
 Everyone who goes on ahead and does not abide in the teaching of Christ, <strong style="color:goldenrod;">does not have God</strong>. Whoever abides in the teaching has both the Father and the Son (ESV Study Bible, 2008, 2Jn. 1:9).
