@@ -11,7 +11,7 @@ order: 4
 >
 </head>
 
-![emblem](/assets/avatars/ORDER.png)
+![emblem](/assets/avatars/order_of_light.png)
 
 # Of the Eternal Brotherhood
 
@@ -19,6 +19,8 @@ order: 4
 The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology — rather than a merely imputationist one — and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation's doctrinal reforms.</p>
 
 <p style="text-indent:2em;">This is not a novel position. <strong>King James I</strong> — who commissioned the most widely read English Bible in history — was a confessional Calvinist Anglican who personally appointed John Davenant as Bishop of Salisbury and sent him as England's delegate to the Synod of Dort, where Davenant articulated and defended the very hypothetical universalist position the Order of Light inhabits. The King's own devotional writing describes faith as the golden chain linking the soul to Christ — union with Christ language at the heart of the tradition the Order retrieves. The Order of Light does not depart from this historic Anglican inheritance. It recovers it.</p>
+
+<!-- He was a Calvinist Anglican: Yes, in the context of his era. Raised Presbyterian in Scotland (a strongly Calvinist environment), James leaned toward the Church of England’s via media once he became king. He held a moderate Calvinist position on grace, predestination, and soteriology, supported the Synod of Dort against Arminianism, and backed episcopal church government with Reformed doctrine. Scholars describe him as subscribing to “a moderate Calvinist position on the theology of grace.” He was anti-Puritan in polity but theologically aligned with the Calvinist mainstream of the Jacobean Church of England. -->
 
 ## Confessional Standards
 
