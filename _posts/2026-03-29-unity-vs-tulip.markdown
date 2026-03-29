@@ -1,6 +1,6 @@
 ---
 title: "From TULIP to UNITY: The Anglican Case for Union-Centered Soteriology"
-date: 2026-03-29 01:05:00 -0500
+date: 2026-03-29 01:10:00 -0500
 categories: [Order, UNITY]
 tags: [mnemonic, acrostic, tulip, unity, davenant, hypothetical universalism, union with christ, transformationist, soteriology, atonement, anglican, confessional, irresistible grace, limited atonement, universal sufficiency, incorporation, new creation, yoked preservation]
 author: grand_master
@@ -40,7 +40,7 @@ sup {
 }
 </style>
 
-*© The Order of Light. Original theological formulation. All rights reserved. Citation: Order of Light, U.N.I.T.Y.(OrdoLuminis.com, 2026)*
+*© The Order of Light. Original theological formulation. All rights reserved. Citation: Order of Light, U.N.I.T.Y. (OrdoLuminis.com, 2026)*
 
 ## On Education Mnemonics
 
