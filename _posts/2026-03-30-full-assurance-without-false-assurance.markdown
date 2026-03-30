@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 01:05:00 -0500
+date: 2026-03-30 01:10:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -8,8 +8,6 @@ published: true
 comments: false
 pin: true
 ---
-
-# How to Have Full Assurance Without False Assurance of Salvation
 
 <p style="text-indent:2em;">
 The question of assurance is one of the most pastorally urgent questions in Christian life. It is also one of the most frequently distorted — in two opposite directions simultaneously. On one side stands the error of false assurance: telling people they are saved when the evidence of their lives gives no warrant for that conclusion. On the other side stands the error of no assurance: leaving genuinely regenerate believers in perpetual doubt about their standing before God. The Order of Light holds that both errors are spiritually dangerous, and that Scripture provides a clear, coherent, and pastorally sufficient answer to both.</p>
