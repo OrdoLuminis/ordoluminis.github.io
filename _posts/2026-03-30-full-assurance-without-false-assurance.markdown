@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 01:20:00 -0500
+date: 2026-03-30 01:25:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -57,12 +57,16 @@ The New Testament epistles were written not to outsiders but to congregations �
 <p style="text-indent:2em;">
 The biblical criterion for full assurance of salvation is given most clearly in the first epistle of John. According to scholars, a fruitless faith is a superficial faith, and the key in teaching full assurance of salvation is not to give false assurance of salvation. Christ's message of fruit-bearing is the message of assurance and the second part of the sola fide doctrine: justification is by faith alone, but not by faith that is alone. This doctrine correctly teaches fruit-bearing as evidence of genuine faith. If you do not hold to this, you do not hold to sola fide, the Reformation doctrine of faith alone.</p>
 
-> And **we can be sure** that we know him if we obey his commandments. **If someone claims, "I know God," but doesn't obey God's commandments, that person is a liar and is not living in the truth.** But those who obey God's word truly show how completely they love him. **That is how we know we are living in him.** Those who say they live in God should live their lives as Jesus did (1 Jn. 2:3-6 NLT; cf. Rom. 3:31).
+<blockquote>
+And <strong style="color:goldenrod;">we can be sure</strong> that we know him if we obey his commandments. <strong>If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</strong> But those who obey God’s word truly show how completely they love him. <strong style="color:goldenrod;">That is how we know we are living in him.</strong> Those who say they live in God should live their lives as Jesus did (New Living Translation, 2015, 1Jn. 2:3-6; cf. Rom. 3:31).
+</blockquote>
 
 <p style="text-indent:2em;">
 The Apostle John completely destroys any notion of antinomianism when he reveals that true born-again Christians are so changed that they cannot make a practice of sin:</p>
 
-> **Little children, let no one deceive you.** Whoever practices righteousness is righteous, as he is righteous. **Whoever makes a practice of sinning is of the devil**, for the devil has been sinning from the beginning. **No one born of God makes a practice of sinning**, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. **By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God** (1 John 3:4-10 ESV).
+<blockquote>
+Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).
+</blockquote>
 
 <p style="text-indent:2em;">
 Additional passages confirm this pattern throughout the canon:</p>
@@ -145,16 +149,24 @@ As Grudem writes: "No one who has such assurance should wonder, 'Will I be able 
 <p style="text-indent:2em;">
 Christ himself warned with the greatest seriousness about those who would give false assurance to others:</p>
 
-> But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea (Matt. 18:6 NLT).
+<blockquote>
+Then he said, “I tell you the truth, <strong>unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven</strong>. So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong style="color:goldenrod;">But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
+</blockquote>
 
 <p style="text-indent:2em;">
 Pastor Chuck Smith stated plainly:</p>
 
-> Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, **you have no assurance of being in the Kingdom of Heaven** (Smith, 2023).
+<blockquote>
+If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (Smith, 2015a, 1Jn 3:6-8).
+</blockquote>
 
-> Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it. **Repentance is the first step to salvation** (Smith, 2015b).
+<blockquote>
+You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (Smith, 2015b, 2:10-3:12).
+</blockquote>
 
-> If I am living a life of practicing sin, I really don't know Him. I really haven't seen Him. If I really know Him, then I'm gonna be free from the practice of sin. So again, don't deceive yourself. If you are **practicing** sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (Smith, 2015a).
+<blockquote>
+Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <strong>you have no assurance of being in the Kingdom of Heaven</strong> (Smith, 2023, 00:00).
+</blockquote>
 
 ---
 
@@ -163,7 +175,7 @@ Pastor Chuck Smith stated plainly:</p>
 <p style="text-indent:2em;">
 For those who are uncertain about their standing before God, the New Testament's answer is not to manufacture false certainty but to examine honestly:</p>
 
-> **Examine yourselves to see if your faith is genuine. Test yourselves.** Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith (2 Cor. 13:5 NLT).
+<blockquote><strong>Examine yourselves to see if your faith is genuine. Test yourselves.</strong> ... (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
 
 <p style="text-indent:2em;">
 This examination is not an invitation to anxiety — it is an invitation to honesty. The Spirit who regenerates also witnesses to that regeneration through the fruit he produces. Those who find genuine love for the brethren, genuine hatred of sin, genuine desire for God's Word, and genuine repentance when they fail — these have strong evidence of genuine regeneration. Those who find none of these things should heed the warning passages rather than claim an assurance the New Testament does not extend to them.</p>
