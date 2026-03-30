@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 01:15:00 -0500
+date: 2026-03-30 01:20:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -86,6 +86,8 @@ The Order of Light's Union-Centered Transformationist position provides the prec
 The key is the ordo salutis — the order of salvation. Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life. This is not the believer producing fruit through effort — it is the Spirit producing fruit as the inevitable consequence of new birth. Regeneration precedes and produces repentance and faith as its necessary fruits rather than their following them as conditions. The sequence is:</p>
 
 **Election → Effectual Calling → Regeneration → Repentance + Faith → Justification → Sanctification → Glorification**
+
+*Note: Repentance and faith are not human contributions preceding justification but Spirit-produced fruits of regeneration — two inseparable aspects of the same sovereign work. Saving faith results in obedience; it does not include obedience. The resolve to turn from sin is not the same as the performance of obedience, and neither merits or conditions the justification that follows.*
 
 <p style="text-indent:2em;">
 This sequence is theologically decisive for assurance. Because regeneration precedes and produces faith, the believer's assurance does not ultimately rest on the quality or strength of their own faith decision — it rests on God's sovereign regenerative work, of which faith and fruit are the visible evidence. The faith that justifies, Luther said, is a fides viva — a living faith, a faith that is alive — and you know it is alive when it manifests itself in the fruit of obedience.</p>
