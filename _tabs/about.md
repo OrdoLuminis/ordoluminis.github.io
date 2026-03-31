@@ -45,10 +45,6 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 - [**REC Book of Common Prayer (Modern Language)**](https://rechurch.org/documents/ModernLanguageBCP.pdf) — Practical use
 - [**A Tenebrae Service**](https://rechurch.org/documents/OccasionalOffices/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
 
-<!-- - [**REC Book of Common Prayer (Traditional Language)**](/assets/docs/BCPComplete.pdf) — Confessional use
-- [**REC Book of Common Prayer (Modern Language)**](/assets/docs/ModernLanguageBCP.pdf) — Practical use
-- [**A Tenebrae Service**](/assets/docs/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases -->
-
 <!-- ### Recommended Reading
 - **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
 - **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles -->
