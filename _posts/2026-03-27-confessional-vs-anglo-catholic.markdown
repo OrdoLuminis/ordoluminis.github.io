@@ -109,7 +109,10 @@ This tradition running from the English Reformers through the broader Reformed e
 
 **Confessional Anglican:** The Reformation's doctrinal reforms are explicitly and positively embraced as recoveries of biblical truth obscured by medieval accretion. The tradition stands in direct continuity with Cranmer, Jewel, and the English Reformers.
 
-**Union-Centered Transformationist Anglican:** Fully shares the Confessional Anglican embrace of the Reformation but locates its own position within the specific stream of Reformation theology that treated union with Christ as the Reformation's deepest soteriological recovery rather than its forensic categories alone. The English Reformers, Davenant at the Synod of Dort, and Edwards in New England all represent successive developments of this same  theological tradition — not departures from Reformation orthodoxy but its fullest and most coherent expression. The Reformation recovered not merely imputed righteousness but the participatory reality that imputed righteousness exists to serve.
+**Union-Centered Transformationist Anglican:** Fully shares the Confessional Anglican embrace of the Reformation but locates its own position within the specific stream of Reformation theology
+that treated union with Christ as the Reformation's deepest soteriological recovery rather than its forensic categories alone. The English Reformers, Davenant at the Synod of Dort, and Edwards
+in New England all represent successive developments of this same theological tradition — not departures from Reformation orthodoxy but its fullest and most coherent expression. The Reformation
+recovered not merely imputed righteousness but the living union with a risen Christ that imputed righteousness both presupposes and seals.
 
 ## On Atonement Extent
 
