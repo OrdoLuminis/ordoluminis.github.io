@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 03:15:00 -0500
+date: 2024-12-26 03:20:00 -0500
 categories: [Order, Ancient Paths]
 tags: [ancient paths, apostolic succession, confessional anglican, union with christ, transformationist, davenant, retrieval, augustine, cranmer, edwards, reformation, old ways, historic protestantism]
 author: grand_master
@@ -140,9 +140,9 @@ The Order commends the following resources for those who wish to walk these anci
 - [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
 
 ### Liturgical
-- [**REC Book of Common Prayer (Traditional Language)**](/assets/docs/BCPComplete.pdf) — Confessional use
-- [**REC Book of Common Prayer (Modern Language)**](/assets/docs/ModernLanguageBCP.pdf) — Practical use
-- [**A Tenebrae Service**](/assets/docs/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
+- [**REC Book of Common Prayer (Traditional Language)**](https://rechurch.org/documents/BCPComplete.pdf) — Confessional use
+- [**REC Book of Common Prayer (Modern Language)**](https://rechurch.org/documents/ModernLanguageBCP.pdf) — Practical use
+- [**A Tenebrae Service**](https://rechurch.org/documents/OccasionalOffices/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
 
 ### Contemporary Scholarship
 
