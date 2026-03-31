@@ -18,7 +18,7 @@ order: 4
 <p style="text-indent:2em;">
 The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology — rather than a merely imputationist one — and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation's doctrinal reforms.</p>
 
-<p style="text-indent:2em;">This is not a novel position. <strong>King James I</strong> — who commissioned the most widely read English Bible in history — was a confessional Calvinist Anglican who personally appointed John Davenant as Bishop of Salisbury and sent him as England's delegate to the Synod of Dort, where Davenant articulated and defended the very hypothetical universalist position the Order of Light inhabits. The King's own devotional writing describes faith as the golden chain linking the soul to Christ — union with Christ language at the heart of the tradition the Order retrieves. The Order of Light does not depart from this historic Anglican inheritance. It recovers it.</p>
+<p style="text-indent:2em;">This is not a novel position. <strong>King James I</strong> — who commissioned the most widely read English Bible in history — was a Confessional Anglican standing firmly in the Reformed evangelical tradition, who personally appointed John Davenant as Bishop of Salisbury and sent him as England's delegate to the Synod of Dort, where Davenant articulated and defended the very hypothetical universalist position the Order of Light inhabits. The King's own devotional writing describes faith as the golden chain linking the soul to Christ — union with Christ language at the heart of the tradition the Order retrieves. The Order of Light does not depart from this historic Anglican inheritance. It recovers it.</p>
 
 <p style="text-indent:2em;">
 The Order of Light stands within the apostolic succession of the historic Anglican church — a succession preserved through the unbroken line of episcopal ordination from the apostles through the English Reformers, maintained in the Thirty-Nine Articles, and upheld by the Reformed Episcopal Church whose Book of Common Prayer and Declaration of Principles govern the order's liturgical and confessional life. The order does not claim apostolic authority for itself — it claims to exist within and under the apostolic tradition of the Anglican church, submitting to its confessional standards and inheriting its historic episcopal continuity. Where Rome claims succession through papal supremacy and Orthodoxy through patriarchal continuity, Anglican confessionalism claims succession through faithful transmission of apostolic doctrine enshrined in Scripture and the historic creeds — a succession of truth rather than merely of office, and therefore the most biblically defensible form of the claim.</p>
@@ -71,7 +71,7 @@ Their commentary apparatus constitutes secondary source material.*
   - *Mere Apologetics*
   - *The Dawkins Delusion*
 
-#### Reformed Evangelical
+#### Moderately Reformed Evangelical
 - **D.A. Carson** (PhD, University of Cambridge)
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
