@@ -53,7 +53,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 
 ## Primary, Secondary, and Tertiary Resources
 
-#### Primary Sources — Scripture
+### Primary Sources — Scripture
 *Note: Study Bible editions are listed here for their textual content. 
 Their commentary apparatus constitutes secondary source material.*
 - **ESV Study Bible** — Primary recommendation for comprehensive Bible study
@@ -61,9 +61,9 @@ Their commentary apparatus constitutes secondary source material.*
 - **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
 - **NLT Filament Compact** — Recommended for pure leisure reading and maximal reading comprehension
 
-#### Secondary Sources — Scholarly and Academic Works
+### Secondary Sources — Scholarly and Academic Works
 
-##### Confessional Anglican
+#### Confessional Anglican
 - **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
   - *Holiness*
   - *Knowing the Bible*
@@ -71,7 +71,7 @@ Their commentary apparatus constitutes secondary source material.*
   - *Mere Apologetics*
   - *The Dawkins Delusion*
 
-##### Reformed Evangelical
+#### Reformed Evangelical
 - **D.A. Carson** (PhD, University of Cambridge)
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
@@ -82,7 +82,7 @@ Their commentary apparatus constitutes secondary source material.*
   contemporary systematic treatment to the order's Union-Centered 
   Transformationist hypothetical universalist position
 
-#### Tertiary Sources — Critical and Linguistic Tools
+### Tertiary Sources — Critical and Linguistic Tools
 - **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
 - **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
 - **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
