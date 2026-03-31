@@ -1,6 +1,6 @@
 ---
 title: "From TULIP to UNITY: The Anglican Case for Union-Centered Soteriology"
-date: 2026-03-29 01:10:00 -0500
+date: 2026-03-29 01:15:00 -0500
 categories: [Order, UNITY]
 tags: [mnemonic, acrostic, tulip, unity, davenant, hypothetical universalism, union with christ, transformationist, soteriology, atonement, anglican, confessional, irresistible grace, limited atonement, universal sufficiency, incorporation, new creation, yoked preservation]
 author: grand_master
@@ -75,7 +75,7 @@ the risen Christ dwelling within his people.</p>
 | **I – Irresistible Grace** | **T – Transforming Presence** |
 | *A sovereign call.* | Grace is the actual life of the Spirit entering the soul — the indwelling Christ producing real, observable, and necessary transformation from within. This is transformationist soteriology: we are not merely imputationist, for the same Spirit who declares us righteous necessarily makes us righteous as the free fruit of union with Christ. Transformation necessarily follows justification without contributing to it. The Spirit transforms because He indwells; He indwells because Christ is risen. |
 | **P – Perseverance of the Saints** | **Y – Yoked Preservation** |
-| *A legal guarantee.* | We are secure because we are yoked to the Head of the Body in vital, Spirit-worked union. Where the Head has ascended, the members cannot be lost — preservation is personal and participatory, not merely forensic. Our security rests not in our grip on Christ but in His grip on us. Love for the brethren, observable righteousness, and newness of life are the necessary and non-optional marks of those thus preserved — for the faith that saves is never alone in the person justified. |
+| *A legal guarantee.* | We are secure because we are yoked to the Head of the Body in vital, Spirit-worked union. Where the Head has ascended, the members cannot be lost — preservation is grounded in union, not merely in legal decree. Our security rests not in our grip on Christ but in His grip on us, the Divine protection of One who holds His own by the power of an indestructible life. Love for the brethren, observable righteousness, and newness of life are the necessary and non-optional fruits of those thus preserved — for the faith that saves is never alone in the person justified, but always and inevitably accompanied by the Spirit's transforming work.|
 
 <!-- <br>
 <hr>
