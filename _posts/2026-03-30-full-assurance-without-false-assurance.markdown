@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 01:30:00 -0500
+date: 2026-03-30 01:35:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -122,7 +122,7 @@ The key is the ordo salutis — the order of salvation. Regeneration is effected
 
 **Election → Effectual Calling → Regeneration → Repentance + Faith → Justification → Sanctification → Glorification**
 
-*Note: Repentance and faith are not human contributions preceding justification but Spirit-produced fruits of regeneration — two inseparable aspects of the same sovereign work. Saving faith results in obedience; it does not include obedience. The resolve to turn from sin is not the same as the performance of obedience, and neither merits or conditions the justification that follows.*
+<small>*Note: Repentance and faith are not human contributions preceding justification but Spirit-produced fruits of regeneration — two inseparable aspects of the same sovereign work. Saving faith results in obedience; it does not include obedience. The resolve to turn from sin is not the same as the performance of obedience, and neither merits or conditions the justification that follows. The Syllogismus Practicus: The sequence employs the "practical syllogism" (using works as evidence of faith). It avoids the error of legalism by framing works as diagnostic (evidence of life) rather than meritorious (cause of life). This distinction is historically precise and vital for the "Transformationist" position.*</small>
 
 <p style="text-indent:2em;">
 This sequence is theologically decisive for assurance. Because regeneration precedes and produces faith, the believer's assurance does not ultimately rest on the quality or strength of their own faith decision — it rests on God's sovereign regenerative work, of which faith and fruit are the visible evidence. The faith that justifies, Luther said, is a fides viva — a living faith, a faith that is alive — and you know it is alive when it manifests itself in the fruit of obedience.</p>
