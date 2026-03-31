@@ -51,9 +51,19 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 
 <!-- Union with Christ and Hypothetical Universalist -->
 
-### Contemporary Scholarship 
+## Primary, Secondary, and Tertiary Resources
 
-#### Confessional Anglican
+#### Primary Sources — Scripture
+*Note: Study Bible editions are listed here for their textual content. 
+Their commentary apparatus constitutes secondary source material.*
+- **ESV Study Bible** — Primary recommendation for comprehensive Bible study
+- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused
+- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
+- **NLT Filament Compact** — Recommended for pure leisure reading and maximal reading comprehension
+
+#### Secondary Sources — Scholarly and Academic Works
+
+##### Confessional Anglican
 - **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
   - *Holiness*
   - *Knowing the Bible*
@@ -61,7 +71,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *Mere Apologetics*
   - *The Dawkins Delusion*
 
-#### Reformed Evangelical
+##### Reformed Evangelical
 - **D.A. Carson** (PhD, University of Cambridge)
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
@@ -71,6 +81,11 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   atonement provision with particular application; the closest available 
   contemporary systematic treatment to the order's Union-Centered 
   Transformationist hypothetical universalist position
+
+#### Tertiary Sources — Critical and Linguistic Tools
+- **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
+- **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
+- **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
 
 <!-- - **Ron Rhodes** (ThD, Dallas Theological Seminary)
   - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note:  Dispensationalist; included for 4-point apologetics value only)* -->
@@ -99,26 +114,6 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 - **Anglican Belief and Practice (2002)** — Pastoral and catechetical Anglican standard
 - **Jerusalem Declaration (2008)** — Defines theologically conservative Anglicanism in the modern context -->
 
-### Approved Bible Translations and Tertiary Sources
-- **ESV Study Bible** — Primary recommendations for comprehensive Bible study and theological synthesis
-- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused; complements
-- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
-- **NLT Filament Compact** — Pure leisure reading and maximal reading comprehension
-- **ESV Reverse Interlinear** — Essential tool for mapping English translations back to original languages for word study
-- **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons for academic word study
-- **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource dedicated to comparative textual criticism
-
-<!-- ### Approved Bible Translations and Tertiary Sources
-- **ESV Study Bible** — Primary Reformed study Bible; comprehensive theological notes
-- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused; complements rather than duplicates the ESV Study Bible
-- **NET Full Notes Edition** — Unparalleled textual criticism notes from world-renowned scholars
-- **NLT Filament Compact** — Recommended for leisure reading and maximal comprehension
-- **ESV Reverse Interlinear** — Essential for mapping English back to original languages for word study
-- **BDAG Lexicon** — Definitive Greek lexicon for New Testament word study
-- **HALOT Lexicon** — Definitive Hebrew lexicon for Old Testament word study
-- **Logos Bible Software** — Industry standard platform integrating all of the above digitally
-- **BibleHub.com** — Accessible interlinear, lexicon, and cross-reference tool for everyday study
-- **KJVParallelBible.org** — Comparative translation resource -->
 
 <!-- The Order of Light is a Reformed Anglican fraternal order of scientists and scholars allegiant to Christ, dedicated to the advancement of scientific knowledge and preservation of biblical truth. Its soteriological heart is union with Christ, embracing a transformationist soteriology&mdash;rather than a merely imputationist one&mdash;and following Davenant's hypothetical universalist position on the extent of the atonement. The Order is creedal and confessional, upholding the orthodoxy of the ancient church while embracing the Reformation's doctrinal reforms. -->
 
