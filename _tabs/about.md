@@ -67,7 +67,10 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
-  - *The Cross and Salvation*
+  - *The Cross and Salvation* — Comprehensive soteriology affirming universal 
+  atonement provision with particular application; the closest available 
+  contemporary systematic treatment to the order's Union-Centered 
+  Transformationist hypothetical universalist position
 
 <!-- - **Ron Rhodes** (ThD, Dallas Theological Seminary)
   - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note:  Dispensationalist; included for 4-point apologetics value only)* -->
