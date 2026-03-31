@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 01:35:00 -0500
+date: 2026-03-30 01:40:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -45,6 +45,8 @@ The question of assurance is one of the most pastorally urgent questions in Chri
 
 <p style="text-indent:2em;">
 That answer is grounded in the Union-Centered Transformationist tradition — represented in the Anglican stream by Cranmer and Davenant, developed by Edwards and the broader Puritan heritage, and enshrined in the confessional standards the Order of Light upholds — which holds that forensic justification is not the endpoint of salvation but its necessary ground, and that union with Christ is the soteriological heart from which all benefits freely and necessarily flow. We are not merely declared righteous — through union with Christ, we are being made righteous by the Spirit's transforming presence, as the free and necessary fruit of a justification already complete and irrevocable. It is precisely this transformationist framework that makes genuine, full, and honest assurance possible.</p>
+
+<small>*Necessary fruit: In Reformed Scholasticism, this is carefully defined as Necessitas Praesentiae (necessity of presence) rather than Necessitas Efficientiae (necessity of causing).*<small>
 
 ---
 
