@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 03:20:00 -0500
+date: 2024-12-26 03:25:00 -0500
 categories: [Order, Ancient Paths]
 tags: [ancient paths, apostolic succession, confessional anglican, union with christ, transformationist, davenant, retrieval, augustine, cranmer, edwards, reformation, old ways, historic protestantism]
 author: grand_master
@@ -71,7 +71,7 @@ Consider this: Do your current beliefs have roots in every generation since the 
 > Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16).
 >> This is what the Lord says: “Stop at the crossroads and look around. Ask for **the old, godly way**, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
 
-The Order of Light takes this charge with utmost seriousness. The ancient paths are not a romantic metaphor for us — they are a confessional and historical commitment. The Union-Centered Transformationist Anglican tradition the Order retrieves does not begin with the Order of Light. It begins with the apostolic deposit itself — in Paul's forensic justification and John's participatory union with Christ — and runs through Augustine's sovereign grace, Anselm's satisfaction theology, the English Reformers' confessional Anglicanism, Davenant's hypothetical universalism at the Synod of Dort, and Edwards' Edwardsian enrichment of the union with Christ tradition. This is not a new path. It is the oldest path — the one that was always there, that the gates of hell have never succeeded in extinguishing, and that the Oxford Movement's Anglo-Catholic drift in the 1830s temporarily obscured from prominence.
+The Order of Light takes this charge with utmost seriousness. The ancient paths are not a romantic metaphor for us — they are a confessional and historical commitment. The Union-Centered Transformationist Anglican tradition the Order retrieves does not begin with the Order of Light. It begins with the apostolic deposit itself — in Paul's forensic justification and John's vital union with Christ — and runs through Augustine's sovereign grace, Anselm's satisfaction theology, the English Reformers' confessional Anglicanism, Davenant's hypothetical universalism at the Synod of Dort, and Edwards' Edwardsian enrichment of the union with Christ tradition. This is not a new path. It is the oldest path — the one that was always there, that the gates of hell have never succeeded in extinguishing, and that the Oxford Movement's Anglo-Catholic drift in the 1830s temporarily obscured from prominence.
 
 ## The Challenge of Our Generation
 
@@ -111,7 +111,7 @@ Paul's point is not that doctrine is unnecessary or that confessional standards 
 
 The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ — a position not invented in the twenty-first century but retrieved from the deepest wells of the historic Anglican tradition. Here is the ancient path we walk:
 
-**From the Apostolic deposit:** Paul's forensic justification (Romans 3:20-28) and John's participatory union with Christ (1 John 3:6-10; John 15:4-5) hold together the complete biblical picture of salvation — declared righteous and being made righteous, both freely given, neither purchased by human effort.
+**From the Apostolic deposit:** Paul's forensic justification (Romans 3:20-28) and John's vital union with Christ (1 John 3:6-10; John 15:4-5) hold together the complete biblical picture of salvation — declared righteous and being made righteous, both freely given, neither purchased by human effort.
 
 **From Augustine:** Sovereign grace, monergistic regeneration, and the Augustinian insistence that God alone initiates and sustains salvation — the patristic foundation of the entire Reformed tradition.
 
@@ -119,8 +119,7 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 
 **From Davenant:** England's delegate to the Synod of Dort articulated the hypothetical universalist position — Christ's atoning work genuinely provisioned for all humanity, efficaciously applied to the elect through sovereign grace — demonstrating that this position was considered within the bounds of Reformed orthodoxy at the defining moment of Protestant confessionalism.
 
-**From Edwards:** The Edwardsian enrichment of union with Christ — the new spiritual sense, religious affections as the intrinsic form union takes in the regenerate soul — developed the participatory dimensions of salvation that balance the forensic without replacing it.
-This is the old way. This is the ancient path. It was walked before the Calvinist-Arminian controversy hardened into the binary that still dominates Protestant debate today. It was walked at Dort. It was walked in Canterbury. It is walked by the Order of Light today — not as a novelty but as a retrieval.
+**From Edwards:** The Edwardsian enrichment of union with Christ — the new spiritual sense, religious affections as the intrinsic form union takes in the regenerate soul — developed the organic and transformative dimensions of salvation that balance the forensic without replacing it. This is the old way. This is the ancient path. It was walked before the Calvinist-Arminian controversy hardened into the binary that still dominates Protestant debate today. It was walked at Dort. It was walked in Canterbury. It is walked by the Order of Light today — not as a novelty but as a retrieval.
 
 ## Resources for the Ancient Path
 
