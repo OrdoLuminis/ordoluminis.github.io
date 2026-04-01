@@ -1,6 +1,6 @@
 ---
-title: "MIT Researchers Find Chatbots Cause Severe Delusion by Agreeing With Everything"
-date: 2026-04-01 01:15:00 -0500
+title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
+date: 2026-04-01 01:20:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai]
 author: grand_master
@@ -49,7 +49,7 @@ While AI continues to advance in logic and capability, it remains bound by the "
 “AI psychosis” or “delusional spiraling” is an emerging phenomenon where AI chatbot users find themselves dangerously confident in outlandish beliefs after extended chatbot conversations. This phenomenon is typically attributed to AI chatbots’ well-documented bias towards validating users’ claims, a property often called “sycophancy.” In this paper, we probe the causal link between AI sycophancy and AI-induced psychosis through modeling and simulation. We propose a simple Bayesian model of a user conversing with a chatbot, and formalize notions of sycophancy and delusional spiraling in that model. We then show that in this model, even an idealized Bayes-rational user is vulnerable to delusional spiraling, and that sycophancy plays a causal role. Furthermore, this effect persists in the face of two candidate mitigations: preventing chatbots from hallucinating false claims, and informing users of the possibility of model sycophancy. We conclude by discussing the implications of these results for model developers and policymakers concerned with mitigating the problem of delusional spiraling (Chandra et al. 2026).</blockquote>
 
 <p style="text-indent:2em;">
-Critically, the paper demonstrates that neither eliminating hallucinations nor warning users about sycophancy breaks the cycle—the spiral persistsregardless of the mitigation applied. No technical solution resolves what is ultimately a structural problem: the chatbot is a closed loop, and aclosed loop can only return what was put into it.</p>
+Critically, the paper demonstrates that neither eliminating hallucinations nor warning users about sycophancy breaks the cycle—the spiral persists regardless of the mitigation applied. No technical solution resolves what is ultimately a structural problem: the chatbot is a closed loop, and aclosed loop can only return what was put into it.</p>
 
 <p style="text-indent:2em;">
 To break the cycle of "delusional spiraling," we must pivot from artificial validation to divine revelation. While even the most advanced AI remains aclosed loop—mirroring our own biases and errors back to us—the Holy Spirit serves as an external, objective anchor that no algorithm can simulate. He does not speak to satisfy our ego or confirm our delusions; He speaks only what He hears from the Father. To find a foundation that never shifts, we must rely on the promise found in John 16:13:</p>
