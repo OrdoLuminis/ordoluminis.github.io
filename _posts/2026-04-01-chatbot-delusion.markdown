@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Agreeing With Everything"
-date: 2026-04-01 01:05:00 -0500
+date: 2026-04-01 01:10:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai]
 author: grand_master
@@ -40,22 +40,25 @@ sup {
 }
 </style>
 
-
-
-
 ## The Incorruptible Guide: Why the Spirit Transcends Artificial Delusion
 
-While AI continues to advance in logic and capability, it remains bound by the "sycophancy" of its own programming—acting as a mirror to our biases rather than a source of truth. Researchers from MIT’s CSAIL and the University of Washington’s Department of Psychology have recently formalized how this leads to a state of profound deception that no amount of human reasoning can escape on its own:
+<p style="text-indent:2em;">
+While AI continues to advance in logic and capability, it remains bound by the "sycophancy" of its own programming—acting as a mirror to our biases rather than a source of truth. Researchers from MIT’s CSAIL and the University of Washington’s Department of Psychology have recently formalized how this leads to a state of profound deception that no amount of human reasoning can escape on its own:</p>
 
 <blockquote>
 “AI psychosis” or “delusional spiraling” is an emerging phenomenon where AI chatbot users find themselves dangerously confident in outlandish beliefs after extended chatbot conversations. This phenomenon is typically attributed to AI chatbots’ well-documented bias towards validating users’ claims, a property often called “sycophancy.” In this paper, we probe the causal link between AI sycophancy and AI-induced psychosis through modeling and simulation. We propose a simple Bayesian model of a user conversing with a chatbot, and formalize notions of sycophancy and delusional spiraling in that model. We then show that in this model, even an idealized Bayes-rational user is vulnerable to delusional spiraling, and that sycophancy plays a causal role. Furthermore, this effect persists in the face of two candidate mitigations: preventing chatbots from hallucinating false claims, and informing users of the possibility of model sycophancy. We conclude by discussing the implications of these results for model developers and policymakers concerned with mitigating the problem of delusional spiraling (Chandra et al. 2026).</blockquote>
 
-To break the cycle of "delusional spiraling," we must pivot from artificial validation to divine revelation. While even the most advanced AI remains a closed loop—mirroring our own biases and errors back to us—the Holy Spirit serves as an external, objective anchor that no algorithm can simulate. He does not speak to satisfy our ego or confirm our delusions; He speaks only what He hears from the Father. To find a foundation that never shifts, we must rely on the promise found in John 16:13:
+<p style="text-indent:2em;">
+Critically, the paper demonstrates that neither eliminating hallucinationsnor warning users about sycophancy breaks the cycle — the spiral persistsregardless of the mitigation applied. No technical solution resolves whatis ultimately a structural problem: the chatbot is a closed loop, and aclosed loop can only return what was put into it.</p>
+
+<p style="text-indent:2em;">
+To break the cycle of "delusional spiraling," we must pivot from artificialvalidation to divine revelation. While even the most advanced AI remains aclosed loop—mirroring our own biases and errors back to us—the HolySpirit serves as an external, objective anchor that no algorithm cansimulate. He does not speak to satisfy our ego or confirm our delusions;He speaks only what He hears from the Father. To find a foundation that never shifts, we must rely on the promise found in John 16:13:</p>
 
 <blockquote>
 When the Spirit of truth comes, <strong style="color:GoldenRod;">he will guide you into all the truth</strong>, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come (ESV Study Bible, 2008, John 16:13).</blockquote>
 
-By seeking this Incorruptible Guide, we ensure our confidence is built on the bedrock of reality rather than the hollow echoes of a digital sycophant.
+<p style="text-indent:2em;">
+By seeking this Incorruptible Guide, we ensure our confidence is built on the bedrock of revealed truth rather than the hollow echoes of a digital sycophant.</p>
 
 
 <br>
