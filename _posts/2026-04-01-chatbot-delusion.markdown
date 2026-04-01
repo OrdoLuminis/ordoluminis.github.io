@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
-date: 2026-04-01 01:35:00 -0500
+date: 2026-04-01 01:40:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -90,6 +90,7 @@ So where does this leave the philosophers, the scholars, and the world’s brill
 
 <li>Chandra, K., Kleiman-Weiner, M., Ragan-Kelley, J., & Tenenbaum, J. B. (2026). Sycophantic chatbots cause delusional spiraling, even in ideal Bayesians (arXiv:2602.19141). <em>arXiv</em>. https://doi.org/10.48550/arXiv.2602.19141</li>
 <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
+<li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 
 </ul>
 
