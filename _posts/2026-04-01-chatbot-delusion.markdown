@@ -1,12 +1,12 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Agreeing With Everything"
-date: 2026-04-01 01:00:00 -0500
+date: 2026-04-01 01:05:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai]
 author: grand_master
 published: true
 comments: false
-pin: false
+pin: true
 ---
 
 <style>
