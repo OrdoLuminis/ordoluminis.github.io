@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:30:00 -0500
+date: 2026-03-30 02:35:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -53,7 +53,7 @@ That answer is grounded in the Union-Centered Transformationist tradition — re
 ## I. The Problem: False Assurance and Its Consequences
 
 <p style="text-indent:2em;">
-The Free Grace movement, in its various expressions, has produced a specific and well-documented pastoral crisis. As Dr. Wayne Grudem, Cambridge-educated research professor, warns that this movement abuses and twists God's precious grace into a license to sin, thereby giving "false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life" (Grudem, 2016, p. 77); Dr. Daniel B. Wallace, Senior Professor of New Testament Studies, Dallas Theological Seminary, labels the view "deeply flawed" (Wallace, in Grudem, 2016); J. I. Packer, Oxford-educated Board of Governors' Professor of Theology at Regent College and named one of Time magazine's top 25 evangelicals, calls it "unbiblical, anti-evangelical, and sub-Christian" (Packer, in Grudem, 2016); and Bruce A. Ware, T. Rupert and Lucille Coleman Professor of Christian Theology at The Southern Baptist Theological Seminary, argues that careful biblical and historical argumentation is needed to show "where the Free Grace view has gone wrong" (Ware, in Grudem, 2016).</p>
+The Free Grace movement, in its various expressions, has produced a specific and well-documented pastoral crisis. As Dr. Wayne Grudem, Cambridge-educated research professor, warns that this movement abuses and twists God's precious grace into a license to sin, thereby giving "false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life" (Grudem, 2016, p. 77); Dr. Daniel B. Wallace, Senior Professor of New Testament Studies, Dallas Theological Seminary, labels the movement as "deeply flawed" (Wallace, in Grudem, 2016); J. I. Packer, Oxford-educated Board of Governors' Professor of Theology at Regent College and named one of Time magazine's top 25 evangelicals, calls it "unbiblical, anti-evangelical, and sub-Christian" (Packer, in Grudem, 2016); and Bruce A. Ware, T. Rupert and Lucille Coleman Professor of Christian Theology at The Southern Baptist Theological Seminary, argues that careful biblical and historical argumentation is needed to show "where the Free Grace view has gone wrong" (Ware, in Grudem, 2016).</p>
 
 <p style="text-indent:2em;">
 The mechanism of this error is precise. A person hears that Jesus died for their sins, intellectually assents to this fact as historically true, and is then told by a Free Grace pastor or teacher that they are saved — forever, unconditionally, regardless of any subsequent pattern of life. Grudem describes the pastoral consequence with precision:</p>
