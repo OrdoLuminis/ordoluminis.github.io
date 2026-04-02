@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:45:00 -0500
+date: 2026-03-30 02:50:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -87,6 +87,8 @@ You can say that you are sorry for what you have done but if you continue to do 
 Repentance is defined as "a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ" Therefore, "Free Grace theology weakens the gospel message by avoiding any call to unbelievers to repent of their sins" (Grudem, 2016, pp. 41-42):</p>
 
 <blockquote>Many understand repentance to mean simply a “change of mind.” The weakness of this position is that, for the New Testament, this meaning finds no support in any authoritative Greek lexicon or in any modern English translation, none of which translate the Greek terms metanoeō and metanoia as “change your mind” for New Testament passages. <strong>It is a definition unique to Free Grace supporters, without scholarly support from the academic community or any standard Greek reference works. It also lacks support from any English translation of the Bible</strong> (Grudem, 2016, p. 70).</blockquote>
+
+<blockquote>I need to add a word of clarification at this point. While I believe that repentance from sin is a necessary part of saving faith, and while I believe that repentance must include a sincere resolve to turn from one’s sins and begin to obey Christ, I do not think it is accurate to say that saving faith therefore must include obedience to Christ. I believe that saving faith will <strong>result</strong> in obedience, and saving faith will include a sincere resolve to turn from sin and to begin a new pattern of obedience, but a resolve to turn from sin and begin obedience is not the same as obedience itself. And we must guard jealously the fact that faith alone is what saves us, not faith plus obedience. (Grudem, 2016, pp. 70-71).</blockquote>
 
 <p style="text-indent:2em;"> A final word from C. S. Lewis, Professor at the University of Oxford, in an excerpt from “The Perfect Penitent” in his book <em>Mere Christianity</em>:</p>
 
