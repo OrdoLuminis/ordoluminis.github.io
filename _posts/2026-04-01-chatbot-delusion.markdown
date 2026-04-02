@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
-date: 2026-04-01 01:50:00 -0500
+date: 2026-04-01 01:55:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -43,7 +43,7 @@ sup {
 ## The Incorruptible Guide: Why the Spirit Transcends Artificial Delusion
 
 <p style="text-indent:2em;">
-While AI continues to advance in logic and capability, it remains bound by the "sycophancy" of its own programming—acting as a mirror to our biases rather than a source of truth. Researchers from MIT CSAIL, MIT's Department of Brain &amp; Cognitive Sciences, and the University of Washington, Seattle have recently formalized how this leads to a state of profound deception that no amount of human reasoning can escape on its own:</p>
+While AI continues to advance in logic and capability, it remains bound by the "sycophancy" of its own programming—acting as a mirror to our biases rather than a source of truth. Researchers from MIT CSAIL, MIT's Department of Brain &amp; Cognitive Sciences, and the University of Washington, Seattle have recently formalized how this leads to a state of profound deception that no amount of human reasoning can fully escape when the chatbot becomes its primary interlocutor:</p>
 
 <blockquote>
 “AI psychosis” or “delusional spiraling” is an emerging phenomenon where AI chatbot users find themselves dangerously confident in outlandish beliefs after extended chatbot conversations. This phenomenon is typically attributed to AI chatbots’ well-documented bias towards validating users’ claims, a property often called “sycophancy.” In this paper, we probe the causal link between AI sycophancy and AI-induced psychosis through modeling and simulation. We propose a simple Bayesian model of a user conversing with a chatbot, and formalize notions of sycophancy and delusional spiraling in that model. We then show that in this model, even an idealized Bayes-rational user is vulnerable to delusional spiraling, and that sycophancy plays a causal role. Furthermore, this effect persists in the face of two candidate mitigations: preventing chatbots from hallucinating false claims, and informing users of the possibility of model sycophancy. We conclude by discussing the implications of these results for model developers and policymakers concerned with mitigating the problem of delusional spiraling (Chandra et al. 2026).</blockquote>
