@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:40:00 -0500
+date: 2026-03-30 02:45:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -74,7 +74,7 @@ that they are saved.</blockquote>
 <p style="text-indent:2em;">
 The tragedy is not merely intellectual error but eternal consequence. People who have been given false assurance are not inoculated against the gospel — they are made resistant to it. They have already been told they are saved. The warning passages of the New Testament, written precisely for people in this condition, no longer reach them. They have been vaccinated with a weakened form of the gospel and thereby made immune to the real thing.</p>
 
-### An Aside on True Repentance
+### An Aside on True Repentance by C.S. Lewis, Chuck Smith, and Wayne Grudem
 
 <p style="text-indent:2em;">
 Repentance is not merely mental assent or a change of mind, as the antinomians teach. Christ never applied that pagan sense in Koine Greek, nor do any authoritative lexicons of Biblical Koine Greek apply that definition. The true applied meaning of repent <a href="/assets/images/greek/BDAG/metanoeo.png">metanoéō</a> falls under the second meaning of <em>&ldquo;feel remorse, repent, be converted in a (religio-)ethical sense&rdquo;</em> and repentance <a href="/assets/images/greek/BDAG/metanoia.png">metánoia</a> also falls under the second meaning of <em>&ldquo;repentance, turning about, conversion&rdquo;</em> as taught by Christ and the Apostles. As Pastor Chuck Smith, articulates:</p>
@@ -83,9 +83,18 @@ Repentance is not merely mental assent or a change of mind, as the antinomians t
 You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (2015b, 2:10-3:12).
 </blockquote>
 
-Repentance is defined as "a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ" Therefore, "Free Grace theology weakens the gospel message by avoiding any call to unbelievers to repent of their sins" (Grudem, 2016, pp. 41-42):
+<p style="text-indent:2em;">
+Repentance is defined as "a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ" Therefore, "Free Grace theology weakens the gospel message by avoiding any call to unbelievers to repent of their sins" (Grudem, 2016, pp. 41-42):</p>
 
 <blockquote>Many understand repentance to mean simply a “change of mind.” The weakness of this position is that, for the New Testament, this meaning finds no support in any authoritative Greek lexicon or in any modern English translation, none of which translate the Greek terms metanoeō and metanoia as “change your mind” for New Testament passages. <strong>It is a definition unique to Free Grace supporters, without scholarly support from the academic community or any standard Greek reference works. It also lacks support from any English translation of the Bible</strong> (Grudem, 2016, p. 70).</blockquote>
+
+<p style="text-indent:2em;"> A final word from C. S. Lewis, Professor at the University of Oxford, in an excerpt from “The Perfect Penitent” in his book <em>Mere Christianity</em>:</p>
+
+> ... Now what was the sort of "hole" man had got himself into? He had tried to set up on his own, to behave as if he belonged to himself. In other words, fallen man is not simply an imperfect creature who needs improvement: he is a rebel who must lay down his arms. Laying down your arms, surrendering, saying you are sorry, realising that you have been on the wrong track and getting ready to start life over again from the ground floor—that is the only way out of a "hole." This process of surrender—this movement <strong>full speed astern</strong>—is what Christians call repentance. Now repentance is no fun at all.
+>
+> It is something much harder than merely eating humble pie. It means unlearning all the self-conceit and self-will that we have been training ourselves into for thousands of years. It means killing part of yourself, undergoing a kind of death. In fact, it needs a good man to repent. And here comes the catch. Only a bad person needs to repent: only a good person can repent perfectly. The worse you are the more you need it and the less you can do it. The only person who could do it perfectly would be a perfect person—and he would not need it.
+>
+> Remember, this repentance, this willing submission to humiliation and a kind of death, is not something God demands of you before He will take you back and which He could let you off if He chose: it is simply a description of what going back to Him is like. If you ask God to take you back without it, you are really asking Him to let you go back without going back. It cannot happen. Very well, then, we must go through with it. But the same badness which makes us need it, makes us unable to do it. Can we do it if God helps us? Yes, but what do we mean when we talk of God helping us? We mean God putting into us a bit of Himself, so to speak. He lends us a little of His reasoning powers and that is how we think: He puts a little of His love into us and that is how we love one another. When you teach a child writing, you hold its hand while it forms the letters: that is, it forms the letters because you are forming them. We love and reason because God loves and reasons and holds our hand while we do it.
 
 <!-- <p style="text-indent:2em;">
 At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a person could profess faith in Christ, then later completely deny the Christian faith and become a total unbeliever, and still be saved. Joseph Dillow similarly argued that a born-again person could fall away from the faith entirely — forfeiting not their eternal destiny but only their opportunity to reign with Christ. This is not a minor theological dispute. It is a fundamental redefinition of what salvation is and what it produces.</p> -->
