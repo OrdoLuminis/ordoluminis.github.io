@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 10:50:00 -0500
+date: 2025-08-03 10:55:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -65,7 +65,7 @@ flowchart LR
     B -->|Cooperative grace&mdash;faith enabled by grace and foreseen free cooperation, lived out in sacraments and works.| J(<strong>Synergism</strong><br>Molinism):::orange
     C -->|Faith &ldquo;includes&rdquo; works.<br>Faith &ldquo;plus&rdquo; works Justify.<br>Reversion to legalism, insult to Christ. Severed from Christ, fallen from grace &lpar;Gal. 5:4&rpar;.| K(<strong>Judaizing Legalism</strong><br>Judaizers<br>Witnesses<br>Mormonism):::red
     C -->|Justification by Works.| L(<strong>Pharisaic Legalism</strong><br>Pharisees<br>):::red
-    D -->|<strong>Dead faith &lpar;assent&rpar;</strong><br>The unregenerate professors of the faith who abuse and twist God's grace into a license to sin &lpar;Jd. 4 NET&rpar;, and who profane the Spirit of grace &lpar;Heb. 10:26-31 ESV&rpar;.| M(<strong>Antinomianism</strong><br>Gnosticism &lpar;Jd. 4 NET&rpar;<br>Nicolaism &lpar;Rev. 2:6,15&rpar;<br>Hypergrace Heresy<br>Extreme Free Grace<br>&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo; &lpar;Matt. 7:23; Lk. 13:27&rpar;.):::firebrick
+    D -->|<strong>Dead faith &lpar;assent&rpar;</strong><br>The unregenerate professors of the faith who abuse and twist God's grace into a license to sin &lpar;Jd. 4 NET&rpar;, and who profane the Spirit of grace &lpar;Heb. 10:26-31 ESV&rpar;.| M(<strong>Antinomianism</strong><br>Gnosticism &lpar;Jd. 4 NET&rpar;<br>Nicolaism &lpar;Rev. 2:6,15&rpar;<br>Hypergrace Heresy<br>Extreme Free Grace<br>Carnal Christianity<br>&ldquo;I never knew you; depart from Me, you who practice lawlessness!&rdquo; &lpar;Matt. 7:23; Lk. 13:27&rpar;.):::firebrick
     F -->|&ldquo;the message of the cross is foolishness to those who are perishing&rdquo; &lpar;1Cor. 1:18&rpar;.| N(<strong>Total and Final Apostasy</strong><br>&ldquo;whoever blasphemes against the Holy Spirit will never be forgiven&rdquo;<br>&lpar;Matt. 12:31-32; Mk. 3:28-30; Lk. 12:10&rpar;.):::darkred
     classDef red stroke:#f00
     classDef green stroke:#0f0
