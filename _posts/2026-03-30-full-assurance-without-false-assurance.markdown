@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 01:45:00 -0500
+date: 2026-03-30 01:50:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -65,8 +65,8 @@ The mechanism of this error is precise. A person hears that Jesus died for their
 <p style="text-indent:2em;">
 The tragedy is not merely intellectual error but eternal consequence. People who have been given false assurance are not inoculated against the gospel — they are made resistant to it. They have already been told they are saved. The warning passages of the New Testament, written precisely for people in this condition, no longer reach them. They have been vaccinated with a weakened form of the gospel and thereby made immune to the real thing.</p>
 
-<p style="text-indent:2em;">
-At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a person could profess faith in Christ, then later completely deny the Christian faith and become a total unbeliever, and still be saved. Joseph Dillow similarly argued that a born-again person could fall away from the faith entirely — forfeiting not their eternal destiny but only their opportunity to reign with Christ. This is not a minor theological dispute. It is a fundamental redefinition of what salvation is and what it produces.</p>
+<!-- <p style="text-indent:2em;">
+At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a person could profess faith in Christ, then later completely deny the Christian faith and become a total unbeliever, and still be saved. Joseph Dillow similarly argued that a born-again person could fall away from the faith entirely — forfeiting not their eternal destiny but only their opportunity to reign with Christ. This is not a minor theological dispute. It is a fundamental redefinition of what salvation is and what it produces.</p> -->
 
 ---
 
@@ -122,7 +122,7 @@ The Order of Light's Union-Centered Transformationist position provides the prec
 <p style="text-indent:2em;">
 The key is the ordo salutis — the order of salvation. Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life. This is not the believer producing fruit through effort — it is the Spirit producing fruit as the inevitable consequence of new birth. Regeneration precedes and produces repentance and faith as its necessary fruits rather than their following them as conditions. The sequence is:</p>
 
-**Election → Effectual Calling → Regeneration → Repentance + Faith → Justification → Sanctification → Glorification**
+**Election → Effectual Calling → Regeneration → Repentance + Faith → Justification (Faith) → Sanctification → Glorification**
 
 <small>*Note: Repentance and faith are not human contributions preceding justification but Spirit-produced fruits of regeneration — two inseparable aspects of the same sovereign work. Saving faith results in obedience; it does not include obedience. The resolve to turn from sin is not the same as the performance of obedience, and neither merits or conditions the justification that follows.*</small>
 
