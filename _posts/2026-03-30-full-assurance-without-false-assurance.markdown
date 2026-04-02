@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:05:00 -0500
+date: 2026-03-30 02:15:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -142,7 +142,7 @@ The Order of Light's Union-Centered Transformationist position provides the prec
 <p style="text-indent:2em;">
 The key is the ordo salutis — the order of salvation. Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life. This is not the believer producing fruit through effort — it is the Spirit producing fruit as the inevitable consequence of new birth. Regeneration precedes and produces repentance and faith as its necessary fruits rather than their following them as conditions. The sequence is:</p>
 
-**Election → Effectual Calling → Regeneration → Repentance + Faith → Justification (Faith) → Sanctification → Glorification**
+**Election → Effectual Calling → Regeneration → Repentance (leads to salvation) and Faith → Justification (Faith) → Sanctification → Glorification**
 
 <small>*Note: Repentance and faith are not human contributions preceding justification but Spirit-produced fruits of regeneration — two inseparable aspects of the same sovereign work. Saving faith results in obedience; it does not include obedience. The resolve to turn from sin is not the same as the performance of obedience, and neither merits or conditions the justification that follows.*</small>
 
@@ -155,7 +155,7 @@ This sequence is theologically decisive for assurance. Because regeneration prec
 Furthermore, because transformation is Spirit-produced rather than self-generated, it carries no legalist danger. The question is never "how much fruit must I produce to be saved?" The question is "has the Spirit produced any fruit at all?" As Grudem helpfully clarifies:</p>
 
 <blockquote>
-Therefore, the proper answer to the question, “How many good works does one have to do in order to be assured of salvation?” is, “Some.” To be more specific, some change of life gives a basis for some measure of assurance, and a greater change of life gives a basis for a stronger assurance. Scripture does not encourage us to demand more specificity than that. A simple diagram might help to clarify the question of assurance (see Diagram 3.1) (Grudem, 2016, p. 92).</blockquote>
+Therefore, the proper answer to the question, “How many good works does one have to do in order to be assured of salvation?” is, “Some.” To be more specific, some change of life gives a basis for some measure of assurance, and a greater change of life gives a basis for a stronger assurance. Scripture does not encourage us to demand more specificity than that. A simple diagram might help to clarify the question of assurance (see Diagram 3.1).</blockquote>
 
 | Strong Evidence of Unbelief | Weak Evidence of Unbelief | Mixed Evidence | Weak Evidence of Belief | Strong Evidence of Belief |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ Therefore, the proper answer to the question, “How many good works does one ha
 | Unsaved | Unsaved | | Saved | Saved |
 
 <blockquote>
-As Diagram 3.1 indicates, the evidence that a person has actually believed in Christ falls along a spectrum from weak to strong. God alone knows with absolute certainty everyone who is saved and everyone who is lost, for “the Lord knows those who are his” (2 Tim. 2:19), but we can perceive stronger or weaker outward indications of what is actually in someone’s heart, both our own hearts and those of others. In the shaded middle of the spectrum, where people give mixed evidence in their profession of faith and in their conduct of life, we simply have to say that we do not know whether the person is saved or not—the evidence is mixed.
+As Diagram 3.1 indicates, the evidence that a person has actually believed in Christ falls along a spectrum from weak to strong. God alone knows with absolute certainty everyone who is saved and everyone who is lost, for “the Lord knows those who are his” (2 Tim. 2:19), but we can perceive stronger or weaker outward indications of what is actually in someone’s heart, both our own hearts and those of others. In the shaded middle of the spectrum, where people give mixed evidence in their profession of faith and in their conduct of life, we simply have to say that we do not know whether the person is saved or not—the evidence is mixed (Grudem, 2016, p. 92)
 </blockquote>
 
 <p style="text-indent:2em;">
