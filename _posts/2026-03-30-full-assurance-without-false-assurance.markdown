@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:35:00 -0500
+date: 2026-03-30 02:40:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -83,7 +83,9 @@ Repentance is not merely mental assent or a change of mind, as the antinomians t
 You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (2015b, 2:10-3:12).
 </blockquote>
 
-Repentance is defined as "a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ" Therefore, "Free Grace theology weakens the gospel message by avoiding any call to unbelievers to repent of their sins" (Grudem, 2016, pp. 41-42).
+Repentance is defined as "a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ" Therefore, "Free Grace theology weakens the gospel message by avoiding any call to unbelievers to repent of their sins" (Grudem, 2016, pp. 41-42):
+
+<blockquote>Many understand repentance to mean simply a “change of mind.” The weakness of this position is that, for the New Testament, this meaning finds no support in any authoritative Greek lexicon or in any modern English translation, none of which translate the Greek terms metanoeō and metanoia as “change your mind” for New Testament passages. <strong>It is a definition unique to Free Grace supporters, without scholarly support from the academic community or any standard Greek reference works. It also lacks support from any English translation of the Bible</strong> (Grudem, 2016, p. 70).</blockquote>
 
 <!-- <p style="text-indent:2em;">
 At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a person could profess faith in Christ, then later completely deny the Christian faith and become a total unbeliever, and still be saved. Joseph Dillow similarly argued that a born-again person could fall away from the faith entirely — forfeiting not their eternal destiny but only their opportunity to reign with Christ. This is not a minor theological dispute. It is a fundamental redefinition of what salvation is and what it produces.</p> -->
