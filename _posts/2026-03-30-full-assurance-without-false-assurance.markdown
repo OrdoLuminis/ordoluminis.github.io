@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:00:00 -0500
+date: 2026-03-30 02:05:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -60,7 +60,7 @@ The Free Grace movement, in its various expressions, has produced a specific and
 <p style="text-indent:2em;">
 The mechanism of this error is precise. A person hears that Jesus died for their sins, intellectually assents to this fact as historically true, and is then told by a Free Grace pastor or teacher that they are saved — forever, unconditionally, regardless of any subsequent pattern of life. Grudem describes the pastoral consequence with precision:</p>
 
-<blockquote style="text-indent:2em;">If you ask them if they are sinners in need of salvation, they will agree.
+<blockquote>If you ask them if they are sinners in need of salvation, they will agree.
 If you ask them if they believe that Jesus died to pay the penalty for their
 sins, they will agree. They heard that teaching in a church one time and
 decided that they thought it was true. They “changed their minds” about
@@ -69,9 +69,9 @@ believed those things to be true facts about history and about themselves,
 and on this basis some Free Grace pastors and teachers have assured them
 that they are saved.</blockquote>
 
-<blockquote style="text-indent:2em;">But they have never truly repented from their sins. They are still lacking a necessary component of genuine saving faith, according to frequent and repeated New Testament presentations. They still lack genuine repentance, and so they have never had genuine New Testament faith. They are not born again. They are lost because of a weakened gospel message.</blockquote>
+<blockquote>But they have never truly repented from their sins. They are still lacking a necessary component of genuine saving faith, according to frequent and repeated New Testament presentations. They still lack genuine repentance, and so they have never had genuine New Testament faith. They are not born again. They are lost because of a weakened gospel message.</blockquote>
 
-<blockquote style="text-indent:2em;">Such people often wonder what is wrong with their Christian lives. Why do they not have the joy that they see in Christians around them? Why does the Bible never seem to make much sense? Why is prayer not very meaningful? (Grudem, 2016, p. 78).</blockquote>
+<blockquote>Such people often wonder what is wrong with their Christian lives. Why do they not have the joy that they see in Christians around them? Why does the Bible never seem to make much sense? Why is prayer not very meaningful? (Grudem, 2016, p. 78).</blockquote>
 
 <p style="text-indent:2em;">
 The tragedy is not merely intellectual error but eternal consequence. People who have been given false assurance are not inoculated against the gospel — they are made resistant to it. They have already been told they are saved. The warning passages of the New Testament, written precisely for people in this condition, no longer reach them. They have been vaccinated with a weakened form of the gospel and thereby made immune to the real thing.</p>
@@ -155,13 +155,14 @@ This sequence is theologically decisive for assurance. Because regeneration prec
 Furthermore, because transformation is Spirit-produced rather than self-generated, it carries no legalist danger. The question is never "how much fruit must I produce to be saved?" The question is "has the Spirit produced any fruit at all?" As Grudem helpfully clarifies:</p>
 
 <blockquote>
-Therefore, the proper answer to the question, “How many good works does one have to do in order to be assured of salvation?” is, “Some.” To be more specific, some change of life gives a basis for some measure of assurance, and a greater change of life gives a basis for a stronger assurance. Scripture does not encourage us to demand more specificity than that. A simple diagram might help to clarify the question of assurance (see Diagram 3.1) (Grudem, 2016, p. 92).
+Therefore, the proper answer to the question, “How many good works does one have to do in order to be assured of salvation?” is, “Some.” To be more specific, some change of life gives a basis for some measure of assurance, and a greater change of life gives a basis for a stronger assurance. Scripture does not encourage us to demand more specificity than that. A simple diagram might help to clarify the question of assurance (see Diagram 3.1) (Grudem, 2016, p. 92).</blockquote>
 
 | Strong Evidence of Unbelief | Weak Evidence of Unbelief | Mixed Evidence | Weak Evidence of Belief | Strong Evidence of Belief |
 |---|---|---|---|---|
 |  |  | Unsure about salvation | Weak assurance of salvation | Strong assurance of salvation |
 | Unsaved | Unsaved | | Saved | Saved |
 
+<blockquote>
 As Diagram 3.1 indicates, the evidence that a person has actually believed in Christ falls along a spectrum from weak to strong. God alone knows with absolute certainty everyone who is saved and everyone who is lost, for “the Lord knows those who are his” (2 Tim. 2:19), but we can perceive stronger or weaker outward indications of what is actually in someone’s heart, both our own hearts and those of others. In the shaded middle of the spectrum, where people give mixed evidence in their profession of faith and in their conduct of life, we simply have to say that we do not know whether the person is saved or not—the evidence is mixed.
 </blockquote>
 
