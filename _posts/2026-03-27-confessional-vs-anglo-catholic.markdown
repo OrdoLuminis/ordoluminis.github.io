@@ -1,6 +1,6 @@
 ---
 title: "On Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Traditions"
-date: 2026-03-27 02:55:00 -0500
+date: 2026-03-27 03:00:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -85,7 +85,7 @@ This tradition running from the English Reformers through the broader Reformed e
 
 **Confessional Anglican:** Justification is forensic — Christ's righteousness imputed to the believer as a legal declaration. This is the non-negotiable Protestant distinctive recovered by the Reformation and enshrined in the Thirty-Nine Articles.
 
-**Union-Centered Transformationist Anglican:** Fully and unambiguously affirms forensic justification as the necessary legal ground of salvation — Christ's righteousness credited to the believer by grace through faith alone. However this tradition insists that imputation is not the soteriological endpoint but is in service of something deeper: genuine union with Christ from which real transformation necessarily flows. Justification and sanctification are distinguished but never separated — both are simultaneous gifts flowing from union with Christ himself. This tradition is therefore transformationist rather than merely imputationist — not because it weakens justification but because it recognizes that God's saving work in the believer does not end with the forensic declaration — it overflows into genuine Spirit-worked transformation as its necessary and free consequence. The Christian is not merely declared righteous and left unchanged — through union with Christ, the indwelling Spirit necessarily and freely produces genuine righteousness in the believer as the fruit of a justification already complete and irrevocable. Transformation is the evidence of grace received, never the ground of standing before God.
+**Union-Centered Transformationist Anglican:** Fully and unambiguously affirms forensic justification as the necessary legal ground of salvation — Christ's righteousness credited to the believer by grace through faith alone. However this tradition insists that imputation is not the soteriological endpoint but is in service of something deeper: genuine union with Christ from which real transformation necessarily flows. Justification and sanctification are distinguished but never separated — both are simultaneous gifts flowing from union with Christ himself. This tradition is therefore transformationist rather than merely imputationist — not because it weakens justification but because it recognizes that God's saving work in the believer does not end with the forensic declaration — it overflows into genuine Spirit-worked transformation as its necessary and free consequence. The Christian is not merely declared righteous and left unchanged — through union with Christ, the indwelling Spirit necessarily and freely produces genuine righteousness in the believer as the fruit of a justification already complete and irrevocable. <strong>Transformation is the evidence of grace received, never the ground of standing before God.</strong>
 
 ## On the Sacraments
 
