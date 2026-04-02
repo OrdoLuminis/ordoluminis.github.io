@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 01:50:00 -0500
+date: 2026-03-30 02:00:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -53,17 +53,37 @@ That answer is grounded in the Union-Centered Transformationist tradition — re
 ## I. The Problem: False Assurance and Its Consequences
 
 <p style="text-indent:2em;">
-The Free Grace movement, in its various expressions, has produced a specific and well-documented pastoral crisis. As Dr. Wayne Grudem has argued at length:</p>
+The Free Grace movement, in its various expressions, has produced a specific and well-documented pastoral crisis. As Dr. Wayne Grudem, a Cambridge-educated research professor, has argued at length:</p>
 
-> Free Grace theology gives false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life (Grudem).
+> Free Grace theology gives false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life (Grudem, 2016, p. 77).
 
 <p style="text-indent:2em;">
 The mechanism of this error is precise. A person hears that Jesus died for their sins, intellectually assents to this fact as historically true, and is then told by a Free Grace pastor or teacher that they are saved — forever, unconditionally, regardless of any subsequent pattern of life. Grudem describes the pastoral consequence with precision:</p>
 
-> Such people often wonder what is wrong with their Christian lives. Why do they not have the joy that they see in Christians around them? Why does the Bible never seem to make much sense? Why is prayer not very meaningful? Many of these people do not even go to church anymore, but they still think that they are saved (Grudem).
+<blockquote style="text-indent:2em;">If you ask them if they are sinners in need of salvation, they will agree.
+If you ask them if they believe that Jesus died to pay the penalty for their
+sins, they will agree. They heard that teaching in a church one time and
+decided that they thought it was true. They “changed their minds” about
+sin and about Christ and about their need for salvation. Intellectually they
+believed those things to be true facts about history and about themselves,
+and on this basis some Free Grace pastors and teachers have assured them
+that they are saved.</blockquote>
+
+<blockquote style="text-indent:2em;">But they have never truly repented from their sins. They are still lacking a necessary component of genuine saving faith, according to frequent and repeated New Testament presentations. They still lack genuine repentance, and so they have never had genuine New Testament faith. They are not born again. They are lost because of a weakened gospel message.</blockquote>
+
+<blockquote style="text-indent:2em;">Such people often wonder what is wrong with their Christian lives. Why do they not have the joy that they see in Christians around them? Why does the Bible never seem to make much sense? Why is prayer not very meaningful? (Grudem, 2016, p. 78).</blockquote>
 
 <p style="text-indent:2em;">
 The tragedy is not merely intellectual error but eternal consequence. People who have been given false assurance are not inoculated against the gospel — they are made resistant to it. They have already been told they are saved. The warning passages of the New Testament, written precisely for people in this condition, no longer reach them. They have been vaccinated with a weakened form of the gospel and thereby made immune to the real thing.</p>
+
+### An Aside on True Repentance
+
+<p style="text-indent:2em;">
+Repentance is not merely mental assent or a change of mind, as the antinomians teach. Christ never applied that pagan sense in Koine Greek, nor do any authoritative lexicons of Biblical Koine Greek apply that definition. The true applied meaning of repent <a href="/assets/images/greek/BDAG/metanoeo.png">metanoéō</a> falls under the second meaning of <em>&ldquo;feel remorse, repent, be converted in a (religio-)ethical sense&rdquo;</em> and repentance <a href="/assets/images/greek/BDAG/metanoia.png">metánoia</a> also falls under the second meaning of <em>&ldquo;repentance, turning about, conversion&rdquo;</em> as taught by Christ and the Apostles. As Pastor Chuck Smith, articulates:</p>
+
+<blockquote>
+You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (2015b, 2:10-3:12).
+</blockquote>
 
 <!-- <p style="text-indent:2em;">
 At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a person could profess faith in Christ, then later completely deny the Christian faith and become a total unbeliever, and still be saved. Joseph Dillow similarly argued that a born-again person could fall away from the faith entirely — forfeiting not their eternal destiny but only their opportunity to reign with Christ. This is not a minor theological dispute. It is a fundamental redefinition of what salvation is and what it produces.</p> -->
@@ -75,7 +95,7 @@ At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a pe
 <p style="text-indent:2em;">
 Grudem identifies the precise logical error underlying the Free Grace doctrine of assurance:</p>
 
-> This entire line of argument about assurance involves a fundamental category mistake. All Protestant theologians would agree that our assurance that Christ's work has earned salvation for sinners and that all who trust in Christ will be saved should be based fully and entirely on the testimony of God in Scripture and what Scripture teaches us about the finished atoning work of Christ. But that is not the question here. The question is not: "How do I know that Christ has died for people's sins?" The question is: "How do I know that I have truly believed?" (Grudem).
+> This entire line of argument about assurance involves a fundamental category mistake. All Protestant theologians would agree that our assurance that Christ's work has earned salvation for sinners and that all who trust in Christ will be saved should be based fully and entirely on the testimony of God in Scripture and what Scripture teaches us about the finished atoning work of Christ. But that is not the question here. The question is not: "How do I know that Christ has died for people's sins?" The question is: "How do I know that I have truly believed?" (Grudem, 2016, pp. 84-85).
 
 <p style="text-indent:2em;">
 Reading Bible verses about the atoning work of Christ tells a person nothing about whether they have genuinely believed. The Free Grace movement conflates two entirely distinct questions — the objective ground of salvation and the subjective evidence of genuine faith — and by answering only the first, leaves the second entirely unaddressed. They offer verses about what Christ has done as answers to questions about what the Spirit has produced in the believer. This is not merely unhelpful — it is a category mistake that produces precisely the false assurance the New Testament warns against.</p>
@@ -134,7 +154,16 @@ This sequence is theologically decisive for assurance. Because regeneration prec
 <p style="text-indent:2em;">
 Furthermore, because transformation is Spirit-produced rather than self-generated, it carries no legalist danger. The question is never "how much fruit must I produce to be saved?" The question is "has the Spirit produced any fruit at all?" As Grudem helpfully clarifies:</p>
 
-> The proper answer to the question, "How many good works does one have to do in order to be assured of salvation?" is, "Some." To be more specific, some change of life gives a basis for some measure of assurance, and a greater change of life gives a basis for a stronger assurance. Scripture does not encourage us to demand more specificity than that (Grudem).
+<blockquote>
+Therefore, the proper answer to the question, “How many good works does one have to do in order to be assured of salvation?” is, “Some.” To be more specific, some change of life gives a basis for some measure of assurance, and a greater change of life gives a basis for a stronger assurance. Scripture does not encourage us to demand more specificity than that. A simple diagram might help to clarify the question of assurance (see Diagram 3.1) (Grudem, 2016, p. 92).
+
+| Strong Evidence of Unbelief | Weak Evidence of Unbelief | Mixed Evidence | Weak Evidence of Belief | Strong Evidence of Belief |
+|---|---|---|---|---|
+|  |  | Unsure about salvation | Weak assurance of salvation | Strong assurance of salvation |
+| Unsaved | Unsaved | | Saved | Saved |
+
+As Diagram 3.1 indicates, the evidence that a person has actually believed in Christ falls along a spectrum from weak to strong. God alone knows with absolute certainty everyone who is saved and everyone who is lost, for “the Lord knows those who are his” (2 Tim. 2:19), but we can perceive stronger or weaker outward indications of what is actually in someone’s heart, both our own hearts and those of others. In the shaded middle of the spectrum, where people give mixed evidence in their profession of faith and in their conduct of life, we simply have to say that we do not know whether the person is saved or not—the evidence is mixed.
+</blockquote>
 
 <p style="text-indent:2em;">
 This is not legalism — it is the diagnostic use of Spirit-produced fruit as evidence of divine regeneration already accomplished. You cannot boast in what the Spirit alone produces. But you can examine it as evidence of what God has done.</p>
@@ -192,15 +221,15 @@ Then he said, “I tell you the truth, <strong>unless you turn from your sins an
 Pastor Chuck Smith stated plainly:</p>
 
 <blockquote>
+Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <strong>you have no assurance of being in the Kingdom of Heaven</strong> (Smith, 2023, 00:00).
+</blockquote>
+
+<blockquote>
 If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin. ... So again, don’t deceive yourself. If you are <strong>practicing</strong> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan (Smith, 2015a, 1Jn 3:6-8).
 </blockquote>
 
 <blockquote>
 You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (Smith, 2015b, 2:10-3:12).
-</blockquote>
-
-<blockquote>
-Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <strong>you have no assurance of being in the Kingdom of Heaven</strong> (Smith, 2023, 00:00).
 </blockquote>
 
 ---
