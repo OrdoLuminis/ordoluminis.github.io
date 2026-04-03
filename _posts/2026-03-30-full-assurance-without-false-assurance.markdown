@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 03:15:00 -0500
+date: 2026-03-30 03:25:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -53,7 +53,7 @@ That answer is grounded in the Union-Centered Transformationist tradition&mdash;
 ## I. The Problem: False Assurance and Its Consequences
 
 <p style="text-indent:2em;">
-The Free Grace movement, in its various expressions, has produced a specific and well-documented pastoral crisis. As Dr. Wayne Grudem, Cambridge-educated research professor, warns that this movement abuses and twists God's precious grace into a license to sin, thereby giving "false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life" (Grudem, 2016, p. 77); Dr. Daniel B. Wallace, Senior Professor of New Testament Studies, Dallas Theological Seminary, labels the movement as "deeply flawed" (Wallace, in Grudem, 2016); J. I. Packer, Oxford-educated Board of Governors' Professor of Theology at Regent College and named one of Time magazine's top 25 evangelicals, calls it "unbiblical, anti-evangelical, and sub-Christian" (Packer, in Grudem, 2016); and Bruce A. Ware, T. Rupert and Lucille Coleman Professor of Christian Theology at The Southern Baptist Theological Seminary, argues that careful biblical and historical argumentation is needed to show "where the Free Grace view has gone wrong" (Ware, in Grudem, 2016).</p>
+The Free Grace movement, in its various expressions, has produced a specific and well-documented pastoral crisis. As Dr. Wayne Grudem, Cambridge-educated research professor, warns that this movement abuses and twists God's precious grace into a license to sin, thereby giving "false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life" (Grudem, 2016, p. 77); Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies, Dallas Theological Seminary, labels the movement as "deeply flawed" (Wallace, in Grudem, 2016); J. I. Packer, Oxford-educated Board of Governors' Professor of Theology at Regent College and named one of Time magazine's top 25 evangelicals, calls it "unbiblical, anti-evangelical, and sub-Christian" (Packer, in Grudem, 2016); and Bruce A. Ware, T. Rupert and Lucille Coleman Professor of Christian Theology at The Southern Baptist Theological Seminary, argues that careful biblical and historical argumentation is needed to show "where the Free Grace view has gone wrong" (Ware, in Grudem, 2016).</p>
 
 <p style="text-indent:2em;">
 The mechanism of this error is precise. A person hears that Jesus died for their sins, intellectually assents to this fact as historically true, and is then told by a Free Grace pastor or teacher that they are saved&mdash;forever, unconditionally, regardless of any subsequent pattern of life. Grudem describes the pastoral consequence with precision:</p>
@@ -77,7 +77,7 @@ The tragedy is not merely intellectual error but eternal consequence. People who
 ### An Aside on True Repentance by C.S. Lewis, Chuck Smith, and Wayne Grudem
 
 <p style="text-indent:2em;">
-Repentance is not merely mental assent or a change of mind, as the antinomians teach. Christ never applied that pagan sense in Koine Greek, nor do any authoritative lexicons of Biblical Koine Greek apply that definition. The true applied meaning of repent <a href="/assets/images/greek/BDAG/metanoeo.png">metanoéō</a> falls under the second meaning of <em>&ldquo;feel remorse, repent, be converted in a (religio-)ethical sense&rdquo;</em> and repentance <a href="/assets/images/greek/BDAG/metanoia.png">metánoia</a> also falls under the second meaning of <em>&ldquo;repentance, turning about, conversion&rdquo;</em> as taught by Christ and the Apostles. As Pastor Chuck Smith, articulates:</p>
+Repentance is not merely mental assent or a change of mind, as the antinomians teach. Christ never applied that pagan sense in Koine Greek, nor do any authoritative lexicons of Biblical Koine Greek apply that definition. The true applied meaning of repent <a href="/assets/images/greek/BDAG/metanoeo.png">metanoéō</a> falls under the second meaning of <em>&ldquo;feel remorse, repent, be converted in a (religio-)ethical sense&rdquo;</em> and repentance <a href="/assets/images/greek/BDAG/metanoia.png">metánoia</a> also falls under the second meaning of <em>&ldquo;repentance, turning about, conversion&rdquo;</em> as taught by Christ and the Apostles. As Pastor Chuck Smith, articulated:</p>
 
 <blockquote>
 You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <strong>Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</strong> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <strong>Repentance is the first step to salvation</strong> (2015b, 2:10-3:12).
@@ -134,7 +134,7 @@ While works do not flow automatically from saving faith, they do flow naturally,
 <blockquote>As Ryrie put it, "<strong>Saving faith is a working faith</strong>, and those works justify believers in the courtroom on earth," and <strong style="color:Goldenrod;">an "unproductive faith is a spurious faith."</strong> (Geisler, in Pinson, 2002, p. 107).</blockquote>
 
 <p style="text-indent:2em;">
-This Order regards D.A. Carson as the only reliable authority of those named in this section: a Cambridge‑educated scholar and Distinguished Emeritus Professor of New Testament at Trinity Evangelical Divinity School, praised as “one of the last great Renaissance men in evangelical biblical scholarship” and credited with producing “the most seminal New Testament work by contemporary evangelicals:”</p>
+This Order regards D.A. Carson as the only reliable authority of those named in this section: a Cambridge‑educated scholar and Emeritus Professor of New Testament at Trinity Evangelical Divinity School, praised as “one of the last great Renaissance men in evangelical biblical scholarship” and credited with producing “the most seminal New Testament work by contemporary evangelicals:”</p>
 
 <blockquote>
 <strong style="font-size:1.1em;">Faith Is More than Belief</strong><br>
