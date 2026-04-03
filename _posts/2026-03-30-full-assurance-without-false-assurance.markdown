@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 03:50:00 -0500
+date: 2026-03-30 03:55:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -118,7 +118,7 @@ Reading Bible verses about the atoning work of Christ tells a person nothing abo
 <p style="text-indent:2em;">
 I cite Ryrie and Geisler only because proponents of the Free Grace movement often invoke their writings to justify errors the authors themselves did not endorse, particularly in the movement’s more extreme forms. Starting with Geisler: Free Grace adherents are, in fact, quoting a moderate Calvinist. Grudem would correct Geisler on wording—replace &ldquo;proves&rdquo; with &ldquo;gives evidence of&rdquo;—but otherwise the point stands. The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation&mdash;Chapter 11, “The Assurance of Salvation,” section: “The Biblical Basis of Eternal Security:”</p>
 
-<blockquote>1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <strong style="color:GoldenRod;">This confirms moderate Calvinism’s view of eternal security</strong> for two reasons. First, anyone truly born of God cannot persist in evil. <strong>If someone does, then he is not born of God.</strong> That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof [&ldquo;gives evidence of&rdquo; is more accurate] of his salvation</blockquote>
+<blockquote>1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <strong style="color:GoldenRod;">This confirms moderate Calvinism’s view of eternal security</strong> for two reasons. First, anyone truly born of God cannot persist in evil. <strong>If someone does, then he is not born of God.</strong> That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of [&ldquo;gives evidence of&rdquo; is more accurate] his salvation</blockquote>
 
 <p style="text-indent:2em;">
 The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation&mdash;Chapter 16, “The Condition for Salvation,” concluding his discussion on the nature of saving faith:</p>
@@ -126,7 +126,7 @@ The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol.
 <blockquote>Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that <strong>saving faith (which <span style="color:Goldenrod;">involves repentance</span>) will naturally tend to produce good works</strong>—a nominal, noncommittal, <span style="font-weight:bold;color:Goldenrod;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:Goldenrod;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works.</blockquote>
 
 <p style="text-indent:2em;">
-The following quotations are from Norman Geisler (quoting Charles Ryrie), cited in Pinson (2002), J.M., <em>4 Views on Eternal Security</em>:</p>
+The following quotations are from Norman Geisler (quoting Charles Ryrie), cited in Pinson (2002), <em>4 Views on Eternal Security</em>:</p>
 
 <blockquote>
 While works do not flow automatically from saving faith, they do flow naturally, just as buds come naturally from a live bush. <strong>As Charles Ryrie correctly observed, "every Christian will bear fruit; otherwise he or she is not a true believer."</strong> For "fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a saving faith works" (Geisler, in Pinson, 2002, p. 105).</blockquote>
