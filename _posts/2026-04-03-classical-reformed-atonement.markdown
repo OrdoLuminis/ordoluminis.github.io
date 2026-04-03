@@ -1,6 +1,6 @@
 ---
 title: "The Classical Reformed Doctrine of the Atonement: Recovering the Stable and Superior Broad Reformed Tradition of Universal Sufficiency"
-date: 2026-04-03 01:15:00 -0500
+date: 2026-04-03 01:20:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -76,7 +76,7 @@ The goal of this article is not to relitigate Dort. It is to recover the stabili
 ## King James I: Royal Patron of the Broad Reformed Stream
 
 <p style="text-indent:2em;">
-Chronologically, King James I (1566–1625) sits precisely at <strong>English Reformed orthodoxy (broad, classical stream)</strong> and is the royal authority directly behind <strong>Davenant</strong> and </strong>Ward</strong>. James personally granted Davenant and Ward a two-hour royal audience at Royston before they departed for Dort, and his delegation received their royal mandate at Newmarket in October 1618. He is not a theologian on the chart in his own right, but he is the patron and commissioner of the two figures who are named on it.</p>
+Chronologically, King James I (1566–1625) sits precisely at <strong>English Reformed orthodoxy (broad, classical stream)</strong> and is the royal authority directly behind <strong>Davenant</strong> and <strong>Ward</strong>. James personally granted Davenant and Ward a two-hour royal audience at Royston before they departed for Dort, and his delegation received their royal mandate at Newmarket in October 1618. He is not a theologian on the chart in his own right, but he is the patron and commissioner of the two figures who are named on it.</p>
 
 <p style="text-indent:2em;">
 Theologically, James lands squarely in <strong>English Reformed orthodoxy</strong>, with a meaningful lean toward <strong>the classical sufficiency formula</strong> ("sufficient for all, efficient for the elect"). Several things nail this down:</p>
