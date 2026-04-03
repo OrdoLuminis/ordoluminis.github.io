@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:55:00 -0500
+date: 2026-03-30 03:00:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -123,7 +123,7 @@ I cite Ryrie and Geisler only because proponents of the Free Grace movement ofte
 <p style="text-indent:2em;">
 The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation — Chapter 16, “The Condition for Salvation,” concluding his discussion on the nature of saving faith:</p>
 
-<blockquote>Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:Goldenrod;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:Goldenrod;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:Goldenrod;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works.</blockquote>
+<blockquote>Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that <strong>saving faith (which <span style="color:Goldenrod;">involves repentance</span>) will naturally tend to produce good works</strong>—a nominal, noncommittal, <span style="font-weight:bold;color:Goldenrod;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:Goldenrod;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works.</blockquote>
 
 <p style="text-indent:2em;">
 The following quotations are from Norman Geisler (quoting Charles Ryrie), cited in Pinson (2002), J.M., <em>4 Views on Eternal Security</em>:</p>
