@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 03:10:00 -0500
+date: 2026-03-30 03:15:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -41,10 +41,10 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-The question of assurance is one of the most pastorally urgent questions in Christian life. It is also one of the most frequently distorted — in two opposite directions simultaneously. On one side stands the error of false assurance: telling people they are saved when the evidence of their lives gives no warrant for that conclusion. On the other side stands the error of no assurance: leaving genuinely regenerate believers in perpetual doubt about their standing before God. The Order of Light holds that both errors are spiritually dangerous, and that Scripture provides a clear, coherent, and pastorally sufficient answer to both.</p>
+The question of assurance is one of the most pastorally urgent questions in Christian life. It is also one of the most frequently distorted&mdash;in two opposite directions simultaneously. On one side stands the error of false assurance: telling people they are saved when the evidence of their lives gives no warrant for that conclusion. On the other side stands the error of no assurance: leaving genuinely regenerate believers in perpetual doubt about their standing before God. The Order of Light holds that both errors are spiritually dangerous, and that Scripture provides a clear, coherent, and pastorally sufficient answer to both.</p>
 
 <p style="text-indent:2em;">
-That answer is grounded in the Union-Centered Transformationist tradition — represented in the Anglican stream by Cranmer and Davenant, developed by Edwards and the broader Puritan heritage, and enshrined in the confessional standards the Order of Light upholds — which holds that forensic justification is not the endpoint of salvation but its necessary ground, and that union with Christ is the soteriological heart from which all benefits freely and necessarily flow. We are not merely declared righteous — through union with Christ, we are being made righteous by the Spirit's transforming presence, as the free and necessary fruit of a justification already complete and irrevocable. It is precisely this transformationist framework that makes genuine, full, and honest assurance possible.</p>
+That answer is grounded in the Union-Centered Transformationist tradition&mdash;represented in the Anglican stream by Cranmer and Davenant, developed by Edwards and the broader Puritan heritage, and enshrined in the confessional standards the Order of Light upholds&mdash;which holds that forensic justification is not the endpoint of salvation but its necessary ground, and that union with Christ is the soteriological heart from which all benefits freely and necessarily flow. We are not merely declared righteous&mdash;through union with Christ, we are being made righteous by the Spirit's transforming presence, as the free and necessary fruit of a justification already complete and irrevocable. It is precisely this transformationist framework that makes genuine, full, and honest assurance possible.</p>
 
 <small>*Note: Necessary fruit in Reformed Scholasticism is carefully defined as Necessitas Praesentiae (necessity of presence) rather than Necessitas Efficientiae (necessity of causing).*</small>
 
@@ -56,7 +56,7 @@ That answer is grounded in the Union-Centered Transformationist tradition — re
 The Free Grace movement, in its various expressions, has produced a specific and well-documented pastoral crisis. As Dr. Wayne Grudem, Cambridge-educated research professor, warns that this movement abuses and twists God's precious grace into a license to sin, thereby giving "false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life" (Grudem, 2016, p. 77); Dr. Daniel B. Wallace, Senior Professor of New Testament Studies, Dallas Theological Seminary, labels the movement as "deeply flawed" (Wallace, in Grudem, 2016); J. I. Packer, Oxford-educated Board of Governors' Professor of Theology at Regent College and named one of Time magazine's top 25 evangelicals, calls it "unbiblical, anti-evangelical, and sub-Christian" (Packer, in Grudem, 2016); and Bruce A. Ware, T. Rupert and Lucille Coleman Professor of Christian Theology at The Southern Baptist Theological Seminary, argues that careful biblical and historical argumentation is needed to show "where the Free Grace view has gone wrong" (Ware, in Grudem, 2016).</p>
 
 <p style="text-indent:2em;">
-The mechanism of this error is precise. A person hears that Jesus died for their sins, intellectually assents to this fact as historically true, and is then told by a Free Grace pastor or teacher that they are saved — forever, unconditionally, regardless of any subsequent pattern of life. Grudem describes the pastoral consequence with precision:</p>
+The mechanism of this error is precise. A person hears that Jesus died for their sins, intellectually assents to this fact as historically true, and is then told by a Free Grace pastor or teacher that they are saved&mdash;forever, unconditionally, regardless of any subsequent pattern of life. Grudem describes the pastoral consequence with precision:</p>
 
 <blockquote>If you ask them if they are sinners in need of salvation, they will agree.
 If you ask them if they believe that Jesus died to pay the penalty for their
@@ -72,7 +72,7 @@ that they are saved.</blockquote>
 <blockquote>Such people often wonder what is wrong with their Christian lives. Why do they not have the joy that they see in Christians around them? Why does the Bible never seem to make much sense? Why is prayer not very meaningful? (Grudem, 2016, p. 78).</blockquote>
 
 <p style="text-indent:2em;">
-The tragedy is not merely intellectual error but eternal consequence. People who have been given false assurance are not inoculated against the gospel — they are made resistant to it. They have already been told they are saved. The warning passages of the New Testament, written precisely for people in this condition, no longer reach them. They have been vaccinated with a weakened form of the gospel and thereby made immune to the real thing.</p>
+The tragedy is not merely intellectual error but eternal consequence. People who have been given false assurance are not inoculated against the gospel&mdash;they are made resistant to it. They have already been told they are saved. The warning passages of the New Testament, written precisely for people in this condition, no longer reach them. They have been vaccinated with a weakened form of the gospel and thereby made immune to the real thing.</p>
 
 ### An Aside on True Repentance by C.S. Lewis, Chuck Smith, and Wayne Grudem
 
@@ -99,7 +99,7 @@ Repentance is defined as "a heartfelt sorrow for sin, a renouncing of it, and a 
 > Remember, this repentance, this willing submission to humiliation and a kind of death, is not something God demands of you before He will take you back and which He could let you off if He chose: it is simply a description of what going back to Him is like. If you ask God to take you back without it, you are really asking Him to let you go back without going back. It cannot happen. Very well, then, we must go through with it. But the same badness which makes us need it, makes us unable to do it. Can we do it if God helps us? Yes, but what do we mean when we talk of God helping us? We mean God putting into us a bit of Himself, so to speak. He lends us a little of His reasoning powers and that is how we think: He puts a little of His love into us and that is how we love one another. When you teach a child writing, you hold its hand while it forms the letters: that is, it forms the letters because you are forming them. We love and reason because God loves and reasons and holds our hand while we do it.
 
 <!-- <p style="text-indent:2em;">
-At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a person could profess faith in Christ, then later completely deny the Christian faith and become a total unbeliever, and still be saved. Joseph Dillow similarly argued that a born-again person could fall away from the faith entirely — forfeiting not their eternal destiny but only their opportunity to reign with Christ. This is not a minor theological dispute. It is a fundamental redefinition of what salvation is and what it produces.</p> -->
+At the most extreme end of the Free Grace spectrum, Zane Hodges argued that a person could profess faith in Christ, then later completely deny the Christian faith and become a total unbeliever, and still be saved. Joseph Dillow similarly argued that a born-again person could fall away from the faith entirely&mdash;forfeiting not their eternal destiny but only their opportunity to reign with Christ. This is not a minor theological dispute. It is a fundamental redefinition of what salvation is and what it produces.</p> -->
 
 ---
 
@@ -111,17 +111,17 @@ Grudem identifies the precise logical error underlying the Free Grace doctrine o
 > This entire line of argument about assurance involves a fundamental category mistake. All Protestant theologians would agree that our assurance that Christ's work has earned salvation for sinners and that all who trust in Christ will be saved should be based fully and entirely on the testimony of God in Scripture and what Scripture teaches us about the finished atoning work of Christ. But that is not the question here. The question is not: "How do I know that Christ has died for people's sins?" The question is: "How do I know that I have truly believed?" (Grudem, 2016, pp. 84-85).
 
 <p style="text-indent:2em;">
-Reading Bible verses about the atoning work of Christ tells a person nothing about whether they have genuinely believed. The Free Grace movement conflates two entirely distinct questions — the objective ground of salvation and the subjective evidence of genuine faith — and by answering only the first, leaves the second entirely unaddressed. They offer verses about what Christ has done as answers to questions about what the Spirit has produced in the believer. This is not merely unhelpful — it is a category mistake that produces precisely the false assurance the New Testament warns against.</p>
+Reading Bible verses about the atoning work of Christ tells a person nothing about whether they have genuinely believed. The Free Grace movement conflates two entirely distinct questions&mdash;the objective ground of salvation and the subjective evidence of genuine faith&mdash;and by answering only the first, leaves the second entirely unaddressed. They offer verses about what Christ has done as answers to questions about what the Spirit has produced in the believer. This is not merely unhelpful&mdash;it is a category mistake that produces precisely the false assurance the New Testament warns against.</p>
 
 ### An Aside by D.A. Carson, Charles Ryrie, and Norman Geisler
 
 <p style="text-indent:2em;">
-I cite Ryrie and Geisler only because proponents of the Free Grace movement often invoke their writings to justify errors the authors themselves did not endorse, particularly in the movement’s more extreme forms. Starting with Geisler: Free Grace adherents are, in fact, quoting a moderate Calvinist. Grudem would correct Geisler on wording—replace &ldquo;proves&rdquo; with &ldquo;gives evidence of&rdquo;—but otherwise the point stands. The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation — Chapter 11, “The Assurance of Salvation,” section: “The Biblical Basis of Eternal Security:”</p>
+I cite Ryrie and Geisler only because proponents of the Free Grace movement often invoke their writings to justify errors the authors themselves did not endorse, particularly in the movement’s more extreme forms. Starting with Geisler: Free Grace adherents are, in fact, quoting a moderate Calvinist. Grudem would correct Geisler on wording—replace &ldquo;proves&rdquo; with &ldquo;gives evidence of&rdquo;—but otherwise the point stands. The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation&mdash;Chapter 11, “The Assurance of Salvation,” section: “The Biblical Basis of Eternal Security:”</p>
 
 <blockquote>1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <strong style="color:GoldenRod;">This confirms moderate Calvinism’s view of eternal security</strong> for two reasons. First, anyone truly born of God cannot persist in evil. <strong>If someone does, then he is not born of God.</strong> That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof [&ldquo;gives evidence of&rdquo; is more accurate] of his salvation</blockquote>
 
 <p style="text-indent:2em;">
-The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation — Chapter 16, “The Condition for Salvation,” concluding his discussion on the nature of saving faith:</p>
+The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation&mdash;Chapter 16, “The Condition for Salvation,” concluding his discussion on the nature of saving faith:</p>
 
 <blockquote>Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that <strong>saving faith (which <span style="color:Goldenrod;">involves repentance</span>) will naturally tend to produce good works</strong>—a nominal, noncommittal, <span style="font-weight:bold;color:Goldenrod;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:Goldenrod;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works.</blockquote>
 
@@ -160,7 +160,7 @@ It has a kind of repentance built into it. It’s the very nature of faith to ab
 ## III. What the New Testament Actually Teaches About Assurance
 
 <p style="text-indent:2em;">
-The New Testament epistles were written not to outsiders but to congregations — to people who considered themselves Christians and who would hear these letters read aloud in their churches. And yet the apostolic authors do not hesitate to include warning passages challenging their readers to examine whether they are genuinely saved. This is a remarkable and deliberate pastoral strategy. The warnings are not written to provoke anxiety in the genuinely regenerate but to expose the false assurance of the unregenerate professor.</p>
+The New Testament epistles were written not to outsiders but to congregations&mdash;to people who considered themselves Christians and who would hear these letters read aloud in their churches. And yet the apostolic authors do not hesitate to include warning passages challenging their readers to examine whether they are genuinely saved. This is a remarkable and deliberate pastoral strategy. The warnings are not written to provoke anxiety in the genuinely regenerate but to expose the false assurance of the unregenerate professor.</p>
 
 <p style="text-indent:2em;">
 The biblical criterion for full assurance of salvation is given most clearly in the first epistle of John. According to scholars, a fruitless faith is a superficial faith, and the key in teaching full assurance of salvation is not to give false assurance of salvation. Christ's message of fruit-bearing is the message of assurance and the second part of the sola fide doctrine: justification is by faith alone, but not by faith that is alone. This doctrine correctly teaches fruit-bearing as evidence of genuine faith. If you do not hold to this, you do not hold to sola fide, the Reformation doctrine of faith alone.</p>
@@ -192,19 +192,19 @@ Additional passages confirm this pattern throughout the canon:</p>
 ## IV. The Theological Foundation: Why Transformation Is Necessary and Free
 
 <p style="text-indent:2em;">
-The Order of Light's Union-Centered Transformationist position provides the precise theological framework that explains why genuine assurance is both possible and grounded in observable fruit — without that fruit becoming a new form of legalism.</p>
+The Order of Light's Union-Centered Transformationist position provides the precise theological framework that explains why genuine assurance is both possible and grounded in observable fruit&mdash;without that fruit becoming a new form of legalism.</p>
 
 <p style="text-indent:2em;">
-The key is the ordo salutis — the order of salvation. Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life. This is not the believer producing fruit through effort — it is the Spirit producing fruit as the inevitable consequence of new birth. Regeneration precedes and produces repentance and faith as its necessary fruits rather than their following them as conditions. The sequence is:</p>
+The key is the ordo salutis&mdash;the order of salvation. Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life. This is not the believer producing fruit through effort&mdash;it is the Spirit producing fruit as the inevitable consequence of new birth. Regeneration precedes and produces repentance and faith as its necessary fruits rather than their following them as conditions. The sequence is:</p>
 
 **Election → Effectual Calling → Regeneration → Repentance (leads to salvation) and Faith → Justification (Faith) → Sanctification → Glorification**
 
-<small>*Note: Repentance and faith are not human contributions preceding justification but Spirit-produced fruits of regeneration — two inseparable aspects of the same sovereign work. Saving faith results in obedience; it does not include obedience. The resolve to turn from sin is not the same as the performance of obedience, and neither merits or conditions the justification that follows.*</small>
+<small>*Note: Repentance and faith are not human contributions preceding justification but Spirit-produced fruits of regeneration&mdash;two inseparable aspects of the same sovereign work. Saving faith results in obedience; it does not include obedience. The resolve to turn from sin is not the same as the performance of obedience, and neither merits or conditions the justification that follows.*</small>
 
 <!-- The Syllogismus Practicus: The sequence employs the "practical syllogism" (using works as evidence of faith). It avoids the error of legalism by framing works as diagnostic (evidence of life) rather than meritorious (cause of life). This distinction is historically precise and vital for the "Transformationist" position. -->
 
 <p style="text-indent:2em;">
-This sequence is theologically decisive for assurance. Because regeneration precedes and produces faith, the believer's assurance does not ultimately rest on the quality or strength of their own faith decision — it rests on God's sovereign regenerative work, of which faith and fruit are the visible evidence. The faith that justifies, Luther said, is a fides viva — a living faith, a faith that is alive — and you know it is alive when it manifests itself in the fruit of obedience.</p>
+This sequence is theologically decisive for assurance. Because regeneration precedes and produces faith, the believer's assurance does not ultimately rest on the quality or strength of their own faith decision&mdash;it rests on God's sovereign regenerative work, of which faith and fruit are the visible evidence. The faith that justifies, Luther said, is a fides viva&mdash;a living faith, a faith that is alive&mdash;and you know it is alive when it manifests itself in the fruit of obedience.</p>
 
 <p style="text-indent:2em;">
 Furthermore, because transformation is Spirit-produced rather than self-generated, it carries no legalist danger. The question is never "how much fruit must I produce to be saved?" The question is "has the Spirit produced any fruit at all?" As Grudem helpfully clarifies:</p>
@@ -222,7 +222,7 @@ As Diagram 3.1 indicates, the evidence that a person has actually believed in Ch
 </blockquote>
 
 <p style="text-indent:2em;">
-This is not legalism — it is the diagnostic use of Spirit-produced fruit as evidence of divine regeneration already accomplished. You cannot boast in what the Spirit alone produces. But you can examine it as evidence of what God has done.</p>
+This is not legalism&mdash;it is the diagnostic use of Spirit-produced fruit as evidence of divine regeneration already accomplished. You cannot boast in what the Spirit alone produces. But you can examine it as evidence of what God has done.</p>
 
 ---
 
@@ -231,19 +231,19 @@ This is not legalism — it is the diagnostic use of Spirit-produced fruit as ev
 <p style="text-indent:2em;">
 The Order of Light's full soteriological position, developed from the canonical witness, produces the following precise framework for genuine assurance without false assurance:</p>
 
-**Proposition 1:** Regeneration is effected solely by the power of the Holy Spirit, producing repentance, faith, and newness of life as its necessary and proper evidence. The new birth precedes and produces saving faith — it is not produced by it.
+**Proposition 1:** Regeneration is effected solely by the power of the Holy Spirit, producing repentance, faith, and newness of life as its necessary and proper evidence. The new birth precedes and produces saving faith&mdash;it is not produced by it.
 
-**Proposition 2:** Justification is by faith alone — but that faith is itself a fruit of regeneration, and the faith that saves is never alone in the person justified.
+**Proposition 2:** Justification is by faith alone&mdash;but that faith is itself a fruit of regeneration, and the faith that saves is never alone in the person justified.
 
-**Proposition 3:** Saving faith results in obedience and good works that follow after — not merit — justification. Results in, not includes.
+**Proposition 3:** Saving faith results in obedience and good works that follow after&mdash;not merit&mdash;justification. Results in, not includes.
 
-**Proposition 4:** Obedience does not merit salvation — the Holy Spirit produces obedience as the fruit of regeneration and union with Christ. It is not human effort but Spirit-produced transformation.
+**Proposition 4:** Obedience does not merit salvation&mdash;the Holy Spirit produces obedience as the fruit of regeneration and union with Christ. It is not human effort but Spirit-produced transformation.
 
-**Proposition 5:** Faith is not a work — repentance and faith are fruits of regeneration, produced by the Spirit alone (Mt 3:8-10 NLT).
+**Proposition 5:** Faith is not a work&mdash;repentance and faith are fruits of regeneration, produced by the Spirit alone (Mt 3:8-10 NLT).
 
 ---
 
-## VI. Assurance Is Possible — and It Is Full
+## VI. Assurance Is Possible&mdash;and It Is Full
 
 <p style="text-indent:2em;">
 The historic Protestant position, represented in the Westminster Confession of Faith, teaches precisely this:</p>
@@ -253,11 +253,11 @@ The historic Protestant position, represented in the Westminster Confession of F
 <p style="text-indent:2em;">
 Full assurance therefore rests on three concurrent grounds, all of which Scripture provides:</p>
 
-**1. The objective ground** — Christ's finished atoning work, declared in Scripture, on the basis of which all who genuinely trust in him are saved. This is Davenant's contribution: the atonement was genuinely provisioned for all, making the gospel offer sincere to every hearer.
+**1. The objective ground**&mdash;Christ's finished atoning work, declared in Scripture, on the basis of which all who genuinely trust in him are saved. This is Davenant's contribution: the atonement was genuinely provisioned for all, making the gospel offer sincere to every hearer.
 
-**2. The subjective ground** — The internal testimony of the Holy Spirit bearing witness with our spirit that we are children of God (Rom. 8:16), and the observable fruit of Spirit-worked transformation in our pattern of life.
+**2. The subjective ground**&mdash;The internal testimony of the Holy Spirit bearing witness with our spirit that we are children of God (Rom. 8:16), and the observable fruit of Spirit-worked transformation in our pattern of life.
 
-**3. The perseverance ground** — We are kept not by our grip on Christ but by his grip on us. "By God's power are being guarded through faith for a salvation ready to be revealed in the last time" (1 Pet. 1:5).
+**3. The perseverance ground**&mdash;We are kept not by our grip on Christ but by his grip on us. "By God's power are being guarded through faith for a salvation ready to be revealed in the last time" (1 Pet. 1:5).
 
 <p style="text-indent:2em;">
 As Grudem writes: "No one who has such assurance should wonder, 'Will I be able to persevere to the end of my life and therefore be saved?' Everyone who gains assurance through such a self-examination should rather think, 'I am truly born again; therefore, I will certainly persevere to the end, because I'm being guarded by God's power working through my faith.'"</p>
@@ -298,22 +298,62 @@ For those who are uncertain about their standing before God, the New Testament's
 <blockquote><strong>Examine yourselves to see if your faith is genuine. Test yourselves.</strong> ... (New Living Translation, 2015, 2 Cor. 13:5).</blockquote>
 
 <p style="text-indent:2em;">
-This examination is not an invitation to anxiety — it is an invitation to honesty. The Spirit who regenerates also witnesses to that regeneration through the fruit he produces. Those who find genuine love for the brethren, genuine hatred of sin, genuine desire for God's Word, and genuine repentance when they fail — these have strong evidence of genuine regeneration. Those who find none of these things should heed the warning passages rather than claim an assurance the New Testament does not extend to them.</p>
+This examination is not an invitation to anxiety&mdash;it is an invitation to honesty. The Spirit who regenerates also witnesses to that regeneration through the fruit he produces. Those who find genuine love for the brethren, genuine hatred of sin, genuine desire for God's Word, and genuine repentance when they fail&mdash;these have strong evidence of genuine regeneration. Those who find none of these things should heed the warning passages rather than claim an assurance the New Testament does not extend to them.</p>
 
 <p style="text-indent:2em;">
-Is the basis of your assurance a living faith or a dead faith? The answer matters eternally. But it is answerable — and that is the good news. You do not have to wonder. The Spirit who saves also testifies. The fruit he produces is visible. And the Christ who justified you also holds you — not the other way around.</p>
+Is the basis of your assurance a living faith or a dead faith? The answer matters eternally. But it is answerable&mdash;and that is the good news. You do not have to wonder. The Spirit who saves also testifies. The fruit he produces is visible. And the Christ who justified you also holds you&mdash;not the other way around.</p>
 
 > **Faith without works is dead** (Jas. 2:26).
+
+---
+
+## IX. Hope For The Apostate
+
+<!-- You are currently lost, exactly as the warnings in 1 John and Hebrews say. Stop claiming false security. But the door is not shut. The gospel is still calling you to a living, transforming faith that actually changes you from the inside out. If you come that way — with real repentance and real trust in Christ — you will not only be saved but will know it with full, honest assurance because the Spirit will produce the fruit that proves He has done the work in you. The possibility of a brand-new, genuine new birth that will actually stick is yours. -->
+
+<p style="text-indent:2em;">
+If you have read this far and found yourself in the warnings&mdash;if the fruit described in 1 John is absent, if the assurance you have claimed rests on a past decision rather than a living faith&mdash;the door is not shut. The same gospel that exposes false assurance also extends a genuine offer. Come with real repentance and real trust in Christ, and you will not only be saved but will know it with full and honest assurance&mdash;because the Spirit will produce the fruit that confirms He has done the work in you.</p>
+
+<p style="text-indent:2em;">
+One caution before you respond: do not attempt to make yourself right before coming. The temptation upon reading warnings like these is to begin a self-improvement project&mdash;to clean up your life first, produce
+fruit on your own, and then approach God once you are presentable. This is precisely the error Paul warns against in Galatians 5:4&mdash;seeking justification by your own efforts, which severs you from grace rather than securing it. You cannot generate the fruit this article describes. Only the Spirit produces it. Come as you are, with nothing but repentance and trust, and the transformation will follow as His work&mdash;not yours. This article is telling you to trust not to try. God's work not yours!</p>
+
+- **True repentance is still possible.** Not mere mental regret or “I used to believe that,” but the full turning described by Chuck Smith in the article: being “so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.” This includes turning from both the sins you once excused and from the unbelief itself.
+
+<!-- - **True repentance is still possible** — not mere mental regret or a
+  memory of past belief, but the full turning the article describes:
+  being so sorry, so contrite, that you turn away and cease. This
+  includes turning from the sins you once excused and from the unbelief
+  itself. -->
+
+- **Genuine saving faith is still available.** Not the intellectual assent the article condemns, but Spirit-produced faith that is “never alone”&mdash;it necessarily brings love for God, hatred of sin, love for the brethren, and obedience as fruit.
+
+<!-- - **Genuine saving faith is still available** — not the intellectual
+  assent the article warns against, but Spirit-produced faith that is
+  never alone — faith that necessarily brings love for God, hatred of
+  sin, love for the brethren, and obedience as fruit. -->
+
+<!-- - **Regeneration can still happen.** The Holy Spirit who produces the new birth has not run out of power. The sequence the article lays out (Election → Effectual Calling → Regeneration → Repentance & Faith → Justification → Sanctification) is not a one-time offer that expires when you apostatize. It is still on the table. -->
+
+- **Regeneration can still happen** — the Holy Spirit who produces the new birth has not exhausted his power. The ordo salutis laid out in this article is not an offer that expires. It remains open.
+
+- **Full assurance can still be yours**&mdash;but only the real kind, grounded in observable Spirit-wrought transformation rather than a past decision or a pastor’s promise.
+
+<!-- - **Full assurance can still be yours** — the real kind, grounded in
+  observable Spirit-wrought transformation rather than a past decision
+  or a pastor's promise. That assurance, once genuinely possessed,
+  does not need to be anxiously re-examined. The Christ who justifies
+  also holds. -->
 
 ---
 
 ## Conclusion
 
 <p style="text-indent:2em;">
-The Order of Light commends the Union-Centered Transformationist soteriological position — held within a Confessional Anglican framework but shared across Reformed evangelical traditions — precisely because it is the only framework that closes both doors simultaneously — the door of false assurance and the door of no assurance. Forensic justification by faith alone provides the objective ground: salvation is entirely God's work, received through Spirit-produced faith, grounded in Christ's finished atonement. Spirit-worked transformation provides the subjective evidence: the fruit that confirms what God has already accomplished. And union with Christ provides the security: the branch cannot be separated from the vine that holds it.</p>
+The Order of Light commends the Union-Centered Transformationist soteriological position&mdash;held within a Confessional Anglican framework but shared across Reformed evangelical traditions&mdash;precisely because it is the only framework that closes both doors simultaneously&mdash;the door of false assurance and the door of no assurance. Forensic justification by faith alone provides the objective ground: salvation is entirely God's work, received through Spirit-produced faith, grounded in Christ's finished atonement. Spirit-worked transformation provides the subjective evidence: the fruit that confirms what God has already accomplished. And union with Christ provides the security: the branch cannot be separated from the vine that holds it.</p>
 
 <p style="text-indent:2em;">
-The faith that saves is never alone in the person justified. And the person who is genuinely justified — regenerated by the Spirit, united to Christ, bearing the fruit that the Spirit necessarily produces — may have full assurance. Not false assurance. Full assurance. Veritas Vincit.</p>
+The faith that saves is never alone in the person justified. And the person who is genuinely justified&mdash;regenerated by the Spirit, united to Christ, bearing the fruit that the Spirit necessarily produces&mdash;may have full assurance. Not false assurance. Full assurance. Veritas Vincit.</p>
 
 <br>
 <hr>
