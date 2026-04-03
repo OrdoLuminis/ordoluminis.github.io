@@ -1,6 +1,6 @@
 ---
-title: "The Classical Reformed Doctrine of the Atonement: Recovering the Stable and Superior Broad Reformed Consensus"
-date: 2026-04-03 01:05:00 -0500
+title: "The Classical Reformed Doctrine of the Atonement: Recovering the Stable and Superior Broad Reformed Tradition of Universal Sufficiency"
+date: 2026-04-03 01:10:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
