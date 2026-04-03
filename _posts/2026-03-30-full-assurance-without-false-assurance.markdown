@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 02:50:00 -0500
+date: 2026-03-30 02:55:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -112,6 +112,48 @@ Grudem identifies the precise logical error underlying the Free Grace doctrine o
 
 <p style="text-indent:2em;">
 Reading Bible verses about the atoning work of Christ tells a person nothing about whether they have genuinely believed. The Free Grace movement conflates two entirely distinct questions — the objective ground of salvation and the subjective evidence of genuine faith — and by answering only the first, leaves the second entirely unaddressed. They offer verses about what Christ has done as answers to questions about what the Spirit has produced in the believer. This is not merely unhelpful — it is a category mistake that produces precisely the false assurance the New Testament warns against.</p>
+
+### An Aside by D.A. Carson, Charles Ryrie, and Norman Geisler
+
+<p style="text-indent:2em;">
+I cite Ryrie and Geisler only because proponents of the Free Grace movement often invoke their writings to justify errors the authors themselves did not endorse, particularly in the movement’s more extreme forms. Starting with Geisler: Free Grace adherents are, in fact, quoting a moderate Calvinist. Grudem would correct Geisler on wording—replace &ldquo;proves&rdquo; with &ldquo;gives evidence of&rdquo;—but otherwise the point stands. The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation — Chapter 11, “The Assurance of Salvation,” section: “The Biblical Basis of Eternal Security:”</p>
+
+<blockquote>1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <strong style="color:GoldenRod;">This confirms moderate Calvinism’s view of eternal security</strong> for two reasons. First, anyone truly born of God cannot persist in evil. <strong>If someone does, then he is not born of God.</strong> That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof [&ldquo;gives evidence of&rdquo; is more accurate] of his salvation</blockquote>
+
+<p style="text-indent:2em;">
+The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol. 3: Sin & Salvation — Chapter 16, “The Condition for Salvation,” concluding his discussion on the nature of saving faith:</p>
+
+<blockquote>Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:Goldenrod;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:Goldenrod;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:Goldenrod;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works.</blockquote>
+
+<p style="text-indent:2em;">
+The following quotations are from Norman Geisler (quoting Charles Ryrie), cited in Pinson (2002), J.M., <em>4 Views on Eternal Security</em>:</p>
+
+<blockquote>
+While works do not flow automaticallyfrom saving faith, they do flow naturally, just as buds come naturally from a live bush. <strong>As Charles Ryrie correctly observed, "every Christian will bearfruit; otherwise heor she is nota true believer."</strong> For "fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a saving faith works" (Geisler, in Pinson, 2002, p. 105).</blockquote>
+
+<blockquote>As Ryrie put it, "<strong>Saving faith is a working faith</strong>, and those works justify believers in the courtroom on earth," and <strong style="color:Goldenrod;">an "unproductive faith is a spurious faith."</strong> (Geisler, in Pinson, 2002, p. 107).</blockquote>
+
+<p style="text-indent:2em;">
+This Order regards D.A. Carson as the only reliable authority of those named in this section: a Cambridge‑educated scholar and Distinguished Emeritus Professor of New Testament at Trinity Evangelical Divinity School, praised as “one of the last great Renaissance men in evangelical biblical scholarship” and credited with producing “the most seminal New Testament work by contemporary evangelicals:”</p>
+
+<blockquote>
+<strong style="font-size:1.1em;">Faith Is More than Belief</strong><br>
+<p style="text-indent:2em;">But in the second place, faith is more than simply believing that certain things are true. James has something to say about this in the second chapter of his epistle. He says, “Faith without works is dead.” In fact, a few months ago, I was in Sweden debating with a Catholic theologian who said, “I don’t understand you Christians who call yourselves evangelicals.” He says, “You speak of being saved by faith alone, whereas James explicitly says that ‘Faith without works is dead.’ Faith, all by itself, faith alone, is precisely what’s invalid. How do you respond to that?” My response is pretty straightforward. The kind of faith that James is talking about is not the kind of faith that Paul is talking about. They use the same word in different ways, which often happens in the New Testament.</p>
+
+<p style="text-indent:2em;">
+Let me give you another example so you see I’m not making things up. When Paul says that Christians are “called of God,” for example, for him, the call of God is effectual; it works. If you’re called of God, you really are saved. Whereas, in the Synoptic Gospels (Matthew, Mark, and Luke), the call of God is something like the invitation of God: “Many are called, but few are chosen.” So in other words, the word “call” can mean slightly different things depending on the writer, depending on the context. That often happens. It’s because God has chosen to give His infallible Word through different human functionaries, through human authors.</p>
+
+<p style="text-indent:2em;">
+So how does “faith” mean something different in James than in Paul? Well, James makes it very clear. He says, “Consider the demons. They believe there is one God.” In fact, he says, “You believe there is one God; you’re doing well. But then so do the demons, and it doesn’t save them, so why should it save you?” Satan himself believes that Jesus rose from the dead; he believes in the resurrection, but it doesn’t save him. In other words, merely believing the truth that Christ rose from the dead is not salvific; it’s not saving; it’s not transforming (Carson, n.d., “What Is Faith” section).</p>
+</blockquote>
+<blockquote>
+<strong style="font-size:1.1em;">Faith Includes Trust</strong><br>
+<p style="text-indent:2em;">
+There is another element: faith, though it is based on the truth or on the promises and words of Him who is the truth, faith also involves self-abandonment to that truth or to the God who speaks the truth. It involves our trust in Him. Satan believes that Jesus rose from the dead; Satan never trusts Christ. Satan believes that there is one God; he doesn’t abandon himself to God. Genuine saving faith is not to be confused with works, but it is of a different quality than mere belief in propositions. The propositions must be true (that’s the first point), but in the second place, there must be a self-abandonment to God.</p>
+
+<p style="text-indent:2em;">
+It has a kind of repentance built into it. It’s the very nature of faith to abandon myself to God and His word and His promises, or it’s not saving faith. So when Paul says to the Philippian jailer, “Believe in the Lord Jesus Christ, and you shall be saved,” he certainly means something more than “Believe that Jesus rose from the dead, and you will be saved.” That you might almost call “demonic faith”; that is to say, it’s faith that a demon can exercise without it saving anybody, whereas genuine saving faith not only believes the truth that God has revealed, but also it finds the believer abandoning himself, abandoning herself, to Christ in wonderful trust (Carson, n.d., “What Is Faith” section).</p>
+</blockquote>
 
 ---
 
@@ -282,13 +324,16 @@ The faith that saves is never alone in the person justified. And the person who 
 <span></span>
 
 <ul class="references">
-<li>Grudem, W. (2016). <em>"Free grace" theology: 5 ways it diminishes the gospel</em>. Crossway.</li>
 <li><em>ESV Study Bible</em> (ESV text ed.). (2008). Crossway.</li>
+<li>Grudem, W. (2016). <em>"Free grace" theology: 5 ways it diminishes the gospel</em>. Crossway.</li>
+
 <li><em>New Living Translation</em> (Filament enabled ed.). (2015). Tyndale House Publishers.</li>
 <li>Order of Light. (2024). <em>The historic and academic Protestant position: On the relation of faith and works</em>. OrdoLuminis. https://ordoluminis.com/posts/historic-protestant-position/</li>
+<li>Pinson, J.M. (Ed.). (2002). <em>4 views on eternal security</em>. Zondervan. </li>
 <li>Smith, C. (2015a, June 1). <em>C2000 series</em>. Calvary Chapel. https://calvarychapel.com/posts/c2000/</li>
 <li>Smith, C. (2015b, December 28). <em>Repentance, Matthew 3:8</em> [Video]. YouTube. https://youtu.be/kP8rIIps4Sk?t=130</li>
 <li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. YouTube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
+<li>Don Carson (n.d.). <em>Justification by faith: A biblical‑theological perspective</em>. The Gospel Coalition. Retrieved April 2, 2026, from https://www.thegospelcoalition.org/course/justification-faith-biblical-theological-perspective/#what-is-faith</li>
 <li><em>Westminster Confession of Faith</em> (Chapter 18). (1647/2021). Free Presbyterian Publications.</li>
 </ul>
 
