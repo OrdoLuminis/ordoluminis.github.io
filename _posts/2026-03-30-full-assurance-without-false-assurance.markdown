@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 03:30:00 -0500
+date: 2026-03-30 03:35:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -316,7 +316,7 @@ If you have read this far and found yourself in the warnings&mdash;if the fruit 
 
 <p style="text-indent:2em;">
 One caution before you respond: do not attempt to make yourself right before coming. The temptation upon reading warnings like these is to begin a self-improvement project&mdash;to clean up your life first, produce
-fruit on your own, and then approach God once you are presentable. This is precisely the error Paul warns against in Galatians 5:4&mdash;seeking justification by your own efforts, which severs you from grace rather than securing it. You cannot generate the fruit this article describes. Only the Spirit produces it. Come as you are, with nothing but repentance and trust, and the transformation will follow as His work&mdash;not yours. This article is telling you to trust not to try. God's work not yours!</p>
+fruit on your own, and then approach God once you are presentable. This is precisely the error Paul warns against in Galatians 5:4&mdash;seeking justification by your own efforts, which severs you from grace rather than securing it. You cannot generate the fruit this article describes. Only the Spirit produces it. Come as you are, with nothing but repentance and trust, and the transformation will follow as His work&mdash;not yours. This article is telling you to trust, not to try: God's work, not yours!</p>
 
 - **True repentance is still possible.** Not mere mental regret or “I used to believe that,” but the full turning described by Chuck Smith in the article: being “so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.” This includes turning from both the sins you once excused and from the unbelief itself.
 
