@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 03:00:00 -0500
+date: 2026-03-30 03:10:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -129,7 +129,7 @@ The following excerpts are from Dr. Norman Geisler’s Systematic Theology, Vol.
 The following quotations are from Norman Geisler (quoting Charles Ryrie), cited in Pinson (2002), J.M., <em>4 Views on Eternal Security</em>:</p>
 
 <blockquote>
-While works do not flow automaticallyfrom saving faith, they do flow naturally, just as buds come naturally from a live bush. <strong>As Charles Ryrie correctly observed, "every Christian will bearfruit; otherwise heor she is nota true believer."</strong> For "fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a saving faith works" (Geisler, in Pinson, 2002, p. 105).</blockquote>
+While works do not flow automatically from saving faith, they do flow naturally, just as buds come naturally from a live bush. <strong>As Charles Ryrie correctly observed, "every Christian will bear fruit; otherwise heor she is nota true believer."</strong> For "fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a saving faith works" (Geisler, in Pinson, 2002, p. 105).</blockquote>
 
 <blockquote>As Ryrie put it, "<strong>Saving faith is a working faith</strong>, and those works justify believers in the courtroom on earth," and <strong style="color:Goldenrod;">an "unproductive faith is a spurious faith."</strong> (Geisler, in Pinson, 2002, p. 107).</blockquote>
 
@@ -324,16 +324,15 @@ The faith that saves is never alone in the person justified. And the person who 
 <span></span>
 
 <ul class="references">
+<li>Don Carson (n.d.). <em>Justification by faith: A biblical‑theological perspective</em>. The Gospel Coalition. Retrieved April 2, 2026, from https://www.thegospelcoalition.org/course/justification-faith-biblical-theological-perspective/#what-is-faith</li>
 <li><em>ESV Study Bible</em> (ESV text ed.). (2008). Crossway.</li>
 <li>Grudem, W. (2016). <em>"Free grace" theology: 5 ways it diminishes the gospel</em>. Crossway.</li>
-
 <li><em>New Living Translation</em> (Filament enabled ed.). (2015). Tyndale House Publishers.</li>
 <li>Order of Light. (2024). <em>The historic and academic Protestant position: On the relation of faith and works</em>. OrdoLuminis. https://ordoluminis.com/posts/historic-protestant-position/</li>
 <li>Pinson, J.M. (Ed.). (2002). <em>4 views on eternal security</em>. Zondervan. </li>
 <li>Smith, C. (2015a, June 1). <em>C2000 series</em>. Calvary Chapel. https://calvarychapel.com/posts/c2000/</li>
 <li>Smith, C. (2015b, December 28). <em>Repentance, Matthew 3:8</em> [Video]. YouTube. https://youtu.be/kP8rIIps4Sk?t=130</li>
 <li>Smith, C. (2023, November 2). <em>No assurance in the flesh</em> [Video]. YouTube. https://www.youtube.com/shorts/aBG9kH-z8Q8</li>
-<li>Don Carson (n.d.). <em>Justification by faith: A biblical‑theological perspective</em>. The Gospel Coalition. Retrieved April 2, 2026, from https://www.thegospelcoalition.org/course/justification-faith-biblical-theological-perspective/#what-is-faith</li>
 <li><em>Westminster Confession of Faith</em> (Chapter 18). (1647/2021). Free Presbyterian Publications.</li>
 </ul>
 
