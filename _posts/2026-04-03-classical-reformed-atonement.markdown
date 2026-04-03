@@ -1,12 +1,13 @@
 ---
 title: "The Classical Reformed Doctrine of the Atonement: Recovering the Stable and Superior Broad Reformed Consensus"
-date: 2026-04-03 01:00:00 -0500
+date: 2026-04-03 01:05:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
 published: true
 comments: false
 pin: true
+mermaid: true
 ---
 
 <style>
@@ -44,25 +45,19 @@ sup {
 flowchart TD
     A["Augustine / Augustinian grace<br/>(genealogical root, not a flat identity claim)"] --> B["Early Latin and medieval Western theology<br/>(especially the sufficiency/efficiency formula)"]
     B --> C["Reformation-era Reformed theology"]
-
     C --> D["English Reformed orthodoxy<br/>(broad, classical stream)"]
     C --> E["Strict / scholastic particularist trajectory<br/>Definite or limited atonement"]
-
     D --> F["Classical Reformed sufficiency formula<br/>'Sufficient for all, efficient for the elect'"]
     D --> G["John Davenant"]
     D --> H["Samuel Ward"]
-
     F --> I["Hypothetical universalism<br/>(retrospective scholarly label)"]
-
     E --> J["Stronger systematization of limited atonement"]
     E --> K["Post-Dort high Calvinist formulations"]
     E --> L["Formula Consensus Helvetica (1675)"]
-
     classDef safe fill:#d9f7d9,stroke:#2e8b57,stroke-width:2px,color:#0f3d1e;
     classDef corrupt fill:#ffd6d6,stroke:#c62828,stroke-width:2px,color:#6b1111;
     classDef neutral fill:#eef2f7,stroke:#64748b,stroke-width:1.5px,color:#1f2937;
     classDef label fill:#fff3cd,stroke:#b08900,stroke-width:1.5px,color:#5c4500;
-
     class A,B,C,D,F,G,H,I safe;
     class E,J,K,L corrupt;
 ```
