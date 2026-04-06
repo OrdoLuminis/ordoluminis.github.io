@@ -1,8 +1,8 @@
 ---
 title: "The Classical Reformed Doctrine of the Atonement: Recovering the Stable and Superior Broad Reformed Tradition of Universal Sufficiency"
-date: 2026-04-03 01:20:00 -0500
-categories: [Meditations, AI]
-tags: [chatgpt, ai, ai psychosis, delusional spiraling]
+date: 2026-04-03 01:25:00 -0500
+categories: [Theology, Atonement]
+tags: [atonement, limited atonement, unlimited atonement, indefinite atonement, universal sufficiency]
 author: grand_master
 published: true
 comments: false
