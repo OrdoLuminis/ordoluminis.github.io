@@ -78,8 +78,8 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *Quarks, Chaos & Christianity* (*Note: included for science-faith integration*)
 
 #### Moderately Reformed Evangelical
-- **D.A. Carson** (PhD, University of Cambridge) — A major evangelical treatment of theological compatibilism, carefully arguing that God’s sovereign rule and genuine human responsibility are fully compatible without collapsing into fatalism or denying meaningful moral agency.
-  - *Divine Sovereignty and Human Responsibility*
+- **D.A. Carson** (PhD, University of Cambridge)
+  - *Divine Sovereignty and Human Responsibility* — A major evangelical treatment of theological compatibilism, carefully arguing that God’s sovereign rule and genuine human responsibility are fully compatible without collapsing into fatalism or denying meaningful moral agency.
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
