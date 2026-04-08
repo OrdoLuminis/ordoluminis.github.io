@@ -28,8 +28,12 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 - Hypothetical universalist
 - Union with Christ
 - Forensic-imputationist in justification
-- Transformationist&mdash;diagnostic, not meritorious
+- [Transformationist](https://ordoluminis.com/posts/confessional-transformationist-anglo-catholic/#on-justification)
+- Fruit evidential, not meritorious
 - Theological compatibilist
+
+
+<!-- - Real Spirit-worked transformation is the necessary fruit of forensic justification, not its ground (vs. Rome) and not a synergistic deification process (vs. Orthodoxy). -->
 
 <!-- <p style="text-indent:2em;">
 The Order of Light stands within the apostolic succession of the historic Anglican church — a succession preserved through the unbroken line of episcopal ordination from the apostles through the English Reformers, maintained in the Thirty-Nine Articles, and upheld by the Reformed Episcopal Church whose Book of Common Prayer and Declaration of Principles govern the order's liturgical and confessional life. The order does not claim apostolic authority for itself — it claims to exist within and under the apostolic tradition of the Anglican church, submitting to its confessional standards and inheriting its historic episcopal continuity. Where Rome claims succession through papal supremacy and Orthodoxy through patriarchal continuity, Anglican confessionalism claims succession through faithful transmission of apostolic doctrine enshrined in Scripture and the historic creeds — a succession of truth rather than merely of office, and therefore the most biblically defensible form of the claim.</p> -->
