@@ -67,7 +67,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *Holiness*
 - **John Davenant** (Bishop of Salisbury)
   - De Morte Christi / A Dissertation on the Death of Christ — Foundational Reformed hypothetical-universalist treatise on the death of Christ; a major historical witness within the Anglican and broader Reformed tradition.
-- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
+- **Alister E. McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
   - *Mere Apologetics*
   - *The Dawkins Delusion*
 
@@ -91,6 +91,8 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *Beyond the Cosmos* — A science-informed apologetic exploring how God’s transdimensional existence helps reconcile divine sovereignty with genuine human freedom, offering an indirect but suggestive model for theological compatibilist accounts.
 - **Ron Rhodes** (ThD, Dallas Theological Seminary)
   - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note: included for 4-point apologetics value only)*
+
+<!-- - [PHILOSOPHIA CHRISTI — Response to the Panel](https://reasons.org/explore/publications/articles/philosophia-christi#RESPONSE-TO-THE-PANEL) -->
 
 ### Tertiary Sources — Critical and Linguistic Tools
 1. **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
