@@ -77,7 +77,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 - **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
   - *Holiness*
 - **John Davenant** (Bishop of Salisbury)
-  - De Morte Christi / A Dissertation on the Death of Christ — Foundational Reformed hypothetical-universalist treatise on the death of Christ; a major historical witness within the Anglican and broader Reformed tradition.
+  - *De Morte Christi / A Dissertation on the Death of Christ* — Foundational Reformed hypothetical-universalist treatise on the death of Christ; a major historical witness within the Anglican and broader Reformed tradition.
 - **Alister E. McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
   - *Mere Apologetics*
   - *The Dawkins Delusion*
