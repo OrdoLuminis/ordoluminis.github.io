@@ -27,8 +27,8 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 - English Reformed Orthodox
 - Hypothetical universalist
 - Union with Christ
-- Forensic and imputationist in justification
-- Transformationist across ordo salutis
+- Forensic-imputationist in justification
+- Transformationist, fruit not ground
 - Theological compatibilist
 
 <!-- <p style="text-indent:2em;">
