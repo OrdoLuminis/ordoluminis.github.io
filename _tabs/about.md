@@ -96,8 +96,12 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 1. **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
 2. **A Textual Commentary on the Greek New Testament (Bruce M. Metzger, UBS4)** — Essential for textual decisions and variant analysis.
 3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
-4. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
-5. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
+4. **Daniel B. Wallace**
+   - *The Basics of New Testament Syntax* — Concise companion/overview of the larger grammar.
+   - *Greek Grammar Beyond the Basics: An Exegetical Syntax of the New Testament* — Core intermediate Greek syntax reference.
+   - *A Workbook for New Testament Syntax* (with Grant Edwards) — Guided practice companion.
+5. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
+6. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
 
 <!-- 
 - **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
