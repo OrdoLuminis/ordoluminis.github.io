@@ -77,7 +77,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *Quarks, Chaos & Christianity* (*Note: included for science-faith integration*)
 
 #### Moderately Reformed Evangelical
-- **D.A. Carson** (PhD, University of Cambridge)
+- **D.A. Carson** (PhD, University of Cambridge) — A major evangelical treatment of theological compatibilism, carefully arguing that God’s sovereign rule and genuine human responsibility are fully compatible without collapsing into fatalism or denying meaningful moral agency.
   - *Divine Sovereignty and Human Responsibility*
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
@@ -87,8 +87,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   contemporary systematic treatment to the order's Union-Centered 
   Transformationist hypothetical universalist position
 - **Hugh Ross** (PhD, Astrophysics, University of Toronto)
-  - *Beyond The Cosmos*
-  *(Note: included for science-faith integration only)*
+  - *Beyond the Cosmos* — A science-informed apologetic exploring how God’s transdimensional existence helps reconcile divine sovereignty with genuine human freedom, offering an indirect but suggestive model for theological compatibilist accounts.
 - **Ron Rhodes** (ThD, Dallas Theological Seminary)
   - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note: included for 4-point apologetics value only)*
 
