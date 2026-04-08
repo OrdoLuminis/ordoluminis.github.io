@@ -73,7 +73,6 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 #### Broadly Evangelical Anglican (Broad-Church / Central, creedal)
 - **C.S. Lewis** (Oxford; Professor at Oxford & Cambridge)
   - *Mere Christianity*
-  *(Note: Arminian in soteriology; included for apologetics value only)*
 - **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge)
   - *Quarks, Chaos & Christianity* (*Note: included for science-faith integration*)
 
