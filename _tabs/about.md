@@ -54,7 +54,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 ## Primary, Secondary, and Tertiary Resources
 
 ### Primary Sources — Scripture
-*Note: Study Bible editions are listed here for their textual content. Their commentary apparatus constitutes secondary source material.*
+*Note: Study Bible editions are listed here for their textual content. Their commentary apparatus constitutes secondary source material. The NET Full Notes Edition is exceptional in that it spans all three categories—primary (biblical text), secondary (exegetical and translational commentary), and tertiary (text-critical and linguistic annotation).*
 - **ESV Study Bible** — Primary recommendation for comprehensive Bible study
 - **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused
 - **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
@@ -93,9 +93,11 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note: included for 4-point apologetics value only)*
 
 ### Tertiary Sources — Critical and Linguistic Tools
-- **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
-- **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
-- **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
+1. **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
+2. **A Textual Commentary on the Greek New Testament (Bruce M. Metzger, UBS4)** — Essential for textual decisions and variant analysis.
+3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
+4. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
+5. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
 
 <!-- 
 - **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
