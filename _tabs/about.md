@@ -96,7 +96,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 1. **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
 2. **A Textual Commentary on the Greek New Testament (Bruce M. Metzger, UBS4)** — Essential for textual decisions and variant analysis.
 3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
-4. **Daniel B. Wallace**
+4. **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
    - *The Basics of New Testament Syntax* — Concise companion/overview of the larger grammar.
    - *Greek Grammar Beyond the Basics: An Exegetical Syntax of the New Testament* — Core intermediate Greek syntax reference.
    - *A Workbook for New Testament Syntax* (with Grant Edwards) — Guided practice companion.
