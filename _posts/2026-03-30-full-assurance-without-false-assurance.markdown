@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 03:55:00 -0500
+date: 2026-03-30 04:00:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -370,7 +370,7 @@ The faith that saves is never alone in the person justified. And the person who 
 <li><em>ESV Study Bible</em> (ESV text ed.). (2008). Crossway.</li>
 <li>Grudem, W. (2016). <em>"Free grace" theology: 5 ways it diminishes the gospel</em>. Crossway.</li>
 <li><em>New Living Translation</em> (Filament enabled ed.). (2015). Tyndale House Publishers.</li>
-<li>Order of Light. (2024). <em>The historic and academic Protestant position: On the relation of faith and works</em>. OrdoLuminis. https://ordoluminis.com/posts/historic-protestant-position/</li>
+<!-- <li>Order of Light. (2024). <em>The historic and academic Protestant position: On the relation of faith and works</em>. OrdoLuminis. https://ordoluminis.com/posts/historic-protestant-position/</li> -->
 <li>Pinson, J.M. (Ed.). (2002). <em>4 views on eternal security</em>. Zondervan. </li>
 <li>Smith, C. (2015a, June 1). <em>C2000 series</em>. Calvary Chapel. https://calvarychapel.com/posts/c2000/</li>
 <li>Smith, C. (2015b, December 28). <em>Repentance, Matthew 3:8</em> [Video]. YouTube. https://youtu.be/kP8rIIps4Sk?t=130</li>

@@ -54,8 +54,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 ## Primary, Secondary, and Tertiary Resources
 
 ### Primary Sources — Scripture
-*Note: Study Bible editions are listed here for their textual content. 
-Their commentary apparatus constitutes secondary source material.*
+*Note: Study Bible editions are listed here for their textual content. Their commentary apparatus constitutes secondary source material.*
 - **ESV Study Bible** — Primary recommendation for comprehensive Bible study
 - **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused
 - **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
@@ -71,6 +70,13 @@ Their commentary apparatus constitutes secondary source material.*
   - *Mere Apologetics*
   - *The Dawkins Delusion*
 
+#### Broadly Evangelical Anglican (Broad-Church / Central, creedal)
+- **C.S. Lewis** (Oxford; Professor at Oxford & Cambridge)
+  - *Mere Christianity*
+  *(Note: Arminian in soteriology; included for apologetics value only)*
+- **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge)
+  - *Quarks, Chaos & Christianity* (*Note: included for science-faith integration*)
+
 #### Moderately Reformed Evangelical
 - **D.A. Carson** (PhD, University of Cambridge)
   - *Divine Sovereignty and Human Responsibility*
@@ -81,33 +87,26 @@ Their commentary apparatus constitutes secondary source material.*
   atonement provision with particular application; the closest available 
   contemporary systematic treatment to the order's Union-Centered 
   Transformationist hypothetical universalist position
+- **Hugh Ross** (PhD, Astrophysics, University of Toronto)
+  - *Beyond The Cosmos*
+  *(Note: included for science-faith integration only)*
+- **Ron Rhodes** (ThD, Dallas Theological Seminary)
+  - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note: included for 4-point apologetics value only)*
 
 ### Tertiary Sources — Critical and Linguistic Tools
 - **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
 - **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
 - **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
 
-<!-- - **Ron Rhodes** (ThD, Dallas Theological Seminary)
-  - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note:  Dispensationalist; included for 4-point apologetics value only)* -->
-
 <!-- 
 - **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
   - *Reinventing Jesus* *(Note: Definite atonement; included for )* -->
-
 <!-- #### Broadly Evangelical Anglican
 - **J.I. Packer** (PhD, University of Oxford)
   - *Knowing God*
   - *A Quest for Godliness*
   *(Note: Definite atonement; included for transformationist and union with Christ emphasis)*
-- **C.S. Lewis** (Oxbridge)
-  - *Mere Christianity*
-  *(Note: Arminian in soteriology; included for apologetics value only)*
-- **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge)
-  - *Quarks, Chaos & Christianity*
-  *(Note: Liberal Anglican; included for science-faith integration only)*
-- **Hugh Ross** (PhD, Astrophysics, University of Toronto)
-  - *Beyond The Cosmos*
-  *(Note: Congregationalist; included for science-faith integration only)* -->
+->
 
 <!-- ### Secondary Anglican Declarations
 - **Chicago-Lambeth Quadrilateral (1888)** — Defines the four essentials of Anglican identity
