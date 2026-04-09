@@ -20,10 +20,11 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 
 <p style="text-indent:2em;">This is not a novel position. <strong>King James I</strong> — who commissioned the most widely read English Bible in history — was a Confessional Anglican standing firmly in the Reformed evangelical tradition, who personally appointed John Davenant as Bishop of Salisbury and sent him as England's delegate to the Synod of Dort, where Davenant articulated and defended the very hypothetical universalist position the Order of Light inhabits. The King's own devotional writing describes faith as the golden chain linking the soul to Christ — union with Christ language at the heart of the tradition the Order retrieves. The Order of Light does not depart from this historic Anglican inheritance. It recovers it.</p>
 
-#### Theological Summary
+## Theological Summary
 
+<!-- - Reformed Catholic Anglican
+- Creedal and confessional
 - King James I&ndash;Davenant tradition
-- Confessional Anglican
 - English Reformed Orthodox
 - Hypothetical universalist
 - Union with Christ
@@ -32,7 +33,37 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 - Fruit evidential, not meritorious
 - Theological compatibilist
 - Historic premillennialist (chiliasm)
-- Theologically conservative
+- Theologically conservative -->
+
+
+
+<ul style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:1rem;padding:0;">
+  <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Ecclesial identity</li>
+  <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Soteriology</li>
+  <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>Anthropology</li>
+  <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#993556;flex-shrink:0;"></span>Eschatology</li>
+  <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;"></span>General</li>
+</ul>
+
+<ul style="list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;">
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Reformed Catholic Anglican</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Creedal and confessional</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>King James I&ndash;Davenant tradition</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>English Reformed Orthodox</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Hypothetical universalist</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Union with Christ</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Forensic-imputationist in justification</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span><a href="https://ordoluminis.com/posts/confessional-transformationist-anglo-catholic/#on-justification" style="color:inherit;text-decoration:underline;text-underline-offset:2px;">Transformationist</a></li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Fruit evidential, not meritorious</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>Theological compatibilist</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#993556;flex-shrink:0;"></span>Historic premillennialist (chiliasm)</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;"></span>Theologically conservative</li>
+</ul>
+
+
+
+<!-- Cautious, non-systematic eschatology -->
+<!-- Minimalist, non-systematic eschatology -->
 
 <!-- - Covenantal; non-supersessionist -->
 
