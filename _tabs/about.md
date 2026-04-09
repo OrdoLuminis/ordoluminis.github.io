@@ -31,7 +31,12 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 - [Transformationist](https://ordoluminis.com/posts/confessional-transformationist-anglo-catholic/#on-justification)
 - Fruit evidential, not meritorious
 - Theological compatibilist
+- Covenantal; non-supersessionist
+- Historic premillennialist
+- Theologically conservative
 
+<!-- - Historic premillennialist, non-supersessionist: 
+  - one people of God in Christ, with a continuing future for ethnic Israel. -->
 
 <!-- - Real Spirit-worked transformation is the necessary fruit of forensic justification, not its ground (vs. Rome) and not a synergistic deification process (vs. Orthodoxy). -->
 
