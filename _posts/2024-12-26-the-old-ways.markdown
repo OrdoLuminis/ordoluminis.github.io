@@ -1,6 +1,6 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 03:25:00 -0500
+date: 2024-12-26 03:30:00 -0500
 categories: [Order, Ancient Paths]
 tags: [ancient paths, apostolic succession, confessional anglican, union with christ, transformationist, davenant, retrieval, augustine, cranmer, edwards, reformation, old ways, historic protestantism]
 author: grand_master
@@ -125,6 +125,8 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 
 The Order commends the following resources for those who wish to walk these ancient paths with scholarly seriousness and confessional integrity:
 
+## Confessional Standards
+
 ### Ecumenical Creeds
 - [**Nicene Creed (A.D. 381)**](https://ordoluminis.com/posts/nicene-creed-381/)
 - [**Apostles' Creed (A.D. 650)**](https://ordoluminis.com/posts/apostles-creed-650/)
@@ -143,23 +145,65 @@ The Order commends the following resources for those who wish to walk these anci
 - [**REC Book of Common Prayer (Modern Language)**](https://rechurch.org/documents/ModernLanguageBCP.pdf) — Practical use
 - [**A Tenebrae Service**](https://rechurch.org/documents/OccasionalOffices/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
 
-### Contemporary Scholarship
+<!-- ### Recommended Reading
+- **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
+- **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles -->
+
+<!-- Union with Christ and Hypothetical Universalist -->
+
+## Primary, Secondary, and Tertiary Resources
+
+### Primary Sources — Scripture
+*Note: Study Bible editions are listed here for their textual content. Their commentary apparatus constitutes secondary source material. The NET Full Notes Edition is exceptional in that it spans all three categories—primary (biblical text), secondary (exegetical and translational commentary), and tertiary (text-critical and linguistic annotation).*
+- **ESV Study Bible** — Primary recommendation for comprehensive Bible study
+- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused
+- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
+- **NLT Filament Compact** — Recommended for pure leisure reading and maximal reading comprehension
+
+### Secondary Sources — Scholarly and Academic Works
 
 #### Confessional Anglican
 - **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
   - *Holiness*
-  - *Knowing the Bible*
-- **Alister McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
+- **John Davenant** (Bishop of Salisbury)
+  - *De Morte Christi / A Dissertation on the Death of Christ* — Foundational Reformed hypothetical-universalist treatise on the death of Christ; a major historical witness within the Anglican and broader Reformed tradition.
+- **Alister E. McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
   - *Mere Apologetics*
   - *The Dawkins Delusion*
 
-#### Reformed Evangelical
+#### Broadly Evangelical Anglican (Broad-Church / Central, creedal)
+- **C.S. Lewis** (Oxford; Professor at Oxford & Cambridge)
+  - *Mere Christianity*
+- **John C. Polkinghorne** (PhD, Quantum Field Theory, Cambridge; PhD, Theoretical Elementary Particle Physics, Trinity College; Professor of Mathematical Physics, Cambridge)
+  - *Quarks, Chaos & Christianity* (*Note: included for science-faith integration*)
+
+#### Moderately Reformed Evangelical
 - **D.A. Carson** (PhD, University of Cambridge)
-  - *Divine Sovereignty and Human Responsibility*
+  - *Divine Sovereignty and Human Responsibility* — A major evangelical treatment of theological compatibilism, carefully arguing that God’s sovereign rule and genuine human responsibility are fully compatible without collapsing into fatalism or denying meaningful moral agency.
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
-  - *The Cross and Salvation*
+  - *The Cross and Salvation* — Comprehensive soteriology affirming universal
+  atonement provision with particular application; the closest available
+  contemporary systematic treatment to the order's Union-Centered
+  Transformationist hypothetical universalist position
+- **Hugh Ross** (PhD, Astrophysics, University of Toronto)
+  - *Beyond the Cosmos* — A science-informed apologetic exploring how God’s transdimensional existence helps reconcile divine sovereignty with genuine human freedom, offering an indirect but suggestive model for theological compatibilist accounts.
+- **Ron Rhodes** (ThD, Dallas Theological Seminary)
+  - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note: included for 4-point apologetics value only)*
+
+<!-- - [PHILOSOPHIA CHRISTI — Response to the Panel](https://reasons.org/explore/publications/articles/philosophia-christi#RESPONSE-TO-THE-PANEL) -->
+
+### Tertiary Sources — Critical and Linguistic Tools
+1. **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
+2. **A Textual Commentary on the Greek New Testament (Bruce M. Metzger, UBS4)** — Essential for textual decisions and variant analysis.
+3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
+4. **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
+   - *The Basics of New Testament Syntax* — Concise companion/overview of the larger grammar.
+   - *Greek Grammar Beyond the Basics: An Exegetical Syntax of the New Testament* — Core intermediate Greek syntax reference.
+   - *A Workbook for New Testament Syntax* (with Grant Edwards) — Guided practice companion.
+5. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
+6. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
 
 The gates of hell have not prevailed. The ancient path is still there — worn smooth by centuries of faithful feet, marked by the confessions of those who walked it before us, illuminated by the light of Christ himself. The Order of Light does not blaze a new trail. It recovers the old one. Veritas Vincit — Truth Conquers.
 
