@@ -37,7 +37,7 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 
 
 
-<ul style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:1rem;padding:0;">
+<ul style="display:flex;flex-wrap:wrap;gap:7px;margin-bottom:1rem;padding:0;">
   <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Ecclesial identity</li>
   <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Soteriology</li>
   <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>Anthropology</li>
