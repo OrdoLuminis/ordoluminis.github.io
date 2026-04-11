@@ -1,6 +1,6 @@
 ---
 title: "On Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Traditions"
-date: 2026-03-27 03:05:00 -0500
+date: 2026-03-27 03:10:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -44,9 +44,9 @@ sup {
 ```mermaid
 flowchart TD
     A(((Anglicanism)))
-    A -->|Scripture alongside apostolic tradition and magisterium; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Newman<br>Pusey<br>Keble<br>Laud<br>Andrewes):::orange
-    A ==>|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced; union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Davenant):::green
-    A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>J.C. Ryle<br>John Stott<br>J.I. Packer):::blue
+    A -->|Scripture alongside apostolic tradition and magisterium; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Laud<br>Andrewes<br>Newman<br>Pusey<br>Keble):::orange
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>William Perkins<br>Charles Simeon<br>John Stott<br>Alister McGrath):::blue
+    C ==>|All of the above, plus: union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Ryle<br>Davenant):::green
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
@@ -55,9 +55,9 @@ flowchart TD
 ```mermaid
 flowchart TD
     A(((Union-Centered<br>Transformationist<br>Soteriology)))
-    A -->|Participatory ontology; theosis; love as ontologically constitutive; essence-energies distinction.| B(<strong>Eastern Orthodox Allies</strong><br>Kallistos Ware<br>John Meyendorff<br>Gregory Palamas):::muted
+    A -->|Participatory ontology; theosis; love as ontologically constitutive; essence-energies distinction.| B(<strong>Eastern Orthodox Allies</strong><br>Gregory Palamas<br>John Meyendorff<br>Kallistos Ware):::muted
     A ==>|Union with Christ as soteriological center; transformationist soteriology; hypothetical universalism; forensic justification in service of real participation.| D(<strong>Reformed Evangelical Allies</strong><br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson<br>Bruce Demarest):::green
-    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>John Calvin<br>Herman Bavinck<br>R.C. Sproul):::muted
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>John Calvin<br>Herman Bavinck<br>J.I. Packer<br>R.C. Sproul):::muted
     classDef green stroke:#0f0
     classDef muted stroke:#0a0
 ```
