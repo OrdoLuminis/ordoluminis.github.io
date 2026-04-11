@@ -1,6 +1,6 @@
 ---
 title: "On Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Traditions"
-date: 2026-03-27 03:10:00 -0500
+date: 2026-03-27 03:15:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -44,8 +44,8 @@ sup {
 ```mermaid
 flowchart TD
     A(((Anglicanism)))
-    A -->|Scripture alongside apostolic tradition and magisterium; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Laud<br>Andrewes<br>Newman<br>Pusey<br>Keble):::orange
-    A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>William Perkins<br>Charles Simeon<br>John Stott<br>Alister McGrath):::blue
+    A -->|Scripture alongside apostolic tradition with co-equal authority; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Laud<br>Andrewes<br>Newman<br>Pusey<br>Keble):::orange
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>Charles Simeon<br>John Stott<br>Alister McGrath):::blue
     C ==>|All of the above, plus: union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Ryle<br>Davenant):::green
     classDef green stroke:#0f0
     classDef orange stroke:#fa5
