@@ -1,6 +1,6 @@
 ---
 title: "On Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Traditions"
-date: 2026-03-27 03:45:00 -0500
+date: 2026-03-27 03:50:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -46,9 +46,9 @@ flowchart TD
     A(((Anglicanism)))
     A -->|Scripture alongside apostolic tradition with co-equal authority; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Newman<br>Pusey<br>Keble):::orange
     A -->|High church; ceremonialism; apostolic succession; episcopal polity; sacramental theology within a broadly Reformed framework; anti-Puritan.| L(<strong>Laudian / High Church</strong><br>Laud<br>Andrewes<br>Richard Neile<br>Matthew Wren):::yellow
-    A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>Charles Simeon<br>John Stott<br>Alister McGrath):::blue
-    C -->|Union with Christ as soteriological center; transformationist soteriology.| E(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Ryle):::lightgreen
-    C ==>|Union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Davenantian Strand of Union-Centered Transformationist</strong><br>James Ussher<br>John Davenant<br>Samuel Ward<br>John Preston):::green
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>John Stott<br>Alister McGrath):::blue
+    C -->|Union with Christ as soteriological center; transformationist soteriology.| E(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel):::lightgreen
+    C ==>|Union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Davenantian Strand of Union-Centered Transformationist</strong><br>James Ussher<br>John Davenant<br>Samuel Ward<br>John Preston<br>John Newton<br>Charles Simeon<br>J.C. Ryle):::green
     classDef green stroke:#0f0
     classDef lightgreen stroke:#0a0
     classDef orange stroke:#fa5
@@ -61,8 +61,8 @@ flowchart TD
     A(((Union-Centered<br>Transformationist<br>Soteriology)))
     A -->|Participatory ontology; theosis; love as ontologically constitutive; essence-energies distinction.| B(<strong>Eastern Orthodox Allies</strong><br>Gregory Palamas<br>John Meyendorff<br>Kallistos Ware):::muted
     A -->|Union with Christ as soteriological center; transformationist soteriology; forensic justification in service of real participation.| D(<strong>Union-Centered Reformed Allies</strong><br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson<br>Bruce Demarest):::green
-    A ==>|Union with Christ as soteriological center; transformationist soteriology; classical sufficiency formula; hypothetical universalism within Reformed orthodoxy.| F(<strong>Union-Centered Davenantian Reformed Allies</strong><br>Heinrich Bullinger<br>Zacharias Ursinus<br>Martinius<br>Herman Bavinck):::green
-    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>J.I. Packer<br>R.C. Sproul):::muted
+    A ==>|Union with Christ as soteriological center; transformationist soteriology; classical sufficiency formula; hypothetical universalism within Reformed orthodoxy.| F(<strong>Union-Centered Davenantian Reformed Allies</strong><br>Heinrich Bullinger<br>Zacharias Ursinus<br>Martinius):::green
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>Herman Bavinck<br>J.I. Packer<br>R.C. Sproul):::muted
     classDef green stroke:#0f0
     classDef lightgreen stroke:#0a0
     classDef muted stroke:#0a0
