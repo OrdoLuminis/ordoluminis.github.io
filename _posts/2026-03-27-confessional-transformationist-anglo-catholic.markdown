@@ -1,6 +1,6 @@
 ---
 title: "On Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Traditions"
-date: 2026-03-27 03:40:00 -0500
+date: 2026-03-27 03:45:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -44,7 +44,8 @@ sup {
 ```mermaid
 flowchart TD
     A(((Anglicanism)))
-    A -->|Scripture alongside apostolic tradition with co-equal authority; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Laud<br>Andrewes<br>Newman<br>Pusey<br>Keble):::orange
+    A -->|Scripture alongside apostolic tradition with co-equal authority; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Newman<br>Pusey<br>Keble):::orange
+    A -->|High church; ceremonialism; apostolic succession; episcopal polity; sacramental theology within a broadly Reformed framework; anti-Puritan.| L(<strong>Laudian / High Church</strong><br>Laud<br>Andrewes<br>Richard Neile<br>Matthew Wren):::yellow
     A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>Charles Simeon<br>John Stott<br>Alister McGrath):::blue
     C -->|Union with Christ as soteriological center; transformationist soteriology.| E(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Ryle):::lightgreen
     C ==>|Union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Davenantian Strand of Union-Centered Transformationist</strong><br>James Ussher<br>John Davenant<br>Samuel Ward<br>John Preston):::green
@@ -52,6 +53,7 @@ flowchart TD
     classDef lightgreen stroke:#0a0
     classDef orange stroke:#fa5
     classDef blue stroke:#48f
+    classDef yellow stroke:#cc0
 ```
 
 ```mermaid
