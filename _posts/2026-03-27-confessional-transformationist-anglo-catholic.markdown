@@ -1,6 +1,6 @@
 ---
 title: "On Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Traditions"
-date: 2026-03-27 03:25:00 -0500
+date: 2026-03-27 03:30:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
@@ -47,7 +47,7 @@ flowchart TD
     A -->|Scripture alongside apostolic tradition with co-equal authority; sacraments as instruments of grace; the Reformation as tragic rupture.| B(<strong>Anglo-Catholic</strong><br>Laud<br>Andrewes<br>Newman<br>Pusey<br>Keble):::orange
     A -->|Scripture primary; forensic justification; sacraments as signs and seals; the Reformation positively embraced.| C(<strong>Confessional Anglican</strong><br>Hooker<br>Charles Simeon<br>John Stott<br>Alister McGrath):::blue
     C -->|Union with Christ as soteriological center; transformationist soteriology.| E(<strong>Union-Centered Transformationist</strong><br>Cranmer<br>Jewel<br>Ryle):::lightgreen
-    C ==>|Union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Davenantian Strand</strong><br>James Ussher<br>John Davenant<br>Samuel Ward<br>John Preston):::green
+    C ==>|Union with Christ as soteriological center; transformationist soteriology; Davenant hypothetical universalism.| D(<strong>Davenantian Strand</strong><br>James Ussher<br>George Carleton<br>John Davenant<br>Samuel Ward<br>John Preston):::green
     classDef green stroke:#0f0
     classDef lightgreen stroke:#0a0
     classDef orange stroke:#fa5
@@ -58,9 +58,11 @@ flowchart TD
 flowchart TD
     A(((Union-Centered<br>Transformationist<br>Soteriology)))
     A -->|Participatory ontology; theosis; love as ontologically constitutive; essence-energies distinction.| B(<strong>Eastern Orthodox Allies</strong><br>Gregory Palamas<br>John Meyendorff<br>Kallistos Ware):::muted
-    A ==>|Union with Christ as soteriological center; transformationist soteriology; hypothetical universalism; forensic justification in service of real participation.| D(<strong>Reformed Evangelical Allies</strong><br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson<br>Bruce Demarest):::green
-    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>John Calvin<br>Herman Bavinck<br>J.I. Packer<br>R.C. Sproul):::muted
+    A ==>|Union with Christ as soteriological center; transformationist soteriology; forensic justification in service of real participation.| D(<strong>Union-Centered Reformed Allies</strong><br>John Owen<br>Thomas Watson<br>Jonathan Edwards<br>D.A. Carson<br>Sinclair Ferguson<br>Bruce Demarest):::green
+    A -->|Classical sufficiency formula; union with Christ; hypothetical universalism within Reformed orthodoxy.| F(<strong>Davenantian Reformed Allies</strong><br>John Calvin<br>Heinrich Bullinger<br>Zacharias Ursinus<br>Herman Bavinck):::lightgreen
+    A -->|Scripture primary; forensic justification; sacraments as signs and seals; strong sanctification emphasis; varies on atonement extent.| C(<strong>Confessional Reformed Allies</strong><br>J.I. Packer<br>R.C. Sproul):::muted
     classDef green stroke:#0f0
+    classDef lightgreen stroke:#0a0
     classDef muted stroke:#0a0
 ```
 
