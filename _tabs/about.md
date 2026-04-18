@@ -90,7 +90,9 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 
 ### Reformed Confessions
 - [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; of such genuine Protestant breadth that even Jacobus Arminius subscribed to it, demonstrating its character as common ground for all seriously Reformed and evangelical Christians
-- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
+- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — A confession rejecting both hyper-Calvinism and Free Will Baptist positions
+
+<!-- ; cited as a theological forerunner in the Edwardsean tradition -->
 
 ### Liturgical
 - [**REC Book of Common Prayer (Traditional Language)**](https://rechurch.org/documents/BCPComplete.pdf) — Confessional use
