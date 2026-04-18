@@ -47,7 +47,7 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
 
 <ul style="list-style:none;margin:0;padding:0;display:flex;flex-direction:column;">
   <!-- <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Reformed Catholic Anglican</li> -->
-  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>King James I&ndash;Davenant Anglican</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>King James I&ndash;Davenant Anglicanism</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Creedal and confessional</li>
   <!-- <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>English Reformed Orthodox</li> -->
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Hypothetical universalist</li>
