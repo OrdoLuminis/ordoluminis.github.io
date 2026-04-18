@@ -85,19 +85,17 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 - **The Athanasian Creed (A.D. 800)**
 
 ### Foundational Documents
-- [**Thirty-Nine Articles of Religion (1562)**](https://ordoluminis.com/posts/thirty-nine-articles-1562/) — Primary confessional anchor
-- **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism
+- [**Thirty-Nine Articles of Religion (1562)**](https://ordoluminis.com/posts/thirty-nine-articles-1562/) — Primary confessional anchor.
+- **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism.
 
 ### Reformed Confessions
-- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; of such genuine Protestant breadth that even Jacobus Arminius subscribed to it, demonstrating its character as common ground for all seriously Reformed and evangelical Christians
-- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — A confession rejecting both hyper-Calvinism and Free Will Baptist positions
-
-<!-- ; cited as a theological forerunner in the Edwardsean tradition -->
+- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; of such genuine Protestant breadth that even Jacobus Arminius subscribed to it, demonstrating its character as common ground for all seriously Reformed and evangelical Christians.
+- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — A confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological expression in the Edwardsean tradition.
 
 ### Liturgical
-- [**REC Book of Common Prayer (Traditional Language)**](https://rechurch.org/documents/BCPComplete.pdf) — Confessional use
-- [**REC Book of Common Prayer (Modern Language)**](https://rechurch.org/documents/ModernLanguageBCP.pdf) — Practical use
-- [**A Tenebrae Service**](https://rechurch.org/documents/OccasionalOffices/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
+- [**REC Book of Common Prayer (Traditional Language)**](https://rechurch.org/documents/BCPComplete.pdf) — Confessional use.
+- [**REC Book of Common Prayer (Modern Language)**](https://rechurch.org/documents/ModernLanguageBCP.pdf) — Practical use.
+- [**A Tenebrae Service**](https://rechurch.org/documents/OccasionalOffices/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases.
 
 <!-- ### Recommended Reading
 - **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
@@ -109,10 +107,10 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 
 ### Primary Sources — Scripture
 *Note: Study Bible editions are listed here for their textual content. Their commentary apparatus constitutes secondary source material. The NET Full Notes Edition is exceptional in that it spans all three categories—primary (biblical text), secondary (exegetical and translational commentary), and tertiary (text-critical and linguistic annotation).*
-- **ESV Study Bible** — Primary recommendation for comprehensive Bible study
-- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused
-- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
-- **NLT Filament Compact** — Recommended for pure leisure reading and maximal reading comprehension
+- **ESV Study Bible** — Primary recommendation for comprehensive Bible study.
+- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused.
+- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational.
+- **NLT Filament Compact** — Recommended for pure leisure reading and maximal reading comprehension.
 
 ### Secondary Sources — Scholarly and Academic Works
 
@@ -137,10 +135,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
-  - *The Cross and Salvation* — Comprehensive soteriology affirming universal 
-  atonement provision with particular application; the closest available 
-  contemporary systematic treatment to the order's Union-Centered 
-  Transformationist hypothetical universalist position
+  - *The Cross and Salvation* — Comprehensive soteriology affirming universal atonement provision with particular application; the closest available contemporary systematic treatment to the order's Union-Centered Transformationist hypothetical universalist position.
 - **Hugh Ross** (PhD, Astrophysics, University of Toronto)
   - *Beyond the Cosmos* — A science-informed apologetic exploring how God’s transdimensional existence helps reconcile divine sovereignty with genuine human freedom, offering an indirect but suggestive model for theological compatibilist accounts.
 - **Ron Rhodes** (ThD, Dallas Theological Seminary)
@@ -151,13 +146,13 @@ The Order of Light stands within the apostolic succession of the historic Anglic
 ### Tertiary Sources — Critical and Linguistic Tools
 1. **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
 2. **A Textual Commentary on the Greek New Testament (Bruce M. Metzger, UBS4)** — Essential for textual decisions and variant analysis.
-3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
+3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational.
 4. **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
    - *The Basics of New Testament Syntax* — Concise companion/overview of the larger grammar.
    - *Greek Grammar Beyond the Basics: An Exegetical Syntax of the New Testament* — Core intermediate Greek syntax reference.
    - *A Workbook for New Testament Syntax* (with Grant Edwards) — Guided practice companion.
-5. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
-6. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
+5. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages.
+6. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism.
 
 <!-- 
 - **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
