@@ -1,10 +1,10 @@
 ---
 title: "From TULIP to UNITY: The Anglican Case for Union-Centered Soteriology"
-date: 2026-03-29 01:15:00 -0500
+date: 2026-03-29 01:25:00 -0500
 categories: [Order, UNITY]
 tags: [mnemonic, acrostic, tulip, unity, davenant, hypothetical universalism, union with christ, transformationist, soteriology, atonement, anglican, confessional, irresistible grace, limited atonement, universal sufficiency, incorporation, new creation, yoked preservation]
 author: grand_master
-published: true
+published: false
 comments: false
 pin: false
 ---
