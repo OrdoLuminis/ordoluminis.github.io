@@ -194,7 +194,7 @@ The Order of Light stands within the apostolic succession of the historic Anglic
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
-  - *The Cross and Salvation* — Comprehensive soteriology affirming universal atonement provision with particular application; the closest available contemporary systematic treatment to the order's Union-Centered Transformationist hypothetical universalist position.
+  - *The Cross and Salvation* — Comprehensive soteriology affirming universal atonement provision with particular application; the closest available contemporary systematic treatment to the order's Union-Centered hypothetical universalist position.
 - **Hugh Ross** (PhD, Astrophysics, University of Toronto)
   - *Beyond the Cosmos* — A science-informed apologetic exploring how God’s transdimensional existence helps reconcile divine sovereignty with genuine human freedom, offering an indirect but suggestive model for theological compatibilist accounts.
 - **Ron Rhodes** (ThD, Dallas Theological Seminary)
