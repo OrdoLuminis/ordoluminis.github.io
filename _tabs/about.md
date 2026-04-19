@@ -101,7 +101,18 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
       </li>
     </ul> -->
   </li>
-  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>Theological compatibilist</li>
+  <li style="display:flex;flex-direction:column;gap:2px;">
+    <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>
+      Theological compatibilist
+    </div>
+    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+      Augustine • Boethius • Aquinas • Leibniz
+    </div>
+    <!-- <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+      Justin Martyr • Irenaeus • Tertullian • Hippolytus • Lactantius
+    </div> -->
+  </li>
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
       <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#993556;flex-shrink:0;"></span>
