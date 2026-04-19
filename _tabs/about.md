@@ -83,7 +83,10 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
       <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>
-       Union with Christ (Edwardsean)
+       Union with Christ (Cyrillian)
+    </div>
+    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+      Irenaeus • Athanasius • Cyril of Alexandria
     </div>
     <!-- <ul style="list-style:none;margin:0;padding:0 0 0 20px;display:flex;flex-direction:column;">
       <li style="font-size:13px;color:#5F5E5A;line-height:1.5;">
