@@ -16,9 +16,15 @@ order: 4
 # Of the Eternal Brotherhood
 
 <p style="text-indent:2em;">
-The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology — rather than a merely imputationist one — and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation's doctrinal reforms.</p>
+The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ. It embraces a union-centered soteriology — holding justification, adoption, sanctification, and glorification as inseparable benefits of incorporation into the risen Christ, rather than reducing salvation to a merely forensic-imputationist transaction — and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation's doctrinal reforms.</p>
+
+<p style="text-indent:2em;">
+<!-- The Order of Light is a Confessional Anglican fraternal order whose soteriological heart is union with Christ; it embraces a transformationist soteriology — rather than a merely imputationist one — and follows Davenant's hypothetical universalist position on the extent of the atonement. The Order of Light is creedal and confessional, upholding the orthodoxy of the ancient church while also embracing the Reformation's doctrinal reforms.</p> -->
 
 <p style="text-indent:2em;">This is not a novel position. <strong>King James I</strong> — who commissioned the most widely read English Bible in history — was a Confessional Anglican standing firmly in the Reformed evangelical tradition, who personally appointed John Davenant as Bishop of Salisbury and sent him as England's delegate to the Synod of Dort, where Davenant articulated and defended the very hypothetical universalist position the Order of Light inhabits. The King's own devotional writing describes faith as the golden chain linking the soul to Christ — union with Christ language at the heart of the tradition the Order retrieves. The Order of Light does not depart from this historic Anglican inheritance. It recovers it.</p>
+
+<p style="text-indent:2em;">
+<!-- This is not a novel position. <strong>King James I</strong> — who commissioned the most widely read English Bible in history — was a Confessional Anglican who served as the royal embodiment of the broad English Reformed orthodoxy. He personally granted John Davenant and Samuel Ward a royal audience before dispatching them as England's delegates to the Synod of Dort in 1618, where Davenant articulated and defended the very hypothetical universalist position the Order of Light inhabits. James opposed Arminianism actively — including a personal written intervention against the Arminian theologian Conrad Vorstius in 1612 — while deliberately steering the Church of England away from both Arminian permissiveness and high Calvinist rigorism. His instructions to the delegation were to act as mediators, emphasizing peace, Scripture, and Anglican moderation: the precise spirit of the classical sufficiency formula. The theological tradition the Order inhabits — union with Christ as the soteriological center, imputation and transformation held together rather than reduced to either alone, the atonement sufficient for all and efficient for the elect — flows directly from the Reformed Anglican stream James sponsored and Davenant represented. The Order of Light does not depart from this historic Anglican inheritance. It recovers it.</p> -->
 
 ## Theological Summary
 
@@ -45,7 +51,7 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#6B3FA0;flex-shrink:0;"></span>Pneumatology</li>
   <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;"></span>General</li>
 </ul>
-
+<!-- 
 <ul style="list-style:none;margin:0;padding:0;display:flex;flex-direction:column;">
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>King James I&ndash;Davenant Anglicanism</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Creedal and confessional</li>
@@ -77,9 +83,43 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
     </div>
   </li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;"></span>Theologically conservative</li>
+</ul> -->
+
+<ul style="list-style:none;margin:0;padding:0;display:flex;flex-direction:column;">
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>King James I&ndash;Davenant Anglicanism</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Creedal and confessional</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Hypothetical universalist</li>
+  <li style="display:flex;flex-direction:column;gap:2px;">
+    <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>
+      Union with Christ (source of all saving benefits)
+    </div>
+    <ul style="list-style:none;margin:0;padding:0 0 0 20px;display:flex;flex-direction:column;">
+      <li style="font-size:13px;color:#5F5E5A;line-height:1.5;">
+        Begun in regeneration; declared in justification (forensic-imputationist); 
+        evidenced in sanctification and perseverance; consummated in glorification
+      </li>
+      <li style="font-size:13px;color:#5F5E5A;line-height:1.5;">
+        Declared righteous in justification; made righteous through union
+      </li>
+      <li style="font-size:13px;color:#5F5E5A;line-height:1.5;">
+        Fruit evidential, not meritorious
+      </li>
+    </ul>
+  </li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>Theological compatibilist</li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#993556;flex-shrink:0;"></span>Historic premillennialist (chiliasm)</li>
+  <li style="display:flex;flex-direction:column;gap:2px;">
+    <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#6B3FA0;flex-shrink:0;"></span>
+      Cautious continuationist (two-tier)
+    </div>
+    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+      Apostolic office ceased; charismata weighed (1 Cor. 14:29)
+    </div>
+  </li>
+  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;"></span>Theologically conservative</li>
 </ul>
-
-
 
 <!-- Cautious, non-systematic eschatology -->
 <!-- Minimalist, non-systematic eschatology -->
