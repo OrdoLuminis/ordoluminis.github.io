@@ -51,8 +51,15 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>Creedal and confessional</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Hypothetical universalist</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Union with Christ</li>
-  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Forensic-imputationist in justification</li>
-  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span><a href="https://ordoluminis.com/posts/confessional-transformationist-anglo-catholic/#on-justification" style="color:inherit;">Transformationist</a></li>
+  <li style="display:flex;flex-direction:column;gap:2px;">
+    <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>
+      Forensic-imputationist in justification
+    </div>
+    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+      Transformationist — not merely declared righteous; produces genuine righteousness
+    </div>
+  </li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Fruit evidential, not meritorious</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>Theological compatibilist</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#993556;flex-shrink:0;"></span>Historic premillennialist (chiliasm)</li>
