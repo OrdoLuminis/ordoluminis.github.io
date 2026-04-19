@@ -1,8 +1,8 @@
 ---
 title: "The Old Ways — The Ancient Paths"
-date: 2024-12-26 03:30:00 -0500
+date: 2024-12-26 03:35:00 -0500
 categories: [Order, Ancient Paths]
-tags: [ancient paths, apostolic succession, confessional anglican, union with christ, transformationist, davenant, retrieval, augustine, cranmer, edwards, reformation, old ways, historic protestantism]
+tags: [ancient paths, apostolic succession, confessional anglican, union with christ, davenant, retrieval, augustine, cranmer, edwards, reformation, old ways, historic protestantism]
 author: grand_master
 published: true
 comments: false
@@ -71,7 +71,7 @@ Consider this: Do your current beliefs have roots in every generation since the 
 > Thus says the Lord: “Stand by the roads, and look, and ask for **the ancient paths**, where the good way is; and walk in it, and find rest for your souls. But they said, ‘We will not walk in it.’ (ESV Study Bible, 2008, Jeremiah 6:16).
 >> This is what the Lord says: “Stop at the crossroads and look around. Ask for **the old, godly way**, and walk in it. Travel its path, and you will find rest for your souls. **But you reply, ‘No, that’s not the road we want!’** (New Living Translation, 2015, Jer. 6:16 NLT).
 
-The Order of Light takes this charge with utmost seriousness. The ancient paths are not a romantic metaphor for us — they are a confessional and historical commitment. The Union-Centered Transformationist Anglican tradition the Order retrieves does not begin with the Order of Light. It begins with the apostolic deposit itself — in Paul's forensic justification and John's vital union with Christ — and runs through Augustine's sovereign grace, Anselm's satisfaction theology, the English Reformers' confessional Anglicanism, Davenant's hypothetical universalism at the Synod of Dort, and Edwards' Edwardsian enrichment of the union with Christ tradition. This is not a new path. It is the oldest path — the one that was always there, that the gates of hell have never succeeded in extinguishing, and that the Oxford Movement's Anglo-Catholic drift in the 1830s temporarily obscured from prominence.
+The Order of Light takes this charge with utmost seriousness. The ancient paths are not a romantic metaphor for us — they are a confessional and historical commitment. The Union-Centered Anglican tradition the Order retrieves does not begin with the Order of Light. It begins with the apostolic deposit itself — in Paul's forensic justification and John's vital union with Christ — and runs through Augustine's sovereign grace, Anselm's satisfaction theology, the English Reformers' confessional Anglicanism, Davenant's hypothetical universalism at the Synod of Dort, and Edwards' Edwardsian enrichment of the union with Christ tradition. This is not a new path. It is the oldest path — the one that was always there, that the gates of hell have never succeeded in extinguishing, and that the Oxford Movement's Anglo-Catholic drift in the 1830s temporarily obscured from prominence.
 
 ## The Challenge of Our Generation
 
@@ -133,39 +133,33 @@ The Order commends the following resources for those who wish to walk these anci
 - **The Athanasian Creed (A.D. 800)**
 
 ### Foundational Documents
-- [**Thirty-Nine Articles of Religion (1562)**](https://ordoluminis.com/posts/thirty-nine-articles-1562/) — Primary confessional anchor
-- **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism
+- [**Thirty-Nine Articles of Religion (1562)**](https://ordoluminis.com/posts/thirty-nine-articles-1562/) — Primary confessional anchor.
+- **Declaration of Principles (1873)** — Explains the Reformed Anglican distinctives and explicitly rejects sacramental regeneration, including the error that regeneration is inseparably connected with Baptism.
 
 ### Reformed Confessions
-- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; of such genuine Protestant breadth that even Jacobus Arminius subscribed to it, demonstrating its character as common ground for all seriously Reformed and evangelical Christians
-- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — Warm Calvinist confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological forerunner in the Edwardsean tradition
+- [**Heidelberg Catechism (1563)**](https://ordoluminis.com/posts/heidelberg-catechism-1563/) — Union with Christ centered devotional and doctrinal standard; of such genuine Protestant breadth that even Jacobus Arminius subscribed to it, demonstrating its character as common ground for all seriously Reformed and evangelical Christians.
+- [**New Hampshire Confession (1833)**](https://ordoluminis.com/posts/new-hampshire-confession-1833/) — A confession rejecting both hyper-Calvinism and Free Will Baptist positions; cited as a theological expression in the Edwardsean tradition.
 
 ### Liturgical
-- [**REC Book of Common Prayer (Traditional Language)**](https://rechurch.org/documents/BCPComplete.pdf) — Confessional use
-- [**REC Book of Common Prayer (Modern Language)**](https://rechurch.org/documents/ModernLanguageBCP.pdf) — Practical use
-- [**A Tenebrae Service**](https://rechurch.org/documents/OccasionalOffices/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases
-
-<!-- ### Recommended Reading
-- **W.D. Griffith Thomas** — *Commentary on the Thirty-Nine Articles*, written from an Evangelical perspective for a modern audience
-- **E.A. Litton** — *Introduction to Dogmatic Theology*, Anglican dogmatic theology rooted in the Articles -->
-
-<!-- Union with Christ and Hypothetical Universalist -->
+- [**REC Book of Common Prayer (Traditional Language)**](https://rechurch.org/documents/BCPComplete.pdf) — Confessional use.
+- [**REC Book of Common Prayer (Modern Language)**](https://rechurch.org/documents/ModernLanguageBCP.pdf) — Practical use.
+- [**A Tenebrae Service**](https://rechurch.org/documents/OccasionalOffices/A%20Tenebrae%20Service.pdf) — Holy Week observance befitting the order's theological emphases.
 
 ## Primary, Secondary, and Tertiary Resources
 
 ### Primary Sources — Scripture
 *Note: Study Bible editions are listed here for their textual content. Their commentary apparatus constitutes secondary source material. The NET Full Notes Edition is exceptional in that it spans all three categories—primary (biblical text), secondary (exegetical and translational commentary), and tertiary (text-critical and linguistic annotation).*
-- **ESV Study Bible** — Primary recommendation for comprehensive Bible study
-- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused
-- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
-- **NLT Filament Compact** — Recommended for pure leisure reading and maximal reading comprehension
+- **ESV Study Bible** — Primary recommendation for comprehensive Bible study.
+- **NIV Biblical Theology Study Bible** (ed. D.A. Carson) — Canonical and biblical theology focused.
+- **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational.
+- **NLT Filament Compact** — Recommended for pure leisure reading and maximal reading comprehension.
 
 ### Secondary Sources — Scholarly and Academic Works
 
 #### Confessional Anglican
 - **J.C. Ryle** (BA, Christ Church, Oxford; Bishop of Liverpool)
   - *Holiness*
-- **John Davenant** (Bishop of Salisbury)
+- **John Davenant** (Lady Margaret’s Professor of Divinity, Cambridge)
   - *De Morte Christi / A Dissertation on the Death of Christ* — Foundational Reformed hypothetical-universalist treatise on the death of Christ; a major historical witness within the Anglican and broader Reformed tradition.
 - **Alister E. McGrath** (PhD, Molecular Biophysics, Oxford; DD, Theology, Oxford; DLitt, Intellectual History, Oxford)
   - *Mere Apologetics*
@@ -183,27 +177,22 @@ The Order commends the following resources for those who wish to walk these anci
   - *The Gospel According to John*
   - *The Difficult Doctrine of the Love of God*
 - **Bruce Demarest** (PhD, University of Manchester)
-  - *The Cross and Salvation* — Comprehensive soteriology affirming universal
-  atonement provision with particular application; the closest available
-  contemporary systematic treatment to the order's Union-Centered
-  Transformationist hypothetical universalist position
+  - *The Cross and Salvation* — Comprehensive soteriology affirming universal atonement provision with particular application; the closest available contemporary systematic treatment to the order's Union-Centered hypothetical universalist position.
 - **Hugh Ross** (PhD, Astrophysics, University of Toronto)
   - *Beyond the Cosmos* — A science-informed apologetic exploring how God’s transdimensional existence helps reconcile divine sovereignty with genuine human freedom, offering an indirect but suggestive model for theological compatibilist accounts.
 - **Ron Rhodes** (ThD, Dallas Theological Seminary)
   - [*The Extent of the Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement) *(Note: included for 4-point apologetics value only)*
 
-<!-- - [PHILOSOPHIA CHRISTI — Response to the Panel](https://reasons.org/explore/publications/articles/philosophia-christi#RESPONSE-TO-THE-PANEL) -->
-
 ### Tertiary Sources — Critical and Linguistic Tools
 1. **BDAG and HALOT Lexicons** — The world's most authoritative Greek and Hebrew lexicons
 2. **A Textual Commentary on the Greek New Testament (Bruce M. Metzger, UBS4)** — Essential for textual decisions and variant analysis.
-3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational
+3. **NET Full Notes Edition** — An unparalleled treasure trove of textual criticism from world-renowned scholars; non-sectarian and inter-denominational.
 4. **Daniel B. Wallace** (PhD, Dallas Theological Seminary)
    - *The Basics of New Testament Syntax* — Concise companion/overview of the larger grammar.
    - *Greek Grammar Beyond the Basics: An Exegetical Syntax of the New Testament* — Core intermediate Greek syntax reference.
    - *A Workbook for New Testament Syntax* (with Grant Edwards) — Guided practice companion.
-5. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages
-6. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism
+5. **ESV Reverse Interlinear** — Essential for mapping English translations back to original languages.
+6. **KJV Parallel Bible (kjvparallelbible.org)** — Digital resource for comparative textual criticism.
 
 The gates of hell have not prevailed. The ancient path is still there — worn smooth by centuries of faithful feet, marked by the confessions of those who walked it before us, illuminated by the light of Christ himself. The Order of Light does not blaze a new trail. It recovers the old one. Veritas Vincit — Truth Conquers.
 
