@@ -1,8 +1,8 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 04:00:00 -0500
+date: 2026-03-30 04:05:00 -0500
 categories: [Theology, Assurance]
-tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, transformationist, fruit bearing, sola fide, 1 john, grudem, repentance]
+tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
 published: true
 comments: false
@@ -44,7 +44,7 @@ sup {
 The question of assurance is one of the most pastorally urgent questions in Christian life. It is also one of the most frequently distorted&mdash;in two opposite directions simultaneously. On one side stands the error of false assurance: telling people they are saved when the evidence of their lives gives no warrant for that conclusion. On the other side stands the error of no assurance: leaving genuinely regenerate believers in perpetual doubt about their standing before God. The Order of Light holds that both errors are spiritually dangerous, and that Scripture provides a clear, coherent, and pastorally sufficient answer to both.</p>
 
 <p style="text-indent:2em;">
-That answer is grounded in the Union-Centered Transformationist tradition&mdash;represented in the Anglican stream by Cranmer and Davenant, developed by Edwards and the broader Puritan heritage, and enshrined in the confessional standards the Order of Light upholds&mdash;which holds that forensic justification is not the endpoint of salvation but its necessary ground, and that union with Christ is the soteriological heart from which all benefits freely and necessarily flow. We are not merely declared righteous&mdash;through union with Christ, we are being made righteous by the Spirit's transforming presence, as the free and necessary fruit of a justification already complete and irrevocable. It is precisely this transformationist framework that makes genuine, full, and honest assurance possible.</p>
+That answer is grounded in the Union-Centered tradition&mdash;represented in the Anglican stream by Cranmer and Davenant, developed by Edwards and the broader Puritan heritage, and enshrined in the confessional standards the Order of Light upholds&mdash;which holds that forensic justification is not the endpoint of salvation but its necessary ground, and that union with Christ is the soteriological heart from which all benefits freely and necessarily flow. We are not merely declared righteous&mdash;through union with Christ, we are being made righteous by the Spirit's transforming presence, as the free and necessary fruit of a justification already complete and irrevocable. It is precisely this framework that makes genuine, full, and honest assurance possible.</p>
 
 <small>*Note: Necessary fruit in Reformed Scholasticism is carefully defined as Necessitas Praesentiae (necessity of presence) rather than Necessitas Efficientiae (necessity of causing).*</small>
 
@@ -192,7 +192,7 @@ Additional passages confirm this pattern throughout the canon:</p>
 ## IV. The Theological Foundation: Why Transformation Is Necessary and Free
 
 <p style="text-indent:2em;">
-The Order of Light's Union-Centered Transformationist position provides the precise theological framework that explains why genuine assurance is both possible and grounded in observable fruit&mdash;without that fruit becoming a new form of legalism.</p>
+The Order of Light's Union-Centered position provides the precise theological framework that explains why genuine assurance is both possible and grounded in observable fruit&mdash;without that fruit becoming a new form of legalism.</p>
 
 <p style="text-indent:2em;">
 The key is the ordo salutis&mdash;the order of salvation. Regeneration is effected solely by the power of the Holy Spirit, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life. This is not the believer producing fruit through effort&mdash;it is the Spirit producing fruit as the inevitable consequence of new birth. Regeneration precedes and produces repentance and faith as its necessary fruits rather than their following them as conditions. The sequence is:</p>
@@ -352,7 +352,7 @@ fruit on your own, and then approach God once you are presentable. This is preci
 ## Conclusion
 
 <p style="text-indent:2em;">
-The Order of Light commends the Union-Centered Transformationist soteriological position&mdash;held within a Confessional Anglican framework but shared across Reformed evangelical traditions&mdash;precisely because it is the only framework that closes both doors simultaneously&mdash;the door of false assurance and the door of no assurance. Forensic justification by faith alone provides the objective ground: salvation is entirely God's work, received through Spirit-produced faith, grounded in Christ's finished atonement. Spirit-worked transformation provides the subjective evidence: the fruit that confirms what God has already accomplished. And union with Christ provides the security: the branch cannot be separated from the vine that holds it.</p>
+The Order of Light commends the Union-Centered soteriological position&mdash;held within a Confessional Anglican framework but shared across Reformed evangelical traditions&mdash;precisely because it is the only framework that closes both doors simultaneously&mdash;the door of false assurance and the door of no assurance. Forensic justification by faith alone provides the objective ground: salvation is entirely God's work, received through Spirit-produced faith, grounded in Christ's finished atonement. Spirit-worked transformation provides the subjective evidence: the fruit that confirms what God has already accomplished. And union with Christ provides the security: the branch cannot be separated from the vine that holds it.</p>
 
 <p style="text-indent:2em;">
 The faith that saves is never alone in the person justified. And the person who is genuinely justified&mdash;regenerated by the Spirit, united to Christ, bearing the fruit that the Spirit necessarily produces&mdash;may have full assurance. Not false assurance. Full assurance. Veritas Vincit.</p>
