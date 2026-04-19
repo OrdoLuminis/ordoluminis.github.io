@@ -1,10 +1,10 @@
 ---
 title: "On Anglo-Catholic, Confessional, and the Union-Centered Transformationist Anglican Traditions"
-date: 2026-03-27 03:50:00 -0500
+date: 2026-03-27 03:55:00 -0500
 categories: [Order, Anglican, Theology]
 tags: [anglo-catholic, confessional anglican, union with christ, transformationist, soteriology, reformation, authority, justification, sacraments, atonement, davenant, sanctification, hypothetical universalism, evangelical anglican, via media]
 author: seven_shepherd
-published: true
+published: false
 comments: false
 pin: false
 mermaid: true
