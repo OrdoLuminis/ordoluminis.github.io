@@ -59,10 +59,10 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
       <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#6B3FA0;flex-shrink:0;"></span>
-      Cautious continuationist
+      Cautious continuationist (two-tier)
     </div>
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
-      Apostolic ceased; charismata weighed (1 Cor. 14:29).
+      Apostolic ceased; charismata weighed (1 Cor. 14:29)
     </div>
   </li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;"></span>Theologically conservative</li>
