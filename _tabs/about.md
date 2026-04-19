@@ -54,13 +54,17 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
       <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>
-      Forensic-imputationist in justification
+      Forensic-imputationist in justification (declared righteous)
     </div>
-    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
-      Transformationist — declared righteous; made righteous
-    </div>
+    <ul style="list-style:none;margin:0;padding:0 0 0 20px;display:flex;flex-direction:column;">
+      <li style="font-size:13px;color:var(--color-text-secondary);line-height:1.5;">
+        Transformationist (made righteous through union)
+      </li>
+      <li style="font-size:13px;color:var(--color-text-secondary);line-height:1.5;">
+        Fruit evidential, not meritorious
+      </li>
+    </ul>
   </li>
-  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Fruit evidential, not meritorious</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;"></span>Theological compatibilist</li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#993556;flex-shrink:0;"></span>Historic premillennialist (chiliasm)</li>
   <li style="display:flex;flex-direction:column;gap:2px;">
