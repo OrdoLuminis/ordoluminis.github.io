@@ -57,7 +57,7 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
       Forensic-imputationist in justification
     </div>
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
-      Transformationist — declared righteous; made righteousness
+      Transformationist — declared righteous; made righteous
     </div>
   </li>
   <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#0F6E56;flex-shrink:0;"></span>Fruit evidential, not meritorious</li>
