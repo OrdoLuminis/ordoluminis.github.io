@@ -1,6 +1,6 @@
 ---
 title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 04:05:00 -0500
+date: 2026-03-30 04:10:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
@@ -44,7 +44,7 @@ sup {
 The question of assurance is one of the most pastorally urgent questions in Christian life. It is also one of the most frequently distorted&mdash;in two opposite directions simultaneously. On one side stands the error of false assurance: telling people they are saved when the evidence of their lives gives no warrant for that conclusion. On the other side stands the error of no assurance: leaving genuinely regenerate believers in perpetual doubt about their standing before God. The Order of Light holds that both errors are spiritually dangerous, and that Scripture provides a clear, coherent, and pastorally sufficient answer to both.</p>
 
 <p style="text-indent:2em;">
-That answer is grounded in the Union-Centered tradition&mdash;represented in the Anglican stream by Cranmer and Davenant, developed by Edwards and the broader Puritan heritage, and enshrined in the confessional standards the Order of Light upholds&mdash;which holds that forensic justification is not the endpoint of salvation but its necessary ground, and that union with Christ is the soteriological heart from which all benefits freely and necessarily flow. We are not merely declared righteous&mdash;through union with Christ, we are being made righteous by the Spirit's transforming presence, as the free and necessary fruit of a justification already complete and irrevocable. It is precisely this framework that makes genuine, full, and honest assurance possible.</p>
+That answer is grounded in the Union-Centered tradition&mdash;represented in the Anglican stream by Cranmer and Davenant, developed by Edwards and the broader Puritan heritage, and enshrined in the confessional standards the Order of Light upholds&mdash;which holds that forensic justification is not the endpoint of salvation but its necessary ground, and that union with Christ is the soteriological heart from which all benefits freely and necessarily flow. We are not only declared righteous&mdash;through union with Christ, we are being made righteous by the Spirit's transforming presence, as the free and necessary fruit of a justification already complete and irrevocable. It is precisely this framework that makes genuine, full, and honest assurance possible.</p>
 
 <small>*Note: Necessary fruit in Reformed Scholasticism is carefully defined as Necessitas Praesentiae (necessity of presence) rather than Necessitas Efficientiae (necessity of causing).*</small>
 
@@ -309,7 +309,7 @@ Is the basis of your assurance a living faith or a dead faith? The answer matter
 
 ---
 
-## IX. Hope For The Apostate
+## IX. Hope For Those Who Have Fallen
 
 <!-- You are currently lost, exactly as the warnings in 1 John and Hebrews say. Stop claiming false security. But the door is not shut. The gospel is still calling you to a living, transforming faith that actually changes you from the inside out. If you come that way — with real repentance and real trust in Christ — you will not only be saved but will know it with full, honest assurance because the Spirit will produce the fruit that proves He has done the work in you. The possibility of a brand-new, genuine new birth that will actually stick is yours. -->
 
@@ -318,7 +318,7 @@ If you have read this far and found yourself in the warnings&mdash;if the fruit 
 
 <p style="text-indent:2em;">
 One caution before you respond: do not attempt to make yourself right before coming. The temptation upon reading warnings like these is to begin a self-improvement project&mdash;to clean up your life first, produce
-fruit on your own, and then approach God once you are presentable. This is precisely the error Paul warns against in Galatians 5:4&mdash;seeking justification by your own efforts, which severs you from grace rather than securing it. You cannot generate the fruit this article describes. Only the Spirit produces it. Come as you are, with nothing but repentance and trust, and the transformation will follow as His work&mdash;not yours. This article is telling you to trust, not to try: God's work, not yours!</p>
+fruit on your own, and then approach God once you are presentable. This is precisely the error Paul warns against in Galatians 5:4&mdash;seeking justification by your own efforts, which severs you from grace rather than securing it. You cannot generate the fruit this article describes. Only the Spirit produces it. Come as you are, with nothing but repentance and trust, and the transformation will follow as His work&mdash;not yours.</p>
 
 - **True repentance is still possible.** Not mere mental regret or “I used to believe that,” but the full turning described by Chuck Smith in the article: being “so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.” This includes turning from both the sins you once excused and from the unbelief itself.
 
