@@ -1,10 +1,10 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
-date: 2026-04-01 01:55:00 -0500
+date: 2026-04-01 02:00:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
-published: true
+published: false
 comments: false
 pin: true
 ---
