@@ -80,6 +80,9 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
       Augustine • Prosper • Fulgentius • Lombard • Aquinas
     </div>
+    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+      Sufficiens pro omnibus, efficax pro electis (Lombardian)
+    </div>
   </li>
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
@@ -89,18 +92,6 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
       Irenaeus • Athanasius • Cyril of Alexandria
     </div>
-    <!-- <ul style="list-style:none;margin:0;padding:0 0 0 20px;display:flex;flex-direction:column;">
-      <li style="font-size:13px;color:#5F5E5A;line-height:1.5;">
-        Begun in regeneration; declared in justification (forensic-imputationist); 
-        evidenced in sanctification and perseverance; consummated in glorification
-      </li>
-      <li style="font-size:13px;color:#5F5E5A;line-height:1.5;">
-        Declared righteous in justification; made righteous through union
-      </li>
-      <li style="font-size:13px;color:#5F5E5A;line-height:1.5;">
-        Fruit evidential, not meritorious
-      </li>
-    </ul> -->
   </li>
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
@@ -119,9 +110,9 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
       Papias (hearer of John and a companion of Polycarp)
     </div>
-    <!-- <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
       Justin Martyr • Irenaeus • Tertullian • Hippolytus • Lactantius
-    </div> -->
+    </div>
   </li>
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
@@ -143,6 +134,9 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   </li>
   
 </ul>
+
+<!-- Protestant recommendation: Reformed Episcopal Church (REC)<br>
+Anglo-Catholic recommendation: ACC • APCK • APA -->
 
 <!-- Cautious, non-systematic eschatology -->
 <!-- Minimalist, non-systematic eschatology -->
