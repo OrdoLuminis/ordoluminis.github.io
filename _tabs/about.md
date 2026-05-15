@@ -138,7 +138,7 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
       Theologically conservative
     </div>
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
-      REC • ACNA
+      REC • TAC • ACNA (Complementarian)
     </div>
   </li>
   
