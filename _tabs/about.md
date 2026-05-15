@@ -88,10 +88,10 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
       Hypothetical universalist (Davenantian)
     </div>
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
-      Augustine • Prosper • Fulgentius • Lombard • Aquinas
+      <i>&ldquo;Sufficiens pro omnibus, efficax pro electis&rdquo;</i> (Lombardian)
     </div>
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
-      <i>&ldquo;Sufficiens pro omnibus, efficax pro electis&rdquo;</i> (Lombardian)
+      Augustine • Prosper • Fulgentius • Lombard • Aquinas
     </div>
   </li>
   <li style="display:flex;flex-direction:column;gap:2px;">
@@ -142,7 +142,6 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
       Reformed Episcopal Church (REC)
     </div>
   </li>
-  
 </ul>
 
 <!-- Protestant recommendation: Reformed Episcopal Church (REC)<br>
