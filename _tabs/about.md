@@ -62,7 +62,15 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
   <li style="display:flex;align-items:center;gap:6px;font-size:13px;color:#5F5E5A;list-style:none;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;"></span>General</li>
 </ul>
 <ul style="list-style:none;margin:0;padding:0;display:flex;flex-direction:column;">
-  <li style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>King James I&ndash;Davenant Anglicanism</li>
+  <li style="display:flex;flex-direction:column;gap:2px;">
+    <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>
+      King James I&ndash;Davenant Anglicanism
+    </div>
+    <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
+      Jacobean Anglican Orthodoxy
+    </div>
+  </li>
   <li style="display:flex;flex-direction:column;gap:2px;">
     <div style="display:flex;align-items:center;gap:10px;font-size:15px;line-height:1.5;">
       <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#185FA5;flex-shrink:0;"></span>
@@ -81,7 +89,7 @@ The Order of Light is a Confessional Anglican fraternal order whose soteriologic
       Augustine • Prosper • Fulgentius • Lombard • Aquinas
     </div>
     <div style="font-size:13px;color:#5F5E5A;padding-left:20px;line-height:1.5;">
-      Sufficiens pro omnibus, efficax pro electis (Lombardian)
+      <i>&ldquo;Sufficiens pro omnibus, efficax pro electis&rdquo;</i> (Lombardian)
     </div>
   </li>
   <li style="display:flex;flex-direction:column;gap:2px;">
