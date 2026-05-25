@@ -1,6 +1,6 @@
 ---
-title: "Little children, let no one deceive you. Whoever practices righteousness is righteous, as He is righteous."
-date: 2026-05-23 01:25:00 -0500
+title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
+date: 2026-05-23 01:30:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -61,7 +61,6 @@ flowchart TD
 ```
 <!-- <p style="text-indent:2em;">The reason is that God's seed is not in them. They do not have the indwelling of the Holy Spirit.</p> -->
 
-<!-- D -- > G(&ldquo;None is righteous, no, not one&rdquo; &lpar;Rom. 3:10&rpar;.):::green -->
 
 <blockquote>
 Little children, <strong style="color:Goldenrod">let no one deceive you. Whoever practices righteousness is righteous, as he is righteous</strong> (ESV Study Bible, 2008, 1 John 3:7).
