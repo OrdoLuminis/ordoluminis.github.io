@@ -83,6 +83,13 @@ culpability would not be persuasive unless the reader assumes that they
 needed to be “convinced” of the thing that has just been mentioned, the
 need to repent. -->
 
+<!-- <p style="text-indent:2em;">
+Those who practice lifestyles of sin&mdash;the perpetually unrepentant<sup>8</sup>&mdash;will not enter the Kingdom of Heaven;<sup>9</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>10</sup> The God-given contrition and inward resolve to turn from sin, known as repentance, is a consequence of regeneration and inseparably linked to genuine faith as its fruit. Only those with genuine faith receive this new nature.<sup>11</sup> The practitioners of evil&mdash;the irreligious, unrepentant, and self‑deceived&mdash;thus show great evidence that they are not truly born‑again.<sup>10,3</sup> Dr. J. I. Packer (2020), who earned his Ph.D. from the University of Oxford, articulates:</p>
+
+<blockquote>
+The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion (p. 177).
+</blockquote> -->
+
 <!-- <blockquote>
 Little children, <strong style="color:Goldenrod">let no one deceive you. Whoever practices righteousness is righteous, as he is righteous</strong> (ESV Study Bible, 2008, 1 John 3:7).
   <blockquote>
