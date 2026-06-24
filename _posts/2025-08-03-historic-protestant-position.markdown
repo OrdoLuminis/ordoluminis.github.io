@@ -1,6 +1,6 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 11:00:00 -0500
+date: 2025-08-03 11:05:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
@@ -107,6 +107,7 @@ In contrast, a <a href="https://ordoluminis.com/posts/identifying-the-cults-and-
 ## I. Consensus Among Historic Creeds and Confessions of Protestantism
 
 ```mermaid
+%%{init: {'theme':'default'}}%%
 flowchart TD
     A(((Historic<br>Protestant<br>Regeneration)))
     A -->|Regeneration is enabled by prevenient grace cooperating with the human will, and its proper evidence appears in the holy fruits of repentance, faith, and newness of life.| H(<strong>Synergistic Regeneration<br>&lpar;Grace + Free Will&rpar;</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
@@ -116,6 +117,7 @@ flowchart TD
 ```
 
 ```mermaid
+%%{init: {'theme':'default'}}%%
 flowchart TD
     A(((Historic<br>Protestant<br>Atonement)))
     A -->|Christ's atoning work was made for all people without exception, and becomes effectual through faith enabled by prevenient grace.| H(<strong>General&sol;Universal Atonement</strong><br>Lutheranism &lpar;Philippism&rpar;<br>Remonstrant &lpar;Arminianism&rpar;<br>Anglican &lpar;Laudianism&rpar;<br>Wesleyanism<br>Pentecostalism<br>Appropriated Molinism):::orange
