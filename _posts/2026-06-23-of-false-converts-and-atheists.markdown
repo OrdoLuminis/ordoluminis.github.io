@@ -1,6 +1,6 @@
 ---
-title: "The Idol They Share: Why Atheists and False Converts Hate the True Christ"
-date: 2026-06-23 01:00:00 -0500
+title: "The Idol They Share: Why Atheists and False Converts Hate the True Christ and Love the False One"
+date: 2026-06-23 01:05:00 -0500
 categories: [Meditations, Idols]
 tags: [repentance, hell, idols]
 author: grand_master
@@ -42,7 +42,7 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-The Atheist and the False Convert stand united in their hatred for the true Christ who commands repentance<sup>1</sup> as a turn<sup>2</sup> or eternity in hell.<sup>3</sup> Instead, driven by frustration of the truth,<sup>4</sup> both have fashioned an idol<sup>5</sup> that allows lifestyles of sin<sup>6</sup> contrary to scripture. One worships this idol, the other admires it&mdash;both hating the true Christ who taught repentance as a Godly contrition leading to salvation<sup>7</sup> and an inward resolve to turn from sin and the faith which justifies.<sup>8</sup></p>
+The Atheist and the False Convert stand united in their hatred for the true Christ who commands repentance<sup>1</sup> as a turn<sup>2</sup> or eternity in hell.<sup>3</sup> Instead, driven by frustration of the truth,<sup>4</sup> both have fashioned an idol<sup>5</sup> that allows lifestyles of sin<sup>6</sup> contrary to scripture. One worships this idol, the other admires it&mdash;both hating the true Christ who taught repentance as a Godly contrition, and an inward resolve to turn from sin, leading to salvation<sup>7</sup> and the faith which justifies.<sup>8</sup></p>
 
 <small>
 1\. Acts 17:30<br>
@@ -90,7 +90,7 @@ Little children, <strong style="color:Goldenrod">let no one deceive you. Whoever
   </blockquote>
 </blockquote> -->
 
-<br>
+<!-- <br>
 <hr>
 <br>
 
@@ -101,7 +101,7 @@ Little children, <strong style="color:Goldenrod">let no one deceive you. Whoever
 <ul class="references">
 <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
-</ul>
+</ul> -->
 
 <br>
 <hr>
