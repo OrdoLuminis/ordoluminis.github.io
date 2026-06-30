@@ -1,10 +1,10 @@
 ---
 title: "The Idol They Share: Why Atheists and False Converts Hate the True Christ and Love the False One"
-date: 2026-06-23 01:10:00 -0500
+date: 2026-06-23 01:15:00 -0500
 categories: [Meditations, Idols]
 tags: [repentance, hell, idols]
 author: grand_master
-published: True
+published: false
 comments: false
 pin: true
 mermaid: true
@@ -53,6 +53,17 @@ The Atheist and the False Convert stand united in their hatred for the true Chri
 6\. 1Jn. 3:7-10; 1Jn. 5:18<br>
 7\. 2 Cor. 7:10<br>
 8\. Mk. 1:15
+</small>
+
+<p style="text-indent:2em;">
+Make no mistake, the unrepentant will not enter the Kingdom of Heaven no matter how superficial and blind their faith is. Those who practice lifestyles of sin<sup>9</sup> will not enter the Kingdom of Heaven;<sup>10</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate<sup>11</sup> children of the devil.<sup>11</sup>
+</p>
+
+<small>
+9\. Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Luk 9:62; <br>
+10\. John 3:3; 1John 3:9.<br>
+11\. 2Cor. 5:17; Gal. 6:15.
+12\. 1Jn. 3:7-10; 1Jn. 5:18
 </small>
 
 <!-- ## Deception Concerning its Meaning from False Teachers
