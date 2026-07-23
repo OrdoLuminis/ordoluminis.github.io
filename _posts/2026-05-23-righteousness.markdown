@@ -1,6 +1,6 @@
 ---
 title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
-date: 2026-05-23 02:35:00 -0500
+date: 2026-05-23 02:40:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -100,7 +100,7 @@ Jesus himself taught that no unregenerate person would enter into the Kingdom of
 
 <blockquote>
 Jesus replied, “I tell you the truth, unless you are born again [regenerated], you cannot see the Kingdom of God” (New Living Translation, 2015, John 3:3).
-</blockquote><br>
+</blockquote>
 
 <blockquote>
 Then he said, “I tell you the truth, <strong style="font-weight:bold;color:DarkGoldenrod;">unless you <span style="font-size:1.2em;color:Goldenrod;">turn</span> from your sins and become like little children, <span style="font-size:1.2em;color:Goldenrod;">you will never get into the Kingdom of Heaven</span>.</strong> So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong style="font-weight:bold;color:DarkGoldenrod;">But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
