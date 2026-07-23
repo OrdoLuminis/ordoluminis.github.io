@@ -1,6 +1,6 @@
 ---
 title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
-date: 2026-05-23 02:30:00 -0500
+date: 2026-05-23 02:35:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -42,8 +42,15 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-The Bible affirms not only the existence of righteous people, but also that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven, no matter how superficial their faith is. Those who practice lifestyles of sin will not enter the Kingdom of Heaven, not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.
+The Bible affirms not only the existence of righteous people, but also that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven, no matter how superficial their faith is. Those who practice lifestyles of sin<sup>1</sup> will not enter the Kingdom of Heaven,<sup>2</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>3,4</sup>
 </p>
+
+<small>
+1\. Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Luk 9:62; <br>
+2\. John 3:3; 1John 3:9.<br>
+3\. 2Cor. 5:17; Gal. 6:15.<br>
+4\. 1Jn. 3:7-10; 1Jn. 5:18
+</small>
 
 <!-- <blockquote>
 Little children, <strong style="color:Goldenrod">let no one deceive you. Whoever practices righteousness is righteous, as he is righteous</strong> (ESV Study Bible, 2008, 1 John 3:7).
