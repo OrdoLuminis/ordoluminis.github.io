@@ -1,6 +1,6 @@
 ---
 title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
-date: 2026-05-23 02:40:00 -0500
+date: 2026-05-23 02:45:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -42,15 +42,19 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-The Bible affirms not only the existence of righteous people, but also that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven, no matter how superficial their faith is. Those who practice lifestyles of sin<sup>1</sup> will not enter the Kingdom of Heaven,<sup>2</sup> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<sup>3,4</sup>
+It's true that "whosoever shall call upon the name of the Lord shall be saved," but invoking the Lord's name demands genuine faith, not mere intellectual assent. The paradox of faith and works is easily resolved as they coexist because only authentic trust transforms; superficial belief that God exists&mdash;like the demons' acknowledgment in James 2:19&mdash;produces no spiritual change. The Bible is replete with biblical examples of righteous people showing that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again&mdash;in practice not perfection. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven. Those who practice sin<!--<sup>1</sup>--> will not enter the Kingdom of Heaven,<!--<sup>2</sup>--> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<!--<sup>3,4</sup>--> Jesus Himself taught that no unregenerate person would enter into the Kingdom of Heaven:
 </p>
 
-<small>
+<blockquote>
+Jesus replied, “I tell you the truth, unless you are born again [regenerated], you cannot see the Kingdom of God” (New Living Translation, 2015, John 3:3).
+</blockquote>
+
+<!-- <small>
 1\. Gal. 5:19-21; 1Cor. 6:9-11; Eph. 5:5-6; Luk 9:62; <br>
 2\. John 3:3; 1John 3:9.<br>
 3\. 2Cor. 5:17; Gal. 6:15.<br>
 4\. 1Jn. 3:7-10; 1Jn. 5:18
-</small>
+</small> -->
 
 <!-- <blockquote>
 Little children, <strong style="color:Goldenrod">let no one deceive you. Whoever practices righteousness is righteous, as he is righteous</strong> (ESV Study Bible, 2008, 1 John 3:7).
@@ -78,6 +82,14 @@ flowchart TD
 ```
 
 <p style="text-indent:2em;">
+While everyone has sin (1 Jn. 1:8-10), not everyone pursues lifestyles of indulgent sin practice (1 Jn. 3:6-10). The reason for this cessation of sin&mdash;given in the ninth verse of John's first epistle (1 Jn. 3:9)&mdash;is that God's seed, which is the Holy Spirit, is credited with our transformation in the practice of righteousness. The Apostle Paul further reveals the doom of the unrighteous and unregenerate&mdash;those without the Holy Spirit:
+</p>
+
+<blockquote>
+Do you not know that <span style="font-weight:bold;color:DarkGoldenrod;">the unrighteous <span style="font-size:1.2em;color:Goldenrod;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. Some of you <span style="font-weight:bold;font-size:1.2em;color:Goldenrod;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God(NET Bible, 2019, 1 Cor. 6:9-11).
+</blockquote>
+
+<p style="text-indent:2em;">
 These warnings are written to people who would be listening to the New Testament epistles as they were read aloud <strong>in New Testament Churches</strong> (cf. 1 Cor. 6:9-11; 2 Cor. 13:5; Heb. 3:12; 1 Jn 2:3-6; 3:6, 9-10; 14). That means this is a warning for believers; it is a warning for you:
 </p>
 
@@ -85,33 +97,20 @@ These warnings are written to people who would be listening to the New Testament
 Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, envying, murder, drunkenness, carousing, and similar things. <span style="font-weight:bold;color:DarkGoldenrod;">I am <span style="font-size:1.2em;color:Goldenrod">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:DarkGoldenrod;">Those who <strong style="font-size:1.2em;color:Goldenrod;">practice</strong> such things <strong style="font-size:1.2em;color:Goldenrod;">will not</strong> inherit the kingdom of God!</span> (NET Bible, 2019, Galatians 5:19-21).
 </blockquote>
 
-<p style="text-indent:2em;">
-There is no true born again Christian that practices sin. While everyone has sin (1 Jn 1:8–10), not everyone pursues lifestyles of indulgent sin (1 Jn 3:6–10). Though we may stumble, make mistakes, and—God forbid—backslide, there is no such thing as a born again Christian that "practices" sin (habitually and continually pursuing a lifestyle of sin). The Apostle Paul further warns:
-</p>
+<!-- Your responsibility is therefore to guard the little ones from stumbling into unrighteousness and to call them to repentance from sin and to faith in our Lord Jesus as Lord and Master. The consequences of withholding this truth from them are beyond comprehension. Christ Himself declared with unmistakable severity that it would be better for such a person to suffer a horrific death&mdash;drowned with a millstone around his neck in the depths of the sea&mdash;than to cause one of these little ones to stumble into sin: -->
 
-<blockquote>
-Do you not know that <span style="font-weight:bold;color:DarkGoldenrod;">the unrighteous <span style="font-size:1.2em;color:Goldenrod;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. Some of you <span style="font-weight:bold;font-size:1.2em;color:Goldenrod;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God(NET Bible, 2019, 1 Cor. 6:9-11).
-</blockquote>
-
-
-<p style="text-indent:2em;">
-Jesus himself taught that no unregenerate person would enter into the Kingdom of Heaven:
-</p>
-
-<blockquote>
-Jesus replied, “I tell you the truth, unless you are born again [regenerated], you cannot see the Kingdom of God” (New Living Translation, 2015, John 3:3).
-</blockquote>
+Your responsibility is therefore to guard the little ones from stumbling into unrighteousness and to call them to repentance from sin and faith in our Lord Jesus as Lord and Master. To neglect this responsibility, and thereby contribute to their stumbling, carries dire consequences. Christ Himself declared with unmistakable severity that it would be better for such a person to suffer a horrific death&mdash;drowned with a millstone around his neck in the depths of the sea&mdash;than to cause one of these little ones who believe in Him to stumble into sin.
 
 <blockquote>
 Then he said, “I tell you the truth, <strong style="font-weight:bold;color:DarkGoldenrod;">unless you <span style="font-size:1.2em;color:Goldenrod;">turn</span> from your sins and become like little children, <span style="font-size:1.2em;color:Goldenrod;">you will never get into the Kingdom of Heaven</span>.</strong> So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong style="font-weight:bold;color:DarkGoldenrod;">But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
 </blockquote>
 
-<p style="text-indent:2em;">
+<!-- <p style="text-indent:2em;">
 The Apostle Paul calls on us to examine or test our faith, to see if it is genuine, to see if Jesus is really living in us. If he is, well, then you have a living faith, if not, then you have a dead faith and are disqualified, or fail the test of genuine faith (2 Cor. 13:5 NLT; cf. 2 Peter 1:5-10).</p>
 
 <blockquote>
 Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith (New Living Translation, 2019, 2 Cor. 13:5 NLT; cf. 2 Peter 1:5-10)
-</blockquote>
+</blockquote> -->
 
 <br>
 <hr>
