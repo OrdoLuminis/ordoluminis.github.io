@@ -1,6 +1,6 @@
 ---
 title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
-date: 2026-05-23 02:45:00 -0500
+date: 2026-05-23 02:50:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -42,7 +42,7 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-It's true that "whosoever shall call upon the name of the Lord shall be saved," but invoking the Lord's name demands genuine faith, not mere intellectual assent. The paradox of faith and works is easily resolved as they coexist because only authentic trust transforms; superficial belief that God exists&mdash;like the demons' acknowledgment in James 2:19&mdash;produces no spiritual change. The Bible is replete with biblical examples of righteous people showing that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again&mdash;in practice not perfection. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven. Those who practice sin<!--<sup>1</sup>--> will not enter the Kingdom of Heaven,<!--<sup>2</sup>--> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<!--<sup>3,4</sup>--> Jesus Himself taught that no unregenerate person would enter into the Kingdom of Heaven:
+The Bible is replete with biblical examples of righteous people showing that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again&mdash;in practice not perfection. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven. Those who practice sin<!--<sup>1</sup>--> will not enter the Kingdom of Heaven,<!--<sup>2</sup>--> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<!--<sup>3,4</sup>--> While it is true that "whosoever shall call upon the name of the Lord shall be saved," invoking the Lord's name demands genuine faith, not mere intellectual assent. The paradox of faith and works is easily resolved as they coexist because only authentic trust transforms; superficial belief that God exists&mdash;like the demons' acknowledgment in James 2:19&mdash;produces no spiritual change. Jesus Himself taught that no unregenerate person would enter into the Kingdom of Heaven:
 </p>
 
 <blockquote>
@@ -86,7 +86,7 @@ While everyone has sin (1 Jn. 1:8-10), not everyone pursues lifestyles of indulg
 </p>
 
 <blockquote>
-Do you not know that <span style="font-weight:bold;color:DarkGoldenrod;">the unrighteous <span style="font-size:1.2em;color:Goldenrod;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. Some of you <span style="font-weight:bold;font-size:1.2em;color:Goldenrod;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God(NET Bible, 2019, 1 Cor. 6:9-11).
+Do you not know that <span style="font-weight:bold;color:DarkGoldenrod;">the unrighteous <span style="font-size:1.2em;color:Goldenrod;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. Some of you <span style="font-weight:bold;font-size:1.2em;color:Goldenrod;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God (NET Bible, 2019, 1 Cor. 6:9-11).
 </blockquote>
 
 <p style="text-indent:2em;">
