@@ -1,6 +1,6 @@
 ---
 title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
-date: 2026-05-23 02:50:00 -0500
+date: 2026-05-23 02:55:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -46,7 +46,10 @@ The Bible is replete with biblical examples of righteous people showing that gen
 </p>
 
 <blockquote>
-Jesus replied, “I tell you the truth, unless you are born again [regenerated], you cannot see the Kingdom of God” (New Living Translation, 2015, John 3:3).
+Jesus replied, “I tell you the solemn truth, unless a person is born from above [Regenerated], he cannot see the kingdom of God” (NET Bible, 2019, John 3:3).
+  <blockquote>
+  The word ἄνωθεν (anōthen) has a double meaning, either “again” (in which case it is synonymous with παλίν [palin]) or “from above” (BDAG 92 s.v. ἄνωθεν). This is a favorite technique of the author of the Fourth Gospel, and it is lost in almost all translations at this point. John uses the word 5 times, in 3:3, 7; 3:31; 19:11 and 23. In the latter 3 cases the context makes clear that it means “from above.” Here (3:3, 7) it could mean either, but the primary meaning intended by Jesus is “from above.” Nicodemus apparently understood it the other way, which explains his reply, “How can a man be born when he is old? He can’t enter his mother’s womb a second time and be born, can he?” The author uses the technique of the “misunderstood question” often to bring out a particularly important point: Jesus says something which is misunderstood by the disciples or (as here) someone else, which then gives Jesus the opportunity to explain more fully and in more detail what he really meant.sn Or born again. The Greek word ἄνωθεν (anōthen) can mean both “again” and “from above,” giving rise to Nicodemus’ misunderstanding about a second physical birth (v. 4).
+  </blockquote>
 </blockquote>
 
 <!-- <small>
