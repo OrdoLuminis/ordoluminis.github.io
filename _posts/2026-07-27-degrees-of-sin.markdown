@@ -1,6 +1,6 @@
 ---
 title: "Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic"
-date: 2026-07-27 01:05:00 -0500
+date: 2026-07-27 01:15:00 -0500
 categories: [Meditations, Degrees of Sin]
 tags: [sin]
 author: grand_master
@@ -41,10 +41,12 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-Scripture indicates that while all sin is serious and separates people from God (Romans 3:23; 6:23), some sins carry greater guilt, severity, or consequences in God’s sight than others. Jesus Himself speaks of a “greater sin,” and multiple passages point to degrees of culpability and judgment.
+Scripture teaches two complementary truths: first, that every sin separates humanity from God and renders the sinner guilty before Him (Rom. 3:23; 6:23; Jas. 2:10); second, that not every sin is equal in its degree of guilt, responsibility, or judgment. Jesus Himself spoke of a "greater sin," and throughout Scripture God distinguishes between greater and lesser offenses according to knowledge, intent, and the light received.
 </p>
 
-## Greater and Lesser Sins
+## Some Sins Are Greater Than Others
+
+### Jesus to Pilate
 
 <p style="text-indent:2em;">
 When Pilate claimed authority to crucify or release Jesus, Jesus replied:</p>
@@ -56,7 +58,26 @@ Then Jesus said, “You would have no power over me at all unless it were given 
 <p style="text-indent:2em;">
 Jesus explicitly distinguishes degrees of sin. The one who handed Him over (most commonly understood as Caiaphas/the Jewish leaders, or in some views Judas) bore greater guilt than Pilate—due to greater knowledge of the Scriptures, deliberate plotting, and rejection of clearer light—while Pilate still sinned by condemning an innocent man under political pressure.</p>
 
-## Degrees of Punishment and Responsibility
+### God to Ezekiel in the Temple Vision
+
+<p style="text-indent:2em;">
+Three times God tells Ezekiel that Israel's sins are becoming progressively more abominable. Scripture itself distinguishes certain sins as greater than others.</p>
+
+<blockquote>
+And he said: “Son of dust, do you see what they are doing? Do you see what great sins the people of Israel are doing here, to push me from my Temple? But come, and I will show you greater sins than these!” (Ezekiel 8:6 TLB).
+</blockquote>
+
+<blockquote>
+Then he added, “Come, and I will show you greater sins than these!” (Ezekiel 8:13 TLB).
+</blockquote>
+
+<blockquote>
+God likewise spoke of Israel committing "greater abominations" than those already shown to Ezekiel, demonstrating that Scripture itself ranks some sins as more grievous than others (Ezek. 8:6, 13, 15).
+</blockquote>
+
+## Greater Revelation Brings Greater Accountability
+
+### Jesus to His Disciples (Luke 12)
 
 <p style="text-indent:2em;">
 Greater knowledge and opportunity increase responsibility and the severity of judgment.</p>
@@ -64,6 +85,8 @@ Greater knowledge and opportunity increase responsibility and the severity of ju
 <blockquote>
 And a servant who knows what the master wants, but isn’t prepared and doesn’t carry out those instructions, will be <strong style="color:Goldenrod;">severely punished</strong>. But someone who does not know, and then does something wrong, will be <strong style="color:Goldenrod;">punished only lightly</strong>. When someone has been given much, much will be required in return; and when someone has been entrusted with much, even more will be required (New Living Translation, 2015, Lk. 12:47–48).
 </blockquote>
+
+### Jesus to the Galilean Cities (Matthew 11)
 
 <p style="text-indent:2em;">
 Jesus declares it will be “more tolerable” on the day of judgment for Tyre, Sidon, and even Sodom than for the Galilean cities (Chorazin, Bethsaida, Capernaum) that witnessed His miracles yet did not repent. Greater revelation refused brings heavier accountability.</p>
@@ -75,22 +98,32 @@ Then Jesus began to denounce the towns where he had done so many of his miracles
   </blockquote>
 </blockquote>
 
+### The Author of Hebrews
+
+<p style="text-indent:2em;">The author of Hebrews likewise teaches that some offenses deserve greater punishment than others. In particular, he warns that those who knowingly reject Christ after receiving the knowledge of the truth will face a more severe judgment than those who violated the Mosaic covenant.</p>
+
+<blockquote>
+Just think how much worse the punishment will be for those who have trampled on the Son of God, and have treated the blood of the covenant, which made us holy, as if it were common and unholy, and have insulted and disdained the Holy Spirit who brings God’s mercy to us (New Living Translation, 2015, Heb. 10:29).</blockquote>
+
+<p style="text-indent:2em;">
+This passage demonstrates that God distinguishes degrees of guilt and judgment. To knowingly despise Christ and His sacrifice after receiving greater revelation incurs a correspondingly greater punishment. This warning therefore stands against every teaching that turns the grace of God into a license for sin (Jude 4). Rather than diminishing accountability, greater knowledge of Christ increases it.</p>
+
 ## The Equality of Sin's Consequences
 
 <p style="text-indent:2em;">
 While everyone has sin (1 Jn. 1:8-10), not everyone pursues lifestyles of indulgent sin practice (1 Jn. 3:6-10). The reason for this cessation of sin&mdash;given in the ninth verse of John's first epistle (1 Jn. 3:9)&mdash;is that God's seed, which is the Holy Spirit, is credited with our transformation in the practice of righteousness.</p>
 
 <blockquote>
-Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).
+Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).</blockquote>
 
 ## On Moral Reasoning and Logic
 
 <!-- Clearly, sexual assault and bad words differ greatly in severity. Only someone reasoning carelessly or driven more by emotion than sound judgment could conclude otherwise. To speak as though they are is to abandon proportion, collapse distinctions, and mistake offense for violence. Such a conclusion cannot stand under serious moral reflection; it reveals not clarity, but confusion&mdash;less a judgment of reason than a surrender to sentiment. -->
 
 <p style="text-indent:2em;">
-Clearly, sexual assault and bad words differ greatly in severity. To treat them as morally equivalent is to confuse offense with violence and to erase a basic moral distinction. Such reasoning is not careful or proportionate; it is confused and driven more by sentiment than by sound judgment.</p>
+Clearly, sexual assault and <a href="https://www.biblegateway.com/passage/?search=1%20Corinthians%206%3A9-11&version=EXB">bad words</a> (Jas. 1:26) differ greatly in severity. To treat them as morally equivalent is to confuse offense with violence and to erase a basic moral distinction. Such reasoning is not careful or proportionate; it is confused and driven more by sentiment than by sound judgment.</p>
 
-</blockquote>
+
 
 <br>
 <hr>
