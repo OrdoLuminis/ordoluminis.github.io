@@ -1,6 +1,6 @@
 ---
 title: "Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic"
-date: 2026-07-27 01:15:00 -0500
+date: 2026-07-27 01:20:00 -0500
 categories: [Meditations, Degrees of Sin]
 tags: [sin]
 author: grand_master
@@ -71,9 +71,9 @@ And he said: “Son of dust, do you see what they are doing? Do you see what gre
 Then he added, “Come, and I will show you greater sins than these!” (Ezekiel 8:13 TLB).
 </blockquote>
 
-<blockquote>
-God likewise spoke of Israel committing "greater abominations" than those already shown to Ezekiel, demonstrating that Scripture itself ranks some sins as more grievous than others (Ezek. 8:6, 13, 15).
-</blockquote>
+<p style="text-indent:2em;">
+God likewise spoke of Israel committing "greater abominations" than those already shown to Ezekiel, demonstrating that Scripture itself ranks some sins as more grievous than others (Ezek. 8:6,13,15 TLB).</p>
+
 
 ## Greater Revelation Brings Greater Accountability
 
