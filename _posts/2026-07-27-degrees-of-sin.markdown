@@ -1,6 +1,6 @@
 ---
 title: "Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic"
-date: 2026-07-27 01:40:00 -0500
+date: 2026-07-27 01:45:00 -0500
 categories: [Meditations, Degrees of Sin]
 tags: [sin]
 author: grand_master
@@ -107,7 +107,7 @@ Then Jesus began to denounce the towns where he had done so many of his miracles
 <p style="text-indent:2em;">The author of Hebrews likewise teaches that some offenses deserve greater punishment than others. In particular, he warns that those who knowingly reject Christ after receiving the knowledge of the truth will face a more severe judgment than those who violated the Mosaic covenant.</p>
 
 <blockquote>
-For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries. Anyone who has set aside the law of Moses dies without mercy on the evidence of two or three witnesses. <strong style="color:goldenrod;">How much worse punishment</strong>, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has <strong style="color:goldenrod;">profaned</strong> the blood of the covenant by which he was sanctified, and has <strong style="color:goldenrod;">outraged the Spirit of grace?</strong> For we know him who said, “Vengeance is mine; I will repay.” And again, “The Lord will judge his people.” It is a fearful thing to fall into the hands of the living God</strong> (ESV Study Bible, 2008, Heb. 10:26-31).</blockquote>
+For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries. Anyone who has set aside the law of Moses dies without mercy on the evidence of two or three witnesses. <strong style="color:goldenrod;">How much worse punishment</strong>, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has <strong style="color:goldenrod;">profaned</strong> the blood of the covenant by which he was sanctified, and has <strong style="color:goldenrod;">outraged the Spirit of grace?</strong> For we know him who said, “Vengeance is mine; I will repay.” And again, “The Lord will judge his people.” It is a fearful thing to fall into the hands of the living God (ESV Study Bible, 2008, Heb. 10:26-31).</blockquote>
 
 <!-- <blockquote>
 Just think how much worse the punishment will be for those who have trampled on the Son of God, and have treated the blood of the covenant, which made us holy, as if it were common and unholy, and have insulted and disdained the Holy Spirit who brings God’s mercy to us (New Living Translation, 2015, Heb. 10:29).</blockquote> -->
