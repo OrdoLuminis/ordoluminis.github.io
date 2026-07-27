@@ -1,6 +1,6 @@
 ---
 title: "Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic"
-date: 2026-07-27 01:20:00 -0500
+date: 2026-07-27 01:25:00 -0500
 categories: [Meditations, Degrees of Sin]
 tags: [sin]
 author: grand_master
@@ -64,11 +64,15 @@ Jesus explicitly distinguishes degrees of sin. The one who handed Him over (most
 Three times God tells Ezekiel that Israel's sins are becoming progressively more abominable. Scripture itself distinguishes certain sins as greater than others.</p>
 
 <blockquote>
-And he said: “Son of dust, do you see what they are doing? Do you see what great sins the people of Israel are doing here, to push me from my Temple? But come, and I will show you greater sins than these!” (Ezekiel 8:6 TLB).
+And he said: “Son of dust, do you see what they are doing? Do you see what great sins the people of Israel are doing here, to push me from my Temple? But come, and I will show you <strong style="font-size:1.2em;color:Goldenrod;">greater sins</strong> than these!” (Ezekiel 8:6 TLB).
 </blockquote>
 
 <blockquote>
-Then he added, “Come, and I will show you greater sins than these!” (Ezekiel 8:13 TLB).
+Then he added, “Come, and I will show you <strong style="font-size:1.2em;color:Goldenrod;">greater sins</strong> than these!” (Ezekiel 8:13 TLB).
+</blockquote>
+
+<blockquote>
+Then he said to me, “Have you seen this, O son of man? You will see still <strong style="font-size:1.2em;color:Goldenrod;">greater abominations</strong> than these (ESV Study Bible, 2008, Ezekiel 8:15 ESV).
 </blockquote>
 
 <p style="text-indent:2em;">
