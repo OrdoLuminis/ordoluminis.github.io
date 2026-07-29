@@ -1,13 +1,15 @@
 ---
 title: "Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic"
-date: 2026-07-27 01:45:00 -0500
-categories: [Meditations, Degrees of Sin]
+date: 2026-07-27 02:00:00 -0500
+categories: [Theology, Degrees of Sin]
 tags: [sin]
 author: grand_master
 published: True
 comments: false
 pin: true
 ---
+
+<!-- Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic -->
 
 <style>
 /* in your main CSS (e.g. assets/css/style.css) */
@@ -118,18 +120,23 @@ This passage demonstrates that God distinguishes degrees of guilt and judgment. 
 ## The Equality of Sin's Consequences
 
 <p style="text-indent:2em;">
+A true born again Christian cannot make a practice of sinning; while all people contend with sin (1 Jn. 1:8-10), those genuinely born of God do not persistently practice sin (1 Jn. 3:4-10). The reason for this inability to continue in sin is God's seed&mdash;the Holy Spirit&mdash;abiding within and transforming the believer toward the practice of righteousness. Therefore, anyone who makes a practice of sinning reveals themselves to be a child of the devil in need of immediate repentance, as evident by their failure to practice righteousness and love their brother. <strong>The only place sin is equal is in the consequence of its practice&mdash;the lake of fire.</strong></p>
+
+
+<!-- No true born again Christian practices sin; while everyone has sin (1 Jn. 1:8-10), not everyone pursues lifestyles of indulgent sin practice (1 Jn. 3:6-10). The reason for this cessation of sin&mdash;given in the ninth verse of John's first epistle (1 Jn. 3:9)&mdash;is that God's seed, which is the Holy Spirit, is credited with our transformation in the practice of righteousness. So, the conclusion is that any sin practiced reveals a person to be a child of satan in need of repentance immediately: -->
+
+<blockquote>
+Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).</blockquote>
+
+## On False Teachers
+
+<p style="text-indent:2em;">
 Listen carefully, because this is what false teachers sound like when you encounter them: they promise us freedom, but they themselves are slaves to depravity (i.e., sin, corruption):</p>
 
 <blockquote>
 “You aren’t saved by being good,” they say, “so you might as well be bad. Do what you like; be free.”
 
 But these very teachers who offer this “freedom” from law are themselves slaves to sin and destruction. For a man is a slave to whatever controls him (The Living Bible, 1971, 2Pe.2:19 TLB).</blockquote>
-
-<p style="text-indent:2em;">
-While everyone has sin (1 Jn. 1:8-10), not everyone pursues lifestyles of indulgent sin practice (1 Jn. 3:6-10). The reason for this cessation of sin&mdash;given in the ninth verse of John's first epistle (1 Jn. 3:9)&mdash;is that God's seed, which is the Holy Spirit, is credited with our transformation in the practice of righteousness.</p>
-
-<blockquote>
-Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).</blockquote>
 
 <p style="text-indent:2em;">
 By abusing and twisting God's precious grace into a license to sin these false teachers reveal that they are condemned from the very beginning (Jd 4 NET).</p>
@@ -139,7 +146,7 @@ By abusing and twisting God's precious grace into a license to sin these false t
 <!-- Clearly, sexual assault and bad words differ greatly in severity. Only someone reasoning carelessly or driven more by emotion than sound judgment could conclude otherwise. To speak as though they are is to abandon proportion, collapse distinctions, and mistake offense for violence. Such a conclusion cannot stand under serious moral reflection; it reveals not clarity, but confusion&mdash;less a judgment of reason than a surrender to sentiment. -->
 
 <p style="text-indent:2em;">
-Clearly, sexual assault and <a href="https://www.biblegateway.com/passage/?search=1%20Corinthians%206%3A9-11&version=EXB">bad words</a> (Jas. 1:26) differ greatly in severity. To treat them as morally equivalent is to confuse offense with violence and to erase a basic moral distinction. Such reasoning is not careful or proportionate; it is confused and driven more by sentiment than by sound judgment.</p>
+Inability to recognize varying degrees of sin reveals a man to be devoid of scriptural understanding, the Holy Spirit’s guidance, moral reasoning, and logic. Clearly, sexual assault and <a href="https://www.biblegateway.com/passage/?search=1%20Corinthians%206%3A9-11&version=EXB">bad words</a> (Jas. 1:26) differ greatly in severity. To treat them as morally equivalent is to confuse offense with violence and to erase a basic moral distinction. Such reasoning is not careful or proportionate; it is confused and driven more by sentiment than by sound judgment.</p>
 
 
 
@@ -152,7 +159,7 @@ Clearly, sexual assault and <a href="https://www.biblegateway.com/passage/?searc
 <span></span>
 
 <ul class="references">
-<!-- <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li> -->
+<li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li>
 <!-- <li><em>NET Bible: Full Notes Edition</em>. (2019). Biblical Studies Press, L.L.C.</li> -->
 <li><em>New Living Translation</em>. (2015). Tyndale House Publishers.</li>
 <li><em>The Living Bible</em>. (1971). Tyndale House Publishers.</li>
