@@ -1,6 +1,6 @@
 ---
 title: "Jesus Taught That Some Sins Are Greater Than Others, and John Taught That a Habitual Pattern of Sin Reveals Whether a Person Is Born of God"
-date: 2026-07-27 02:05:00 -0500
+date: 2026-07-27 02:10:00 -0500
 categories: [Theology, Degrees of Sin]
 tags: [sin]
 author: grand_master
@@ -128,7 +128,7 @@ A true born again Christian cannot make a practice of sinning; while all people 
 Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).</blockquote>
 
 <p style="text-indent:2em;">
-Therefore, anyone who makes a practice of sinning reveals themselves to be a child of the devil in need of the  repentance that leads to salvation (2Cor. 7:10), as <strong>evident</strong> the fact that the Holy Spirit has not brought them to the practice righteousness and love their brother. <strong>The only place sin is equal is in the consequence of its practice&mdash;the lake of fire:</strong></p>
+Therefore, anyone who makes a practice of sinning reveals themselves to be a child of the devil in need of the God-granted repentance that leads to salvation (2Cor. 7:10). The Holy Spirit has not brought them to repentance, faith, and newness of life, and this is <strong>evidenced</strong> in their lives by the practice of unrighteousness. <strong>The only place sin is equal is in the consequence of its practice&mdash;the lake of fire:</strong></p>
 
 <!-- <blockquote>
 But cowards who turn back from following me, and those who are unfaithful to me, and the corrupt, and murderers, and the immoral, and those conversing with demons, and idol worshipers and all liars—their doom is in the Lake that burns with fire and sulphur. This is the Second Death (The Living Bible, 1971, Rev. 21:8).</blockquote>
