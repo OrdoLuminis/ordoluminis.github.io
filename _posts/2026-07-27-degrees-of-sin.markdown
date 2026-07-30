@@ -1,6 +1,6 @@
 ---
-title: "Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic"
-date: 2026-07-27 02:00:00 -0500
+title: "Jesus Taught That Some Sins Are Greater Than Others, and John Taught That a Habitual Pattern of Sin Reveals Whether a Person Is Born of God"
+date: 2026-07-27 02:05:00 -0500
 categories: [Theology, Degrees of Sin]
 tags: [sin]
 author: grand_master
@@ -10,6 +10,8 @@ pin: true
 ---
 
 <!-- Inability to Recognize Varying Degrees of Sin Reveals a Man to Be Devoid of Scriptural Understanding, the Holy Spirit’s Guidance, Moral Reasoning, and Logic -->
+
+<!-- Jesus taught that all sins are not equal but that thier practice leds to hell. -->
 
 <style>
 /* in your main CSS (e.g. assets/css/style.css) */
@@ -120,13 +122,39 @@ This passage demonstrates that God distinguishes degrees of guilt and judgment. 
 ## The Equality of Sin's Consequences
 
 <p style="text-indent:2em;">
-A true born again Christian cannot make a practice of sinning; while all people contend with sin (1 Jn. 1:8-10), those genuinely born of God do not persistently practice sin (1 Jn. 3:4-10). The reason for this inability to continue in sin is God's seed&mdash;the Holy Spirit&mdash;abiding within and transforming the believer toward the practice of righteousness. Therefore, anyone who makes a practice of sinning reveals themselves to be a child of the devil in need of immediate repentance, as evident by their failure to practice righteousness and love their brother. <strong>The only place sin is equal is in the consequence of its practice&mdash;the lake of fire.</strong></p>
-
-
-<!-- No true born again Christian practices sin; while everyone has sin (1 Jn. 1:8-10), not everyone pursues lifestyles of indulgent sin practice (1 Jn. 3:6-10). The reason for this cessation of sin&mdash;given in the ninth verse of John's first epistle (1 Jn. 3:9)&mdash;is that God's seed, which is the Holy Spirit, is credited with our transformation in the practice of righteousness. So, the conclusion is that any sin practiced reveals a person to be a child of satan in need of repentance immediately: -->
+A true born again Christian cannot make a practice of sinning; while all people contend with sin (1 Jn. 1:8-10), those genuinely born of God do not persistently practice sin (1 Jn. 3:4-10). The reason for this inability to continue in sin is God's seed&mdash;the Holy Spirit&mdash;abiding within and transforming the believer toward the practice of righteousness:</p>
 
 <blockquote>
 Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin. No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <strong style="color:goldenrod;">Little children, let no one deceive you.</strong> Whoever practices righteousness is righteous, as he is righteous. <strong style="color:goldenrod;">Whoever makes a practice of sinning is of the devil</strong>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <strong style="color:goldenrod;">No one born of God makes a practice of sinning</strong>, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God. <strong style="color:goldenrod;">By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God</strong>, nor is the one who does not love his brother (ESV Study Bible, 2008, 1 John 3:4-10 ESV).</blockquote>
+
+<p style="text-indent:2em;">
+Therefore, anyone who makes a practice of sinning reveals themselves to be a child of the devil in need of the  repentance that leads to salvation (2Cor. 7:10), as <strong>evident</strong> the fact that the Holy Spirit has not brought them to the practice righteousness and love their brother. <strong>The only place sin is equal is in the consequence of its practice&mdash;the lake of fire:</strong></p>
+
+<!-- <blockquote>
+But cowards who turn back from following me, and those who are unfaithful to me, and the corrupt, and murderers, and the immoral, and those conversing with demons, and idol worshipers and all liars—their doom is in the Lake that burns with fire and sulphur. This is the Second Death (The Living Bible, 1971, Rev. 21:8).</blockquote>
+
+<blockquote>
+“But cowards, unbelievers, the corrupt, murderers, the immoral, those who practice witchcraft, idol worshipers, and all liars—their fate is in the fiery lake of burning sulfur. This is the second death” (New Living Translation, 2015, Rev. 21:8). </blockquote> -->
+
+<blockquote>
+Do you not know that <strong style="color:DarkGoldenrod;">the unrighteous <span style="font-size:1.2em;color:Goldenrod;">will not</span> inherit the kingdom of God</strong>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. Some of you <strong style="font-size:1.2em;color:Goldenrod;">once lived</strong> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God (NET Bible, 2019, 1Cor. 6:9-11).
+</blockquote>
+
+<blockquote>
+Now the works of the flesh are obvious: sexual immorality, impurity, depravity, idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, envying, murder, drunkenness, carousing, and similar things. <strong style="color:DarkGoldenrod;">I am <span style="font-size:1.2em;color:Goldenrod">warning</span> you, as I had warned you before:</strong> <strong style="color:DarkGoldenrod;">Those who <span style="font-size:1.2em;color:Goldenrod;">practice</span> such things <span style="font-size:1.2em;color:Goldenrod;">will not</span> inherit the kingdom of God!</strong> (NET Bible, 2019, Galatians 5:19-21).
+</blockquote>
+
+<blockquote>But as for the cowards, unbelievers, detestable persons, murderers, the sexually immoral, and those who practice magic spells, idol worshipers, and all those who lie, <strong style="color:DarkGoldenrod;">their place will be in <span style="font-size:1.2em;color:Goldenrod;">the lake that burns with fire and sulfur</span></strong>. That is the second death” (NET Bible, 2019, Rev. 21:8).</blockquote>
+
+<!-- Your responsibility is therefore to guard the little ones from stumbling into unrighteousness and to call them to repentance from sin and faith in our Lord Jesus as Lord and Master. To neglect this responsibility, and thereby contribute to their stumbling, carries dire consequences. Christ Himself declared with unmistakable severity that it would be better for such a person to suffer a horrific death&mdash;drowned with a millstone around his neck in the depths of the sea&mdash;than to cause one of these little ones who believe in Him to stumble into sin.
+
+<blockquote>
+Then he said, “I tell you the truth, <strong style="font-weight:bold;color:DarkGoldenrod;">unless you <span style="font-size:1.2em;color:Goldenrod;">turn</span> from your sins and become like little children, <span style="font-size:1.2em;color:Goldenrod;">you will never get into the Kingdom of Heaven</span>.</strong> So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong style="font-weight:bold;color:DarkGoldenrod;">But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
+</blockquote> -->
+
+<!-- No true born again Christian practices sin; while everyone has sin (1 Jn. 1:8-10), not everyone pursues lifestyles of indulgent sin practice (1 Jn. 3:6-10). The reason for this cessation of sin&mdash;given in the ninth verse of John's first epistle (1 Jn. 3:9)&mdash;is that God's seed, which is the Holy Spirit, is credited with our transformation in the practice of righteousness. So, the conclusion is that any sin practiced reveals a person to be a child of satan in need of repentance immediately: -->
+
+
 
 ## On False Teachers
 
