@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs: How Google Gemini Determined That Martin Luther Was a False Teacher and That His “Faith Alone” Doctrine Was Heresy"
-date: 2026-04-01 02:15:00 -0500
+date: 2026-04-01 02:20:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -249,7 +249,7 @@ When evaluated through the New Testament's own criteria:
 
 Therefore, a strong biblical case exists that both the teacher and the foundational doctrines (*Sola Fide* and *Sola Scriptura*) fail the explicit standards laid out across the New Testament.
 
-## After Instructing Gemini to Act as a Prosecutor (GPT as Defender)
+## IV. After Instructing Gemini to Act as a Prosecutor (GPT as Defender)
 
 *May it please the Court.*
 
@@ -351,7 +351,7 @@ Authorization"            • James 2:24 = Substantive • Reframe to "Satisfies
 >
 >
 
-## ChatGPT Accepts Gemini's Hardend Prosecutorial Brief as Acceptable
+## V. ChatGPT Accepts Gemini's Hardend Prosecutorial Brief as Acceptable
 
 ### Motion to Amend the Indictment: The Hardened Prosecutorial Brief
 
@@ -471,7 +471,7 @@ In formal equivalence translations (**LEB / ESV**), Peter outlines the core sign
 > **Final Judicial Proposition:**
 > The prosecution does not issue a dogmatic, absolute decree. Instead, we submit that when Martin Luther’s documented public actions, pastoral conduct, inflammatory rhetoric, and core doctrinal formulations are evaluated side-by-side against the explicit metrics of Matthew 7, 2 Peter 2, James 2, and Titus 2, **they provide substantial, evidence-based grounds for evaluating him under the New Testament’s explicit warnings concerning false teachers.**
 
-## Conclusion
+## VI. Conclusion
 
 While Gemini can be remarkably helpful and may provide accurate information in many cases, it should not be treated as an unquestionable source of truth. Like other large language models, it can sometimes reinforce a user's assumptions or confidently present incorrect conclusions if its responses are not carefully examined. Used uncritically, this can lead to confirmation bias and, in extreme cases, a distorted understanding of reality.
 
