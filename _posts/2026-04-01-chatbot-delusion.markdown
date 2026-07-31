@@ -1,10 +1,10 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs: How Google Gemini Determined That Martin Luther Was a False Teacher and That His “Faith Alone” Doctrine Was Heresy"
-date: 2026-04-01 02:05:00 -0500
+date: 2026-04-01 02:10:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
-published: false
+published: true
 comments: false
 pin: true
 ---
