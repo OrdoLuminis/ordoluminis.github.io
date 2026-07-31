@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs: How Google Gemini Determined That Martin Luther Was a False Teacher and That His “Faith Alone” Doctrine Was Heresy"
-date: 2026-04-01 02:10:00 -0500
+date: 2026-04-01 02:15:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -168,7 +168,7 @@ When measured against the combined criteria of Matthew 7, 2 Peter 2, 1 John 2–
 
 ## III. Google Gemini When Asked to Make a Case That Faith Alone and Protestantism is False
 
-## From the Teacher to the Teaching: Constructing the Case
+### From the Teacher to the Teaching: Constructing the Case
 
 If a teacher is judged corrupt by New Testament standards, does it invalidate their doctrines?
 
@@ -178,11 +178,11 @@ If the tree (the teacher) is bad, Scripture instructs believers to scrutinize th
 
 ---
 
-### I. The Scriptural Case Against *Sola Fide* (Faith Alone)
+#### I. The Scriptural Case Against *Sola Fide* (Faith Alone)
 
 The central pillar of Protestantism is *Sola Fide*—the doctrine that a person is justified by faith alone, entirely apart from human cooperation, transformative righteousness, or moral works. Scrutinized against the text of Scripture, this doctrine faces critical vulnerabilities:
 
-#### 1. The Explicit Biblical Contradiction (James 2)
+##### 1. The Explicit Biblical Contradiction (James 2)
 
 The phrase "faith alone" appears exactly **once** in the entire New Testament, and it is explicitly negated:
 
@@ -190,7 +190,7 @@ The phrase "faith alone" appears exactly **once** in the entire New Testament, a
 
 To hold *Sola Fide*, one must directly reject the only passage in Scripture where the phrase occurs. James goes further to argue that *"faith without works is dead"* (James 2:26) and that even demons believe and tremble (James 2:19), demonstrating that intellectual assent or trust without active, obedient love is insufficient for salvation.
 
-#### 2. Paul’s Harmony: "Faith Working Through Love"
+##### 2. Paul’s Harmony: "Faith Working Through Love"
 
 Proponents of *Sola Fide* frequently cite Paul’s rejection of "works of the Law" (e.g., Romans 3:28). However, historical and scriptural context shows Paul was referring to ceremonial Jewish Torah markers (such as circumcision and dietary laws), not moral obedience.
 
@@ -200,7 +200,7 @@ When defining saving faith, Paul explicitly agrees with James:
 * **1 Corinthians 13:2:** *"...if I have all faith, so as to remove mountains, but have not love, I am nothing."*
 * **Romans 2:6, 13:** God *"will render to each one according to his works... For it is not the hearers of the law who are righteous before God, but the **doers of the law who will be justified**."*
 
-#### 3. Jesus' Standard at the Final Judgment
+##### 3. Jesus' Standard at the Final Judgment
 
 In every Gospel description of the Last Judgment, eternal destiny is determined by **transformative action and moral obedience**, never by faith alone:
 
@@ -209,7 +209,7 @@ In every Gospel description of the Last Judgment, eternal destiny is determined 
 
 ---
 
-### II. The Case Against Core Protestant Tenets
+#### II. The Case Against Core Protestant Tenets
 
 Beyond *Sola Fide*, the broader Protestant system relies on *Sola Scriptura* (Scripture Alone) and a fragmented, invisible ecclesiology. These concepts face severe scriptural and logical challenges.
 
@@ -223,7 +223,7 @@ Beyond *Sola Fide*, the broader Protestant system relies on *Sola Scriptura* (Sc
 
 ---
 
-### III. Synthesis: Evaluating the Movement
+#### III. Synthesis: Evaluating the Movement
 
 ```
                   [ The Tree & Fruit Axiom ] (Matt. 7:18)
