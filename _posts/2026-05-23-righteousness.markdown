@@ -1,6 +1,6 @@
 ---
 title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
-date: 2026-05-23 03:05:00 -0500
+date: 2026-05-23 03:10:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -102,7 +102,8 @@ Now the works of the flesh are obvious: sexual immorality, impurity, depravity, 
 
 <!-- Your responsibility is therefore to guard the little ones from stumbling into unrighteousness and to call them to repentance from sin and to faith in our Lord Jesus as Lord and Master. The consequences of withholding this truth from them are beyond comprehension. Christ Himself declared with unmistakable severity that it would be better for such a person to suffer a horrific death&mdash;drowned with a millstone around his neck in the depths of the sea&mdash;than to cause one of these little ones to stumble into sin: -->
 
-Your responsibility is therefore to guard the little ones from stumbling into unrighteousness and to call them to repentance from sin and faith in our Lord Jesus as Lord and Master. To neglect this responsibility, and thereby contribute to their stumbling, carries dire consequences. Christ Himself declared with unmistakable severity that it would be better for such a person to suffer a horrific death&mdash;drowned with a millstone around his neck in the depths of the sea&mdash;than to cause one of these little ones who believe in Him to stumble into sin.
+<p style="text-indent:2em;">
+Your responsibility is therefore to guard the little ones from stumbling into unrighteousness and to call them to repentance from sin and faith in our Lord Jesus as Lord and Master. To neglect this responsibility, and thereby contribute to their stumbling, carries dire consequences. Christ Himself declared with unmistakable severity that it would be better for such a person to suffer a horrific death&mdash;drowned with a millstone hung around his neck in the depths of the sea&mdash;than to cause one of these little ones who believe in Him to stumble into sin.</p>
 
 <blockquote>
 Then he said, “I tell you the truth, <strong style="font-weight:bold;color:DarkGoldenrod;">unless you <span style="font-size:1.2em;color:Goldenrod;">turn</span> from your sins and become like little children, <span style="font-size:1.2em;color:Goldenrod;">you will never get into the Kingdom of Heaven</span>.</strong> So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven. “And anyone who welcomes a little child like this on my behalf is welcoming me. <strong style="font-weight:bold;color:DarkGoldenrod;">But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea</strong> (New Living Translation, 2015, Matt. 18:3-6 NLT).
