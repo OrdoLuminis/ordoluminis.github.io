@@ -1,6 +1,6 @@
 ---
 title: "Little Children, Let No One Deceive You. Whoever Practices Righteousness Is Righteous, as He Is Righteous."
-date: 2026-05-23 03:00:00 -0500
+date: 2026-05-23 03:05:00 -0500
 categories: [Theology, Righteousness]
 tags: [righteous, righteousness, holy]
 author: grand_master
@@ -42,7 +42,7 @@ sup {
 </style>
 
 <p style="text-indent:2em;">
-The Bible is replete with biblical examples of righteous people showing that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again&mdash;in practice not perfection. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven. Those who practice sin<!--<sup>1</sup>--> will not enter the Kingdom of Heaven,<!--<sup>2</sup>--> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<!--<sup>3,4</sup>--> While it is true that "whosoever shall call upon the name of the Lord shall be saved," invoking the Lord's name demands genuine faith, not mere intellectual assent. The paradox of faith and works is easily resolved as they coexist because only authentic trust transforms; superficial belief that God exists&mdash;like the demons' acknowledgment in James 2:19&mdash;produces no spiritual change. Jesus Himself taught that no unregenerate person would enter into the Kingdom of Heaven:
+The Bible is abundant with biblical examples of righteous people showing that genuine conversion necessarily involves the Holy Spirit's prior work of regeneration, producing faith and righteousness and breaking the pattern of habitual sin in those who are truly born again&mdash;in practice not perfection. Make no mistake, the unrepentant and unrighteous will not enter the Kingdom of Heaven. Those who practice sin<!--<sup>1</sup>--> will not enter the Kingdom of Heaven,<!--<sup>2</sup>--> not because they fail to do works&mdash;that would be legalism&mdash;but because they're unregenerate.<!--<sup>3,4</sup>--> While it is true that "whosoever shall call upon the name of the Lord shall be saved," invoking the Lord's name demands genuine faith, not mere intellectual assent. The paradox of faith and works is easily resolved as they coexist because only authentic trust transforms; superficial belief that God exists&mdash;like the demons' acknowledgment in James 2:19&mdash;produces no spiritual change. Jesus Himself taught that no unregenerate person would enter into the Kingdom of Heaven:
 </p>
 
 <blockquote>
