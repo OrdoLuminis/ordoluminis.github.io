@@ -1,12 +1,12 @@
 ---
 title: "The Historic and Academic Protestant Position: On the Relation of Faith and Works"
-date: 2025-08-03 11:10:00 -0500
+date: 2025-08-03 11:15:00 -0500
 categories: [Theology, Protestantism]
 tags: [christianity, history, protestantism, protestant]
 author: seven_shepherd
 published: true
 comments: false
-pin: true
+pin: false
 mermaid: true
 ---
 
