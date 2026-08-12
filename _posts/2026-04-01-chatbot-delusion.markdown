@@ -1,13 +1,15 @@
 ---
-title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs: How Google Gemini Determined That Martin Luther Was a False Teacher and That His “Faith Alone” Doctrine Was Heresy"
-date: 2026-04-01 02:30:00 -0500
+title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
+date: 2026-04-01 02:35:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
-published: false
+published: true
 comments: false
 pin: true
 ---
+
+<!-- : How Google Gemini Determined That Martin Luther Was a False Teacher and That His “Faith Alone” Doctrine Was Heresy -->
 
 <style>
 /* in your main CSS (e.g. assets/css/style.css) */
@@ -74,10 +76,12 @@ But you have received the Holy Spirit, and he lives within you, so you don’t n
 <blockquote>
 And we impart this in words not taught by human wisdom but taught by the Spirit, interpreting spiritual truths to those who are spiritual. (ESV Study Bible, 2008, 1Cor 2:13)</blockquote>
 
+This is specifically about secular scholarship:
+
 <blockquote>
 So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. Since God in his wisdom saw to it that the world would never know him through human wisdom, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).</blockquote>
 
-## II. Google Gemini When Asked to Make a Case That Martin Luther Is a False Teacher
+<!-- ## II. Google Gemini When Asked to Make a Case That Martin Luther Is a False Teacher
 
 The New Testament defines a false teacher not merely by doctrinal error, but by the alignment of **corrupt fruit, deceptive speech, moral enslavement, and spiritual hypocrisy**. When evaluated against the explicit metrics of Christ, Peter, Paul, John, and James, Martin Luther’s historical record—spanning political violence, ethnic hatred, pastoral double standards, and persistent rage—fits the profile of the false teacher warned about in 2 Peter 2:17–19 and related passages.
 
@@ -475,7 +479,7 @@ In formal equivalence translations (**LEB / ESV**), Peter outlines the core sign
 
 While Gemini can be remarkably helpful and may provide accurate information in many cases, it should not be treated as an unquestionable source of truth. Like other large language models, it can sometimes reinforce a user's assumptions or confidently present incorrect conclusions if its responses are not carefully examined. Used uncritically, this can lead to confirmation bias and, in extreme cases, a distorted understanding of reality.
 
-Artificial intelligence is best viewed as a research assistant—not as a final authority. It can summarize information, identify relevant sources, and accelerate research, but it cannot replace careful reasoning, subject-matter expertise, or the critical evaluation of evidence. Whenever accuracy matters, verify important claims against reliable primary sources and the work of qualified scholars, educators, and reputable academic institutions. AI is a powerful tool, but truth still requires careful investigation and sound judgment.
+Artificial intelligence is best viewed as a research assistant—not as a final authority. It can summarize information, identify relevant sources, and accelerate research, but it cannot replace careful reasoning, subject-matter expertise, or the critical evaluation of evidence. Whenever accuracy matters, verify important claims against reliable primary sources and the work of qualified scholars, educators, and reputable academic institutions. AI is a powerful tool, but truth still requires careful investigation and sound judgment. -->
 
 <br>
 <hr>
