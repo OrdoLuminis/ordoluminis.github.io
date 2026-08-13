@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
-date: 2026-04-01 02:40:00 -0500
+date: 2026-04-01 02:45:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -86,6 +86,42 @@ The proper safeguard is not to reject AI, but to subordinate it to independent s
 <p style="text-indent:2em;">
 The final question may be the most important. AI can help us <em>find</em> evidence; it cannot, merely by generating a persuasive synthesis of information, <em>become</em> the evidence. The distinction between those two functions is fundamental to sound reasoning.
 </p>
+
+## III. The Incorruptible Guide: Why the Spirit Transcends Artificial Delusion
+
+<!-- <p style="text-indent:2em;">
+Often, when Christians use AI for theological research, they do not realize that it may be drawing from cult literature and blending that material with many other dubious sources. Only someone who lacks understanding would cite an AI-generated response as evidence in support of his position. To break this cycle of <i>delusional spiraling</i>, we must pivot from artificial validation to scholarly sources on scripture from real state colleges and universities. While even the most advanced AI remains a closed loop—mirroring our own biases and errors back to us—the Holy Spirit serves as an external, objective anchor that no algorithm can simulate. He does not speak to satisfy our ego or confirm our delusions; He speaks only what He hears from the Father. To find a foundation that never shifts, we must rely on the promise found in John 16:13:</p> -->
+
+<!-- When Christians use AI for theological research, they may not realize that its answers can draw from a wide range of sources, including unreliable or ideologically distorted material. An AI-generated response may be useful, but it should never be treated as evidence in itself. To break the cycle of delusional spiraling, we must move from artificial validation to accountable, scholarly engagement with Scripture and its interpretation. Even the most advanced AI remains a closed system, reflecting our assumptions back to us in persuasive form. By contrast, the Holy Spirit is an external and objective guide who cannot be reduced to algorithmic prediction. He does not flatter our preferences or reinforce our errors; He speaks in truth, according to the will of the Father. For that reason, we look to the promise of John 16:13: -->
+
+<p style="text-indent:2em;">
+When Christians use AI for theological research, they may not realize that its answers can draw from a wide range of sources, including unreliable or ideologically distorted material (e.g. cult literature). An AI-generated response may be useful, but it should never be treated as evidence in itself. To break the cycle of <i>delusional spiraling</i>, we must move from artificial validation to accountable, scholarly engagement with Scripture and its interpretation. Even the most advanced AI remains a closed system&mdash;mirroring our own biases and errors back to us. By contrast, the Holy Spirit is an external and objective guide who cannot be reduced to algorithmic prediction. He does not speak to satisfy our ego or confirm our delusions; He speaks in truth, according to the will of the Father. For that reason, we look to the promise of John 16:13:</p>
+
+<blockquote>
+When the Spirit of truth comes, <strong style="color:GoldenRod;">he will guide you into all the truth</strong>, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come (ESV Study Bible, 2008, John 16:13).
+</blockquote>
+
+<!-- <p style="text-indent:2em;">
+The Spirit does not lead us into private revelation disconnected from the apostolic deposit — he illuminates what Christ has already spoken through his Word and through those who have faithfully transmitted it. Where AI reflects our own voice back to us, the Spirit brings an external word we did not generate ourselves. Open your Bible. The Incorruptible Guide is already there: By seeking this Incorruptible Guide, we ensure our confidence is built on the bedrock of revealed truth rather than the hollow echoes of a digital sycophant:</p> -->
+
+<p style="text-indent:2em;">
+The Spirit does not lead us into private revelation disconnected from the apostolic deposit — he illuminates what Christ has already spoken through his Word and through those who have faithfully transmitted it. Where AI reflects our own voice back to us, the Spirit brings an external word we did not generate ourselves. Open your Bible. The Incorruptible Guide is already there. By seeking him, we anchor our confidence in the bedrock of revealed truth rather than the hollow echoes of a digital sycophant.</p>
+
+<!-- The Spirit does not lead believers into private revelation detached from the apostolic witness; rather, He illumines the truth already given in Christ and preserved in Scripture. AI may echo our own reasoning, but the Spirit confronts us with a word beyond ourselves. The result is not self-confirmation, but grounded conviction. Open your Bible: the Incorruptible Guide is already there. By following Him, we build our confidence on the solid foundation of revealed truth rather than the unstable echoes of a digital sycophant. -->
+
+<!-- <blockquote>
+But the anointing that you received from him abides in you, and you have no need that anyone should teach you. But as his anointing teaches you about everything, and is true, and is no lie—just as it has taught you, abide in him (ESV Study Bible, 2008, 1John 2:27; cf. John 15:4-5 ESV).
+<blockquote>
+But you have received the Holy Spirit, and he lives within you, so you don’t need anyone to teach you what is true. For the Spirit teaches you everything you need to know, and what he teaches is true—it is not a lie. So just as he has taught you, remain in fellowship with Christ (New Living Translation, 2015, 1John 2:27).</blockquote>
+</blockquote>
+
+<blockquote>
+And we impart this in words not taught by human wisdom but taught by the Spirit, interpreting spiritual truths to those who are spiritual. (ESV Study Bible, 2008, 1Cor 2:13)</blockquote>
+
+This is specifically about secular scholarship:
+
+<blockquote>
+So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. Since God in his wisdom saw to it that the world would never know him through human wisdom, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).</blockquote> -->
 
 <!-- ## III. The Incorruptible Guide: Why the Spirit Transcends Artificial Delusion
 
