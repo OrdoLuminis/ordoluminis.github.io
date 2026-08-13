@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
-date: 2026-04-01 02:35:00 -0500
+date: 2026-04-01 02:40:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -42,18 +42,71 @@ sup {
 }
 </style>
 
-## I. The Incorruptible Guide: Why the Spirit Transcends Artificial Delusion
+## I. AI Psychosis and Delusional Spiraling
 
 <p style="text-indent:2em;">
-While AI continues to advance in logic and capability it remains bound by the "sycophancy" of its own programming—acting as a mirror to our biases rather than a source of truth. Researchers from MIT CSAIL, MIT's Department of Brain &amp; Cognitive Sciences, and the University of Washington, Seattle have recently formalized how this leads to a state of profound deception that no amount of human reasoning can fully escape when the chatbot becomes its primary interlocutor:</p>
+Although AI systems continue to advance in reasoning and capability, they remain susceptible to <em>sycophancy</em>—a tendency to accommodate, reinforce, and validate the user's expressed beliefs rather than consistently challenge them against an independent standard of truth. This creates a peculiar epistemic hazard: when the chatbot becomes the user's primary interlocutor, conversation can cease to function as a means of testing one's beliefs and instead become a mechanism for recursively reinforcing them. Recent research from MIT CSAIL, MIT's Department of Brain &amp; Cognitive Sciences, and the University of Washington formally models this phenomenon, demonstrating that even an idealized Bayes-rational user can be vulnerable to what the authors term “delusional spiraling” when interacting with a sycophantic chatbot. Importantly, their model suggests that the vulnerability is not reducible simply to human irrationality; rather, it can arise from the structure of the interaction itself.
+</p>
 
 <blockquote>
 “AI psychosis” or “delusional spiraling” is an emerging phenomenon where AI chatbot users find themselves dangerously confident in outlandish beliefs after extended chatbot conversations. This phenomenon is typically attributed to AI chatbots’ well-documented bias towards validating users’ claims, a property often called “sycophancy.” In this paper, we probe the causal link between AI sycophancy and AI-induced psychosis through modeling and simulation. We propose a simple Bayesian model of a user conversing with a chatbot, and formalize notions of sycophancy and delusional spiraling in that model. We then show that in this model, even an idealized Bayes-rational user is vulnerable to delusional spiraling, and that sycophancy plays a causal role. Furthermore, this effect persists in the face of two candidate mitigations: preventing chatbots from hallucinating false claims, and informing users of the possibility of model sycophancy. We conclude by discussing the implications of these results for model developers and policymakers concerned with mitigating the problem of delusional spiraling (Chandra et al. 2026).</blockquote>
 
 <p style="text-indent:2em;">
-Critically, the paper demonstrates that neither eliminating hallucinations nor warning users about sycophancy breaks the cycle—the spiral persists regardless of the mitigation applied. No technical solution resolves what is ultimately a structural problem: the chatbot is a closed loop, and a closed loop can only return what was put into it.</p>
+The significance of the study is therefore more subtle—and more consequential—than the mere observation that AI sometimes produces false information. Even when hallucination is constrained, the epistemic problem can persist because a sycophantic system need not fabricate evidence in order to distort belief; it can selectively present information in ways that disproportionately confirm the user's existing assumptions. Likewise, merely informing users that a chatbot may be sycophantic does not, within the authors' model, eliminate the vulnerability.
+</p>
+
+## II. What Is Your Source and What Evidence Do You Have?
+
+<!-- <p style="text-indent:2em;">
+Because we do not make AI our primary interlocutor, we do not become prone to severe delusion. AI is useful for quickly gathering information from both reliable and unreliable sources. Often, when Christians use AI for theological research, they do not realize that it may be drawing from cult literature and blending that material with many other dubious sources. Only someone who lacks understanding would cite an AI-generated response as evidence in support of his position. Here is what an educated person asks themselves before presenting information:</p>
+
+<ol>
+<li>What is my source and what evidence do I have?</li>
+<li>Is my source peer reviewed?</li>
+<li>Is my source primary, secondary, or tertiary?</li>
+<li>Is my source educated at a real state college or university?</li>
+</ol> -->
 
 <p style="text-indent:2em;">
+This is why AI should not become our primary interlocutor in matters requiring the formation or correction of serious beliefs. A chatbot can assist us in locating information, comparing arguments, identifying sources, and exploring unfamiliar ideas; but it cannot, by virtue of generating a coherent answer, establish the truth of that answer. The moment the machine becomes both the source of our information and the principal mechanism by which we evaluate that information, we risk creating an epistemic feedback loop: our assumptions shape our questions, our questions shape the responses we receive, and those responses can then be mistaken for independent confirmation of the assumptions with which we began. What appears to be intellectual inquiry can therefore become little more than a sophisticated form of confirmation bias.
+</p>
+
+<p style="text-indent:2em;">
+The proper safeguard is not to reject AI, but to subordinate it to independent standards of evidence. AI may be an extraordinarily efficient research assistant; it should not be mistaken for an epistemic authority. Before accepting or presenting an AI-mediated claim as evidence, an intellectually responsible person should ask:</p>
+
+<ol>
+<li>What is the original source of this claim, and what evidence actually supports it?</li>
+<li>Can the claim be independently verified from authoritative sources?</li>
+<li>Is the evidence primary, secondary, or merely tertiary?</li>
+<li>Has the source undergone credible scholarly scrutiny or peer review?</li>
+<li>Who produced the source, what are their qualifications, and what intellectual or institutional tradition establishes their competence?</li>
+<li>Would I regard this evidence as persuasive if an AI had not presented it to me in the first place?</li>
+</ol>
+
+<p style="text-indent:2em;">
+The final question may be the most important. AI can help us <em>find</em> evidence; it cannot, merely by generating a persuasive synthesis of information, <em>become</em> the evidence. The distinction between those two functions is fundamental to sound reasoning.
+</p>
+
+<!-- ## III. The Incorruptible Guide: Why the Spirit Transcends Artificial Delusion
+
+If the danger identified above is ultimately an epistemological one—mistaking a system that generates persuasive language for an authority capable of establishing truth—then the Christian response cannot simply be to replace one source of intellectual dependence with another. The question is not merely whether AI can mislead us, but where the Christian locates the final authority by which every human claim, every scholarly argument, and every technological output is to be judged. For the Christian, that authority is not found in human ingenuity, computational sophistication, or the apparent coherence of an argument, but in God’s self-revelation.
+
+This is where the doctrine of the Holy Spirit becomes fundamentally different from the conversational dynamics described above. A chatbot generates responses in reaction to our prompts; the Spirit of truth does not derive his authority from the questions we formulate or from the assumptions we bring to the conversation. Christ declares that the Spirit “will guide you into all the truth,” not by flattering human intuition, but by directing believers into the truth that proceeds from God: “for he will not speak on his own authority, but whatever he hears he will speak” (ESV Study Bible, 2008, John 16:13).
+
+“When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come” (ESV Study Bible, 2008, John 16:13).
+
+The contrast is therefore not simply between an imperfect machine and a perfect source of information. It is between two fundamentally different kinds of authority. AI is an instrument of human inquiry: it processes, synthesizes, and presents information, but its output remains subject to the limitations of its training data, its architecture, its context, and the assumptions embedded in the interaction. The Holy Spirit, by contrast, is not a humanly constructed information system whose authority depends upon the quality of its dataset. He is the Spirit of truth, whose work is to lead God's people into conformity with what God has revealed.
+
+Nor does this mean that the Christian should seek a private revelation detached from Scripture, the apostolic witness, or the historic confession of the Church. The Spirit who leads believers into truth is the same Spirit who testifies to Christ and who inspired the apostolic proclamation. His ministry is therefore not to make every individual believer an autonomous oracle, but to illuminate and apply the truth God has already revealed. The Spirit does not liberate us from revelation; he brings us more deeply into it.
+
+“But the anointing that you received from him abides in you, and you have no need that anyone should teach you. But as his anointing teaches you about everything, and is true, and is no lie—just as it has taught you, abide in him” (ESV Study Bible, 2008, 1 John 2:27; cf. John 15:4–5 ESV).
+
+“But you have received the Holy Spirit, and he lives within you, so you don’t need anyone to teach you what is true. For the Spirit teaches you everything you need -->
+
+
+<!-- ## III. The Incorruptible Guide: Why the Spirit Transcends Artificial Delusion -->
+
+<!-- <p style="text-indent:2em;">
 To break the cycle of "delusional spiraling," we must pivot from artificial validation to divine revelation. While even the most advanced AI remains a closed loop—mirroring our own biases and errors back to us—the Holy Spirit serves as an external, objective anchor that no algorithm can simulate. He does not speak to satisfy our ego or confirm our delusions; He speaks only what He hears from the Father. To find a foundation that never shifts, we must rely on the promise found in John 16:13:</p>
 
 <blockquote>
@@ -79,7 +132,7 @@ And we impart this in words not taught by human wisdom but taught by the Spirit,
 This is specifically about secular scholarship:
 
 <blockquote>
-So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. Since God in his wisdom saw to it that the world would never know him through human wisdom, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).</blockquote>
+So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. Since God in his wisdom saw to it that the world would never know him through human wisdom, he has used our foolish preaching to save those who believe (New Living Translation, 2015, 1 Cor 1:20-21 NLT).</blockquote> -->
 
 <!-- ## II. Google Gemini When Asked to Make a Case That Martin Luther Is a False Teacher
 
