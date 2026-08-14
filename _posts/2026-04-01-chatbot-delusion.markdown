@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
-date: 2026-04-01 02:45:00 -0500
+date: 2026-04-01 02:50:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -77,7 +77,7 @@ The proper safeguard is not to reject AI, but to subordinate it to independent s
 <ol>
 <li>What is the original source of this claim, and what evidence actually supports it?</li>
 <li>Can the claim be independently verified from authoritative sources?</li>
-<li>Is the evidence primary, secondary, or merely tertiary?</li>
+<li>Is the evidence primary, secondary, or tertiary?</li>
 <li>Has the source undergone credible scholarly scrutiny or peer review?</li>
 <li>Who produced the source, what are their qualifications, and what intellectual or institutional tradition establishes their competence?</li>
 <li>Would I regard this evidence as persuasive if an AI had not presented it to me in the first place?</li>
@@ -95,7 +95,7 @@ Often, when Christians use AI for theological research, they do not realize that
 <!-- When Christians use AI for theological research, they may not realize that its answers can draw from a wide range of sources, including unreliable or ideologically distorted material. An AI-generated response may be useful, but it should never be treated as evidence in itself. To break the cycle of delusional spiraling, we must move from artificial validation to accountable, scholarly engagement with Scripture and its interpretation. Even the most advanced AI remains a closed system, reflecting our assumptions back to us in persuasive form. By contrast, the Holy Spirit is an external and objective guide who cannot be reduced to algorithmic prediction. He does not flatter our preferences or reinforce our errors; He speaks in truth, according to the will of the Father. For that reason, we look to the promise of John 16:13: -->
 
 <p style="text-indent:2em;">
-When Christians use AI for theological research, they may not realize that its answers can draw from a wide range of sources, including unreliable or ideologically distorted material (e.g. cult literature). An AI-generated response may be useful, but it should never be treated as evidence in itself. To break the cycle of <i>delusional spiraling</i>, we must move from artificial validation to accountable, scholarly engagement with Scripture and its interpretation. Even the most advanced AI remains a closed system&mdash;mirroring our own biases and errors back to us. By contrast, the Holy Spirit is an external and objective guide who cannot be reduced to algorithmic prediction. He does not speak to satisfy our ego or confirm our delusions; He speaks in truth, according to the will of the Father. For that reason, we look to the promise of John 16:13:</p>
+When Christians use AI for theological research, they may not realize that its answers can draw from a wide range of sources, including unreliable or ideologically distorted material (e.g. cult literature). An AI-generated response may be useful, but it should never be treated as evidence in itself. To break the cycle of <i>delusional spiraling</i>, we must move from artificial validation to accountable, scholarly engagement with Scripture. Even the most advanced AI remains a closed system&mdash;mirroring our own biases and errors back to us. By contrast, the Holy Spirit is an external and objective guide who cannot be reduced to algorithmic prediction. He does not speak to satisfy our ego or confirm our delusions; He speaks in truth, according to the will of the Father. For that reason, we look to the promise of John 16:13:</p>
 
 <blockquote>
 When the Spirit of truth comes, <strong style="color:GoldenRod;">he will guide you into all the truth</strong>, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come (ESV Study Bible, 2008, John 16:13).
