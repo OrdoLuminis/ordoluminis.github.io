@@ -1,6 +1,6 @@
 ---
 title: "MIT Researchers Find Chatbots Cause Severe Delusion by Validating Users' Beliefs"
-date: 2026-04-01 02:50:00 -0500
+date: 2026-04-01 02:57:00 -0500
 categories: [Meditations, AI]
 tags: [chatgpt, ai, ai psychosis, delusional spiraling]
 author: grand_master
@@ -45,7 +45,7 @@ sup {
 ## I. AI Psychosis and Delusional Spiraling
 
 <p style="text-indent:2em;">
-Although AI systems continue to advance in reasoning and capability, they remain susceptible to <em>sycophancy</em>—a tendency to accommodate, reinforce, and validate the user's expressed beliefs rather than consistently challenge them against an independent standard of truth. This creates a peculiar epistemic hazard: when the chatbot becomes the user's primary interlocutor, conversation can cease to function as a means of testing one's beliefs and instead become a mechanism for recursively reinforcing them. Recent research from MIT CSAIL, MIT's Department of Brain &amp; Cognitive Sciences, and the University of Washington formally models this phenomenon, demonstrating that even an idealized Bayes-rational user can be vulnerable to what the authors term “delusional spiraling” when interacting with a sycophantic chatbot. Importantly, their model suggests that the vulnerability is not reducible simply to human irrationality; rather, it can arise from the structure of the interaction itself.
+Although AI systems continue to advance in reasoning and capability, they remain susceptible to <em>sycophancy</em>—a tendency to accommodate, reinforce, and validate the user's expressed beliefs rather than consistently challenge them against an independent standard of truth. This creates a peculiar epistemic hazard: when the chatbot becomes the user's primary interlocutor, conversation can cease to function as a means of testing one's beliefs and instead become a mechanism for recursively reinforcing them. Recent research from MIT CSAIL, MIT's Department of Brain &amp; Cognitive Sciences, and the University of Washington formally models this phenomenon, demonstrating that even an idealized Bayes-rational user can be vulnerable to what the authors term “delusional spiraling” when interacting with a sycophantic chatbot. Importantly, their model suggests that the vulnerability is not reducible simply to human irrationality; rather, it can arise from the structure of the interaction itself:
 </p>
 
 <blockquote>
