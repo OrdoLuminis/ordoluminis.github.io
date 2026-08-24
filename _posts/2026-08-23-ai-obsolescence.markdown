@@ -1,6 +1,6 @@
 ---
 title: "The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing"
-date: 2026-08-23 01:15:00 -0500
+date: 2026-08-23 01:25:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -45,35 +45,7 @@ sup {
 <p style="text-indent:2em;">
 The fundamental mistake in predicting the future of work is assuming that whatever AI can do, humans will necessarily allow AI to do. Would humanity hand the launch authority for its nuclear arsenal to an AI? Would we allow an AI to make the final decision on whether a patient lives or dies? These questions expose the distinction between what AI may be capable of doing and what society will actually permit it to do. As AI becomes increasingly capable of performing intellectual and technical tasks, education will become more valuable&mdash;not because humans must compete with AI in performing those tasks, but because society will increasingly rely on educated humans to supervise, validate, and take responsibility for AI-assisted decisions. AI will not fully obsolete positions in which humans deliberately retain ethical or moral authority, legal accountability, scientific judgment, institutional legitimacy, human agency, or ownership, even when AI becomes capable of performing the underlying work.</p>
 
-## I. High-Exposure Careers
-
-|                               Career / Work Type | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance | 📈 Market Demand | 💰 Ceiling | **Overall** | **Warning**                     |
-| -----------------------------------------------: | :--------------: | :----------------: | :------------------: | :--------------: | :--------: | :---------: | ------------------------------- |
-|  **Data entry / routine information processing** |        🔴        |         🔴         |          🔴          |        🔴        |     🔴     |  **2.0/10** | 🚨 **Extremely exposed**        |
-| **Routine clerical / administrative processing** |        🔴        |         🔴         |          🔴          |        🟠        |     🟠     |  **2.5/10** | 🚨 **Extremely exposed**        |
-|              **Bookkeeping / accounting clerks** |        🔴        |         🟠         |          🔴          |        🟠        |     🟠     |  **3.1/10** | ⚠️ **High exposure**            |
-|  **Routine customer-service / call-center work** |        🔴        |         🟠         |          🔴          |        🟠        |     🟠     |  **3.1/10** | ⚠️ **High exposure**            |
-|   **Graphic design / routine visual production** |        🔴        |         🟠         |          🟠          |        🟠        |     🟠     |  **3.6/10** | ⚠️ **High exposure**            |
-|        **Routine programming / code production** |        🟠        |         🟠         |          🟠          |      🟢🟢🟢      |   🟢🟢🟢   |  **5.1/10** | ⚠️ **Increasingly exposed**     |
-|           **Routine translation / localization** |        🟠        |         🟠         |          🟠          |        🟠        |     🟠     |  **4.0/10** | ⚠️ **AI productivity pressure** |
-|  **Routine market-research / survey production** |        🟠        |         🟠         |          🟠          |        🟢        |     🟠     |  **4.5/10** | ⚠️ **Data/analysis exposure**   |
-
-## II. Skilled Trades & Technical Occupations
-
-|     Rank | Trade / Technical Career                                    | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
-| -------: | ----------------------------------------------------------- | :--------------: | :----------------: | :------------------: | :--------------: | :-----------------: | ----------: |
-| 🥇 **1** | **Industrial controls / automation / electrical**           |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢      |  **8.6/10** |
-| 🥈 **2** | **Industrial machinery mechanic / millwright**              |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |        🟢🟢🟢       |  **8.4/10** |
-| 🥉 **3** | **Elevator / escalator mechanic**                           |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **8.4/10** |
-|    **4** | **Electrical power / substation / high-voltage systems**    |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.3/10** |
-|    **5** | **Aircraft / avionics technician**                          |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |       🟢🟢🟢🟢       |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.3/10** |
-|    **6** | **Medical equipment / biomedical equipment repair**         |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |        🟢🟢🟢       |  **8.2/10** |
-|    **7** | **Advanced HVAC / refrigeration**                           |     🟢🟢🟢🟢     |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |        🟢🟢🟢       |  **7.9/10** |
-|    **8** | **Mechatronics / electro-mechanical automation technician** |     🟢🟢🟢🟢     |      🟢🟢🟢🟢      |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟢🟢🟢       |  **7.4/10** |
-|    **9** | **Calibration / metrology technician**                      |     🟢🟢🟢🟢     |     🟢🟢🟢🟢🟢     |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟢🟢🟢       |  **7.3/10** |
-|   **10** | **Specialized welding / fabrication**                       |     🟢🟢🟢🟢     |       🟢🟢🟢       |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟡🟡🟡       |  **6.6/10** |
-
-## III. Professional / Knowledge-Intensive Careers
+## I. Professional / Knowledge-Intensive Careers
 
 |     Rank | Field / Career                                          | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance |  📈 Market | 💰 Ceiling | **Overall** |
 | -------: | ------------------------------------------------------- | :--------------: | :--------------------: | :---------------: | :--------: | :--------: | ----------: |
@@ -120,7 +92,33 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 |     **21** | **General software engineering**                                   |       🟠🟠       |       🟠🟠🟡       |        🟠🟠🟡        |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢      |  **6.7/10** |
 |     **22** | **Pure mathematics career**                                        |      🟡🟡🟡      |       🟡🟡🟡       |      🟢🟢🟢🟢🟢      |        🔴        |         🟠🟠        |  **6.2/10** | -->
 
+## II. Skilled Trades & Technical Occupations
 
+|     Rank | Trade / Technical Career                                    | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
+| -------: | ----------------------------------------------------------- | :--------------: | :----------------: | :------------------: | :--------------: | :-----------------: | ----------: |
+| 🥇 **1** | **Industrial controls / automation / electrical**           |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢      |  **8.6/10** |
+| 🥈 **2** | **Industrial machinery mechanic / millwright**              |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |        🟢🟢🟢       |  **8.4/10** |
+| 🥉 **3** | **Elevator / escalator mechanic**                           |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **8.4/10** |
+|    **4** | **Electrical power / substation / high-voltage systems**    |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.3/10** |
+|    **5** | **Aircraft / avionics technician**                          |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |       🟢🟢🟢🟢       |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.3/10** |
+|    **6** | **Medical equipment / biomedical equipment repair**         |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |        🟢🟢🟢       |  **8.2/10** |
+|    **7** | **Advanced HVAC / refrigeration**                           |     🟢🟢🟢🟢     |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |        🟢🟢🟢       |  **7.9/10** |
+|    **8** | **Mechatronics / electro-mechanical automation technician** |     🟢🟢🟢🟢     |      🟢🟢🟢🟢      |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟢🟢🟢       |  **7.4/10** |
+|    **9** | **Calibration / metrology technician**                      |     🟢🟢🟢🟢     |     🟢🟢🟢🟢🟢     |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟢🟢🟢       |  **7.3/10** |
+|   **10** | **Specialized welding / fabrication**                       |     🟢🟢🟢🟢     |       🟢🟢🟢       |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟡🟡🟡       |  **6.6/10** |
+
+## III. High-Exposure Careers
+
+|                               Career / Work Type | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance | 📈 Market Demand | 💰 Ceiling | **Overall** | **Warning**                     |
+| -----------------------------------------------: | :--------------: | :----------------: | :------------------: | :--------------: | :--------: | :---------: | ------------------------------- |
+|  **Data entry / routine information processing** |        🔴        |         🔴         |          🔴          |        🔴        |     🔴     |  **2.0/10** | 🚨 **Extremely exposed**        |
+| **Routine clerical / administrative processing** |        🔴        |         🔴         |          🔴          |        🟠        |     🟠     |  **2.5/10** | 🚨 **Extremely exposed**        |
+|              **Bookkeeping / accounting clerks** |        🔴        |         🟠         |          🔴          |        🟠        |     🟠     |  **3.1/10** | ⚠️ **High exposure**            |
+|  **Routine customer-service / call-center work** |        🔴        |         🟠         |          🔴          |        🟠        |     🟠     |  **3.1/10** | ⚠️ **High exposure**            |
+|   **Graphic design / routine visual production** |        🔴        |         🟠         |          🟠          |        🟠        |     🟠     |  **3.6/10** | ⚠️ **High exposure**            |
+|        **Routine programming / code production** |        🟠        |         🟠         |          🟠          |      🟢🟢🟢      |   🟢🟢🟢   |  **5.1/10** | ⚠️ **Increasingly exposed**     |
+|           **Routine translation / localization** |        🟠        |         🟠         |          🟠          |        🟠        |     🟠     |  **4.0/10** | ⚠️ **AI productivity pressure** |
+|  **Routine market-research / survey production** |        🟠        |         🟠         |          🟠          |        🟢        |     🟠     |  **4.5/10** | ⚠️ **Data/analysis exposure**   |
 
 <!-- <br>
 <hr>
