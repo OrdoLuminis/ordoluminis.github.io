@@ -1,6 +1,6 @@
 ---
 title: "The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing"
-date: 2026-08-23 01:30:00 -0500
+date: 2026-08-23 01:35:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -41,6 +41,10 @@ sup {
 </style>
 
 <!-- The Age of AI Will Reward Mastery: Why Education, Expertise, and Human Authority Matter More Than Ever, The Future Belongs to People Who Know What They’re Doing: Why Education Matters More in the Age of AI -->
+
+<p style="text-indent:2em;">
+For most of history, the deepest form of education wasn't vocational at all. The liberal arts (<i>artes liberales</i>) were explicitly the curriculum of a free person&mdash;someone who didn't have to labor for a living&mdash;as distinct from the <i>artes serviles</i>, the trade skills of people who did. Grammar, logic, rhetoric, arithmetic, geometry, music, astronomy: none of it was meant to get you hired. It was meant to form a mind capable of self-governance, contemplation, and judgment. If AI genuinely obsoleted labor, that wouldn't be a break from that tradition so much as a return to the leisure (<i>scholē</i>&mdash;the root of "school") it always assumed as its starting condition.
+</p>
 
 <p style="text-indent:2em;">
 The fundamental mistake in predicting the future of work is assuming that whatever AI can do, humans will necessarily allow AI to do. Would humanity hand the launch authority for its nuclear arsenal to an AI? Would we allow an AI to make the final decision on whether a patient lives or dies? These questions expose the distinction between what AI may be capable of doing and what society will actually permit it to do. As AI becomes increasingly capable of performing intellectual and technical tasks, education will become more valuable&mdash;not because humans must compete with AI in performing those tasks, but because society will increasingly rely on educated humans to supervise, validate, and take responsibility for AI-assisted decisions. AI will not fully obsolete positions in which humans deliberately retain ethical or moral authority, legal accountability, scientific judgment, institutional legitimacy, human agency, or ownership, even when AI becomes capable of performing the underlying work.</p>
