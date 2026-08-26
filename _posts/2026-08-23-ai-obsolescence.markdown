@@ -1,6 +1,6 @@
 ---
 title: "The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing"
-date: 2026-08-23 01:45:00 -0500
+date: 2026-08-23 01:50:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -49,7 +49,7 @@ For most of history, the deepest form of education wasn't vocational at all. The
 <p style="text-indent:2em;">
 The fundamental mistake in predicting the future of work is assuming that whatever AI can do, humans will necessarily allow AI to do. Would humanity hand the launch authority for its nuclear arsenal to an AI? Would we allow an AI to make the final decision on whether a patient lives or dies? These questions expose the distinction between what AI may be capable of doing and what society will actually permit it to do. As AI becomes increasingly capable of performing intellectual and technical tasks, education will become more valuable&mdash;not because humans must compete with AI in performing those tasks, but because society will increasingly rely on educated humans to supervise, validate, and take responsibility for AI-assisted decisions. AI will not fully obsolete positions in which humans deliberately retain ethical or moral authority, legal accountability, scientific judgment, institutional legitimacy, human agency, or ownership, even when AI becomes capable of performing the underlying work.</p>
 
-## I. Professional / Knowledge-Intensive Careers
+<!-- ## I. Professional / Knowledge-Intensive Careers -->
 
 <!--
 
