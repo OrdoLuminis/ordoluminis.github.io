@@ -1,6 +1,6 @@
 ---
 title: "The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing"
-date: 2026-08-23 01:40:00 -0500
+date: 2026-08-23 01:45:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -51,6 +51,8 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 
 ## I. Professional / Knowledge-Intensive Careers
 
+<!--
+
 |     Rank | Field / Career                                                   | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance |  📈 Market | 💰 Ceiling | **Overall** |
 | -------: | ---------------------------------------------------------------- | :--------------: | :--------------------: | :------------------: | :--------: | :--------: | ----------: |
 | 🥇 **1** | **Medicine / complex surgery**                                   |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |      🟢🟢🟢🟢🟢      |  🟢🟢🟢🟢  | 🟢🟢🟢🟢🟢 |  **9.8/10** |
@@ -74,7 +76,7 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 |   **19** | **Mathematics + scientific computing**                           |      🟡🟡🟡      |         🟡🟡🟡         |       🟢🟢🟢🟢       |   🟡🟡🟡   |   🟡🟡🟡   |  **7.8/10** |
 |   **20** | **Computer science / AI engineering**                            |      🟠🟠🟡      |         🟡🟡🟡         |        🟠🟠🟡        | 🟢🟢🟢🟢🟢 | 🟢🟢🟢🟢🟢 |  **7.5/10** |
 |   **21** | **General software engineering**                                 |       🟠🟠       |         🟠🟠🟡         |        🟠🟠🟡        | 🟢🟢🟢🟢🟢 |  🟢🟢🟢🟢  |  **6.7/10** |
-|   **22** | **Pure mathematics career**                                      |      🟡🟡🟡      |         🟡🟡🟡         |      🟢🟢🟢🟢🟢      |     🔴     |    🟠🟠    |  **6.2/10** |
+|   **22** | **Pure mathematics career**                                      |      🟡🟡🟡      |         🟡🟡🟡         |      🟢🟢🟢🟢🟢      |     🔴     |    🟠🟠    |  **6.2/10** | -->
 
 
 <!-- Seek and you shall find
@@ -103,7 +105,7 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 |     **21** | **General software engineering**                                   |       🟠🟠       |       🟠🟠🟡       |        🟠🟠🟡        |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢      |  **6.7/10** |
 |     **22** | **Pure mathematics career**                                        |      🟡🟡🟡      |       🟡🟡🟡       |      🟢🟢🟢🟢🟢      |        🔴        |         🟠🟠        |  **6.2/10** | -->
 
-## II. Skilled Trades & Technical Occupations
+<!-- ## II. Skilled Trades & Technical Occupations
 
 |     Rank | Trade / Technical Career                                    | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
 | -------: | ----------------------------------------------------------- | :--------------: | :----------------: | :------------------: | :--------------: | :-----------------: | ----------: |
@@ -116,9 +118,9 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 |    **7** | **Advanced HVAC / refrigeration**                           |     🟢🟢🟢🟢     |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |        🟢🟢🟢       |  **7.9/10** |
 |    **8** | **Mechatronics / electro-mechanical automation technician** |     🟢🟢🟢🟢     |      🟢🟢🟢🟢      |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟢🟢🟢       |  **7.4/10** |
 |    **9** | **Calibration / metrology technician**                      |     🟢🟢🟢🟢     |     🟢🟢🟢🟢🟢     |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟢🟢🟢       |  **7.3/10** |
-|   **10** | **Specialized welding / fabrication**                       |     🟢🟢🟢🟢     |       🟢🟢🟢       |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟡🟡🟡       |  **6.6/10** |
+|   **10** | **Specialized welding / fabrication**                       |     🟢🟢🟢🟢     |       🟢🟢🟢       |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟡🟡🟡       |  **6.6/10** | -->
 
-## III. High-Exposure Careers
+<!-- ## III. High-Exposure Careers
 
 |                               Career / Work Type | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Ageism Resistance | 📈 Market Demand | 💰 Ceiling | **Overall** | **Warning**                     |
 | -----------------------------------------------: | :--------------: | :----------------: | :------------------: | :--------------: | :--------: | :---------: | ------------------------------- |
@@ -129,7 +131,7 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 |   **Graphic design / routine visual production** |        🔴        |         🟠         |          🟠          |        🟠        |     🟠     |  **3.6/10** | ⚠️ **High exposure**            |
 |        **Routine programming / code production** |        🟠        |         🟠         |          🟠          |      🟢🟢🟢      |   🟢🟢🟢   |  **5.1/10** | ⚠️ **Increasingly exposed**     |
 |           **Routine translation / localization** |        🟠        |         🟠         |          🟠          |        🟠        |     🟠     |  **4.0/10** | ⚠️ **AI productivity pressure** |
-|  **Routine market-research / survey production** |        🟠        |         🟠         |          🟠          |        🟢        |     🟠     |  **4.5/10** | ⚠️ **Data/analysis exposure**   |
+|  **Routine market-research / survey production** |        🟠        |         🟠         |          🟠          |        🟢        |     🟠     |  **4.5/10** | ⚠️ **Data/analysis exposure**   | -->
 
 <!-- <br>
 <hr>
