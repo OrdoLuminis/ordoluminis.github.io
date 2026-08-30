@@ -1,10 +1,10 @@
 ---
 title: "Jesus Taught That Some Sins Are Greater Than Others, and John Taught That a Habitual Pattern of Sin Reveals Whether a Person Is Born of God"
-date: 2026-07-27 02:15:00 -0500
+date: 2026-07-27 02:20:00 -0500
 categories: [Theology, Degrees of Sin]
 tags: [sin]
 author: grand_master
-published: True
+published: False
 comments: false
 pin: true
 ---
