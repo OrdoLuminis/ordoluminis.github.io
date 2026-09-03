@@ -1,6 +1,6 @@
 ---
-title: "The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing"
-date: 2026-08-23 01:55:00 -0500
+title: "Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor"
+date: 2026-08-23 02:00:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -40,6 +40,8 @@ sup {
 }
 </style>
 
+## The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing
+
 <!-- The Age of AI Will Reward Mastery: Why Education, Expertise, and Human Authority Matter More Than Ever, The Future Belongs to People Who Know What They’re Doing: Why Education Matters More in the Age of AI -->
 
 <!-- <p style="text-indent:2em;">
@@ -64,12 +66,10 @@ Some careers are resistant to AI displacement for a fundamentally different reas
 |    **6** | **Routine professional advisory work**                  |      🟠🟠🟡      |         🟡🟡🟡         |                 🟠                 |        🟡🟡🟡        |     🟢🟢🟢🟢     |        🟢🟢🟢       |  **7.0/10** |
 | 🚫 **7** | **Routine clerical / administrative knowledge work**    |      🔴🔴🟠      |          🟠🟠          |                 🔴                 |         🟠🟠         |     🟡🟡🟡🟡     |         🟡🟡        |  **5.8/10** |
 
-
-
 ## II. Careers Where Knowledge Meets Physical Reality
 
 <p style="text-indent:2em;">
-Laboratory work is a far more complex form of physical labor than skilled trades because frontier experiments do not merely manipulate known physical systems—they produce new information about reality that AI does not possess until someone physically performs and measures the experiment. Likewise, electrical engineering is more resistant to AI displacement than programming or general computer science because it couples computation with physical systems that must be designed, integrated, tested, validated, and ultimately entrusted to human engineers, making physical-world engineering judgment and accountability difficult to replace even when AI can increasingly perform the underlying computational work.</p>
+<strong style="color:GoldenRod;">Laboratory work is a far more complex form of physical labor than skilled trades</strong> because frontier experiments do not merely manipulate known physical systems—they produce new information about reality that AI does not possess until someone physically performs and measures the experiment. Likewise, electrical engineering is more resistant to AI displacement than programming or general computer science because it couples computation with physical systems that must be designed, integrated, tested, validated, and ultimately entrusted to human engineers, making physical-world engineering judgment and accountability difficult to replace even when AI can increasingly perform the underlying computational work.</p>
 
 |      Rank | Major / Career Combination                                                | 🤖 AI Resistance | 👤 Human-Reserved Role | 🌎 Physical / Empirical Bottleneck | 👴 Career Durability | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
 | --------: | ------------------------------------------------------------------------- | :--------------: | :--------------------: | :--------------------------------: | :------------------: | :--------------: | :-----------------: | ----------: |
@@ -135,11 +135,6 @@ Skilled trades are highly resistant to AI because they require embodied work in 
 |    **10** | **Specialized welding / fabrication**                       |     🟢🟢🟢🟢     |         🟢🟢🟢         |       🟢🟢🟢🟢🟢       |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟡🟡🟡       |  **6.8/10** |
 | ⚠️ **11** | **Routine maintenance / general mechanical work**           |     🟢🟢🟢🟢     |         🟢🟢🟢         |        🟢🟢🟢🟢        |        🟢🟢🟢        |     🟡🟡🟡🟡     |        🟡🟡🟡       |  **6.7/10** |
 | 🚫 **12** | **Highly repetitive manual labor**                          |      🟡🟡🟡      |          🟡🟡          |         🟢🟢🟢         |         🟠🟠         |      🟡🟡🟡      |         🟡🟡        |  **5.8/10** |
-
-
-
-
-
 
 ## IV. High-Exposure Careers: The Warning
 
