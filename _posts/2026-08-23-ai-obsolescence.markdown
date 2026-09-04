@@ -1,6 +1,6 @@
 ---
 title: "Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor"
-date: 2026-08-23 02:45:00 -0500
+date: 2026-08-23 02:50:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -48,7 +48,10 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 ## Careers Where Knowledge Meets Physical Reality
 
 <p style="text-indent:2em;">
-<strong>Laboratory work is a far more complex form of physical labor than skilled trades</strong> because frontier experiments do not merely manipulate known physical systems—they produce new information about reality that AI does not possess until someone physically performs and measures the experiment. Likewise, electrical engineering is more resistant to AI displacement than programming or general computer science because it couples computation with physical systems that must be designed, integrated, tested, validated, and ultimately entrusted to human engineers, making physical-world engineering judgment and accountability difficult to replace even when AI can increasingly perform the underlying computational work.</p>
+<strong>Laboratory science is a more complex form of physical work than skilled trades</strong> because scientists do not merely think about the physical world—they physically interact with it to discover things that were not previously known. A scientist may have to build or modify experimental equipment, prepare materials, operate instruments, control temperatures and pressures, collect measurements, troubleshoot failures, and determine whether an unexpected result is real or simply an error. Skilled trades also require physical skill and judgment, but they generally apply an established body of knowledge to solve known types of problems. Frontier laboratory work goes further: the experiment itself can create new information about reality that no AI has access to until someone actually performs the experiment and takes the measurement. Likewise, electrical engineering is more resistant to AI displacement than programming or general computer science because it combines knowledge with physical systems that must be designed, built, tested, validated, and ultimately entrusted to human engineers, making physical-world judgment and responsibility difficult to fully automate.</p>
+
+<!-- <p style="text-indent:2em;">
+<strong>Laboratory work is a far more complex form of physical labor than skilled trades</strong> because frontier experiments do not merely manipulate known physical systems—they produce new information about reality that AI does not possess until someone physically performs and measures the experiment. Likewise, electrical engineering is more resistant to AI displacement than programming or general computer science because it couples computation with physical systems that must be designed, integrated, tested, validated, and ultimately entrusted to human engineers, making physical-world engineering judgment and accountability difficult to replace even when AI can increasingly perform the underlying computational work.</p> -->
 
 | Career family                                     | Representative BLS occupation      | 2025 employment |    Median pay |        90th-percentile pay | Annual openings | Projected growth | New jobs | Median worker age | 55+ share |   Federal pay | Typical entry education           |
 | ------------------------------------------------- | ---------------------------------- | --------------: | ------------: | -------------------------: | --------------: | ---------------: | -------: | ----------------: | --------: | ------------: | --------------------------------- |
