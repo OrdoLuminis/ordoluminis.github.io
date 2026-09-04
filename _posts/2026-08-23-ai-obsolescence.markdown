@@ -1,6 +1,6 @@
 ---
 title: "Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor"
-date: 2026-08-23 02:35:00 -0500
+date: 2026-08-23 02:40:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -200,7 +200,7 @@ The critical distinction is therefore not whether a career is intellectually dem
 
   <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electrical and electronics engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electricians</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/construction-and-extraction/electricians.htm</li>
+  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electricians</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/construction-and-extraction/electricians.htm</li> -->
 
   <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Lawyers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/legal/lawyers.htm</li> -->
 
@@ -212,7 +212,7 @@ The critical distinction is therefore not whether a career is intellectually dem
 
   <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Software developers, quality assurance analysts, and testers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm</li> -->
 
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026). <em>Employed people by detailed occupation and age: 2025 annual averages</em> (Table 11b). <em>Current Population Survey</em>. https://www.bls.gov/cps/cpsaat11b.htm</li> -->
+  <li>U.S. Bureau of Labor Statistics. (2026). <em>Employed people by detailed occupation and age: 2025 annual averages</em> (Table 11b). <em>Current Population Survey</em>. https://www.bls.gov/cps/cpsaat11b.htm</li>
 </ul>
 
 
