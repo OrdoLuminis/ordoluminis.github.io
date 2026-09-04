@@ -1,6 +1,6 @@
 ---
 title: "He Who Mocks the Poor in the Wake of Your Success Is He Who Mocked You in the Depths of Your Struggle. Such Are the Enemies of Christ and His Apostles. They Are to Be Pitied for Their Immense Spiritual Poverty."
-date: 2026-09-03 01:10:00 -0500
+date: 2026-09-03 01:15:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -50,7 +50,7 @@ sup {
 <!-- The Order of Light is a chivalric order, and no matter how wealthy, educated, or powerful God permits us to become, our duty is always to defend the poor from those who would devour them off the face of the earth. Consider the life and plight of the Apostle Paul:</p> -->
 
 <p style="text-indent:2em;">
-The Order of Light is a chivalric order, mirroring the trajectory of the Poor Fellow-Soldiers of Christ, who rose from a foundation of poverty to a pinnacle of power without abandoning their vow to the downtrodden. Thus, no matter how wealthy, educated, or powerful God permits us to become, our duty remains absolute: to defend the poor from those who would devour them off the face of the earth. Consider the life and plight of the Apostle Paul:</p>
+The Order of Light is a chivalric order with humble origins, similar to the Poor Fellow-Soldiers of Christ and of the Temple of Solomon&mdash;who rose from a foundation of poverty to a pinnacle of power without abandoning their vow to the downtrodden. Thus, no matter how wealthy, educated, or powerful God permits us to become, our duty remains absolute: to defend the poor from those who would devour them off the face of the earth. Consider the life and plight of the Apostle Paul:</p>
 
 <blockquote>
 I have traveled on many long journeys. I have faced danger from rivers and from robbers. I have faced danger from my own people, the Jews, as well as from the Gentiles. I have faced danger in the cities, in the deserts, and on the seas. <strong>And I have faced danger from men who claim to be believers but are not [Greek <i>from false brothers</i>].</strong> I have worked hard and long, enduring many sleepless nights. I have been hungry and thirsty and have often gone without food. I have shivered in the cold, without enough clothing to keep me warm (New Living Translation, 2015, 2Cor. 11:26-27).
