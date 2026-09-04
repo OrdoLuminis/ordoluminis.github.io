@@ -1,6 +1,6 @@
 ---
 title: "He Who Mocks the Poor in the Wake of Your Success Is He Who Mocked You in the Depths of Your Struggle. Such Are the Enemies of Christ and His Apostles. They Are to Be Pitied for Their Immense Spiritual Poverty."
-date: 2026-09-03 01:05:00 -0500
+date: 2026-09-03 01:10:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
@@ -81,7 +81,7 @@ The Lord is my shepherd; I have all that I need (NET Bible, 2016, Psa. 23:1).
 ## III. What They Inflict on You, They Inflict on Christ
 
 <p style="text-indent:2em;">
-My desire is to help you, as is Christ’s. You may be enduring their hatred now, but God has sent me to share with you a way of escape that lies beyond their ability to comprehend. Take solace in knowing that what they do to you, they do to Christ, and Christ will repay them with severe retribution. Remember, you who are poor: you have been chosen to be rich in faith above all others and to inherit the Kingdom of God. One day you will reign as immortal kings and priests in the highest heavenly realms, treading streets of gold as though they were no more than ordinary pavement, while your persecutors are cast into the endless torment and eternal nightmares of hell&mdash;writhing like worms in unbearable heat and unquenchable, everlasting fire. Those who preach Christ yet crush the poor are no Christians at all, but children of the devil, their superficial faith a hollow masquerade concealing hearts of darkness and stone. But your vindication is coming, and it will come by the hand of God:</p>
+My desire is to help you, as is Christ’s. You may be enduring their hatred now, but for every closed door God provides a way of escape that lies beyond their ability to prevent or comprehend. Take solace in knowing that what they do to you, they do to Christ, and Christ will repay them with severe retribution. Remember, you who are poor: you have been chosen to be rich in faith above all others and to inherit the Kingdom of God. One day you will reign as immortal kings and priests in the highest heavenly realms, treading streets of gold as though they were no more than ordinary pavement, while your persecutors are cast into the endless torment and eternal nightmares of hell&mdash;writhing like worms in unbearable heat and unquenchable, everlasting fire. Those who preach Christ yet crush the poor are no Christians at all, but children of the devil, their superficial faith a hollow masquerade concealing hearts of darkness and stone. But your vindication is coming, and it will come by the hand of God:</p>
 
 > And the King will answer them, ‘Truly, I say to you, as you did it to one of the least of these my brothers, <span style="font-weight:bold;color:Crimson;">you did it to me</span>.’ (ESV Study Bible, 2008, Matt. 25:40).
 
