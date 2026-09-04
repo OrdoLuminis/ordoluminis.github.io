@@ -1,6 +1,6 @@
 ---
 title: "Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor"
-date: 2026-08-23 02:30:00 -0500
+date: 2026-08-23 02:35:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -81,17 +81,13 @@ Some careers are resistant to AI displacement for a fundamentally different reas
 | **Chemical / process engineering**                | Chemical engineers                 |          21,900 |  **$125,040** |              **>$182,880** |           1,100 |               5% |    1,000 |          **38.1** |      ~22% |     $133,050‡ | Bachelor's                        |
 | **Biophysics / experimental life science**        | Biochemists & biophysicists        |          35,200 |  **$127,410** |              **>$201,110** |           2,900 |              12% |    4,300 |                 — |         — |             — | Doctoral/professional             |
 
-<!--  -->
 
-<small>
+<div style="font-size:0.78em; line-height: 1.4;">
 
-† BLS reports a <strong>$125,040</strong> median for the combined electrical/electronics-engineering category; the component occupations are <strong>$120,630</strong> for electrical engineers and <strong>$130,220</strong> for electronics engineers, except computer. Their corresponding highest-10-percent thresholds are <strong>&gt;$184,300</strong> and <strong>&gt;$206,960</strong>, respectively. The table therefore reports both detailed 90th-percentile thresholds rather than implying that BLS publishes a single 90th-percentile figure for the combined category.<br>
-
-‡ Industry/federal figures are <strong>occupation-specific median wages</strong>, not the occupation-wide median. For example, BLS reports <strong>$135,890</strong> for electronics engineers, except computer in the federal government, <strong>$146,900</strong> for physicists in the federal government, and <strong>$118,440</strong> for nuclear engineers in the federal government.<br>
-
+† BLS reports a <strong>$125,040</strong> median for the combined electrical/electronics-engineering category; the component occupations are <strong>$120,630</strong> for electrical engineers and <strong>$130,220</strong> for electronics engineers, except computer. Their corresponding highest-10-percent thresholds are <strong>&gt;$184,300</strong> and <strong>&gt;$206,960</strong>, respectively. The table therefore reports both detailed 90th-percentile thresholds rather than implying that BLS publishes a single 90th-percentile figure for the combined category.<br><br>
+‡ Industry/federal figures are <strong>occupation-specific median wages</strong>, not the occupation-wide median. For example, BLS reports <strong>$135,890</strong> for electronics engineers, except computer in the federal government, <strong>$146,900</strong> for physicists in the federal government, and <strong>$118,440</strong> for nuclear engineers in the federal government.<br><br>
 § The roughly <strong>1,500 annual openings</strong> figure is reported by BLS for the broader <strong>physicists and astronomers</strong> category; BLS separately reports <strong>23,200 physicist jobs</strong> and <strong>1,700 projected new physicist jobs</strong> for 2025–35.
-
-</small>
+</div>
 
 
 <!-- see and you shall find
