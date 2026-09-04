@@ -1,10 +1,10 @@
 ---
 title: "He Who Mocks the Poor in the Wake of Your Success Is He Who Mocked You in the Depths of Your Struggle. Such Are the Enemies of Christ and His Apostles. They Are to Be Pitied for Their Immense Spiritual Poverty."
-date: 2026-09-03 01:15:00 -0500
+date: 2026-09-03 01:20:00 -0500
 categories: [Meditations, Poverty]
 tags: [poverty, poor, impoverished, blessed]
 author: seven_shepherd
-published: true
+published: False
 comments: false
 pin: true
 ---
