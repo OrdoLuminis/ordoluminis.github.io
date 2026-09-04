@@ -1,6 +1,6 @@
 ---
 title: "Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor"
-date: 2026-08-23 02:05:00 -0500
+date: 2026-08-23 02:10:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -86,12 +86,14 @@ Some careers are resistant to AI displacement for a fundamentally different reas
 <!-- † Some BLS occupations currently have a 2024–34 projection vintage while others have moved to 2025–35, so the table should explicitly identify the projection vintage rather than pretending every number comes from one forecast cycle.<br> -->
 ‡ Industry/federal figures are occupation-specific and should be labeled as such rather than treated as the occupation-wide median.
 </small>
+
+<!--  -->
 <!--
 | **Law / regulated professional authority**        | Lawyers                            |         864,800 |  **$151,160** |       **>$239,200** |          31,500 |              4%† |  35,900† |                 — |         — | **$174,680**† | JD/professional                   |
 | **Software / computing**                          | Software developers                |           1.69M |  **$135,980** |        **$214,670** |        106,100‡ |              10% |        — |          **38.6** |      ~12% |             — | Bachelor's                        |
 | **Skilled electrical trades**                     | Electricians                       |         821,000 |   **$63,190** |                   — |          72,700 |               9% |        — |                 — |         — |             — | Apprenticeship                    |
 
- -->
+-->
 
 <!-- see and you shall find
 |      Rank | Major / Career Combination                                                        | 🤖 AI Resistance | 👤 Human-Reserved Role | 🌎 Physical / Empirical Bottleneck | 👴 Career Durability | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
