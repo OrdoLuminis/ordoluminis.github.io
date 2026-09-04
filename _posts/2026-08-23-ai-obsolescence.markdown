@@ -1,6 +1,6 @@
 ---
 title: "Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor"
-date: 2026-08-23 02:25:00 -0500
+date: 2026-08-23 02:30:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -80,6 +80,8 @@ Some careers are resistant to AI displacement for a fundamentally different reas
 | **Nuclear engineering / nuclear technology**      | Nuclear engineers                  |          16,600 |  **$133,970** |              **>$196,290** |             800 |               0% |      100 |                 — |         — |     $118,440‡ | Bachelor's                        |
 | **Chemical / process engineering**                | Chemical engineers                 |          21,900 |  **$125,040** |              **>$182,880** |           1,100 |               5% |    1,000 |          **38.1** |      ~22% |     $133,050‡ | Bachelor's                        |
 | **Biophysics / experimental life science**        | Biochemists & biophysicists        |          35,200 |  **$127,410** |              **>$201,110** |           2,900 |              12% |    4,300 |                 — |         — |             — | Doctoral/professional             |
+
+<!--  -->
 
 <small>
 
