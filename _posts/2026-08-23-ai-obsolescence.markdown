@@ -1,6 +1,6 @@
 ---
 title: "On Artificial Intelligence Resistant Majors and Careers"
-date: 2026-08-23 03:15:00 -0500
+date: 2026-08-23 03:20:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -181,7 +181,7 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 
   <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Health and safety engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Information security analysts</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm</li>
+  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Information security analysts</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm</li> -->
 
   <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Mechanical engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm</li>
 
