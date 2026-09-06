@@ -1,6 +1,6 @@
 ---
 title: "On Artificial Intelligence Resistant Majors and Careers"
-date: 2026-08-23 03:10:00 -0500
+date: 2026-08-23 03:15:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -74,8 +74,12 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 | **Physics / physical-science R&D**                | Physicists                                       |          23,200 |  **$172,250** |              **>$274,110** |         ~1,500¶ |               7% |    1,700 |                 — |         — | **$146,900‡** | PhD research / bachelor's federal    |
 | **Geoscience / field physical science**           | Geoscientists                                    |          25,400 |  **$101,920** |              **>$200,230** |           1,800 |               5% |    1,300 |                 — |      ~23% |         $119,430‡ | Bachelor's                           |
 | **Atmospheric / observational science**           | Atmospheric scientists, including meteorologists |          10,700 |   **$99,070** |              **>$161,890** |             800 |               3% |      300 |                 — |      ~27% |         $122,700‡ | Bachelor's / graduate for research   |
-| **Cybersecurity / adversarial computing**         | Information security analysts                    |         192,900 |  **$129,180** |              **>$199,850** |          14,100 |              21% |   40,600 |      **41.5** |      ~18% |                 — | Bachelor's + experience              |
-| **Frontier computer / AI research**               | Computer & information research scientists       |          38,600 |  **$140,300** |              **>$230,630** |           2,900 |              22% |    8,400 |                 — |    ~10%¶¶ |         $124,870‡ | Master's / PhD                       |
+
+<!--  -->
+
+<!-- | **Cybersecurity / adversarial computing**         | Information security analysts                    |         192,900 |  **$129,180** |              **>$199,850** |          14,100 |              21% |   40,600 |      **41.5** |      ~18% |                 — | Bachelor's + experience              |
+| **Frontier computer / AI research**               | Computer & information research scientists       |          38,600 |  **$140,300** |              **>$230,630** |           2,900 |              22% |    8,400 |                 — |    ~10%¶¶ |         $124,870‡ | Master's / PhD                       | -->
+
 
 <div style="font-size:0.78em; line-height: 1.4;">
 
