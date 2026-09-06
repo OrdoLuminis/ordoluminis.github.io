@@ -1,6 +1,6 @@
 ---
 title: "On Artificial Intelligence Resistant Majors and Careers"
-date: 2026-08-23 03:20:00 -0500
+date: 2026-08-23 03:25:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -91,7 +91,7 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 
 ¶ The chemists/materials-scientists family combines two BLS occupations. BLS reports a combined <strong>$95,060</strong> median for the family, but the highest-10-percent thresholds are published separately: <strong>>$160,830</strong> for chemists and <strong>>$197,290</strong> for materials scientists. The federal figure shown, <strong>$137,720</strong>, is specifically the federal-government median for <strong>chemists</strong>; BLS does not provide an equivalent federal figure for materials scientists on the same profile.<br><br>
 
-¶¶ The CPS age table reports a small-sample <strong>~10%</strong> 55+ share for computer and information research scientists; BLS's primary employment estimate for the occupation is <strong>38,600</strong> jobs in 2025. Because of the relatively small CPS sample, this age estimate should be treated cautiously.
+<!-- ¶¶ The CPS age table reports a small-sample <strong>~10%</strong> 55+ share for computer and information research scientists; BLS's primary employment estimate for the occupation is <strong>38,600</strong> jobs in 2025. Because of the relatively small CPS sample, this age estimate should be treated cautiously. -->
 
 </div>
 
