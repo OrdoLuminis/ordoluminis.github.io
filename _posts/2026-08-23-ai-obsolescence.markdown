@@ -1,6 +1,6 @@
 ---
 title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 03:35:00 -0500
+date: 2026-08-23 03:40:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -55,18 +55,16 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 
 ## As the Supply of Digitized Knowledge Rises, Demand for Physical Engineering Increases
 
-
 <p style="text-indent:2em;">
 The same principle applies to engineering. As artificial intelligence automates an increasing share of software, programming, and other routine digital knowledge work, demand for engineers is likely to increase rather than disappear. AI can make computation and software development dramatically cheaper, but it does not remove the physical constraints imposed by electricity, materials, thermodynamics, manufacturing, structures, aircraft, machines, and infrastructure. Instead, as digital intelligence becomes more abundant, the limiting factor increasingly shifts toward the ability to turn that intelligence into reliable physical systems. Electrical engineers are needed to design and expand the power, electronics, and semiconductor systems on which AI depends; mechanical engineers are needed to design the machines, manufacturing systems, and physical hardware that embody increasingly capable technology; and aerospace engineers are needed to turn advanced computation into aircraft and spacecraft that must operate within unforgiving physical constraints. The lesson of automation is therefore not that higher education has become obsolete or that people should simply abandon intellectual study in favor of manual work. It is that the nature of valuable expertise is changing. An economy with abundant machine intelligence still needs people with the mathematics, physics, engineering knowledge, and systems-level judgment required to design, build, test, and ultimately take responsibility for the physical technologies that intelligence makes possible.</p>
 
 ## Careers Where Knowledge Meets Physical Reality
 
 <p style="text-indent:2em;">
-
 Some of the clearest examples of this principle lie at the frontier of science and engineering, where knowledge must be tested against reality rather than merely generated on a screen. Laboratory scientists do not simply reason about the physical world; they interact with it to discover things that were not previously known. They may have to build or modify experimental equipment, prepare materials, operate instruments, control temperatures and pressures, collect measurements, troubleshoot failures, and determine whether an unexpected result reflects a genuine phenomenon or an experimental error. Skilled trades require substantial physical skill, judgment, and technical knowledge, and an automated economy will continue to need people capable of constructing, maintaining, repairing, and operating physical systems. But frontier science and engineering perform an additional function: they create new knowledge and new technological capabilities. The distinction matters because AI cannot simply infer an empirical result that has never been measured or guarantee that a design will behave correctly under physical conditions it has never encountered. Electrical, mechanical, aerospace, and other engineering disciplines therefore occupy an important position between abstract computation and physical reality: they take scientific knowledge and computational tools and turn them into systems that must actually work in the world, under real constraints, with real consequences for failure:</p>
 
-| Career family                                         | Representative BLS occupation                    | 2025 employment |        Median pay |            90th-percentile pay | Annual openings | Projected growth | New jobs | Median worker age | 55+ share |       Federal pay | Typical entry education              |
-| ----------------------------------------------------- | ------------------------------------------------ | --------------: | ----------------: | -----------------------------: | --------------: | ---------------: | -------: | ----------------: | --------: | ----------------: | ------------------------------------ |
+| Career family | Representative BLS occupation | 2025 employment | Median pay | 90th-percentile pay | Annual openings | Projected growth | New jobs | Median worker age | 55+ share | Federal pay | Typical entry education |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | **Clinical medicine**                             | Physicians & surgeons                            |         862,800 |  **$275,930** |              **>$488,320** |          22,100 |               4% |   31,300 |                 — |         — |                 — | Doctoral/professional                |
 | **Electrical / electronics engineering**          | Electrical & electronics engineers               |         297,900 | **$125,040**† | **>$184,300 / >$206,960**† |          16,300 |               8% |   23,400 |      **41.4** |      ~24% |         $135,890‡ | Bachelor's                           |
 | **Computer hardware / semiconductor engineering** | Computer hardware engineers                      |          76,100 |  **$161,740** |              **>$225,330** |           4,100 |               9% |    6,900 |      **42.2** |      ~17% |          $136,990 | Bachelor's                           |
@@ -111,18 +109,18 @@ Some of the clearest examples of this principle lie at the frontier of science a
 The New York Fed's 2024 labor-market outcomes by major are striking. Nearly two years after the public release of ChatGPT, the majors most closely associated with advanced technical work remained among those with the lowest underemployment rates in the country. Aerospace engineering stood at 14.7%, civil engineering at 15.6%, computer engineering at 15.8%, chemical engineering at 17.9%, computer science at 19.1%, mechanical engineering at 20.1%, and electrical engineering at 21.1%, against 39.4% across all majors. Their early- and mid-career wages were likewise substantially above the college-graduate average. Whatever expectations there may have been that generative AI would rapidly undermine the value of technically demanding education, these 2024 outcomes show no such collapse.</p>
 
 | Major | Unemployment Rate | Underemployment Rate | Median Wage Early Career | Median Wage Mid-Career | Share with Graduate Degree |
-|---|---:|---:|---:|---:|---:|
+|---|---|---|---|---|---|
 | Nursing | 2.1% | **12.8%** | $70,000 | $87,000 | 30.3% |
-| Aerospace Engineering | 2.2% | **14.7%** | $85,000 | $130,000 | 45.5% |
-| Civil Engineering | 2.3% | **15.6%** | $75,000 | $115,000 | 37.1% |
-| Computer Engineering | 7.8% | **15.8%** | $90,000 | $131,000 | 39.4% |
+| **Aerospace Engineering** | **2.2%** | **14.7%** | $85,000 | $130,000 | 45.5% |
+| **Civil Engineering** | **2.3%** | **15.6%** | $75,000 | $115,000 | 37.1% |
+| **Computer Engineering** | 7.8% | **15.8%** | $90,000 | $131,000 | 39.4% |
 | Special Education | 0.7% | **16.0%** | $46,000 | $56,000 | 61.1% |
 | Elementary Education | 1.2% | **16.2%** | $45,000 | $55,000 | 50.6% |
-| Chemical Engineering | 4.7% | **17.9%** | $85,000 | $135,000 | 48.1% |
+| **Chemical Engineering** | 4.7% | **17.9%** | $85,000 | $135,000 | 48.1% |
 | Construction Services | 2.2% | **17.9%** | $75,000 | $120,000 | 12.2% |
 | Computer Science | 7.0% | **19.1%** | $87,000 | $120,000 | 32.7% |
-| Mechanical Engineering | 4.4% | **20.1%** | $80,000 | $120,000 | 39.1% |
-| Electrical Engineering | 3.2% | **21.1%** | $82,000 | $123,000 | 47.7% |
+| **Mechanical Engineering** | 4.4% | **20.1%** | $80,000 | $120,000 | 39.1% |
+| **Electrical Engineering** | **3.2%** | **21.1%** | $82,000 | $123,000 | 47.7% |
 | Accounting | 2.6% | **21.2%** | $68,000 | $97,000 | 33.7% |
 | Secondary Education | 2.1% | **21.7%** | $45,300 | $62,000 | 52.7% |
 | Early Childhood Education | 6.6% | **22.3%** | $45,000 | $52,000 | 43.8% |
