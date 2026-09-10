@@ -1,6 +1,6 @@
 ---
 title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 03:40:00 -0500
+date: 2026-08-23 03:45:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -53,12 +53,12 @@ sup {
 <p style="text-indent:2em;">
 The fundamental mistake in predicting the future of work is assuming that whatever AI is capable of doing, humans will necessarily allow AI to do. Capability is not the same thing as authority. Would society hand an AI independent launch authority over a nuclear arsenal? Would we permit an AI to make the final determination of whether a patient lives or dies? In high-stakes domains, the answer depends not only on what a machine can do, but on what society is willing to delegate. As AI becomes increasingly capable of performing intellectual and technical tasks, education can become <em>more</em> valuable—not because educated people must compete with AI at performing every task themselves, but because society will continue to need people capable of understanding, supervising, validating, and taking responsibility for increasingly powerful systems. Roles involving scientific judgment, legal accountability, institutional authority, ethical responsibility, and consequential decision-making are therefore less likely to disappear simply because AI can perform many of their underlying tasks. Automation can reduce the amount of human labor required to produce an outcome without eliminating the need for humans who possess the knowledge and authority to determine whether that outcome should be trusted, accepted, or acted upon.</p>
 
-## As the Supply of Digitized Knowledge Rises, Demand for Physical Engineering Increases
+## I. As the Supply of Digitized Knowledge Rises, Demand for Physical Engineering Increases
 
 <p style="text-indent:2em;">
 The same principle applies to engineering. As artificial intelligence automates an increasing share of software, programming, and other routine digital knowledge work, demand for engineers is likely to increase rather than disappear. AI can make computation and software development dramatically cheaper, but it does not remove the physical constraints imposed by electricity, materials, thermodynamics, manufacturing, structures, aircraft, machines, and infrastructure. Instead, as digital intelligence becomes more abundant, the limiting factor increasingly shifts toward the ability to turn that intelligence into reliable physical systems. Electrical engineers are needed to design and expand the power, electronics, and semiconductor systems on which AI depends; mechanical engineers are needed to design the machines, manufacturing systems, and physical hardware that embody increasingly capable technology; and aerospace engineers are needed to turn advanced computation into aircraft and spacecraft that must operate within unforgiving physical constraints. The lesson of automation is therefore not that higher education has become obsolete or that people should simply abandon intellectual study in favor of manual work. It is that the nature of valuable expertise is changing. An economy with abundant machine intelligence still needs people with the mathematics, physics, engineering knowledge, and systems-level judgment required to design, build, test, and ultimately take responsibility for the physical technologies that intelligence makes possible.</p>
 
-## Careers Where Knowledge Meets Physical Reality
+## II. Careers Where Knowledge Meets Physical Reality
 
 <p style="text-indent:2em;">
 Some of the clearest examples of this principle lie at the frontier of science and engineering, where knowledge must be tested against reality rather than merely generated on a screen. Laboratory scientists do not simply reason about the physical world; they interact with it to discover things that were not previously known. They may have to build or modify experimental equipment, prepare materials, operate instruments, control temperatures and pressures, collect measurements, troubleshoot failures, and determine whether an unexpected result reflects a genuine phenomenon or an experimental error. Skilled trades require substantial physical skill, judgment, and technical knowledge, and an automated economy will continue to need people capable of constructing, maintaining, repairing, and operating physical systems. But frontier science and engineering perform an additional function: they create new knowledge and new technological capabilities. The distinction matters because AI cannot simply infer an empirical result that has never been measured or guarantee that a design will behave correctly under physical conditions it has never encountered. Electrical, mechanical, aerospace, and other engineering disciplines therefore occupy an important position between abstract computation and physical reality: they take scientific knowledge and computational tools and turn them into systems that must actually work in the world, under real constraints, with real consequences for failure:</p>
@@ -103,7 +103,7 @@ Some of the clearest examples of this principle lie at the frontier of science a
 
 </div>
 
-## Labor Market Outcomes of College Graduates by Major
+## III. Labor Market Outcomes of College Graduates by Major
 
 <p style="text-indent:2em;">
 The New York Fed's 2024 labor-market outcomes by major are striking. Nearly two years after the public release of ChatGPT, the majors most closely associated with advanced technical work remained among those with the lowest underemployment rates in the country. Aerospace engineering stood at 14.7%, civil engineering at 15.6%, computer engineering at 15.8%, chemical engineering at 17.9%, computer science at 19.1%, mechanical engineering at 20.1%, and electrical engineering at 21.1%, against 39.4% across all majors. Their early- and mid-career wages were likewise substantially above the college-graduate average. Whatever expectations there may have been that generative AI would rapidly undermine the value of technically demanding education, these 2024 outcomes show no such collapse.</p>
@@ -186,6 +186,24 @@ The New York Fed's 2024 labor-market outcomes by major are striking. Nearly two 
 | **Overall** | **4.2%** | **39.4%** | **$58,000** | **$87,000** | **39.3%** |
 
 
+## IV. Predictions for the Future of Work
+
+<p style="text-indent:2em;">
+The most dramatic forecasts of artificial intelligence go considerably further, predicting that AI and robotics will eventually eliminate the economic necessity of human labor altogether. Elon Musk, for example, has predicted that within roughly ten to twenty years, work could become optional. Such a future is conceivable, but it is fundamentally different from claiming that AI will soon eliminate the economic value of education or engineering. Between today's economy and a hypothetical world in which machines can autonomously reproduce, manufacture, maintain, and improve every physical system on which civilization depends lies an enormous technological and industrial transition. That transition requires electrical power, semiconductors, factories, machines, vehicles, infrastructure, and the engineers capable of designing and integrating them. The possibility that human labor could eventually become unnecessary therefore does not imply that engineers are becoming unnecessary now; indeed, the attempt to automate the physical world may initially increase demand for the expertise required to build it:
+</p>
+
+<blockquote>
+<strong>Musk:</strong> In the long term where will things end up? <strong style="color:GoldenRod;">I don’t know what long term is.</strong> <strong>Maybe it’s 10-20 years, something like that.</strong> For me that’s long term. My prediction is that work will be optional. It’ll be like playing sports or a video game or something like that. If you want to work — in the same way like you can go to the store and just buy some vegetables or you could grow vegetables in your backyard. It’s much harder to grow vegetables… but some people still do it because they like growing vegetables. That will be what work is like — optional. <strong style="color:GoldenRod;">Between now and then there’s actually a lot of work to get to that point.</strong> I always recommend people read Iain Banks’s culture books to get a sense for what a probable positive AI future is like. And interestingly in those books, money no longer exists. My guess is if you go out long enough, assuming there’s a continued improvement in AI and robotics, which there seems likely, the money will stop being relevant at some point in the future. Now <strong style="color:GoldenRod;">there will still be constraints on power like electricity and mass. The fundamental physics elements will still be constraints.</strong> But I think at some point currency becomes irrelevant (Shimabukuro, 2025, para. 3).
+</blockquote>
+
+<p style="text-indent:2em;">
+More importantly, even this endpoint remains constrained by physical reality. <strong>Musk himself acknowledges that “there will still be constraints on power,” including electricity and mass, and that “the fundamental physics elements will still be constraints.”</strong> These are not peripheral details; they are engineering problems. An increasingly automated civilization would still have to generate electricity, manufacture machines, process materials, expand infrastructure, and ensure that physical systems operate reliably at scale. AI may eventually automate much of the work engineers perform, but the expansion of AI itself requires people capable of solving the physical and technical constraints that make that expansion possible. The more aggressively civilization automates the physical world, the greater the engineering required to build and sustain it.
+</p>
+
+<p style="text-indent:2em;">
+The rise of artificial intelligence is therefore not a reason to abandon higher education or technical specialization. As digital intelligence becomes more abundant, the value of expertise may shift toward human judgment, institutional responsibility, scientific discovery, and the engineering required to turn computation into reliable physical systems. AI may ultimately automate much of the work engineers perform, but an increasingly automated civilization must still be built—and building it remains an enormous engineering problem.
+</p>
+
 <!-- see and you shall find
 |      Rank | Major / Career Combination                                                        | 🤖 AI Resistance | 👤 Human-Reserved Role | 🌎 Physical / Empirical Bottleneck | 👴 Career Durability | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
 | --------: | --------------------------------------------------------------------------------- | :--------------: | :--------------------: | :--------------------------------: | :------------------: | :--------------: | :-----------------: | ----------: |
@@ -245,7 +263,9 @@ The New York Fed's 2024 labor-market outcomes by major are striking. Nearly two 
 
 <ul class="references">
 
-  <li>Federal Reserve Bank of New York. (2026). The labor market for recent college graduates. https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major</li>
+  <li>Federal Reserve Bank of New York. (2026). <em>The labor market for recent college graduates</em>. https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major</li>
+
+  <li>Shimabukuro, J. (2025, November 19). <em>Musk and Huang at US-Saudi Forum 19 Nov 2025: An informal transcript</em>. Educational Technology and Change Journal. https://etcjournal.com/2025/11/19/musk-and-huang-at-us-saudi-forum-19-nov-2025-an-informal-transcript/</li>
 
   <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Aerospace engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</li>
 
