@@ -1,6 +1,6 @@
 ---
 title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 03:45:00 -0500
+date: 2026-08-23 03:50:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -193,7 +193,7 @@ The most dramatic forecasts of artificial intelligence go considerably further, 
 </p>
 
 <blockquote>
-<strong>Musk:</strong> In the long term where will things end up? <strong style="color:GoldenRod;">I don’t know what long term is.</strong> <strong>Maybe it’s 10-20 years, something like that.</strong> For me that’s long term. My prediction is that work will be optional. It’ll be like playing sports or a video game or something like that. If you want to work — in the same way like you can go to the store and just buy some vegetables or you could grow vegetables in your backyard. It’s much harder to grow vegetables… but some people still do it because they like growing vegetables. That will be what work is like — optional. <strong style="color:GoldenRod;">Between now and then there’s actually a lot of work to get to that point.</strong> I always recommend people read Iain Banks’s culture books to get a sense for what a probable positive AI future is like. And interestingly in those books, money no longer exists. My guess is if you go out long enough, assuming there’s a continued improvement in AI and robotics, which there seems likely, the money will stop being relevant at some point in the future. Now <strong style="color:GoldenRod;">there will still be constraints on power like electricity and mass. The fundamental physics elements will still be constraints.</strong> But I think at some point currency becomes irrelevant (Shimabukuro, 2025, para. 3).
+<strong>Musk:</strong> In the long term where will things end up? <strong style="color:GoldenRod;">I don’t know what long term is.</strong> Maybe it’s 10-20 years, something like that. For me that’s long term. My prediction is that work will be optional. ... <strong style="color:GoldenRod;">Between now and then there’s actually a lot of work to get to that point.</strong> ... My guess is if you go out long enough, assuming there’s a continued improvement in AI and robotics, which there seems likely, the money will stop being relevant at some point in the future. Now <strong style="color:GoldenRod;">there will still be constraints on power like electricity and mass. The fundamental physics elements will still be constraints.</strong> But I think at some point currency becomes irrelevant (Shimabukuro, 2025, para. 3).
 </blockquote>
 
 <p style="text-indent:2em;">
