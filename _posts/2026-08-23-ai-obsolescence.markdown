@@ -1,6 +1,6 @@
 ---
-title: "On Artificial Intelligence Resistant Majors and Careers"
-date: 2026-08-23 03:25:00 -0500
+title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
+date: 2026-08-23 03:35:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -40,20 +40,30 @@ sup {
 }
 </style>
 
+<!-- On Artificial Intelligence Resistant Majors and Careers -->
+
 <!-- Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor -->
+
+<!-- The Christian Intellectual Crisis: Why Anti-Intellectualism Surrenders Power to the Left and Why We Should Not Be Fearful of Intellectual Hard Labor -->
+
+<!-- Why Christians Should Heed the Counsel of Educated Men and Reject Blue-Collar Anti-Intellectualism, Why Such Thinking Surrenders Power to Left, and Why We Should Not Be Fearful of Intellectual Hard Labor  -->
 
 <!-- ## The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing -->
 
 <p style="text-indent:2em;">
-The fundamental mistake in predicting the future of work is assuming that whatever AI can do, humans will necessarily allow AI to do. Would humanity hand the launch authority for its nuclear arsenal to an AI? Would we allow an AI to make the final decision on whether a patient lives or dies? These questions expose the distinction between what AI may be capable of doing and what society will actually permit it to do. As AI becomes increasingly capable of performing intellectual and technical tasks, education will become more valuable&mdash;not because humans must compete with AI in performing those tasks, but because society will increasingly rely on educated humans to supervise, validate, and take responsibility for AI-assisted decisions. AI will not fully obsolete positions in which humans deliberately retain ethical or moral authority, legal accountability, scientific judgment, institutional legitimacy, human agency, or ownership, even when AI becomes capable of performing the underlying work.</p>
+The fundamental mistake in predicting the future of work is assuming that whatever AI is capable of doing, humans will necessarily allow AI to do. Capability is not the same thing as authority. Would society hand an AI independent launch authority over a nuclear arsenal? Would we permit an AI to make the final determination of whether a patient lives or dies? In high-stakes domains, the answer depends not only on what a machine can do, but on what society is willing to delegate. As AI becomes increasingly capable of performing intellectual and technical tasks, education can become <em>more</em> valuable—not because educated people must compete with AI at performing every task themselves, but because society will continue to need people capable of understanding, supervising, validating, and taking responsibility for increasingly powerful systems. Roles involving scientific judgment, legal accountability, institutional authority, ethical responsibility, and consequential decision-making are therefore less likely to disappear simply because AI can perform many of their underlying tasks. Automation can reduce the amount of human labor required to produce an outcome without eliminating the need for humans who possess the knowledge and authority to determine whether that outcome should be trusted, accepted, or acted upon.</p>
+
+## As the Supply of Digitized Knowledge Rises, Demand for Physical Engineering Increases
+
+
+<p style="text-indent:2em;">
+The same principle applies to engineering. As artificial intelligence automates an increasing share of software, programming, and other routine digital knowledge work, demand for engineers is likely to increase rather than disappear. AI can make computation and software development dramatically cheaper, but it does not remove the physical constraints imposed by electricity, materials, thermodynamics, manufacturing, structures, aircraft, machines, and infrastructure. Instead, as digital intelligence becomes more abundant, the limiting factor increasingly shifts toward the ability to turn that intelligence into reliable physical systems. Electrical engineers are needed to design and expand the power, electronics, and semiconductor systems on which AI depends; mechanical engineers are needed to design the machines, manufacturing systems, and physical hardware that embody increasingly capable technology; and aerospace engineers are needed to turn advanced computation into aircraft and spacecraft that must operate within unforgiving physical constraints. The lesson of automation is therefore not that higher education has become obsolete or that people should simply abandon intellectual study in favor of manual work. It is that the nature of valuable expertise is changing. An economy with abundant machine intelligence still needs people with the mathematics, physics, engineering knowledge, and systems-level judgment required to design, build, test, and ultimately take responsibility for the physical technologies that intelligence makes possible.</p>
 
 ## Careers Where Knowledge Meets Physical Reality
 
 <p style="text-indent:2em;">
-<strong>Laboratory science is a more complex form of physical work than skilled trades</strong> because scientists do not merely think about the physical world—they physically interact with it to discover things that were not previously known. A scientist may have to build or modify experimental equipment, prepare materials, operate instruments, control temperatures and pressures, collect measurements, troubleshoot failures, and determine whether an unexpected result is real or simply an error. Skilled trades also require physical skill and judgment, but they generally apply an established body of knowledge to solve known types of problems. Frontier laboratory work goes further: the experiment itself can create new information about reality that no AI has access to until someone actually performs the experiment and takes the measurement. Likewise, electrical engineering is more resistant to AI displacement than programming or general computer science because it combines knowledge with physical systems that must be designed, built, tested, validated, and ultimately entrusted to human engineers, making physical-world judgment and responsibility difficult to fully automate.</p>
 
-<!-- <p style="text-indent:2em;">
-<strong>Laboratory work is a far more complex form of physical labor than skilled trades</strong> because frontier experiments do not merely manipulate known physical systems—they produce new information about reality that AI does not possess until someone physically performs and measures the experiment. Likewise, electrical engineering is more resistant to AI displacement than programming or general computer science because it couples computation with physical systems that must be designed, integrated, tested, validated, and ultimately entrusted to human engineers, making physical-world engineering judgment and accountability difficult to replace even when AI can increasingly perform the underlying computational work.</p> -->
+Some of the clearest examples of this principle lie at the frontier of science and engineering, where knowledge must be tested against reality rather than merely generated on a screen. Laboratory scientists do not simply reason about the physical world; they interact with it to discover things that were not previously known. They may have to build or modify experimental equipment, prepare materials, operate instruments, control temperatures and pressures, collect measurements, troubleshoot failures, and determine whether an unexpected result reflects a genuine phenomenon or an experimental error. Skilled trades require substantial physical skill, judgment, and technical knowledge, and an automated economy will continue to need people capable of constructing, maintaining, repairing, and operating physical systems. But frontier science and engineering perform an additional function: they create new knowledge and new technological capabilities. The distinction matters because AI cannot simply infer an empirical result that has never been measured or guarantee that a design will behave correctly under physical conditions it has never encountered. Electrical, mechanical, aerospace, and other engineering disciplines therefore occupy an important position between abstract computation and physical reality: they take scientific knowledge and computational tools and turn them into systems that must actually work in the world, under real constraints, with real consequences for failure:</p>
 
 | Career family                                         | Representative BLS occupation                    | 2025 employment |        Median pay |            90th-percentile pay | Annual openings | Projected growth | New jobs | Median worker age | 55+ share |       Federal pay | Typical entry education              |
 | ----------------------------------------------------- | ------------------------------------------------ | --------------: | ----------------: | -----------------------------: | --------------: | ---------------: | -------: | ----------------: | --------: | ----------------: | ------------------------------------ |
@@ -94,6 +104,88 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 <!-- ¶¶ The CPS age table reports a small-sample <strong>~10%</strong> 55+ share for computer and information research scientists; BLS's primary employment estimate for the occupation is <strong>38,600</strong> jobs in 2025. Because of the relatively small CPS sample, this age estimate should be treated cautiously. -->
 
 </div>
+
+## Labor Market Outcomes of College Graduates by Major
+
+<p style="text-indent:2em;">
+The New York Fed's 2024 labor-market outcomes by major are striking. Nearly two years after the public release of ChatGPT, the majors most closely associated with advanced technical work remained among those with the lowest underemployment rates in the country. Aerospace engineering stood at 14.7%, civil engineering at 15.6%, computer engineering at 15.8%, chemical engineering at 17.9%, computer science at 19.1%, mechanical engineering at 20.1%, and electrical engineering at 21.1%, against 39.4% across all majors. Their early- and mid-career wages were likewise substantially above the college-graduate average. Whatever expectations there may have been that generative AI would rapidly undermine the value of technically demanding education, these 2024 outcomes show no such collapse.</p>
+
+| Major | Unemployment Rate | Underemployment Rate | Median Wage Early Career | Median Wage Mid-Career | Share with Graduate Degree |
+|---|---:|---:|---:|---:|---:|
+| Nursing | 2.1% | **12.8%** | $70,000 | $87,000 | 30.3% |
+| Aerospace Engineering | 2.2% | **14.7%** | $85,000 | $130,000 | 45.5% |
+| Civil Engineering | 2.3% | **15.6%** | $75,000 | $115,000 | 37.1% |
+| Computer Engineering | 7.8% | **15.8%** | $90,000 | $131,000 | 39.4% |
+| Special Education | 0.7% | **16.0%** | $46,000 | $56,000 | 61.1% |
+| Elementary Education | 1.2% | **16.2%** | $45,000 | $55,000 | 50.6% |
+| Chemical Engineering | 4.7% | **17.9%** | $85,000 | $135,000 | 48.1% |
+| Construction Services | 2.2% | **17.9%** | $75,000 | $120,000 | 12.2% |
+| Computer Science | 7.0% | **19.1%** | $87,000 | $120,000 | 32.7% |
+| Mechanical Engineering | 4.4% | **20.1%** | $80,000 | $120,000 | 39.1% |
+| Electrical Engineering | 3.2% | **21.1%** | $82,000 | $123,000 | 47.7% |
+| Accounting | 2.6% | **21.2%** | $68,000 | $97,000 | 33.7% |
+| Secondary Education | 2.1% | **21.7%** | $45,300 | $62,000 | 52.7% |
+| Early Childhood Education | 6.6% | **22.3%** | $45,000 | $52,000 | 43.8% |
+| Miscellaneous Physical Sciences | 2.5% | **22.5%** | $60,000 | $81,000 | 54.0% |
+| Miscellaneous Education | 1.1% | **24.5%** | $48,000 | $60,000 | 59.9% |
+| Information Systems & Management | 6.0% | **25.6%** | $67,000 | $100,000 | 27.9% |
+| Architecture | 6.8% | **25.7%** | $60,000 | $91,000 | 40.8% |
+| Mathematics | 5.8% | **26.2%** | $70,000 | $100,000 | 51.3% |
+| Miscellaneous Engineering | 3.7% | **26.4%** | $75,000 | $105,000 | 46.3% |
+| Finance | 2.8% | **27.8%** | $70,000 | $112,000 | 31.5% |
+| General Education | 2.6% | **28.1%** | $45,000 | $56,000 | 51.7% |
+| Business Analytics | 5.0% | **28.7%** | $72,000 | $109,000 | 26.7% |
+| Physics | 6.6% | **29.1%** | $67,000 | $105,000 | 67.3% |
+| Social Services | 1.9% | **30.1%** | $43,000 | $60,000 | 53.8% |
+| Pharmacy | 5.6% | **30.5%** | $40,000 | $85,000 | 67.4% |
+| General Engineering | 4.5% | **31.1%** | $75,000 | $105,000 | 37.1% |
+| Earth Sciences | 3.8% | **31.4%** | $50,000 | $75,000 | 45.6% |
+| Industrial Engineering | 4.2% | **31.7%** | $83,000 | $100,000 | 40.6% |
+| Economics | 3.5% | **33.1%** | $72,000 | $115,000 | 41.6% |
+| Commercial Art & Graphic Design | 5.7% | **37.1%** | $50,000 | $80,000 | 13.0% |
+| General Social Sciences | 2.3% | **38.0%** | $45,200 | $75,000 | 39.3% |
+| Advertising and Public Relations | 5.7% | **38.1%** | $60,000 | $92,000 | 22.8% |
+| Treatment Therapy | 2.6% | **39.1%** | $50,000 | $70,000 | 53.4% |
+| Biochemistry | 2.7% | 42.0% | $52,000 | $100,000 | 71.9% |
+| Chemistry | 4.3% | 42.8% | $50,000 | $86,000 | 67.5% |
+| Geography | 1.6% | 43.0% | $50,000 | $88,000 | 34.7% |
+| Journalism | 2.3% | 43.3% | $49,000 | $87,000 | 26.3% |
+| Engineering Technologies | 1.7% | 44.4% | $65,000 | $104,000 | 27.9% |
+| Health Services | 3.8% | 45.1% | $50,000 | $67,000 | 52.9% |
+| International Affairs | 6.1% | 45.2% | $64,000 | $90,000 | 46.3% |
+| Interdisciplinary Studies | 3.9% | 45.2% | $52,000 | $80,000 | 40.4% |
+| Art History | 6.7% | 45.3% | $45,000 | $91,000 | 47.8% |
+| Public Policy and Law | 2.2% | 45.5% | $55,000 | $80,000 | 47.0% |
+| Family and Consumer Sciences | 4.3% | 45.6% | $48,000 | $65,000 | 35.7% |
+| Miscellaneous Biological Science | 4.4% | 46.9% | $46,000 | $80,000 | 59.5% |
+| Medical Technicians | 6.2% | 47.0% | $62,000 | $80,000 | 24.7% |
+| Philosophy | 5.1% | 47.1% | $52,000 | $80,000 | 56.9% |
+| Theology and Religion | 3.1% | 47.5% | $41,600 | $66,000 | 46.4% |
+| Psychology | 5.0% | 48.3% | $45,000 | $72,000 | 51.9% |
+| Nutrition Sciences | 4.5% | 48.3% | $50,000 | $70,000 | 50.6% |
+| English Language | 6.1% | 48.5% | $48,000 | $76,000 | 46.2% |
+| Political Science | 4.5% | 48.7% | $52,000 | $100,000 | 52.7% |
+| Miscellaneous Technologies | 3.6% | 49.0% | $54,000 | $96,000 | 19.5% |
+| Marketing | 4.4% | 49.3% | $60,000 | $100,000 | 19.7% |
+| Ethnic Studies | 4.9% | 49.6% | $52,000 | $90,000 | 51.2% |
+| History | 4.3% | 50.1% | $47,500 | $80,000 | 51.4% |
+| General Business | 4.3% | 50.4% | $60,000 | $90,000 | 25.3% |
+| Environmental Studies | 6.3% | 50.5% | $50,000 | $80,000 | 31.9% |
+| Biology | 4.3% | 51.1% | $45,000 | $83,000 | 64.0% |
+| Sociology | 4.6% | 52.0% | $49,900 | $79,000 | 39.1% |
+| Mass Media | 5.2% | 52.1% | $50,000 | $80,000 | 19.3% |
+| Business Management | 3.8% | 52.6% | $56,000 | $82,000 | 25.3% |
+| Communications | 3.9% | 53.0% | $52,000 | $88,000 | 24.7% |
+| Animal and Plant Sciences | 2.5% | 53.5% | $46,600 | $79,000 | 36.6% |
+| Foreign Language | 1.6% | 54.0% | $48,000 | $77,000 | 53.1% |
+| Liberal Arts | 3.8% | 54.6% | $45,000 | $75,000 | 30.9% |
+| Anthropology | 7.9% | 55.3% | $45,000 | $65,000 | 48.2% |
+| Agriculture | 1.4% | 57.1% | $56,000 | $80,000 | 22.5% |
+| Leisure and Hospitality | 2.7% | 58.1% | $45,000 | $75,000 | 36.1% |
+| Fine Arts | 7.7% | 58.9% | $45,000 | $72,000 | 22.5% |
+| Performing Arts | 7.0% | 63.9% | $44,000 | $75,000 | 38.4% |
+| Criminal Justice | 3.6% | 65.8% | $50,000 | $80,000 | 24.6% |
+| **Overall** | **4.2%** | **39.4%** | **$58,000** | **$87,000** | **39.3%** |
 
 
 <!-- see and you shall find
@@ -154,6 +246,8 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 <span></span>
 
 <ul class="references">
+
+  <li>Federal Reserve Bank of New York. (2026). The labor market for recent college graduates. https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major</li>
 
   <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Aerospace engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</li>
 
