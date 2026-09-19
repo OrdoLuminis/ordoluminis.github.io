@@ -1,6 +1,6 @@
 ---
 title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 03:50:00 -0500
+date: 2026-08-23 03:55:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -267,49 +267,49 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
 
   <li>Shimabukuro, J. (2025, November 19). <em>Musk and Huang at US-Saudi Forum 19 Nov 2025: An informal transcript</em>. Educational Technology and Change Journal. https://etcjournal.com/2025/11/19/musk-and-huang-at-us-saudi-forum-19-nov-2025-an-informal-transcript/</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Aerospace engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Aerospace engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Atmospheric scientists, including meteorologists</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/life-physical-and-social-science/atmospheric-scientists-including-meteorologists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Atmospheric scientists, including meteorologists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/atmospheric-scientists-including-meteorologists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Bioengineers and biomedical engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Bioengineers and biomedical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Biochemists and biophysicists</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Biochemists-and-biophysicists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Biochemists and biophysicists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Biochemists-and-biophysicists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemical engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemists and materials scientists</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemists and materials scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Civil engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Civil engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer and information research scientists</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer and information research scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer hardware engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer hardware engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electrical and electronics engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electrical and electronics engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
 
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electricians</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/construction-and-extraction/electricians.htm</li> -->
+  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electricians</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/construction-and-extraction/electricians.htm</li> -->
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Geoscientists</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/life-physical-and-social-science/geoscientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Geoscientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/geoscientists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Health and safety engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Health and safety engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm</li>
 
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Information security analysts</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm</li> -->
+  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Information security analysts</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm</li> -->
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Mechanical engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Mechanical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Materials engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Materials engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Medical scientists</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Medical scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Nuclear engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Nuclear engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicians and surgeons</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicians and surgeons</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicists and astronomers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicists and astronomers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
 
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Lawyers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/legal/lawyers.htm</li> -->
+  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Lawyers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/legal/lawyers.htm</li> -->
 
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Software developers, quality assurance analysts, and testers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm</li> -->
+  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Software developers, quality assurance analysts, and testers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm</li> -->
 
   <li>U.S. Bureau of Labor Statistics. (2026). <em>Employed people by detailed occupation and age: 2025 annual averages</em> (Table 11b). <em>Current Population Survey</em>. https://www.bls.gov/cps/cpsaat11b.htm</li>
 
@@ -319,19 +319,19 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
 
 <!-- <ul class="references">
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Biochemists and biophysicists</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Biochemists-and-biophysicists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Biochemists and biophysicists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Biochemists-and-biophysicists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemical engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer hardware engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer hardware engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electrical and electronics engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electrical and electronics engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Nuclear engineers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Nuclear engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicians and surgeons</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicians and surgeons</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicists and astronomers</em>. <em>Occupational Outlook Handbook</em>. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicists and astronomers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
 
   <li>U.S. Bureau of Labor Statistics. (2026). <em>Employed people by detailed occupation and age: 2025 annual averages</em> (Table 11b). <em>Current Population Survey</em>. https://www.bls.gov/cps/cpsaat11b.htm</li>
 </ul> -->
