@@ -1,6 +1,6 @@
 ---
 title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 04:10:00 -0500
+date: 2026-08-23 04:15:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -43,7 +43,7 @@ sup {
 
 <!-- On Artificial Intelligence Resistant Majors and Careers -->
 
-<!-- Why We Should Heed the Counsel of Educated Men Over the “Just Get a Trade” Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor -->
+<!-- Why We Should Heed the Counsel of Educated Men Over the &ldquo;Just Get a Trade&rdquo; Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor -->
 
 <!-- The Christian Intellectual Crisis: Why Anti-Intellectualism Surrenders Power to the Left and Why We Should Not Be Fearful of Intellectual Hard Labor -->
 
@@ -196,10 +196,10 @@ A September 2026 working paper from the U.S. Census Bureau’s Center for Econom
 
 <!-- <blockquote>
   <small>
-    Note: “N” denotes the number of graduates between 2018-2022 who majored in the specifed feld. “Beta” is the Eloundou et al., GPT-4 Beta score. “Core”
-    is the Eisfeldt et al. core task exposure score. “Usage” is the Handa et al. observed task-usage score. All three scores are individually standardized to be mean
-    zero with a variance of one. “Share top” is the share of a major’s occupations in the top quintile of occupation-level exposure defned by the GPT-4 Beta score.
-    “Employment” and “Earnings” are the major-specifc coeffcients (centered at zero) and standard errors (clustered by major) for the year 2024 (with 2022 as the
+    Note: &ldquo;N&rdquo; denotes the number of graduates between 2018-2022 who majored in the specifed feld. &ldquo;Beta&rdquo; is the Eloundou et al., GPT-4 Beta score. &ldquo;Core&rdquo;
+    is the Eisfeldt et al. core task exposure score. &ldquo;Usage&rdquo; is the Handa et al. observed task-usage score. All three scores are individually standardized to be mean
+    zero with a variance of one. &ldquo;Share top&rdquo; is the share of a major’s occupations in the top quintile of occupation-level exposure defned by the GPT-4 Beta score.
+    &ldquo;Employment&rdquo; and &ldquo;Earnings&rdquo; are the major-specifc coeffcients (centered at zero) and standard errors (clustered by major) for the year 2024 (with 2022 as the
     reference year) from the event study in Equation (2) with the employment rate and log full-quarter earnings from dominant job as outcomes. Horizontal lines mark
     the decile cutoffs based on the GPT-4 Beta score. Only majors with at least 1,000 graduates are included (Orr et al., 2026, p. 59).
   </small>
@@ -260,9 +260,18 @@ A September 2026 working paper from the U.S. Census Bureau’s Center for Econom
 |   51 | <strong style="color:Crimson;">Computer Science</strong>                                  |      43,500 |  <strong style="color:Crimson;">3.40</strong> |  2.90 |  1.65 |     0.662 |     <strong style="color:Crimson;">-0.061 (0.001)</strong> | -0.190 (0.003) |
 |   52 | <strong style="color:Crimson;">Computer Engineering</strong>                              |      18,500 |  <strong style="color:Crimson;">3.17</strong> |  2.56 |  1.18 |     0.598 | <strong style="color:Crimson;">-0.068 (0.002)</strong> | -0.120 (0.004) |
 
-## V. Predictions for the Future of Work
 
-### 5.1 Elon Musk &mdash; Extreme
+## V. What Happened After the Initial Shock? Evidence Through 2026
+
+The Census evidence shows that employment outcomes had already begun diverging across fields by 2024, but newer evidence through 2026 suggests that the pattern is becoming clearer without amounting to economy-wide job destruction. Stanford's August 2026 analysis of payroll data covering millions of U.S. workers through June 2026 finds &ldquo;<strong>no evidence of widespread, economy-wide job displacement</strong>,&rdquo; while employment of young workers in highly AI-exposed occupations stands &ldquo;19% below where it would be had it kept pace with that of their less-exposed peers&rdquo; (Brynjolfsson et al., 2026). Stanford further finds that the divergence operates primarily through reduced hiring of young workers and is concentrated in occupations where AI use &ldquo;primarily substitutes for human tasks,&rdquo; while employment is flat or rising where AI primarily complements workers (Brynjolfsson et al., 2026). Revelio Labs' 2026 labor-market tracker independently finds &ldquo;continued weakness in junior high-exposure roles&rdquo; and reports that &ldquo;87% of how work is changing happens inside jobs, instead of a change in the job mix&rdquo; (Revelio Labs, 2026). The emerging picture therefore is not that AI simply eliminates occupations, but that it is changing the economic value and composition of particular forms of work, with the strongest pressure appearing where tasks can be reproduced by software and less evidence of wholesale displacement where work remains tied to physical systems, human interaction, or other constraints that software alone cannot remove. This is broadly consistent with the Census results above: the most exposed computing fields experienced some of the weakest outcomes, while several physical engineering fields continued to show positive employment coefficients.
+
+## VI. What Does the Next Decade Look Like? The BLS Outlook
+
+The forward-looking evidence points in the same general direction, although with important qualifications. In its new AI-exposure framework accompanying the 2025–2035 employment projections, the Bureau of Labor Statistics combines theoretical measures of AI capability with observed AI-use measures and classifies occupations into four relative exposure categories: Low, Moderate, High, and Very High. BLS explicitly cautions that &ldquo;<strong>Exposure does not imply job loss, productivity gains, automation probability, or wage effects</strong>&rdquo; and that &ldquo;<strong>An exposure category is not a forecast of employment growth or decline</strong>&rdquo; (U.S. Bureau of Labor Statistics [BLS], 2026b). The accompanying employment projections nevertheless provide a useful test of the physical-bottleneck thesis: total U.S. employment is projected to grow <strong>3.5% from 2025 to 2035</strong>, while &ldquo;<strong>Overall employment of electrical and electronics engineers is projected to grow 8 percent from 2025 to 2035</strong>&rdquo; (BLS, 2026k), computer hardware engineers are projected to grow <strong>9%</strong> (BLS, 2026j), and &ldquo;<strong>Employment of mechanical engineers is projected to grow 11 percent from 2025 to 2035</strong>&rdquo; (BLS, 2026p). This does not mean engineering is immune to AI—indeed, AI is likely to increase engineer productivity and transform the content of engineering work—but it does suggest that making computation and digital intelligence cheaper does not automatically remove the need for the hardware, infrastructure, power systems, manufacturing, machines, testing, certification, and physical deployment that turn computation into useful reality. The relevant economic question is therefore not simply whether AI can perform more engineering tasks, but whether the productivity gains from AI will reduce engineering demand faster than the expansion and increasing complexity of the physical economy create new demand; the available 2026 evidence does not show that the former has overtaken the latter.
+
+## VII. Predictions for the Future of Work
+
+### 7.1 Elon Musk &mdash; Extreme
 
 <p style="text-indent:2em;">
 The most dramatic forecasts of artificial intelligence go considerably further, predicting that AI and robotics will eventually eliminate the economic necessity of human labor altogether. Elon Musk, for example, has predicted that within roughly ten to twenty years, work could become optional. Such a future is conceivable, but it is fundamentally different from claiming that AI will soon eliminate the economic value of education or engineering. Between today's economy and a hypothetical world in which machines can autonomously reproduce, manufacture, maintain, and improve every physical system on which civilization depends lies an enormous technological and industrial transition. That transition requires electrical power, semiconductors, factories, machines, vehicles, infrastructure, and the engineers capable of designing and integrating them. The possibility that human labor could eventually become unnecessary therefore does not imply that engineers are becoming unnecessary now; indeed, the attempt to automate the physical world may initially increase demand for the expertise required to build it:
@@ -273,7 +282,7 @@ The most dramatic forecasts of artificial intelligence go considerably further, 
 </blockquote>
 
 <p style="text-indent:2em;">
-More importantly, even this endpoint remains constrained by physical reality. <strong>Musk himself acknowledges that “there will still be constraints on power,” including electricity and mass, and that “the fundamental physics elements will still be constraints.”</strong> These are not peripheral details; they are engineering problems. An increasingly automated civilization would still have to generate electricity, manufacture machines, process materials, expand infrastructure, and ensure that physical systems operate reliably at scale. AI may eventually automate much of the work engineers perform, but the expansion of AI itself requires people capable of solving the physical and technical constraints that make that expansion possible. The more aggressively civilization automates the physical world, the greater the engineering required to build and sustain it.
+More importantly, even this endpoint remains constrained by physical reality. <strong>Musk himself acknowledges that &ldquo;there will still be constraints on power,&rdquo; including electricity and mass, and that &ldquo;the fundamental physics elements will still be constraints.&rdquo;</strong> These are not peripheral details; they are engineering problems. An increasingly automated civilization would still have to generate electricity, manufacture machines, process materials, expand infrastructure, and ensure that physical systems operate reliably at scale. AI may eventually automate much of the work engineers perform, but the expansion of AI itself requires people capable of solving the physical and technical constraints that make that expansion possible. The more aggressively civilization automates the physical world, the greater the engineering required to build and sustain it.
 </p>
 
 <p style="text-indent:2em;">
@@ -339,57 +348,55 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
 
 <ul class="references">
 
+  <li>Brynjolfsson, E., Chandar, B., &amp; Chen, R. (2026, August 12). <em>Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence</em>. Stanford Digital Economy Lab. https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/</li>
+
   <li>Federal Reserve Bank of New York. (2026). <em>The labor market for recent college graduates</em>. https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major</li>
 
-  <li>Orr, C., Tucker, L. C., & Warren, L. (2026). <em>Graduating into disruption: Labor market outcomes for AI-exposed college majors</em> (CES Working Paper No. 26-56). U.S. Census Bureau, Center for Economic Studies. https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html</li>
+  <li>Orr, C., Tucker, L. C., &amp; Warren, L. (2026). <em>Graduating into disruption: Labor market outcomes for AI-exposed college majors</em> (CES Working Paper No. 26-56). U.S. Census Bureau, Center for Economic Studies. https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html</li>
+
+  <li>Revelio Labs. (2026, September 3). <em>AI labor market tracker: August 2026</em>. https://www.reveliolabs.com/ai-labor-market-tracker/us/august-2026</li>
 
   <li>Shimabukuro, J. (2025, November 19). <em>Musk and Huang at US-Saudi Forum 19 Nov 2025: An informal transcript</em>. Educational Technology and Change Journal. https://etcjournal.com/2025/11/19/musk-and-huang-at-us-saudi-forum-19-nov-2025-an-informal-transcript/</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Aerospace engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026a, August 27). <em>Aerospace engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Atmospheric scientists, including meteorologists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/atmospheric-scientists-including-meteorologists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026b, August 27). <em>Artificial intelligence (AI) exposure categories</em>. https://www.bls.gov/emp/publications/ai-exposure-categories.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Bioengineers and biomedical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026c, August 27). <em>Atmospheric scientists, including meteorologists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/atmospheric-scientists-including-meteorologists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Biochemists and biophysicists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Biochemists-and-biophysicists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026d, August 27). <em>Biochemists and biophysicists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/Biochemists-and-biophysicists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026e, August 27). <em>Bioengineers and biomedical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemists and materials scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026f, August 27). <em>Chemical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Civil engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026g, August 27). <em>Chemists and materials scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer and information research scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026h, August 27). <em>Civil engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer hardware engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026i, August 27). <em>Computer and information research scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electrical and electronics engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026j, August 27). <em>Computer hardware engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm</li>
 
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electricians</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/construction-and-extraction/electricians.htm</li> -->
+  <li>U.S. Bureau of Labor Statistics. (2026k, August 27). <em>Electrical and electronics engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Geoscientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/geoscientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026l). <em>Employed people by detailed occupation and age: 2025 annual averages</em> (Table 11b). Current Population Survey. https://www.bls.gov/cps/cpsaat11b.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Health and safety engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026m, August 27). <em>Geoscientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/geoscientists.htm</li>
 
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Information security analysts</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm</li> -->
+  <li>U.S. Bureau of Labor Statistics. (2026n, August 27). <em>Health and safety engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Mechanical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026o, August 27). <em>Materials engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Materials engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026p, August 27). <em>Mechanical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Medical scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026q, August 27). <em>Medical scientists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Nuclear engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026r, August 27). <em>Nuclear engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicians and surgeons</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026s, August 27). <em>Physicians and surgeons</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
 
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicists and astronomers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
-
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Lawyers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/legal/lawyers.htm</li> -->
-
-  <!-- <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Software developers, quality assurance analysts, and testers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm</li> -->
-
-  <li>U.S. Bureau of Labor Statistics. (2026). <em>Employed people by detailed occupation and age: 2025 annual averages</em> (Table 11b). <em>Current Population Survey</em>. https://www.bls.gov/cps/cpsaat11b.htm</li>
+  <li>U.S. Bureau of Labor Statistics. (2026t, August 27). <em>Physicists and astronomers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
 
 </ul>
 
