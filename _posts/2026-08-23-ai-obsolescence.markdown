@@ -1,6 +1,6 @@
 ---
-title: "AI and the Resilience of Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 04:05:00 -0500
+title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
+date: 2026-08-23 04:10:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -40,7 +40,6 @@ sup {
 }
 </style>
 
-<!-- Rising Demand for Engineering -->
 
 <!-- On Artificial Intelligence Resistant Majors and Careers -->
 
