@@ -1,6 +1,6 @@
 ---
-title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 04:00:00 -0500
+title: "AI and the Resilience of Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
+date: 2026-08-23 04:05:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -39,6 +39,8 @@ sup {
   font-weight: bold;
 }
 </style>
+
+<!-- Rising Demand for Engineering -->
 
 <!-- On Artificial Intelligence Resistant Majors and Careers -->
 
@@ -188,8 +190,21 @@ The New York Fed's 2024 labor-market outcomes by major are striking. Nearly two 
 ## IV. Labor Market Outcomes for AI-Exposed College Majors
 
 <p style="text-indent: 2em;">
-A September 2026 working paper from the U.S. Census Bureau’s Center for Economic Studies finds that the effects of generative AI are already diverging across college majors. Graduates from the most AI-exposed fields experienced significant declines in early-career employment and earnings following the introduction of ChatGPT, with computer science, computer engineering, and computer programming among the fields experiencing the largest negative outcomes. At the same time, several engineering disciplines—including civil, petroleum, environmental, and energy systems engineering—showed positive employment outcomes. Mechanical engineering appears comparatively resilient, with relatively low AI exposure, only a modest employment decline, and positive earnings, while electrical engineering has substantially higher AI exposure but only a similarly modest employment decline and slightly positive earnings. Together, these results suggest that some engineering fields remain comparatively resilient even as AI increasingly automates parts of engineering work (Orr et al., 2026). The following STEM disciplines are sorted by their 2024 employment coefficients in Table A3, with computer science, computer programming, and physics included for comparison:
+A September 2026 working paper from the U.S. Census Bureau’s Center for Economic Studies finds that the effects of generative AI are already diverging across college majors. Graduates from the most AI-exposed fields experienced significant declines in early-career employment and earnings following the introduction of ChatGPT, with computer science, computer engineering, and computer programming among the fields experiencing the largest negative outcomes. At the same time, several engineering disciplines—including civil, petroleum, environmental, and energy systems engineering—showed positive employment outcomes. Mechanical engineering appears comparatively resilient, with relatively low AI exposure, only a modest employment decline, and positive earnings, while electrical engineering has substantially higher AI exposure but only a similarly modest employment decline and slightly positive earnings. Together, these results suggest that some engineering fields remain comparatively resilient even as AI increasingly automates parts of engineering work (Orr et al., 2026, pp. 56-59). The following STEM disciplines are sorted by their 2024 employment coefficients in Table A3:
 </p>
+
+<!-- The following STEM disciplines are sorted by their 2024 employment coefficients in Table A3, with computer science, computer programming, and physics included for comparison: -->
+
+<!-- <blockquote>
+  <small>
+    Note: “N” denotes the number of graduates between 2018-2022 who majored in the specifed feld. “Beta” is the Eloundou et al., GPT-4 Beta score. “Core”
+    is the Eisfeldt et al. core task exposure score. “Usage” is the Handa et al. observed task-usage score. All three scores are individually standardized to be mean
+    zero with a variance of one. “Share top” is the share of a major’s occupations in the top quintile of occupation-level exposure defned by the GPT-4 Beta score.
+    “Employment” and “Earnings” are the major-specifc coeffcients (centered at zero) and standard errors (clustered by major) for the year 2024 (with 2022 as the
+    reference year) from the event study in Equation (2) with the employment rate and log full-quarter earnings from dominant job as outcomes. Horizontal lines mark
+    the decile cutoffs based on the GPT-4 Beta score. Only majors with at least 1,000 graduates are included (Orr et al., 2026, p. 59).
+  </small>
+</blockquote> -->
 
 | Rank | Field of degree | N<sub>2018–22</sub> |  Beta |  Core | Usage | Share top | Employment (SE) | Earnings (SE) |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -230,7 +245,7 @@ A September 2026 working paper from the U.S. Census Bureau’s Center for Econom
 |   35 | **Mathematics**                                       |      22,500 |  1.09 |  0.98 |  0.71 |     0.327 |     -0.015 (0.001) | -0.051 (0.003) |
 |   36 | **Industrial and Manufacturing Engineering**          |      13,500 |  0.80 |  1.15 | -0.40 |     0.195 |     -0.019 (0.002) | +0.021 (0.005) |
 |   37 | **Management Information Systems and Statistics**     |      27,500 |  <strong style="color:Crimson;">1.90</strong> |  2.27 |  1.51 |     0.483 |     -0.021 (0.001) | -0.089 (0.003) |
-|   38 | **Computer Programming**                              |       6,400 |  <strong style="color:Crimson;">2.60</strong> |  2.11 |  1.91 |     0.543 |     -0.023 (0.003) | -0.113 (0.008) |
+|   38 | <strong style="color:Crimson;">Computer Programming</strong> |       6,400 |  <strong style="color:Crimson;">2.60</strong> |  2.11 |  1.91 |     0.543 |     -0.023 (0.003) | -0.113 (0.008) |
 |   39 | **Miscellaneous Biology**                             |       6,100 | -0.41 | -0.44 | -0.74 |     0.134 |     -0.024 (0.003) | +0.017 (0.006) |
 |   40 | **Ecology**                                           |       4,200 | -0.88 | -0.78 | -0.99 |     0.096 |     -0.025 (0.004) | +0.066 (0.011) |
 |   41 | **Statistics**                                        |       3,900 |  <strong style="color:Crimson;">1.61</strong> |  1.60 |  1.41 |     0.393 |     -0.026 (0.002) | -0.081 (0.006) |
