@@ -1,6 +1,6 @@
 ---
 title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 04:25:00 -0500
+date: 2026-08-23 04:30:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -235,9 +235,9 @@ A September 2026 working paper from the U.S. Census Bureau’s Center for Econom
 |   26 | **Energy Systems Technologies/Technicians**           |      15,000 |  0.20 |  0.14 | -0.87 |     0.207 |     -0.008 (0.002) | +0.067 (0.004) |
 |   27 | **Mechanical Engineering**                            |      59,000 |  0.53 |  0.59 | -1.21 |     0.110 |     -0.009 (0.001) | +0.039 (0.003) |
 |   28 | **Mechanical Engineering Related Technologies**       |       6,100 | -0.11 |  0.11 | -1.51 |     0.122 |     -0.010 (0.003) | +0.048 (0.007) |
-|   29 | **Information Sciences**                              |      18,000 |  <strong style="color:Crimson;">2.15</strong> |  2.27 |  1.61 |     0.523 |     -0.011 (0.002) | -0.079 (0.007) |
+|   29 | <strong style="color:Crimson;">Information Sciences</strong>                              |      18,000 |  <strong style="color:Crimson;">2.15</strong> |  2.27 |  1.61 |     0.523 |     -0.011 (0.002) | -0.079 (0.007) |
 |   30 | **Electrical Engineering**                            |      27,000 |  1.48 |  1.10 | -0.39 |     0.267 |     -0.011 (0.001) | +0.016 (0.003) |
-|   31 | **Applied Mathematics**                               |       2,700 |  <strong style="color:Crimson;">1.74</strong> |  1.57 |  1.33 |     0.383 |     -0.011 (0.003) | -0.101 (0.008) |
+|   31 | **Applied Mathematics**                               |       2,700 |  <strong style="color:OrangeRed;">1.74</strong> |  1.57 |  1.33 |     0.383 |     -0.011 (0.003) | -0.101 (0.008) |
 |   32 | **Engineering Mechanics, Physics, and Science**       |       1,700 |  0.92 |  1.06 | -0.44 |     0.230 |     -0.012 (0.004) | -0.008 (0.009) |
 |   33 | **Materials Engineering**                             |       4,500 |  0.42 |  0.80 | -0.98 |     0.139 |     -0.014 (0.003) | +0.026 (0.008) |
 |   34 | **Chemistry**                                         |      20,500 | -0.20 | -0.12 | -0.49 |     0.122 |     -0.014 (0.001) | +0.030 (0.003) |
@@ -247,11 +247,11 @@ A September 2026 working paper from the U.S. Census Bureau’s Center for Econom
 |   38 | <strong style="color:Crimson;">Computer Programming</strong> |       6,400 |  <strong style="color:Crimson;">2.60</strong> |  2.11 |  1.91 |     0.543 |     -0.023 (0.003) | -0.113 (0.008) |
 |   39 | **Miscellaneous Biology**                             |       6,100 | -0.41 | -0.44 | -0.74 |     0.134 |     -0.024 (0.003) | +0.017 (0.006) |
 |   40 | **Ecology**                                           |       4,200 | -0.88 | -0.78 | -0.99 |     0.096 |     -0.025 (0.004) | +0.066 (0.011) |
-|   41 | **Statistics**                                        |       3,900 |  <strong style="color:Crimson;">1.61</strong> |  1.60 |  1.41 |     0.393 |     -0.026 (0.002) | -0.081 (0.006) |
+|   41 | **Statistics**                                        |       3,900 |  <strong style="color:OrangeRed;">1.61</strong> |  1.60 |  1.41 |     0.393 |     -0.026 (0.002) | -0.081 (0.006) |
 |   42 | **Physics**                                           |      77,000 |  0.85 |  0.66 |  0.03 |     0.249 |     -0.027 (0.001) | -0.104 (0.004) |
 |   43 | **Biomedical Engineering**                            |      12,500 |  0.71 |  0.76 | -0.39 |     0.212 |     -0.030 (0.002) | -0.083 (0.005) |
 |   44 | **Aerospace Engineering**                             |      24,500 |  1.08 |  0.59 | -1.02 |     0.174 |     -0.032 (0.003) | -0.091 (0.007) |
-|   45 | **Computer Administration, Management, and Security** |      14,000 |  <strong style="color:Crimson;">1.88</strong> |  2.34 |  1.57 |     0.545 |     -0.033 (0.003) | -0.096 (0.008) |
+|   45 | **Computer Administration, Management, and Security** |      14,000 |  <strong style="color:OrangeRed;">1.88</strong> |  2.34 |  1.57 |     0.545 |     -0.033 (0.003) | -0.096 (0.008) |
 |   46 | **Biological Engineering**                            |       3,600 |  0.57 |  0.71 | -0.79 |     0.173 |     -0.038 (0.003) | +0.103 (0.007) |
 |   47 | **Geology and Earth Science**                         |       8,300 | -0.09 | -0.10 | -0.77 |     0.133 |     -0.040 (0.001) | +0.010 (0.004) |
 |   48 | **Food Science**                                      |       2,300 | -0.08 |  0.16 | -0.63 |     0.128 |     -0.040 (0.003) | +0.047 (0.008) |
@@ -287,58 +287,50 @@ The most dramatic forecasts of artificial intelligence go considerably further, 
 More importantly, even this endpoint remains constrained by physical reality. <strong>Musk himself acknowledges that &ldquo;there will still be constraints on power,&rdquo; including electricity and mass, and that &ldquo;the fundamental physics elements will still be constraints.&rdquo;</strong> These are not peripheral details; they are engineering problems. An increasingly automated civilization would still have to generate electricity, manufacture machines, process materials, expand infrastructure, and ensure that physical systems operate reliably at scale. AI may eventually automate much of the work engineers perform, but the expansion of AI itself requires people capable of solving the physical and technical constraints that make that expansion possible. The more aggressively civilization automates the physical world, the greater the engineering required to build and sustain it.
 </p>
 
+### 7.2 Jensen Huang &mdash; Moderate
+
+<p style="text-indent:2em;">
+Jensen Huang offers a more moderate forecast of AI's effect on employment. While he expects artificial intelligence to fundamentally transform the labor market and eliminate or alter some jobs, he rejects the idea that increasing automation will necessarily lead to the widespread disappearance of human work. Instead, Huang argues that AI will make workers more productive, change the nature of existing occupations, and create new forms of economic activity, allowing employment to continue expanding even as individual tasks become automated:</p>
+
+<blockquote>
+First of all, I think the narratives of AI destroying jobs is not going to help America. Yeah. <strong style="color:GoldenRod;">First of all, it’s just false.</strong> Of course, with every technology, and every single day that goes by, jobs of the past are changed (Shimabukuro, 2026, 27:33).
+</blockquote>
+
+<blockquote>
+There'll be more people working at the end of this industrial revolution than at the beginning of it. Just like at the end of the last one, the beginning of this one (Shimabukuro, 2026, 32:18).
+</blockquote>
+
+<blockquote>
+... it is unlikely most people will lose a job to AI. It is most likely that most people will lose their job to somebody who uses AI (Shimabukuro, 2026, 36:03).
+</blockquote>
+
+### 7.3 Jeff Bezos &mdash; Optimistic
+
+<p style="text-indent:2em;">
+Jeff Bezos offers an even more optimistic forecast of AI's effect on employment. Rather than viewing AI primarily as a technology that substitutes for human labor, Bezos argues that its productivity gains will elevate workers and expand economic activity. He rejects the idea that AI-driven productivity will necessarily produce a permanent surplus of workers, instead arguing that greater productivity can create new opportunities and demand for human labor. His view is that AI will not simply replace workers, but enable them to accomplish more while increasing the productive capacity of the economy:
+</p>
+
+<blockquote>
+These people are wrong. So what's really going to happen is that it's going to elevate all of these people (CNBC, 2026a, paras. 441–442).
+</blockquote>
+
+<blockquote>
+We're going to have so much productivity in our economy... (CNBC, 2026a, para. 443).
+</blockquote>
+
+<blockquote>
+I think that there's going to be a labor shortage as a result (CNBC, 2026a, para. 435).
+</blockquote>
+
+<blockquote>
+No, I know there's a lot of concern in general about AI and job loss. I have a very different view. I think that what's – I think, what's actually going to happen is we're going to have labor scarcity as a result. People are going to have to work hard (CNBC, 2026b, para. 201).
+</blockquote>
+
+## Conclusion
+
 <p style="text-indent:2em;">
 The rise of artificial intelligence is therefore not a reason to abandon higher education or technical specialization. As digital intelligence becomes more abundant, the value of expertise may shift toward human judgment, institutional responsibility, scientific discovery, and the engineering required to turn computation into reliable physical systems. AI may ultimately automate much of the work engineers perform, but an increasingly automated civilization must still be built—and building it remains an enormous engineering problem.
 </p>
-
-<!-- see and you shall find
-|      Rank | Major / Career Combination                                                        | 🤖 AI Resistance | 👤 Human-Reserved Role | 🌎 Physical / Empirical Bottleneck | 👴 Career Durability | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
-| --------: | --------------------------------------------------------------------------------- | :--------------: | :--------------------: | :--------------------------------: | :------------------: | :--------------: | :-----------------: | ----------: |
-|  🥇 **1** | **Physics PhD + experimental/optical instrumentation + computational physics/AI** |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.8/10** |
-|  🥈 **2** | **Physics + EE/ECE + quantum / physical systems**                                 |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.7/10** |
-|  🥉 **3** | **EE → semiconductor / FPGA / ASIC / critical systems**                           |     🟢🟢🟢🟢     |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢🟢     |  **9.6/10** |
-|     **4** | **Quantum hardware / experimental quantum engineering**                           |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.6/10** |
-|     **5** | **Physics + sensors / photonics / materials / instrumentation**                   |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **9.5/10** |
-|     **6** | **Chemical engineering / process & critical systems**                             |     🟢🟢🟢🟢     |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.2/10** |
-|     **7** | **Aerospace / defense / safety-critical engineering**                             |     🟢🟢🟢🟢     |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **9.1/10** |
-|     **8** | **Biochemistry / biophysics / molecular experimental research**                   |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **9.0/10** |
-|     **9** | **Virology / infectious-disease / high-containment research**                     |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |      🟢🟢🟢      |       🟢🟢🟢🟢      |  **9.0/10** |
-|    **10** | **Advanced experimental chemistry**                                               |     🟢🟢🟢🟢     |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |      🟢🟢🟢      |       🟢🟢🟢🟢      |  **8.9/10** |
-|    **11** | **Robotics / controls / autonomous-systems engineering**                          |     🟡🟡🟡🟢     |        🟡🟡🟡🟢        |             🟢🟢🟢🟢🟢             |       🟢🟢🟢🟢       |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.7/10** |
-|    **12** | **Biosafety / biosecurity / high-containment laboratory science**                 |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢🟢       |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |      🟡🟡🟡      |       🟢🟢🟢🟢      |  **8.7/10** |
-|    **13** | **General engineering**                                                           |     🟡🟡🟡🟢     |         🟡🟡🟡         |              🟢🟢🟢🟢              |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.0/10** |
-|    **14** | **Skilled trades / electrician / field technician**                               |     🟢🟢🟢🟢     |        🟢🟢🟢🟢        |             🟢🟢🟢🟢🟢             |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |        🟡🟡🟡       |  **7.3/10** |
-| ⚠️ **15** | **Mathematics + scientific computing**                                            |      🟡🟡🟡      |         🟡🟡🟡         |                 🟠                 |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟡🟡🟡       |  **7.7/10** |
-| ⚠️ **16** | **CS / AI engineering**                                                           |      🟠🟠🟡      |         🟡🟡🟡         |                 🟠                 |        🟡🟡🟡        |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢🟢     |  **7.4/10** |
-| 🚫 **17** | **General software engineering**                                                  |       🟠🟠       |         🟠🟠🟡         |                 🟠                 |        🟠🟠🟡        |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢      |  **6.7/10** |
-| 🚫 **18** | **Pure mathematics career**                                                       |      🟡🟡🟡      |         🟡🟡🟡         |                 🟠                 |       🟢🟢🟢🟢       |        🔴        |         🟠🟠        |  **6.2/10** | -->
-
-
-<!-- Seek and you shall find (old)
- |       Rank | Major / Career Combination                                         | 🤖 AI Resistance | 👤 Human-Reserved Role | 👴 Career Durability | 📈 Market Demand | 💰 Earnings Ceiling | **Overall** |
-| ---------: | ------------------------------------------------------------------ | :--------------: | :----------------: | :------------------: | :--------------: | :-----------------: | ----------: |
-|   🥇 **1** | **Medicine / complex surgery**                                     |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.8/10** |
-|   🥈 **2** | **Physics PhD + computational + optical instrumentation + AI/HPC** |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.7/10** |
-|   🥉 **3** | **EE → semiconductor / FPGA / ASIC / critical systems**            |     🟢🟢🟢🟢     |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢🟢     |  **9.6/10** |
-|      **4** | **Physics + EE/ECE + physical systems**                            |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.6/10** |
-|      **5** | **Physics + sensors / photonics / materials / instrumentation**    |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **9.4/10** |
-|      **6** | **Chemical engineering / process & critical systems**              |     🟢🟢🟢🟢     |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢     |  **9.1/10** |
-|      **7** | **Aerospace / defense / safety-critical engineering**              |     🟢🟢🟢🟢     |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **9.0/10** |
-|      **8** | **Biochemistry / biophysics / molecular research**                 |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.9/10** |
-|      **9** | **Law / judicial / high-stakes legal authority**                   |      🟡🟡🟡      |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.8/10** |
-|     **10** | **Virology / infectious-disease / high-containment research**      |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |      🟢🟢🟢      |       🟢🟢🟢🟢      |  **8.8/10** |
-|     **11** | **Biosafety / biosecurity / high-containment laboratory science**  |    🟢🟢🟢🟢🟢    |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |      🟡🟡🟡      |       🟢🟢🟢🟢      |  **8.7/10** |
-|     **12** | **Frontier AI research / AI systems**                              |      🟡🟡🟡      |      🟡🟡🟡🟡      |        🟡🟡🟡        |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢🟢     |  **8.7/10** |
-|     **13** | **Robotics / controls / autonomous systems engineering**           |     🟡🟡🟡🟢     |      🟡🟡🟡🟢      |       🟢🟢🟢🟢       |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.6/10** |
-|     **14** | **Physics + computational mathematics + scientific AI/HPC**        |      🟡🟡🟡      |      🟡🟡🟡🟡      |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **8.5/10** |
-|     **15** | **Cybersecurity / critical infrastructure**                        |      🟡🟡🟡      |      🟢🟢🟢🟢      |       🟢🟢🟢🟢       |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢      |  **8.4/10** |
-|     **16** | **Chemistry / advanced experimental chemistry**                    |     🟢🟢🟢🟢     |      🟢🟢🟢🟢      |      🟢🟢🟢🟢🟢      |      🟢🟢🟢      |       🟢🟢🟢🟢      |  **8.3/10** |
-|     **17** | **Epidemiology / infectious-disease public health**                |     🟡🟡🟡🟢     |     🟢🟢🟢🟢🟢     |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |        🟢🟢🟢       |  **8.2/10** |
-|     **18** | **General engineering**                                            |     🟡🟡🟡🟢     |       🟡🟡🟡       |      🟢🟢🟢🟢🟢      |     🟢🟢🟢🟢     |       🟢🟢🟢🟢      |  **7.8/10** |
-|     **19** | **Mathematics + scientific computing**                             |      🟡🟡🟡      |       🟡🟡🟡       |       🟢🟢🟢🟢       |      🟡🟡🟡      |        🟡🟡🟡       |  **7.8/10** |
-|     **20** | **CS / AI engineering**                                            |      🟠🟠🟡      |       🟡🟡🟡       |        🟠🟠🟡        |    🟢🟢🟢🟢🟢    |      🟢🟢🟢🟢🟢     |  **7.5/10** |
-|     **21** | **General software engineering**                                   |       🟠🟠       |       🟠🟠🟡       |        🟠🟠🟡        |    🟢🟢🟢🟢🟢    |       🟢🟢🟢🟢      |  **6.7/10** |
-|     **22** | **Pure mathematics career**                                        |      🟡🟡🟡      |       🟡🟡🟡       |      🟢🟢🟢🟢🟢      |        🔴        |         🟠🟠        |  **6.2/10** | -->
 
 <br>
 <hr>
@@ -352,6 +344,10 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
 
   <li>Brynjolfsson, E., Chandar, B., &amp; Chen, R. (2026, August 12). <em>Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence</em>. Stanford Digital Economy Lab. https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/</li>
 
+  <li>CNBC. (2026a, May 20). <em>CNBC exclusive: Transcript: Jeff Bezos speaks with CNBC’s Andrew Ross Sorkin on “Squawk Box” today</em>. Versant Media. https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-jeff-bezos-speaks-cnbcs-andrew-ross-sorkin-squawk-box</li>
+
+  <li>CNBC. (2026b, June 11). <em>CNBC exclusive: Transcript: Prometheus co-founders and co-CEOs Jeff Bezos and Vik Bajaj speak with CNBC’s David Faber on “Squawk on the Street” today</em>. Versant Media. https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-prometheus-co-founders-and-co-ceos-jeff-bezos-and-vik</li>
+
   <li>Federal Reserve Bank of New York. (2026). <em>The labor market for recent college graduates</em>. https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major</li>
 
   <li>Orr, C., Tucker, L. C., &amp; Warren, L. (2026). <em>Graduating into disruption: Labor market outcomes for AI-exposed college majors</em> (CES Working Paper No. 26-56). U.S. Census Bureau, Center for Economic Studies. https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html</li>
@@ -359,6 +355,8 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
   <li>Revelio Labs. (2026, September 3). <em>AI labor market tracker: August 2026</em>. https://www.reveliolabs.com/ai-labor-market-tracker/us/august-2026</li>
 
   <li>Shimabukuro, J. (2025, November 19). <em>Musk and Huang at US-Saudi Forum 19 Nov 2025: An informal transcript</em>. Educational Technology and Change Journal. https://etcjournal.com/2025/11/19/musk-and-huang-at-us-saudi-forum-19-nov-2025-an-informal-transcript/</li>
+
+  <li>Shimabukuro, J. (2026, May 19). <em>Transcript of Jensen Huang’s “U.S. leadership in AI” talk on 9 April 2026</em>. Educational Technology and Change Journal. https://etcjournal.com/2026/05/19/transcript-of-jensen-huangs-u-s-leadership-in-ai-talk-on-9-april-2026/</li>
 
   <li>U.S. Bureau of Labor Statistics. (2026a, August 27). <em>Aerospace engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</li>
 
@@ -401,28 +399,6 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
   <li>U.S. Bureau of Labor Statistics. (2026t, August 27). <em>Physicists and astronomers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
 
 </ul>
-
-
-
-<!-- <ul class="references">
-
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Biochemists and biophysicists</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Biochemists-and-biophysicists.htm</li>
-
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Chemical engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm</li>
-
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Computer hardware engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm</li>
-
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Electrical and electronics engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm</li>
-
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Nuclear engineers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm</li>
-
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicians and surgeons</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
-
-  <li>U.S. Bureau of Labor Statistics. (2026, August 27). <em>Physicists and astronomers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
-
-  <li>U.S. Bureau of Labor Statistics. (2026). <em>Employed people by detailed occupation and age: 2025 annual averages</em> (Table 11b). <em>Current Population Survey</em>. https://www.bls.gov/cps/cpsaat11b.htm</li>
-</ul> -->
-
 
 <br>
 <hr>
