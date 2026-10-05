@@ -1,6 +1,6 @@
 ---
 title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 04:30:00 -0500
+date: 2026-08-23 04:35:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -57,7 +57,25 @@ The fundamental mistake in predicting the future of work is assuming that whatev
 ## I. As the Supply of Digitized Knowledge Rises, Demand for Physical Engineering Increases
 
 <p style="text-indent:2em;">
-The same principle applies to engineering. As artificial intelligence automates an increasing share of software, programming, and other routine digital knowledge work, demand for engineers is likely to increase rather than disappear. AI can make computation and software development dramatically cheaper, but it does not remove the physical constraints imposed by electricity, materials, thermodynamics, manufacturing, structures, aircraft, machines, and infrastructure. Instead, as digital intelligence becomes more abundant, the limiting factor increasingly shifts toward the ability to turn that intelligence into reliable physical systems. Electrical engineers are needed to design and expand the power, electronics, and semiconductor systems on which AI depends; mechanical engineers are needed to design the machines, manufacturing systems, and physical hardware that embody increasingly capable technology; and aerospace engineers are needed to turn advanced computation into aircraft and spacecraft that must operate within unforgiving physical constraints. The lesson of automation is therefore not that higher education has become obsolete or that people should simply abandon intellectual study in favor of manual work. It is that the nature of valuable expertise is changing. An economy with abundant machine intelligence still needs people with the mathematics, physics, engineering knowledge, and systems-level judgment required to design, build, test, and ultimately take responsibility for the physical technologies that intelligence makes possible.</p>
+The same principle applies to engineering. As artificial intelligence automates an increasing share of software, programming, and other routine digital knowledge work, demand for engineers is likely to increase rather than disappear. AI can make computation and software development dramatically cheaper, but it does not remove the physical constraints imposed by electricity, materials, thermodynamics, manufacturing, structures, aircraft, machines, and infrastructure. Instead, as digital intelligence becomes more abundant, the limiting factor increasingly shifts toward the ability to turn that intelligence into reliable physical systems. Electrical engineers are needed to design and expand the power, electronics, and semiconductor systems on which AI depends; mechanical engineers are needed to design the machines, manufacturing systems, and physical hardware that embody increasingly capable technology; and aerospace engineers are needed to turn advanced computation into aircraft and spacecraft that must operate within unforgiving physical constraints. The lesson of automation is therefore not that higher education has become obsolete or that people should simply abandon intellectual study in favor of manual work. It is that the nature of valuable expertise is changing. An economy with abundant machine intelligence still needs people with the mathematics, physics, engineering knowledge, and systems-level judgment required to design, build, test, and ultimately take responsibility for the physical technologies that intelligence makes possible. Recent federal projections illustrate this shift in demand:</p>
+
+<blockquote>
+The overall demand for electricity is expected to increase over the projections period due in large part to AI adoption and demand for related infrastructure, such as data centers (U.S. Bureau of Labor Statistics [BLS], 2026).
+</blockquote>
+
+<blockquote>
+Electricity consumption reaches record levels in our forecast, driven by data center development and increased manufacturing activity in the commercial and industrial sectors (U.S. Energy Information Administration [EIA], 2026).
+</blockquote>
+
+<blockquote>
+The Needs Study report shows that there is a pressing need for additional electric transmission infrastructure due to load growth from data centers, expanding domestic manufacturing, large industrial loads, and a growing economy (U.S. Department of Energy [DOE], 2026).
+</blockquote>
+
+<blockquote>
+This exponential growth places strain on grid infrastructure, which can hinder timely construction of desired computing capacity (Granderson et al., 2026).
+</blockquote>
+
+
 
 ## II. Careers Where Knowledge Meets Physical Reality
 
@@ -350,6 +368,8 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
 
   <li>Federal Reserve Bank of New York. (2026). <em>The labor market for recent college graduates</em>. https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major</li>
 
+  <li>Granderson, J., Hoffman, I. M., Holecek, B., Crowe, E., Smith, S. J., &amp; Frick, N. M. (2026). <em>Integrating AI data centers with the power grid</em>. <em>The Bridge</em>. https://doi.org/10.20357/B7X61S</li>
+
   <li>Orr, C., Tucker, L. C., &amp; Warren, L. (2026). <em>Graduating into disruption: Labor market outcomes for AI-exposed college majors</em> (CES Working Paper No. 26-56). U.S. Census Bureau, Center for Economic Studies. https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html</li>
 
   <li>Revelio Labs. (2026, September 3). <em>AI labor market tracker: August 2026</em>. https://www.reveliolabs.com/ai-labor-market-tracker/us/august-2026</li>
@@ -397,6 +417,12 @@ The rise of artificial intelligence is therefore not a reason to abandon higher 
   <li>U.S. Bureau of Labor Statistics. (2026s, August 27). <em>Physicians and surgeons</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm</li>
 
   <li>U.S. Bureau of Labor Statistics. (2026t, August 27). <em>Physicists and astronomers</em>. Occupational Outlook Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</li>
+
+  <li>U.S. Department of Energy, Office of Electricity. (2026, July 9). <em>DOE's Office of Electricity publishes 2026 draft National Transmission Needs Study to strengthen America's grid</em>. https://www.energy.gov/oe/articles/does-office-electricity-publishes-2026-draft-national-transmission-needs-study</li>
+
+  <li>U.S. Energy Information Administration. (2026, September 9). <em>Short-term energy outlook</em>. https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php</li>
+
+  <li>U.S. Bureau of Labor Statistics. (2026u, August 27). <em>Employment projections: 2025–2035 summary</em>. U.S. Department of Labor. https://www.bls.gov/news.release/ecopro.nr0.htm</li>
 
 </ul>
 
