@@ -1,6 +1,6 @@
 ---
-title: "AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor"
-date: 2026-08-23 04:35:00 -0500
+title: "AI and the Resilience of Physical Engineering: Why the Future Looks Bright for Men of Understanding"
+date: 2026-08-23 04:40:00 -0500
 categories: [Meditations, AI]
 tags: [ai]
 author: grand_master
@@ -40,16 +40,9 @@ sup {
 }
 </style>
 
+<!-- AI and the Rising Demand for Engineering: Why the Future Belongs to Those Who Refuse to Cower in the Face of Intellectual Hard Labor -->
 
-<!-- On Artificial Intelligence Resistant Majors and Careers -->
 
-<!-- Why We Should Heed the Counsel of Educated Men Over the &ldquo;Just Get a Trade&rdquo; Mindset, Why Such Thinking Cedes Power to The Left, and Why We Should Not Fear Intellectual Hard Labor -->
-
-<!-- The Christian Intellectual Crisis: Why Anti-Intellectualism Surrenders Power to the Left and Why We Should Not Be Fearful of Intellectual Hard Labor -->
-
-<!-- Why Christians Should Heed the Counsel of Educated Men and Reject Blue-Collar Anti-Intellectualism, Why Such Thinking Surrenders Power to Left, and Why We Should Not Be Fearful of Intellectual Hard Labor  -->
-
-<!-- ## The Age of AI Will Reward Mastery: Why the Future Belongs to People Who Know What They’re Doing -->
 
 <p style="text-indent:2em;">
 The fundamental mistake in predicting the future of work is assuming that whatever AI is capable of doing, humans will necessarily allow AI to do. Capability is not the same thing as authority. Would society hand an AI independent launch authority over a nuclear arsenal? Would we permit an AI to make the final determination of whether a patient lives or dies? In high-stakes domains, the answer depends not only on what a machine can do, but on what society is willing to delegate. As AI becomes increasingly capable of performing intellectual and technical tasks, education can become <em>more</em> valuable—not because educated people must compete with AI at performing every task themselves, but because society will continue to need people capable of understanding, supervising, validating, and taking responsibility for increasingly powerful systems. Roles involving scientific judgment, legal accountability, institutional authority, ethical responsibility, and consequential decision-making are therefore less likely to disappear simply because AI can perform many of their underlying tasks. Automation can reduce the amount of human labor required to produce an outcome without eliminating the need for humans who possess the knowledge and authority to determine whether that outcome should be trusted, accepted, or acted upon.</p>
