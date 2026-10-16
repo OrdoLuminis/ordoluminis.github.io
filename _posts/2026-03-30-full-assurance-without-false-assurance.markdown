@@ -1,6 +1,6 @@
 ---
-title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach a Dead or Blind Faith"
-date: 2026-03-30 04:15:00 -0500
+title: "How to Have Full Assurance Without False Assurance and Why the Bible Doesn't Teach Us to Have a Dead or Blind Faith"
+date: 2026-03-30 04:20:00 -0500
 categories: [Theology, Assurance]
 tags: [assurance, false assurance, free grace, antinomianism, regeneration, union with christ, fruit bearing, sola fide, 1 john, grudem, repentance]
 author: grand_master
