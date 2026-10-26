@@ -1,6 +1,6 @@
 ---
 title: "The Dunning-Kruger Effect and the Cost of Ignorance: Why the Fool Finds No Pleasure in Understanding"
-date: 2026-10-25 01:15:00 -0500
+date: 2026-10-25 01:20:00 -0500
 categories: [Meditations, Dunning-Kruger Effect]
 tags: [fool, fools, foolish, foolishness, dunning-kruger]
 author: grand_master
@@ -37,7 +37,7 @@ body {
 
 <!-- Why The Fool’s Legacy May Die With His Own Opinions -->
 
-## The Dunning-Kruger Effect and the Fool of the Bible
+## I. The Dunning-Kruger Effect and the Fool of the Bible
 #### Fools Cannot Recognize the Limits of Their Own Reasoning
 
 <p style="text-indent:2em;">
@@ -60,6 +60,9 @@ Education is vital for nigh-infinite more reasons than vocation, not only does i
 
 <!-- <p style="text-indent:2em;">
 Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the fool thinks in terms of jobs, which AI may or may not obsolete forever, the educated man thinks in terms of ownership, capital, and commerce, which is spoken of as the mighty men of revelation even up to and during the tribulation&mdash;and has the competence to carry it out; the fool’s legacy withers and dies with his own opinions because he hated instructed from educated men:</p> -->
+
+## II. The Need for State College and University Educated Christians
+#### Why Community College Is a Thousand Times More Valuble Than Seminary
 
 <p style="text-indent:2em;">
 Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the fool thinks in terms of jobs, which AI may one day obsolete, the educated man thinks in terms of ownership, capital, and commerce&mdash;things spoken of even among the mighty in revelation and through tribulation&mdash;and has the competence to carry it out. The fool’s legacy withers and dies with his own opinions, because he hated instruction from educated men:</p>
