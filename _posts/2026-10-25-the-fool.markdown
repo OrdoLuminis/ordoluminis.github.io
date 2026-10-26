@@ -1,6 +1,6 @@
 ---
 title: "The Dunning-Kruger Effect and the Cost of Ignorance: Why the Fool Finds No Pleasure in Understanding"
-date: 2026-10-25 01:05:00 -0500
+date: 2026-10-25 01:10:00 -0500
 categories: [Meditations, Dunning-Kruger Effect]
 tags: [fool, fools, foolish, foolishness, dunning-kruger]
 author: grand_master
@@ -59,7 +59,7 @@ Education is vital for nigh-infinite more reasons than vocation, not only does i
 Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the fool thinks in terms of jobs, which AI may or may not obsolete forever, the educated man thinks in terms of ownership, capital, and commerce, which is spoken of as the mighty men of revelation even up to and during the tribulation&mdash;and has the competence to carry it out; the fool’s legacy withers and dies with his own opinions because he hated instructed from educated men:</p> -->
 
 <p style="text-indent:2em;">
-Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the fool thinks in terms of jobs, which AI may one day obsolete, the educated man thinks in terms of ownership, capital, and commerce&mdash;things spoken of even among the mighty in revelation and through tribulation&mdash;and has the competence to carry it out. The fool’s legacy withers and dies with his own opinions, because he hated instruction from educated men.</p>
+Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the fool thinks in terms of jobs, which AI may one day obsolete, the educated man thinks in terms of ownership, capital, and commerce&mdash;things spoken of even among the mighty in revelation and through tribulation&mdash;and has the competence to carry it out. The fool’s legacy withers and dies with his own opinions, because he hated instruction from educated men:</p>
 
 
 <!-- While the fool thinks in terms of jobs, the educated man thinks in terms of careers, kingdoms, inheritance, and posterity&mdash;and has the wisdom to carry it out&mdash;the fool’s legacy may die with his own opinions: -->
@@ -69,6 +69,10 @@ Education is vital for nigh-infinite reasons beyond vocation; it not only equips
 <blockquote>
 Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it... Paradoxically, improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities (Kruger & Dunning, 1999, Abstract section).
 </blockquote>
+
+<p style="text-indent:2em;">
+A Christian culture that abandons education and intellectual ambition eventually loses not only cultural influence, but also economic security, institutional leadership, and the ability to reproduce its own institutions and traditions; <strong>Christian minds built science, but now we’re handing it to the godless through the tragedy of blue-collar pride, anti-intellectualism, and backward seminaries, which leads to the death of godly scientific inspiration.</strong> In an AI-driven economy, that failure becomes even more dangerous, because low-skill and routine work are increasingly exposed to automation. As Musk himself acknowledges, there will still be constraints on power, electricity, mass, and other fundamental physics (Shimabukuro, 2025, para. 3); these are not peripheral details but engineering problems. If Christian culture cedes this ground, it will not merely lose status&mdash;it will forfeit the chance to shape an AI-dominated golden age of healthcare and engineering.
+</p>
 
 <!-- <blockquote>
 ... people who are unskilled in these domains suffer a dual burden: Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it... Paradoxically, improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities (Kruger & Dunning, 1999, Abstract section).
@@ -118,6 +122,7 @@ the whip is for the back of fools ??? -->
   <li>Carson, D. A. (Ed.). (2018). <em>NIV biblical theology study Bible: Follow God's redemptive plan as it unfolds throughout Scripture</em>. Zondervan.</li>
   <li>Frye, D. (2026, April 24). <em>Dunning-Kruger effect</em>. Psychology Today. https://www.psychologytoday.com/us/basics/dunning-kruger-effect</li>
   <li>Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments. <em>Journal of personality and social psychology, 77 6</em>, 1121-34. https://doi.org/10.1037/0022-3514.77.6.1121</li>
+  <li>Shimabukuro, J. (2026, May 19). <em>Transcript of Jensen Huang’s “U.S. leadership in AI” talk on 9 April 2026</em>. Educational Technology and Change Journal. https://etcjournal.com/2026/05/19/transcript-of-jensen-huangs-u-s-leadership-in-ai-talk-on-9-april-2026/</li>
   <!-- <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li> -->
 </ul>
 
