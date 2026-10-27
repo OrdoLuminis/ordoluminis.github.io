@@ -1,6 +1,6 @@
 ---
 title: "The Dunning-Kruger Effect and the Cost of Ignorance: Why the Fool Finds No Pleasure in Understanding"
-date: 2026-10-25 01:40:00 -0500
+date: 2026-10-25 01:45:00 -0500
 categories: [Meditations, Dunning-Kruger Effect]
 tags: [fool, fools, foolish, foolishness, dunning-kruger]
 author: grand_master
@@ -29,7 +29,14 @@ pin: true
   color: #000;
   padding: 0 3px;
   overflow-wrap: anywhere;
-  word-break: normal;
+  word-break: break-all;
+  white-space: normal;
+}
+
+/* Allow the containing paragraph to wrap long strings */
+article p {
+  overflow-wrap: anywhere !important;
+  white-space: normal !important;
 }
 
 p.titles {
