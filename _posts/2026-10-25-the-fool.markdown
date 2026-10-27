@@ -1,6 +1,6 @@
 ---
 title: "The Dunning-Kruger Effect and the Cost of Ignorance: Why the Fool Finds No Pleasure in Understanding"
-date: 2026-10-25 01:55:00 -0500
+date: 2026-10-25 02:00:00 -0500
 categories: [Meditations, Dunning-Kruger Effect]
 tags: [fool, fools, foolish, foolishness, dunning-kruger]
 author: grand_master
@@ -83,6 +83,9 @@ Education is vital for nigh-infinite reasons beyond vocation; it not only equips
 ## II. The Need for State College and University Educated Christians
 #### Mathematics is the Measure of a Man's Critical Thinking Skills
 
+<p style="text-indent:2em;">
+Mathematics is not the sole measure of critical thinking, but it is one of its most rigorous tests. Facione's (1990) expert-consensus report, prepared for the American Philosophical Association's Committee on Pre-College Philosophy, identifies six core critical-thinking skills: interpretation, analysis, evaluation, inference, explanation, and self-regulation (pp. 8–9). Mathematical reasoning exercises several of these skills by requiring a man to follow premises to their conclusions, distinguish valid inference from faulty reasoning, test assumptions, interpret evidence, and justify his conclusions. These habits of mind extend beyond mathematics into the sciences, philosophy, economics, and the evaluation of everyday claims. Mathematics therefore serves as a rigorous means of developing and assessing particular dimensions of critical thinking, even though intellectual maturity requires competencies that extend beyond quantitative reasoning.</p>
+
 <!-- <p style="text-indent:2em;">
 Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the foolish man thinks in terms of jobs, asset ownership, and self-employment&mdash;things AI may one day obsolete&mdash;the wise man thinks in terms of <span class="redacted">P1DB8dN4tpIWKsTCkxDD9fr5GAqg74zsJ69gwmGl/fcd92qHNvEyVk2LF/yI73tQFPTwN5jcsK/8C/bm7+L60gk3idE+yeDrl5B7SWLmhNTqEntZ1PF9bVoxoI7a9BNzcfw68Co=</span>&mdash;things spoken of even in Revelation as mighty up to and even mid way through tribulation&mdash;and has the competence to carry it out. The fool's legacy withers and dies with his own opinions, because he hated instruction from educated men:</p> -->
 
@@ -94,6 +97,8 @@ A Christian culture that abandons education and intellectual ambition eventually
 
 <p style="text-indent:2em;">
 Education is vital for nigh-infinite reasons beyond vocation. It equips a man with the depth of skill and expertise to build empires, attract capital, and secure provision sufficient to outpace inflation and preserve his legacy. Just as importantly, it guards him against the Dunning–Kruger effect&mdash;the tendency to overestimate his competence precisely where his knowledge is limited. The foolish man thinks primarily in terms of jobs, asset ownership, and self-employment, economic pursuits that artificial intelligence may one day disrupt or render less valuable. The wise man thinks in terms of <span class="redacted">P1DB8dN4tpIWKsTCkxDD9fr5GAqg74zsJ69gwmGl/fcd92qHNvEyVk2LF/yI73tQFPTwN5jcsK/8C/bm7+L60gk3idE+yeDrl5B7SWLmhNTqEntZ1PF9bVoxoI7a9BNzcfw68Co=</span>. He understands that these are not merely modern ambitions but enduring instruments of economic power, depicted even in Revelation as mighty forces amid the judgments of the end times. He does not merely recognize their significance; he acquires the knowledge and competence necessary to operate within them. Ultimately, the difference is not simply in what these men possess, but in what they understand. The foolish man's legacy withers and dies with the limits of his own understanding and opinions because he despised instruction and rejected the wisdom of educated men.</p>
+
+
 
 <!-- ## III. The Consequences of Rejecting Knowledge
 #### Isolation Instead of Intimacy, Stagnation instead of Legacy, Despair instead of integrity
@@ -169,6 +174,7 @@ the whip is for the back of fools ??? -->
   <li>Carson, D. A. (Ed.). (2018). <em>NIV biblical theology study Bible: Follow God's redemptive plan as it unfolds throughout Scripture</em>. Zondervan.</li>
   <!-- <li>Duignan, B. (2026, September 26). <em>Dunning-Kruger effect.</em> Encyclopedia Britannica. https://www.britannica.com/science/Dunning-Kruger-effect</li> -->
   <!-- <li>Frye, D. (2026, April 24). <em>Dunning-Kruger effect</em>. Psychology Today. https://www.psychologytoday.com/us/basics/dunning-kruger-effect</li> -->
+  <li>Facione, P. A. (1990). <em>Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction. Research findings and recommendations</em> (ED315423). ERIC. https://files.eric.ed.gov/fulltext/ED315423.pdf</li>
   <li>Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments. <em>Journal of personality and social psychology, 77 6</em>, 1121-34. https://doi.org/10.1037/0022-3514.77.6.1121</li>
   <li>Shimabukuro, J. (2026, May 19). <em>Transcript of Jensen Huang’s “U.S. leadership in AI” talk on 9 April 2026</em>. Educational Technology and Change Journal. https://etcjournal.com/2026/05/19/transcript-of-jensen-huangs-u-s-leadership-in-ai-talk-on-9-april-2026/</li>
   <!-- <li><em>ESV Study Bible</em> (ESV Text Edition: 2016). (2008). Crossway.</li> -->
