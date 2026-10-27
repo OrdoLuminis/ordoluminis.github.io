@@ -1,6 +1,6 @@
 ---
 title: "The Dunning-Kruger Effect and the Cost of Ignorance: Why the Fool Finds No Pleasure in Understanding"
-date: 2026-10-25 01:25:00 -0500
+date: 2026-10-25 01:30:00 -0500
 categories: [Meditations, Dunning-Kruger Effect]
 tags: [fool, fools, foolish, foolishness, dunning-kruger]
 author: grand_master
@@ -22,6 +22,12 @@ pin: true
   padding-left: 1.5em;          /* amount of hanging indent */
   text-indent: -1.5em;          /* pulls first line back */
   line-height: 1.5;             /* nicer readability */
+}
+
+.redacted {
+  background-color: #000;
+  color: #000;
+  padding: 0 3px;
 }
 
 p.titles {
@@ -51,7 +57,11 @@ The Dunning-Kruger effect is a cognitive bias in which people wrongly overestima
 </blockquote> -->
 
 <blockquote>
-Dunning-Kruger effect, in psychology, a cognitive bias whereby people with limited knowledge or competence in a given intellectual or social domain greatly overestimate their own knowledge or competence in that domain relative to objective criteria or to the performance of their peers or of people in general. According to the researchers for whom it is named, psychologists David Dunning and Justin Kruger, the effect is explained by the fact that the metacognitive ability to recognize deficiencies in one’s own knowledge or competence requires that one possess at least a minimum level of the same kind of knowledge or competence, which those who exhibit the effect have not attained. Because they are unaware of their deficiencies, such people generally assume that they are not deficient, in keeping with the tendency of most people to &ldquo;choose what they think is the most reasonable and optimal option&rdquo; (Duignan, 2026, para. 1).</blockquote>
+Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it... Paradoxically, improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities (Kruger & Dunning, 1999, Abstract section).
+</blockquote>
+
+<!-- <blockquote>
+Dunning-Kruger effect, in psychology, a cognitive bias whereby people with limited knowledge or competence in a given intellectual or social domain greatly overestimate their own knowledge or competence in that domain relative to objective criteria or to the performance of their peers or of people in general. According to the researchers for whom it is named, psychologists David Dunning and Justin Kruger, the effect is explained by the fact that the metacognitive ability to recognize deficiencies in one’s own knowledge or competence requires that one possess at least a minimum level of the same kind of knowledge or competence, which those who exhibit the effect have not attained. Because they are unaware of their deficiencies, such people generally assume that they are not deficient, in keeping with the tendency of most people to &ldquo;choose what they think is the most reasonable and optimal option&rdquo; (Duignan, 2026, para. 1).</blockquote> -->
 
 <!-- <p style="text-indent:2em;">No matter how many times I've attempted to help them see the truth, the fool's legacy may die with his own opinions. Education is vital for nigh-infinite more reasons than vocation, but only a wise man can come to this conclusion:</p> -->
 
@@ -64,17 +74,11 @@ Education is vital for nigh-infinite reasons beyond vocation; it not only equips
 ## II. The Need for State College and University Educated Christians
 #### Mathematics is the Measure of a Man's Critical Thinking Skills
 
+<!-- <p style="text-indent:2em;">
+Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the foolish man thinks in terms of jobs, asset ownership, and self-employment&mdash;things AI may one day obsolete&mdash;the wise man thinks in terms of <span class="redacted">EQQGDBgAGEU= EQoYER4OGA== HRMTFw== AhcZARkCAAAZCw== ExYFABgSWA== EQobCAkTFwxD EwsS EBAFDAIEBxo= HRIYAB4SHAAf</span>&mdash;things spoken of even in Revelation as mighty up to and even mid way through tribulation&mdash;and has the competence to carry it out. The fool's legacy withers and dies with his own opinions, because he hated instruction from educated men:</p> -->
+
 <p style="text-indent:2em;">
-Education is vital for nigh-infinite reasons beyond vocation; it not only equips a man with the depth of skill and expertise to build empires, attract capital, and attain provision sufficient to outpace inflation and secure his legacy, but also protects him from the Dunning–Kruger effect within his own field of expertise. While the fool thinks in terms of jobs, which AI may one day obsolete, the educated man thinks in terms of ownership, capital, and commerce&mdash;things spoken of even among the mighty in revelation and through tribulation&mdash;and has the competence to carry it out. The fool’s legacy withers and dies with his own opinions, because he hated instruction from educated men:</p>
-
-
-<!-- While the fool thinks in terms of jobs, the educated man thinks in terms of careers, kingdoms, inheritance, and posterity&mdash;and has the wisdom to carry it out&mdash;the fool’s legacy may die with his own opinions: -->
-
-<!-- Mathematics is the Measure of a Man's Critical Thinking Skills -->
-
-<blockquote>
-Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it... Paradoxically, improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities (Kruger & Dunning, 1999, Abstract section).
-</blockquote>
+Education is vital for nigh-infinite reasons beyond vocation. It equips a man with the depth of skill and expertise to build empires, attract capital, and secure provision sufficient to outpace inflation and preserve his legacy. Just as importantly, it guards him against the Dunning–Kruger effect&mdash;the tendency to overestimate his competence precisely where his knowledge is limited. The foolish man thinks primarily in terms of jobs, asset ownership, and self-employment, economic pursuits that artificial intelligence may one day disrupt or render less valuable. The wise man thinks in terms of <span class="redacted">EQQGDBgAGEU= EQoYER4OGA== HRMTFw== AhcZARkCAAAZCw== ExYFABgSWA== EQobCAkTFwxD EwsS EBAFDAIEBxo= HRIYAB4SHAAf</span>. He understands that these are not merely modern ambitions but enduring instruments of economic power, depicted even in Revelation as mighty forces amid the judgments of the end times. He does not merely recognize their significance; he acquires the knowledge and competence necessary to operate within them. Ultimately, the difference is not simply in what these men possess, but in what they understand. The foolish man's legacy withers and dies with the limits of his own understanding and opinions because he despised instruction and rejected the wisdom of educated men:</p>
 
 <p style="text-indent:2em;">
 A Christian culture that abandons education and intellectual ambition eventually loses not only cultural influence, but also economic security, institutional leadership, and the ability to reproduce its own institutions and traditions; <strong>Christian minds built science, but now we’re handing it to the godless through the tragedy of blue-collar pride, anti-intellectualism, and backward seminaries, which leads to the death of godly scientific inspiration.</strong> In an AI-driven economy, that failure becomes even more dangerous, because low-skill and routine work are increasingly exposed to automation. As Musk himself acknowledges, there will still be constraints on power, electricity, mass, and other fundamental physics (Shimabukuro, 2025, para. 3); these are not peripheral details but engineering problems. If Christian culture cedes this ground, it will not merely lose status&mdash;it will forfeit the chance to shape an AI-dominated golden age of healthcare and engineering.
@@ -133,7 +137,7 @@ the whip is for the back of fools ??? -->
 <ul class="references">
   <!-- <li><em>NIV Biblical Theology Study Bible</em>. (2018). Zondervan.</li> -->
   <li>Carson, D. A. (Ed.). (2018). <em>NIV biblical theology study Bible: Follow God's redemptive plan as it unfolds throughout Scripture</em>. Zondervan.</li>
-  <li>Duignan, B. (2026, September 26). <em>Dunning-Kruger effect.</em> Encyclopedia Britannica. https://www.britannica.com/science/Dunning-Kruger-effect</li>
+  <!-- <li>Duignan, B. (2026, September 26). <em>Dunning-Kruger effect.</em> Encyclopedia Britannica. https://www.britannica.com/science/Dunning-Kruger-effect</li> -->
   <!-- <li>Frye, D. (2026, April 24). <em>Dunning-Kruger effect</em>. Psychology Today. https://www.psychologytoday.com/us/basics/dunning-kruger-effect</li> -->
   <li>Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments. <em>Journal of personality and social psychology, 77 6</em>, 1121-34. https://doi.org/10.1037/0022-3514.77.6.1121</li>
   <li>Shimabukuro, J. (2026, May 19). <em>Transcript of Jensen Huang’s “U.S. leadership in AI” talk on 9 April 2026</em>. Educational Technology and Change Journal. https://etcjournal.com/2026/05/19/transcript-of-jensen-huangs-u-s-leadership-in-ai-talk-on-9-april-2026/</li>
