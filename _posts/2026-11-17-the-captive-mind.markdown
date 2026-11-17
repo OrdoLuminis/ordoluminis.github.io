@@ -1,6 +1,6 @@
 ---
 title: "The Captive Mind: Fools Find No Pleasure in Understanding"
-date: 2026-11-17 01:78:00 -0500
+date: 2026-11-17 01:28:00 -0500
 categories: [Meditations, Understanding]
 tags: [fool, fools, understanding]
 author: grand_master
@@ -82,7 +82,7 @@ Yet high above the humble counsel of those who know, they hold
 The hollow judgments of their own unexamined minds.
 As Scripture declares:
 “The way of an ignorant fool is right in his own eyes,
-But a wise man is he who listens to counsel.”
+But a wise man is he who listens to counsel”
 (Legacy Standard Bible, 2021, Prov 12:15).</p>
 
 <p style="text-indent:2em;">
