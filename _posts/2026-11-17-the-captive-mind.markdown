@@ -1,6 +1,6 @@
 ---
 title: "The Captive Mind: Fools Find No Pleasure in Understanding"
-date: 2026-11-02 01:78:00 -0500
+date: 2026-11-17 01:78:00 -0500
 categories: [Meditations, Understanding]
 tags: [fool, fools, understanding]
 author: grand_master
