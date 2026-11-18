@@ -1,6 +1,6 @@
 ---
 title: "The Captive Mind: Fools Find No Pleasure in Understanding"
-date: 2026-11-17 01:28:00 -0500
+date: 2026-11-17 01:30:00 -0500
 categories: [Meditations, Understanding]
 tags: [fool, fools, understanding]
 author: grand_master
@@ -60,7 +60,7 @@ Enslaved to error, stripped of sense, and severed from sound judgment—
 Like caged creatures, cold and still, whose sight grows dull in chains.
 For fools find no delight in learning, nor in understanding take pleasure:
 The fool's mind takes “no pleasure in understanding”
-(English Standard Version, 2001/2011, Prov. 18:2).</p>
+(English Standard Version, 2011, Prov. 18:2).</p>
 
 <p style="text-indent:2em;">
 With heads held high in hollow pride, and eyes grown dim with ignorance,
@@ -71,7 +71,7 @@ Their words are weighed; their worth is wanting;
 Their vaunted wisdom vanishes when measured against the truth.
 For Scripture speaks with solemn sound:
 “Fools despise wisdom and instruction”
-(English Standard Version, 2001/2011, Prov. 1:7).</p>
+(English Standard Version, 2011, Prov. 1:7).</p>
 
 <p style="text-indent:2em;">
 They spurn the school of sound instruction and scorn the gifts of study;
@@ -83,9 +83,9 @@ The hollow judgments of their own unexamined minds.
 As Scripture declares:
 “The way of an ignorant fool is right in his own eyes,
 But a wise man is he who listens to counsel”
-(Legacy Standard Bible, 2021, Prov 12:15).</p>
+(Legacy Standard Bible, 2021, Prov. 12:15).</p>
 
-<p style="text-indent:2em;">
+<!-- <p style="text-indent:2em;">
 The fool pours forth a flood of words, but yields no lasting worth;
 His speech may swell, but bears no fruit; his harvest holds no substance.
 His opinions are his only estate, his empty intellectual inheritance;
@@ -95,8 +95,33 @@ He never stops to search the road, nor sees where it must lead.
 For wisdom warns of such a way:
 “There is a way that seems right to a man,
 but its end is the way to death”
-(English Standard Version, 2001/2011, Proverbs 14:12).
-</p>
+(English Standard Version, 2011, Prov. 14:12).
+</p> -->
+
+<!-- <p style="text-indent:2em;">
+The fool pours forth a flood of words, but yields no lasting worth;
+His speech may swell, but bears no fruit; his harvest holds no substance.
+His opinions are his only estate, a barren bequest of haste;
+He wears his ease as honor, while higher steps lie untrod.
+And when his fleeting life is finished, all he leaves shall fade.
+He follows paths that please his pride, persuaded they are right;
+He never stops to search the road, nor sees where it must lead.
+For wisdom warns of such a way:
+“There is a way that seems right to a man,
+but its end is the way to death”
+(English Standard Version, 2011, Prov. 14:12).</p> -->
+
+<p style="text-indent:2em;">
+The fool makes ignorance his boast, and mocks the mind that labors;
+He spurns the store of tested truth, and scorns the books that teach.
+What wiser minds have weighed and won, he waves away without hearing;
+He crowns his first untried opinion, and calls that crown his wisdom.
+Yet knowledge sought with humble care can guard the feet from error;
+The fool who will not seek the light walks proudly toward his ruin.
+For wisdom warns:
+“There is a way that seems right to a man,
+but its end is the way to death”
+(English Standard Version, 2011, Prov. 14:12).</p>
 
 <!-- <p style="text-indent:2em;">
 Except by accident, the unteachable cannot come to the correct conclusions; their fear of intellectual hard labor has left their minds enslaved to error and incapable of sound judgment, much like a caged animal whose eyes have glazed over from captivity: The fool's mind takes &ldquo;no pleasure in understanding&rdquo; (English Standard Version, 2001/2011, Prov. 18:2).</p>
